@@ -1,0 +1,1014 @@
+[
+ {
+  "id": 3341,
+  "name": {
+   "esES": "Acrobacia meteórica",
+   "es419": "Lluvia Cósmica",
+   "en": "Meteor Dive"
+  },
+  "icon": "icons/bdo/04_pc_skill/01_pc_skill/09_pem_skill/pem_skill_3339.webp",
+  "level": 46,
+  "combat": true
+ },
+ {
+  "id": 3425,
+  "name": {
+   "esES": "Ajusticiamiento",
+   "es419": "Alas de Justicia",
+   "en": "Winged Strike"
+  },
+  "icon": "icons/bdo/04_pc_skill/01_pc_skill/09_pem_skill/pem_skill_3423.webp",
+  "level": 42,
+  "combat": true
+ },
+ {
+  "id": 3415,
+  "name": {
+   "esES": "Alarido perforante",
+   "es419": "Grito Filoso",
+   "en": "Piercing Cry"
+  },
+  "icon": "icons/bdo/04_pc_skill/01_pc_skill/09_pem_skill/pem_skill_3415.webp",
+  "level": 18,
+  "combat": true
+ },
+ {
+  "id": 3928,
+  "name": {
+   "esES": "Barrido",
+   "es419": "Patada Baja",
+   "en": "Low Sweep"
+  },
+  "icon": "icons/bdo/04_pc_skill/01_pc_skill/09_pem_skill/pem_skill_3928.webp",
+  "level": 1,
+  "combat": true
+ },
+ {
+  "id": 3362,
+  "name": {
+   "esES": "Bomba espiritual",
+   "es419": "Lluvia de Flechas",
+   "en": "Arrow Explosion"
+  },
+  "icon": "icons/bdo/04_pc_skill/01_pc_skill/09_pem_skill/pem_skill_3357.webp",
+  "level": 53,
+  "combat": true
+ },
+ {
+  "id": 3919,
+  "name": {
+   "esES": "Brazo de Sylva",
+   "es419": "Lanza de Sylvia",
+   "en": "Spear of Sylvia"
+  },
+  "icon": "icons/bdo/04_pc_skill/01_pc_skill/09_pem_skill/pem_skill_3916.webp",
+  "level": 59,
+  "combat": true
+ },
+ {
+  "id": 3938,
+  "name": {
+   "esES": "Brillo sombrío",
+   "es419": "Resplandor de las sombras",
+   "en": "Shadebound Beam"
+  },
+  "icon": "icons/bdo/04_pc_skill/01_pc_skill/09_pem_skill/pem_skill_3938.webp",
+  "level": 58,
+  "combat": true
+ },
+ {
+  "id": 3352,
+  "name": {
+   "esES": "Cazasombras",
+   "es419": "Extracción de Oscuridad",
+   "en": "Gaping Darkness"
+  },
+  "icon": "icons/bdo/04_pc_skill/01_pc_skill/09_pem_skill/pem_skill_3349.webp",
+  "level": 41,
+  "combat": true
+ },
+ {
+  "id": 3452,
+  "name": {
+   "esES": "Defensa de Adùir",
+   "es419": "Tormenta de Flechas",
+   "en": "Storm of Light"
+  },
+  "icon": "icons/bdo/04_pc_skill/01_pc_skill/09_pem_skill/pem_skill_3448.webp",
+  "level": 45,
+  "combat": true
+ },
+ {
+  "id": 3342,
+  "name": {
+   "esES": "Definitiva: Acrobacia meteórica",
+   "es419": "Suprema: Lluvia Cósmica",
+   "en": "Absolute: Meteor Dive"
+  },
+  "icon": "icons/bdo/04_pc_skill/01_pc_skill/09_pem_skill/pem_skill_3342.webp",
+  "level": 57,
+  "combat": true
+ },
+ {
+  "id": 3426,
+  "name": {
+   "esES": "Definitiva: Ajusticiamiento",
+   "es419": "Suprema: Alas de Justicia",
+   "en": "Absolute: Winged Strike"
+  },
+  "icon": "icons/bdo/04_pc_skill/01_pc_skill/09_pem_skill/pem_skill_3426.webp",
+  "level": 57,
+  "combat": true
+ },
+ {
+  "id": 3416,
+  "name": {
+   "esES": "Definitiva: Alarido perforante",
+   "es419": "Suprema: Grito Filoso",
+   "en": "Absolute: Piercing Cry"
+  },
+  "icon": "icons/bdo/04_pc_skill/01_pc_skill/09_pem_skill/pem_skill_3415.webp",
+  "level": 57,
+  "combat": true
+ },
+ {
+  "id": 3363,
+  "name": {
+   "esES": "Definitiva: Bomba espiritual",
+   "es419": "Suprema: Lluvia de Flechas",
+   "en": "Absolute: Arrow Explosion"
+  },
+  "icon": "icons/bdo/04_pc_skill/01_pc_skill/09_pem_skill/pem_skill_3363.webp",
+  "level": 60,
+  "combat": true
+ },
+ {
+  "id": 3353,
+  "name": {
+   "esES": "Definitiva: Cazasombras",
+   "es419": "Suprema: Extracción de Oscuridad",
+   "en": "Absolute: Gaping Darkness"
+  },
+  "icon": "icons/bdo/04_pc_skill/01_pc_skill/09_pem_skill/pem_skill_3353.webp",
+  "level": 57,
+  "combat": true
+ },
+ {
+  "id": 3409,
+  "name": {
+   "esES": "Definitiva: Círculo espiritual",
+   "es419": "Suprema: Ascensión del Espíritu",
+   "en": "Absolute: Ascending Spirit"
+  },
+  "icon": "icons/bdo/04_pc_skill/01_pc_skill/09_pem_skill/pem_skill_3409.webp",
+  "level": 57,
+  "combat": true
+ },
+ {
+  "id": 3453,
+  "name": {
+   "esES": "Definitiva: Defensa de Adùir",
+   "es419": "Suprema: Tormenta de Flechas",
+   "en": "Absolute: Storm of Light"
+  },
+  "icon": "icons/bdo/04_pc_skill/01_pc_skill/09_pem_skill/pem_skill_3453.webp",
+  "level": 58,
+  "combat": true
+ },
+ {
+  "id": 3356,
+  "name": {
+   "esES": "Definitiva: Destrozasombras",
+   "es419": "Suprema: Cortar Sombra",
+   "en": "Absolute: Shadow Hack"
+  },
+  "icon": "icons/bdo/04_pc_skill/01_pc_skill/09_pem_skill/pem_skill_3356.webp",
+  "level": 58,
+  "combat": true
+ },
+ {
+  "id": 3372,
+  "name": {
+   "esES": "Definitiva: Fisura espiritual",
+   "es419": "Suprema: Ráfaga de Flechas",
+   "en": "Absolute: Earth Shatter"
+  },
+  "icon": "icons/bdo/04_pc_skill/01_pc_skill/09_pem_skill/pem_skill_3962.webp",
+  "level": 59,
+  "combat": true
+ },
+ {
+  "id": 3440,
+  "name": {
+   "esES": "Definitiva: Impacto de verdor",
+   "es419": "Suprema: Corteza de Árbol",
+   "en": "Absolute: Verdure Clout"
+  },
+  "icon": "icons/bdo/04_pc_skill/01_pc_skill/09_pem_skill/pem_skill_3440.webp",
+  "level": 56,
+  "combat": true
+ },
+ {
+  "id": 3437,
+  "name": {
+   "esES": "Definitiva: Ira de Adùir",
+   "es419": "Suprema: Origen de la Tierra",
+   "en": "Absolute: Wrath of Nature"
+  },
+  "icon": "icons/bdo/04_pc_skill/01_pc_skill/09_pem_skill/pem_skill_3437.webp",
+  "level": 60,
+  "combat": true
+ },
+ {
+  "id": 3346,
+  "name": {
+   "esES": "Definitiva: Patada de Gaia",
+   "es419": "Suprema: Pasos de la Tierra",
+   "en": "Absolute: Earth Kick"
+  },
+  "icon": "icons/bdo/04_pc_skill/01_pc_skill/09_pem_skill/pem_skill_3346.webp",
+  "level": 56,
+  "combat": true
+ },
+ {
+  "id": 3376,
+  "name": {
+   "esES": "Definitiva: Patada roble",
+   "es419": "Suprema: Patada de Alas",
+   "en": "Absolute: Volant Kick"
+  },
+  "icon": "icons/bdo/04_pc_skill/01_pc_skill/09_pem_skill/pem_skill_3376.webp",
+  "level": 56,
+  "combat": true
+ },
+ {
+  "id": 3422,
+  "name": {
+   "esES": "Definitiva: Proyectil espiritual",
+   "es419": "Suprema: Descarga del Espíritu",
+   "en": "Absolute: Bolt of Radiance"
+  },
+  "icon": "icons/bdo/04_pc_skill/01_pc_skill/09_pem_skill/pem_skill_3968.webp",
+  "level": 60,
+  "combat": true
+ },
+ {
+  "id": 3413,
+  "name": {
+   "esES": "Definitiva: Rompeataduras",
+   "es419": "Suprema: Corte de Raíz",
+   "en": "Absolute: Vine Cutter"
+  },
+  "icon": "icons/bdo/04_pc_skill/01_pc_skill/09_pem_skill/pem_skill_3413.webp",
+  "level": 58,
+  "combat": true
+ },
+ {
+  "id": 3338,
+  "name": {
+   "esES": "Definitiva: Saeta espiritual",
+   "es419": "Suprema: Flechas del Espíritu",
+   "en": "Absolute: Spirit Arrow"
+  },
+  "icon": "icons/bdo/04_pc_skill/01_pc_skill/09_pem_skill/pem_skill_3338.webp",
+  "level": 56,
+  "combat": true
+ },
+ {
+  "id": 3380,
+  "name": {
+   "esES": "Definitiva: Tiro de gracia",
+   "es419": "Suprema: Oscuridad Descendiente",
+   "en": "Absolute: Purging Shot"
+  },
+  "icon": "icons/bdo/04_pc_skill/01_pc_skill/09_pem_skill/pem_skill_3380.webp",
+  "level": 57,
+  "combat": true
+ },
+ {
+  "id": 3457,
+  "name": {
+   "esES": "Definitiva: Virotes evasivos",
+   "es419": "Suprema: Protección del Espíritu",
+   "en": "Absolute: Covering Fire"
+  },
+  "icon": "icons/bdo/04_pc_skill/01_pc_skill/09_pem_skill/pem_skill_3447.webp",
+  "level": 57,
+  "combat": true
+ },
+ {
+  "id": 3926,
+  "name": {
+   "esES": "Desarraigar",
+   "es419": "Desarraigar",
+   "en": "Uproot"
+  },
+  "icon": "icons/bdo/04_pc_skill/01_pc_skill/09_pem_skill/pem_skill_3924.webp",
+  "level": 57,
+  "combat": true
+ },
+ {
+  "id": 3946,
+  "name": {
+   "esES": "Diluvio de flechas",
+   "es419": "Floración de Flechas",
+   "en": "Full Bloom"
+  },
+  "icon": "icons/bdo/04_pc_skill/01_pc_skill/09_pem_skill/pem_skill_3944.webp",
+  "level": 58,
+  "combat": true
+ },
+ {
+  "id": 3943,
+  "name": {
+   "esES": "Esquive certero",
+   "es419": "Tiro Oportuno",
+   "en": "Tactical Strike"
+  },
+  "icon": "icons/bdo/04_pc_skill/01_pc_skill/09_pem_skill/pem_skill_3943.webp",
+  "level": 58,
+  "combat": true
+ },
+ {
+  "id": 3948,
+  "name": {
+   "esES": "Estallido sagrado",
+   "es419": "Luz de Aniquilación",
+   "en": "Righteous Smite"
+  },
+  "icon": "icons/bdo/04_pc_skill/01_pc_skill/09_pem_skill/pem_skill_3942.webp",
+  "level": 59,
+  "combat": true
+ },
+ {
+  "id": 3347,
+  "name": {
+   "esES": "Evasión",
+   "es419": "Evasión",
+   "en": "Evasion"
+  },
+  "icon": "icons/bdo/04_pc_skill/01_pc_skill/09_pem_skill/pem_skill_3347.webp",
+  "level": 1,
+  "combat": true
+ },
+ {
+  "id": 3431,
+  "name": {
+   "esES": "Exhalación",
+   "es419": "Soplo de Aliento",
+   "en": "Exhale"
+  },
+  "icon": "icons/bdo/04_pc_skill/01_pc_skill/09_pem_skill/pem_skill_3431.webp",
+  "level": 10,
+  "combat": true
+ },
+ {
+  "id": 3970,
+  "name": {
+   "esES": "Explosión de energía",
+   "es419": "Protección Esparcida",
+   "en": "Deadly Explosion"
+  },
+  "icon": "icons/bdo/04_pc_skill/01_pc_skill/09_pem_skill/pem_skill_3970.webp",
+  "level": 56,
+  "combat": true
+ },
+ {
+  "id": 3371,
+  "name": {
+   "esES": "Fisura espiritual",
+   "es419": "Ráfaga de Flechas",
+   "en": "Earth Shatter"
+  },
+  "icon": "icons/bdo/04_pc_skill/01_pc_skill/09_pem_skill/pem_skill_3957.webp",
+  "level": 54,
+  "combat": true
+ },
+ {
+  "id": 3941,
+  "name": {
+   "esES": "Flecha aniquiladora",
+   "es419": "Estrella de Luz Cortante",
+   "en": "Piercing Light"
+  },
+  "icon": "icons/bdo/04_pc_skill/01_pc_skill/09_pem_skill/pem_skill_3939.webp",
+  "level": 60,
+  "combat": true
+ },
+ {
+  "id": 3947,
+  "name": {
+   "esES": "Gracia mística",
+   "es419": "Planeo",
+   "en": "Glissade"
+  },
+  "icon": "icons/bdo/04_pc_skill/01_pc_skill/09_pem_skill/pem_skill_3922.webp",
+  "level": 57,
+  "combat": true
+ },
+ {
+  "id": 3458,
+  "name": {
+   "esES": "Gran arco de Adùir",
+   "es419": "Arco Divino de la Iluminación",
+   "en": "Greatbow of Light"
+  },
+  "icon": "icons/bdo/04_pc_skill/01_pc_skill/09_pem_skill/pem_skill_3458.webp",
+  "level": 1,
+  "combat": true
+ },
+ {
+  "id": 3427,
+  "name": {
+   "esES": "Hálito espiritual",
+   "es419": "Aliento del Espíritu",
+   "en": "Breath of the Spirit"
+  },
+  "icon": "icons/bdo/04_pc_skill/01_pc_skill/09_pem_skill/pem_skill_3427.webp",
+  "level": 10,
+  "combat": true
+ },
+ {
+  "id": 3436,
+  "name": {
+   "esES": "Ira de Adùir",
+   "es419": "Origen de la Tierra",
+   "en": "Wrath of Nature"
+  },
+  "icon": "icons/bdo/04_pc_skill/01_pc_skill/09_pem_skill/pem_skill_3432.webp",
+  "level": 54,
+  "combat": true
+ },
+ {
+  "id": 3937,
+  "name": {
+   "esES": "Luz explosiva",
+   "es419": "Resplandor Explosivo",
+   "en": "Radiant Explosion"
+  },
+  "icon": "icons/bdo/04_pc_skill/01_pc_skill/09_pem_skill/pem_skill_3953.webp",
+  "level": 58,
+  "combat": true
+ },
+ {
+  "id": 3942,
+  "name": {
+   "esES": "Luz reveladora",
+   "es419": "Trayectoria de Luz",
+   "en": "Light's Path"
+  },
+  "icon": "icons/bdo/04_pc_skill/01_pc_skill/09_pem_skill/pem_skill_3948.webp",
+  "level": 1,
+  "combat": true
+ },
+ {
+  "id": 3914,
+  "name": {
+   "esES": "Maestría con gran arco",
+   "es419": "Maestría de Arco Divino",
+   "en": "Greatbow Training"
+  },
+  "icon": "icons/bdo/04_pc_skill/01_pc_skill/09_pem_skill/pem_skill_3905.webp",
+  "level": 60,
+  "combat": true
+ },
+ {
+  "id": 3982,
+  "name": {
+   "esES": "Maraña de luz",
+   "es419": "Extracción de Corteza",
+   "en": "Radiant Ensnare"
+  },
+  "icon": "icons/bdo/04_pc_skill/01_pc_skill/09_pem_skill/pem_skill_3982.webp",
+  "level": 57,
+  "combat": true
+ },
+ {
+  "id": 3408,
+  "name": {
+   "esES": "Movimiento: Círculo espiritual",
+   "es419": "Flujo: Ascensión del Espíritu",
+   "en": "Flow: Ascending Spirit"
+  },
+  "icon": "icons/bdo/04_pc_skill/01_pc_skill/09_pem_skill/pem_skill_3405.webp",
+  "level": 42,
+  "combat": true
+ },
+ {
+  "id": 3355,
+  "name": {
+   "esES": "Movimiento: Destrozasombras",
+   "es419": "Flujo: Cortar Sombra",
+   "en": "Flow: Shadow Hack"
+  },
+  "icon": "icons/bdo/04_pc_skill/01_pc_skill/09_pem_skill/pem_skill_3354.webp",
+  "level": 42,
+  "combat": true
+ },
+ {
+  "id": 3922,
+  "name": {
+   "esES": "Movimiento: Eco de la llamada",
+   "es419": "Flujo: Eco del Llamado",
+   "en": "Flow: Echoes of the Call"
+  },
+  "icon": "icons/bdo/04_pc_skill/01_pc_skill/09_pem_skill/pem_skill_3947.webp",
+  "level": 57,
+  "combat": true
+ },
+ {
+  "id": 3439,
+  "name": {
+   "esES": "Movimiento: Impacto de verdor",
+   "es419": "Flujo: Corteza de Árbol",
+   "en": "Flow: Verdure Clout"
+  },
+  "icon": "icons/bdo/04_pc_skill/01_pc_skill/09_pem_skill/pem_skill_3438.webp",
+  "level": 43,
+  "combat": true
+ },
+ {
+  "id": 3375,
+  "name": {
+   "esES": "Movimiento: Patada roble",
+   "es419": "Flujo: Patada de Alas",
+   "en": "Flow: Volant Kick"
+  },
+  "icon": "icons/bdo/04_pc_skill/01_pc_skill/09_pem_skill/pem_skill_3373.webp",
+  "level": 45,
+  "combat": true
+ },
+ {
+  "id": 3927,
+  "name": {
+   "esES": "Movimiento: Remate centelleante",
+   "es419": "Flujo: Guía de Luz",
+   "en": "Flow: Light's Trail"
+  },
+  "icon": "icons/bdo/04_pc_skill/01_pc_skill/09_pem_skill/pem_skill_3927.webp",
+  "level": 56,
+  "combat": true
+ },
+ {
+  "id": 6763,
+  "name": {
+   "esES": "Movimiento: Saeta centelleante",
+   "es419": "Flujo : Energía Maligna de la Luz",
+   "en": "Flow: Grand Bloom"
+  },
+  "icon": "icons/bdo/04_pc_skill/01_pc_skill/09_pem_skill/pem_skill_6763.webp",
+  "level": 58,
+  "combat": true
+ },
+ {
+  "id": 3348,
+  "name": {
+   "esES": "Pasos elegantes",
+   "es419": "Vuelo",
+   "en": "Glide"
+  },
+  "icon": "icons/bdo/04_pc_skill/01_pc_skill/09_pem_skill/pem_skill_3348.webp",
+  "level": 5,
+  "combat": true
+ },
+ {
+  "id": 3345,
+  "name": {
+   "esES": "Patada de Gaia",
+   "es419": "Pasos de la Tierra",
+   "en": "Earth Kick"
+  },
+  "icon": "icons/bdo/04_pc_skill/01_pc_skill/09_pem_skill/pem_skill_3343.webp",
+  "level": 43,
+  "combat": true
+ },
+ {
+  "id": 6043,
+  "name": {
+   "esES": "Primordial: Brazo de Sylva",
+   "es419": "BON: Lanza de Sylvia",
+   "en": "Core: Spear of Sylvia"
+  },
+  "icon": "icons/bdo/04_pc_skill/01_pc_skill/09_pem_skill/pem_skill_3916.webp",
+  "level": 60,
+  "combat": true
+ },
+ {
+  "id": 6046,
+  "name": {
+   "esES": "Primordial: Desarraigar",
+   "es419": "BON: Desarraigar",
+   "en": "Core: Uproot"
+  },
+  "icon": "icons/bdo/04_pc_skill/01_pc_skill/09_pem_skill/pem_skill_3924.webp",
+  "level": 60,
+  "combat": true
+ },
+ {
+  "id": 6048,
+  "name": {
+   "esES": "Primordial: Diluvio de flechas",
+   "es419": "BON: Floración de Flechas",
+   "en": "Core: Full Bloom"
+  },
+  "icon": "icons/bdo/04_pc_skill/01_pc_skill/09_pem_skill/pem_skill_3944.webp",
+  "level": 20,
+  "combat": true
+ },
+ {
+  "id": 6047,
+  "name": {
+   "esES": "Primordial: Flecha aniquiladora",
+   "es419": "BON: Estrella de Luz Cortante",
+   "en": "Core: Piercing Light"
+  },
+  "icon": "icons/bdo/04_pc_skill/01_pc_skill/09_pem_skill/pem_skill_3939.webp",
+  "level": 60,
+  "combat": true
+ },
+ {
+  "id": 6045,
+  "name": {
+   "esES": "Primordial: Luz explosiva",
+   "es419": "BON: Resplandor Explosivo",
+   "en": "Core: Radiant Explosion"
+  },
+  "icon": "icons/bdo/04_pc_skill/01_pc_skill/09_pem_skill/pem_skill_3953.webp",
+  "level": 60,
+  "combat": true
+ },
+ {
+  "id": 6044,
+  "name": {
+   "esES": "Primordial: Puntería prodigiosa",
+   "es419": "BON: Llamado de Luthragon",
+   "en": "Core: Luthraghon's Call"
+  },
+  "icon": "icons/bdo/04_pc_skill/01_pc_skill/09_pem_skill/pem_skill_3949.webp",
+  "level": 60,
+  "combat": true
+ },
+ {
+  "id": 3421,
+  "name": {
+   "esES": "Proyectil espiritual",
+   "es419": "Descarga del Espíritu",
+   "en": "Bolt of Radiance"
+  },
+  "icon": "icons/bdo/04_pc_skill/01_pc_skill/09_pem_skill/pem_skill_3963.webp",
+  "level": 54,
+  "combat": true
+ },
+ {
+  "id": 3932,
+  "name": {
+   "esES": "Puntería prodigiosa",
+   "es419": "Llamado de Luthragon",
+   "en": "Luthraghon's Call"
+  },
+  "icon": "icons/bdo/04_pc_skill/01_pc_skill/09_pem_skill/pem_skill_3949.webp",
+  "level": 60,
+  "combat": true
+ },
+ {
+  "id": 3447,
+  "name": {
+   "esES": "Respiración controlada",
+   "es419": "Dominio de aliento",
+   "en": "Steady Breath"
+  },
+  "icon": "icons/bdo/04_pc_skill/01_pc_skill/09_pem_skill/pem_skill_3454.webp",
+  "level": 35,
+  "combat": true
+ },
+ {
+  "id": 92,
+  "name": {
+   "esES": "Retirada oscura",
+   "es419": "Escape de Emergencia",
+   "en": "Emergency Escape"
+  },
+  "icon": "icons/bdo/04_pc_skill/01_pc_skill/00_common/common_skill_0092.webp",
+  "level": 1,
+  "combat": true
+ },
+ {
+  "id": 3412,
+  "name": {
+   "esES": "Rompeataduras",
+   "es419": "Corte de Raíz",
+   "en": "Vine Cutter"
+  },
+  "icon": "icons/bdo/04_pc_skill/01_pc_skill/09_pem_skill/pem_skill_3410.webp",
+  "level": 44,
+  "combat": true
+ },
+ {
+  "id": 3337,
+  "name": {
+   "esES": "Saeta espiritual",
+   "es419": "Flechas del Espíritu",
+   "en": "Spirit Arrow"
+  },
+  "icon": "icons/bdo/04_pc_skill/01_pc_skill/09_pem_skill/pem_skill_3328.webp",
+  "level": 54,
+  "combat": true
+ },
+ {
+  "id": 3981,
+  "name": {
+   "esES": "Sublime: Impacto de verdor",
+   "es419": "Extremo: Corteza de Árbol",
+   "en": "Ultimate: Verdure Clout"
+  },
+  "icon": "icons/bdo/04_pc_skill/01_pc_skill/09_pem_skill/pem_skill_3981.webp",
+  "level": 57,
+  "combat": true
+ },
+ {
+  "id": 3933,
+  "name": {
+   "esES": "Sublime: Zancada céfiro",
+   "es419": "Extremo: Ventolera",
+   "en": "Ultimate: Zephyr Leap"
+  },
+  "icon": "icons/bdo/04_pc_skill/01_pc_skill/09_pem_skill/pem_skill_3933.webp",
+  "level": 57,
+  "combat": true
+ },
+ {
+  "id": 3379,
+  "name": {
+   "esES": "Tiro de gracia",
+   "es419": "Oscuridad Descendiente",
+   "en": "Purging Shot"
+  },
+  "icon": "icons/bdo/04_pc_skill/01_pc_skill/09_pem_skill/pem_skill_3377.webp",
+  "level": 50,
+  "combat": true
+ },
+ {
+  "id": 3969,
+  "name": {
+   "esES": "Tormenta radiante",
+   "es419": "Lluvia de Flechas Explosivas",
+   "en": "Radiant Storm"
+  },
+  "icon": "icons/bdo/04_pc_skill/01_pc_skill/09_pem_skill/pem_skill_3969.webp",
+  "level": 56,
+  "combat": true
+ },
+ {
+  "id": 3366,
+  "name": {
+   "esES": "Trampa del Kamarbor",
+   "es419": "Extracción de Raíz",
+   "en": "Ensnare"
+  },
+  "icon": "icons/bdo/04_pc_skill/01_pc_skill/09_pem_skill/pem_skill_3364.webp",
+  "level": 52,
+  "combat": true
+ },
+ {
+  "id": 3446,
+  "name": {
+   "esES": "Virotes evasivos",
+   "es419": "Protección del Espíritu",
+   "en": "Covering Fire"
+  },
+  "icon": "icons/bdo/04_pc_skill/01_pc_skill/09_pem_skill/pem_skill_3442.webp",
+  "level": 48,
+  "combat": true
+ },
+ {
+  "id": 3441,
+  "name": {
+   "esES": "Zancada céfiro",
+   "es419": "Ventolera",
+   "en": "Zephyr Leap"
+  },
+  "icon": "icons/bdo/04_pc_skill/01_pc_skill/09_pem_skill/pem_skill_3441.webp",
+  "level": 5,
+  "combat": true
+ },
+ {
+  "id": 3459,
+  "name": {
+   "esES": "Absorción de furia",
+   "es419": "Absorción de Furia",
+   "en": "Rage Absorption"
+  },
+  "icon": "icons/bdo/04_pc_skill/01_pc_skill/00_common/common_skill_0090.webp",
+  "level": 35,
+  "combat": false
+ },
+ {
+  "id": 89,
+  "name": {
+   "esES": "Absorción de furia (latente)",
+   "es419": "Absorción de Furia (Innato)",
+   "en": "Rage Absorption (Innate)"
+  },
+  "icon": "icons/bdo/04_pc_skill/01_pc_skill/00_common/common_skill_0090.webp",
+  "level": 35,
+  "combat": false
+ },
+ {
+  "id": 6466,
+  "name": {
+   "esES": "Brisa",
+   "es419": "Brisa Ligera",
+   "en": "Mountain Breeze"
+  },
+  "icon": "icons/bdo/04_pc_skill/01_pc_skill/09_pem_skill/pem_skill_6466.webp",
+  "level": 59,
+  "combat": false
+ },
+ {
+  "id": 2076,
+  "name": {
+   "esES": "Cazador hábil",
+   "es419": "Cazador Experto",
+   "en": "Skilled Hunter"
+  },
+  "icon": "icons/bdo/04_pc_skill/01_pc_skill/06_pkm_skill/pkm_skill_2072.webp",
+  "level": 60,
+  "combat": false
+ },
+ {
+  "id": 3414,
+  "name": {
+   "esES": "Corriente de los espíritus",
+   "es419": "Viento del Espíritu",
+   "en": "Wind of the Spirit"
+  },
+  "icon": "icons/bdo/04_pc_skill/01_pc_skill/09_pem_skill/pem_skill_3414.webp",
+  "level": 20,
+  "combat": false
+ },
+ {
+  "id": 6129,
+  "name": {
+   "esES": "Elvia: Flechas resentidas",
+   "es419": "Elvia: Flecha de la Ira Reprimida",
+   "en": "Elvia: Resenting Arrow"
+  },
+  "icon": "icons/bdo/04_pc_skill/01_pc_skill/09_pem_skill/pem_skill_6129.webp",
+  "level": 60,
+  "combat": false
+ },
+ {
+  "id": 4051,
+  "name": {
+   "esES": "Fisura justiciera",
+   "es419": "Justicia de la Tierra",
+   "en": "Earth's Judgment"
+  },
+  "icon": "icons/bdo/04_pc_skill/01_pc_skill/09_pem_skill/pem_skill_4051.webp",
+  "level": 58,
+  "combat": false
+ },
+ {
+  "id": 4050,
+  "name": {
+   "esES": "Flecha hendedora",
+   "es419": "Flecha del Origen",
+   "en": "Nature Shattering Arrow"
+  },
+  "icon": "icons/bdo/04_pc_skill/01_pc_skill/09_pem_skill/pem_skill_4050.webp",
+  "level": 58,
+  "combat": false
+ },
+ {
+  "id": 3923,
+  "name": {
+   "esES": "Fuego sagrado",
+   "es419": "Quemadura de Luz",
+   "en": "Righteous Fire"
+  },
+  "icon": "icons/bdo/04_pc_skill/01_pc_skill/09_pem_skill/pem_skill_3923.webp",
+  "level": 58,
+  "combat": false
+ },
+ {
+  "id": 3401,
+  "name": {
+   "esES": "Golpe ágil",
+   "es419": "Flecha Veloz",
+   "en": "Agile Strike"
+  },
+  "icon": "icons/bdo/04_pc_skill/01_pc_skill/09_pem_skill/pem_skill_3401_2.webp",
+  "level": 1,
+  "combat": false
+ },
+ {
+  "id": 4856,
+  "name": {
+   "esES": "Gran poder",
+   "es419": "Gran Poder",
+   "en": "Unyielding Might"
+  },
+  "icon": "icons/bdo/04_pc_skill/01_pc_skill/00_common/common_skill_18705.webp",
+  "level": 62,
+  "combat": false
+ },
+ {
+  "id": 3429,
+  "name": {
+   "esES": "Hálito: Marca",
+   "es419": "Respiración: Estigma",
+   "en": "Breath: Stigma"
+  },
+  "icon": "icons/bdo/04_pc_skill/01_pc_skill/09_pem_skill/pem_skill_3429.webp",
+  "level": 58,
+  "combat": false
+ },
+ {
+  "id": 3428,
+  "name": {
+   "esES": "Hálito: Ralentización",
+   "es419": "Respiración: Desaceleración",
+   "en": "Breath: Deceleration"
+  },
+  "icon": "icons/bdo/04_pc_skill/01_pc_skill/09_pem_skill/pem_skill_3428.webp",
+  "level": 57,
+  "combat": false
+ },
+ {
+  "id": 3430,
+  "name": {
+   "esES": "Hálito: Recuperación",
+   "es419": "Respiración: Curación",
+   "en": "Breath: Recover"
+  },
+  "icon": "icons/bdo/04_pc_skill/01_pc_skill/09_pem_skill/pem_skill_3430.webp",
+  "level": 56,
+  "combat": false
+ },
+ {
+  "id": 1707,
+  "name": {
+   "esES": "Maestría infinita",
+   "es419": "Maestría Infinita",
+   "en": "Infinite Mastery"
+  },
+  "icon": "icons/bdo/04_pc_skill/01_pc_skill/00_common/common_skill_1702.webp",
+  "level": 55,
+  "combat": false
+ },
+ {
+  "id": 6762,
+  "name": {
+   "esES": "Marca de la flecha",
+   "es419": "Energía Maligna de la Estigma",
+   "en": "Marked Bloom"
+  },
+  "icon": "icons/bdo/04_pc_skill/01_pc_skill/09_pem_skill/pem_skill_6762.webp",
+  "level": 59,
+  "combat": false
+ },
+ {
+  "id": 3404,
+  "name": {
+   "esES": "Salva fulgurante",
+   "es419": "Toque Doble",
+   "en": "Double Tap"
+  },
+  "icon": "icons/bdo/04_pc_skill/01_pc_skill/09_pem_skill/pem_skill_3404.webp",
+  "level": 60,
+  "combat": false
+ },
+ {
+  "id": 3400,
+  "name": {
+   "esES": "Toque de Sylva",
+   "es419": "Bendición de Sylvia",
+   "en": "Grace of Sylvia"
+  },
+  "icon": "icons/bdo/04_pc_skill/01_pc_skill/09_pem_skill/pem_skill_3381.webp",
+  "level": 60,
+  "combat": false
+ },
+ {
+  "id": 4851,
+  "name": {
+   "esES": "Torrente de luz",
+   "es419": "Lluvia de luz",
+   "en": "Sunfall"
+  },
+  "icon": "icons/bdo/04_pc_skill/01_pc_skill/09_pem_skill/pem_skill_4851.webp",
+  "level": 58,
+  "combat": false
+ },
+ {
+  "id": 91,
+  "name": {
+   "esES": "Transfuria",
+   "es419": "Transferencia de Furia",
+   "en": "Rage Transfer"
+  },
+  "icon": "icons/bdo/04_pc_skill/01_pc_skill/00_common/common_skill_0091.webp",
+  "level": 35,
+  "combat": false
+ }
+]

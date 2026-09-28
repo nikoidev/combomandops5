@@ -1,0 +1,1179 @@
+[
+ {
+  "id": 1100,
+  "name": {
+   "esES": "Aluvión de flechas",
+   "es419": "Flechas Desgarradas",
+   "en": "Tearing Arrow"
+  },
+  "icon": "icons/bdo/04_pc_skill/01_pc_skill/03_pew_skill/pew_skill_1008.webp",
+  "level": 42,
+  "combat": true
+ },
+ {
+  "id": 1093,
+  "name": {
+   "esES": "Carga céfiro",
+   "es419": "Viento Cargado",
+   "en": "Charging Wind"
+  },
+  "icon": "icons/bdo/04_pc_skill/01_pc_skill/03_pew_skill/pew_skill_1006.webp",
+  "level": 33,
+  "combat": true
+ },
+ {
+  "id": 4188,
+  "name": {
+   "esES": "Cénit - Sublime: Flecha fulminante",
+   "es419": "S : Extremo : Carrera Explosiva",
+   "en": "Prime: Ultimate: Blasting Gust"
+  },
+  "icon": "icons/bdo/04_pc_skill/01_pc_skill/03_pew_skill/pew_skill_4188.webp",
+  "level": 59,
+  "combat": true
+ },
+ {
+  "id": 4134,
+  "name": {
+   "esES": "Cénit - Sublime: Lluvia de flechas",
+   "es419": "S : Extremo : Flujo Descendiente",
+   "en": "Prime: Ultimate: Descending Current"
+  },
+  "icon": "icons/bdo/04_pc_skill/01_pc_skill/03_pew_skill/pew_skill_4134.webp",
+  "level": 58,
+  "combat": true
+ },
+ {
+  "id": 4196,
+  "name": {
+   "esES": "Cénit: Aluvión de flechas",
+   "es419": "S : Flechas Desgarradas",
+   "en": "Prime: Tearing Arrow"
+  },
+  "icon": "icons/bdo/04_pc_skill/01_pc_skill/03_pew_skill/pew_skill_4121.webp",
+  "level": 59,
+  "combat": true
+ },
+ {
+  "id": 4113,
+  "name": {
+   "esES": "Cénit: Bendición de los espíritus",
+   "es419": "S : Bendición del Espíritu",
+   "en": "Prime: Spirit's Blessing"
+  },
+  "icon": "icons/bdo/04_pc_skill/01_pc_skill/03_pew_skill/pew_skill_4109.webp",
+  "level": 60,
+  "combat": true
+ },
+ {
+  "id": 4186,
+  "name": {
+   "esES": "Cénit: Carga céfiro",
+   "es419": "S : Viento Cargado",
+   "en": "Prime: Charging Wind"
+  },
+  "icon": "icons/bdo/04_pc_skill/01_pc_skill/03_pew_skill/pew_skill_4116.webp",
+  "level": 60,
+  "combat": true
+ },
+ {
+  "id": 4117,
+  "name": {
+   "esES": "Cénit: Carga céfiro suprema",
+   "es419": "S : PE Viento Cargado",
+   "en": "Prime: Extreme Charging Wind"
+  },
+  "icon": "icons/bdo/04_pc_skill/01_pc_skill/03_pew_skill/pew_skill_4117.webp",
+  "level": 60,
+  "combat": true
+ },
+ {
+  "id": 4108,
+  "name": {
+   "esES": "Cénit: Corriente de los espíritus",
+   "es419": "S : Viento del Espíritu",
+   "en": "Prime: Wind of the Spirit"
+  },
+  "icon": "icons/bdo/04_pc_skill/01_pc_skill/03_pew_skill/pew_skill_4108.webp",
+  "level": 56,
+  "combat": true
+ },
+ {
+  "id": 4118,
+  "name": {
+   "esES": "Cénit: Explosión evasiva",
+   "es419": "S : Disparo Evasivo y Explosivo",
+   "en": "Prime: Evasive Explosion Shot"
+  },
+  "icon": "icons/bdo/04_pc_skill/01_pc_skill/03_pew_skill/pew_skill_4118.webp",
+  "level": 56,
+  "combat": true
+ },
+ {
+  "id": 4187,
+  "name": {
+   "esES": "Cénit: Flecha fulminante",
+   "es419": "S : Carrera Explosiva",
+   "en": "Prime: Blasting Gust"
+  },
+  "icon": "icons/bdo/04_pc_skill/01_pc_skill/03_pew_skill/pew_skill_4115.webp",
+  "level": 60,
+  "combat": true
+ },
+ {
+  "id": 4190,
+  "name": {
+   "esES": "Cénit: Lluvia de flechas",
+   "es419": "S : Flujo Descendiente",
+   "en": "Prime: Descending Current"
+  },
+  "icon": "icons/bdo/04_pc_skill/01_pc_skill/03_pew_skill/pew_skill_4123.webp",
+  "level": 59,
+  "combat": true
+ },
+ {
+  "id": 4114,
+  "name": {
+   "esES": "Cénit: Plumas de los espíritus",
+   "es419": "S : Pluma del Espíritu",
+   "en": "Prime: Feathers of the Spirits"
+  },
+  "icon": "icons/bdo/04_pc_skill/01_pc_skill/03_pew_skill/pew_skill_4114.webp",
+  "level": 56,
+  "combat": true
+ },
+ {
+  "id": 4193,
+  "name": {
+   "esES": "Cénit: Ráfaga penetrante",
+   "es419": "S : Viento Filoso",
+   "en": "Prime: Razor Wind"
+  },
+  "icon": "icons/bdo/04_pc_skill/01_pc_skill/03_pew_skill/pew_skill_4119.webp",
+  "level": 59,
+  "combat": true
+ },
+ {
+  "id": 4236,
+  "name": {
+   "esES": "Cénit: Regeneración",
+   "es419": "S : Recreación",
+   "en": "Prime: Regeneration"
+  },
+  "icon": "icons/bdo/04_pc_skill/01_pc_skill/03_pew_skill/pew_skill_4236.webp",
+  "level": 56,
+  "combat": true
+ },
+ {
+  "id": 4199,
+  "name": {
+   "esES": "Cénit: Saeta céfiro",
+   "es419": "S : Viento Penetrante",
+   "en": "Prime: Penetrating Wind"
+  },
+  "icon": "icons/bdo/04_pc_skill/01_pc_skill/03_pew_skill/pew_skill_4122.webp",
+  "level": 60,
+  "combat": true
+ },
+ {
+  "id": 4235,
+  "name": {
+   "esES": "Cénit: Temblor de la naturaleza",
+   "es419": "S : Temblor de la Naturaleza",
+   "en": "Prime: Nature's Tremble"
+  },
+  "icon": "icons/bdo/04_pc_skill/01_pc_skill/03_pew_skill/pew_skill_4235.webp",
+  "level": 56,
+  "combat": true
+ },
+ {
+  "id": 2737,
+  "name": {
+   "esES": "Cielo y sangre",
+   "es419": "Camino del Viento",
+   "en": "Squall Shot"
+  },
+  "icon": "icons/bdo/04_pc_skill/01_pc_skill/03_pew_skill/pew_skill_2737.webp",
+  "level": 56,
+  "combat": true
+ },
+ {
+  "id": 1885,
+  "name": {
+   "esES": "Daga Eolo",
+   "es419": "Viento Separado",
+   "en": "Breezy Blade"
+  },
+  "icon": "icons/bdo/04_pc_skill/01_pc_skill/03_pew_skill/pew_skill_1883.webp",
+  "level": 60,
+  "combat": true
+ },
+ {
+  "id": 1878,
+  "name": {
+   "esES": "Daga inmovilizadora",
+   "es419": "Espada Inhumana",
+   "en": "Cold Blade"
+  },
+  "icon": "icons/bdo/04_pc_skill/01_pc_skill/03_pew_skill/pew_skill_1875.webp",
+  "level": 59,
+  "combat": true
+ },
+ {
+  "id": 2858,
+  "name": {
+   "esES": "Definitiva: Aluvión de flechas",
+   "es419": "Suprema : Flechas Desgarradas",
+   "en": "Absolute: Tearing Arrow"
+  },
+  "icon": "icons/bdo/04_pc_skill/01_pc_skill/03_pew_skill/pew_skill_2858.webp",
+  "level": 57,
+  "combat": true
+ },
+ {
+  "id": 2855,
+  "name": {
+   "esES": "Definitiva: Carga céfiro",
+   "es419": "Suprema : Viento Cargado",
+   "en": "Absolute: Charging Wind"
+  },
+  "icon": "icons/bdo/04_pc_skill/01_pc_skill/03_pew_skill/pew_skill_2855.webp",
+  "level": 56,
+  "combat": true
+ },
+ {
+  "id": 2856,
+  "name": {
+   "esES": "Definitiva: Carga céfiro suprema",
+   "es419": "Suprema : PE Viento Cargado",
+   "en": "Absolute: Extreme Charging Wind"
+  },
+  "icon": "icons/bdo/04_pc_skill/01_pc_skill/03_pew_skill/pew_skill_2856.webp",
+  "level": 60,
+  "combat": true
+ },
+ {
+  "id": 2863,
+  "name": {
+   "esES": "Definitiva: Explosión evasiva",
+   "es419": "Suprema : Disparo Evasivo y Explosivo",
+   "en": "Absolute: Evasive Explosion Shot"
+  },
+  "icon": "icons/bdo/04_pc_skill/01_pc_skill/03_pew_skill/pew_skill_2863.webp",
+  "level": 57,
+  "combat": true
+ },
+ {
+  "id": 2865,
+  "name": {
+   "esES": "Definitiva: Flecha fulminante",
+   "es419": "Suprema : Carrera Explosiva",
+   "en": "Absolute: Blasting Gust"
+  },
+  "icon": "icons/bdo/04_pc_skill/01_pc_skill/03_pew_skill/pew_skill_2865.webp",
+  "level": 57,
+  "combat": true
+ },
+ {
+  "id": 2867,
+  "name": {
+   "esES": "Definitiva: Lluvia de cuchilladas",
+   "es419": "Suprema : Daga de Protección",
+   "en": "Absolute: Dagger of Protection"
+  },
+  "icon": "icons/bdo/04_pc_skill/01_pc_skill/03_pew_skill/pew_skill_2867.webp",
+  "level": 56,
+  "combat": true
+ },
+ {
+  "id": 2866,
+  "name": {
+   "esES": "Definitiva: Lluvia de flechas",
+   "es419": "Suprema : Flujo Descendiente",
+   "en": "Absolute: Descending Current"
+  },
+  "icon": "icons/bdo/04_pc_skill/01_pc_skill/03_pew_skill/pew_skill_2866.webp",
+  "level": 60,
+  "combat": true
+ },
+ {
+  "id": 2853,
+  "name": {
+   "esES": "Definitiva: Maestría con arcos",
+   "es419": "Suprema : Maestría de Arco",
+   "en": "Absolute: Bow Skill"
+  },
+  "icon": "icons/bdo/04_pc_skill/01_pc_skill/03_pew_skill/pew_skill_2853.webp",
+  "level": 56,
+  "combat": true
+ },
+ {
+  "id": 2854,
+  "name": {
+   "esES": "Definitiva: Patada alta",
+   "es419": "Suprema : Patada de Embestida",
+   "en": "Absolute: Dash Kick"
+  },
+  "icon": "icons/bdo/04_pc_skill/01_pc_skill/03_pew_skill/pew_skill_2854.webp",
+  "level": 56,
+  "combat": true
+ },
+ {
+  "id": 2864,
+  "name": {
+   "esES": "Definitiva: Patada circular",
+   "es419": "Suprema : Patada Rotativa",
+   "en": "Absolute: Round Kick"
+  },
+  "icon": "icons/bdo/04_pc_skill/01_pc_skill/03_pew_skill/pew_skill_2864.webp",
+  "level": 56,
+  "combat": true
+ },
+ {
+  "id": 2861,
+  "name": {
+   "esES": "Definitiva: Patada giratoria vertical",
+   "es419": "Suprema : Patada Creciente",
+   "en": "Absolute: Crescent Kick"
+  },
+  "icon": "icons/bdo/04_pc_skill/01_pc_skill/03_pew_skill/pew_skill_2861.webp",
+  "level": 56,
+  "combat": true
+ },
+ {
+  "id": 2862,
+  "name": {
+   "esES": "Definitiva: Ráfaga penetrante",
+   "es419": "Suprema : Viento Filoso",
+   "en": "Absolute: Razor Wind"
+  },
+  "icon": "icons/bdo/04_pc_skill/01_pc_skill/03_pew_skill/pew_skill_2862.webp",
+  "level": 56,
+  "combat": true
+ },
+ {
+  "id": 2859,
+  "name": {
+   "esES": "Definitiva: Saeta céfiro",
+   "es419": "Suprema : Viento Penetrante",
+   "en": "Absolute: Penetrating Wind"
+  },
+  "icon": "icons/bdo/04_pc_skill/01_pc_skill/03_pew_skill/pew_skill_2859.webp",
+  "level": 58,
+  "combat": true
+ },
+ {
+  "id": 2860,
+  "name": {
+   "esES": "Definitiva: Tiro evasivo",
+   "es419": "Suprema : Disparo Evasivo",
+   "en": "Absolute: Evasive Shot"
+  },
+  "icon": "icons/bdo/04_pc_skill/01_pc_skill/03_pew_skill/pew_skill_2860.webp",
+  "level": 56,
+  "combat": true
+ },
+ {
+  "id": 2868,
+  "name": {
+   "esES": "Definitiva: Tiro preciso",
+   "es419": "Suprema : Punto Débil",
+   "en": "Absolute: Pinpoint"
+  },
+  "icon": "icons/bdo/04_pc_skill/01_pc_skill/03_pew_skill/pew_skill_2868.webp",
+  "level": 56,
+  "combat": true
+ },
+ {
+  "id": 2857,
+  "name": {
+   "esES": "Definitiva: Voluntad del viento",
+   "es419": "Suprema : Voluntad del Viento",
+   "en": "Absolute: Will of the Wind"
+  },
+  "icon": "icons/bdo/04_pc_skill/01_pc_skill/03_pew_skill/pew_skill_2857.webp",
+  "level": 58,
+  "combat": true
+ },
+ {
+  "id": 2820,
+  "name": {
+   "esES": "Disparo poderoso",
+   "es419": "Rugido de la Flecha",
+   "en": "Roaring Arrow"
+  },
+  "icon": "icons/bdo/04_pc_skill/01_pc_skill/03_pew_skill/pew_skill_2820.webp",
+  "level": 57,
+  "combat": true
+ },
+ {
+  "id": 1889,
+  "name": {
+   "esES": "Enredadera",
+   "es419": "Nudo de Vid",
+   "en": "Vine Knot"
+  },
+  "icon": "icons/bdo/04_pc_skill/01_pc_skill/03_pew_skill/pew_skill_1889.webp",
+  "level": 56,
+  "combat": true
+ },
+ {
+  "id": 1871,
+  "name": {
+   "esES": "Entrenamiento con espada del Kamarbor",
+   "es419": "Maestría de Espada Élfica",
+   "en": "Kamasylven Sword Training"
+  },
+  "icon": "icons/bdo/04_pc_skill/01_pc_skill/03_pew_skill/pew_skill_1862.webp",
+  "level": 60,
+  "combat": true
+ },
+ {
+  "id": 1004,
+  "name": {
+   "esES": "Evasión",
+   "es419": "Evasión",
+   "en": "Evasion"
+  },
+  "icon": "icons/bdo/04_pc_skill/01_pc_skill/01_phm_skill/phm_skill_1017.webp",
+  "level": 1,
+  "combat": true
+ },
+ {
+  "id": 1257,
+  "name": {
+   "esES": "Explosión evasiva",
+   "es419": "Disparo Evasivo y Explosivo",
+   "en": "Evasive Explosion Shot"
+  },
+  "icon": "icons/bdo/04_pc_skill/01_pc_skill/03_pew_skill/pew_skill_1016.webp",
+  "level": 37,
+  "combat": true
+ },
+ {
+  "id": 1126,
+  "name": {
+   "esES": "Flecha fulminante",
+   "es419": "Carrera Explosiva",
+   "en": "Blasting Gust"
+  },
+  "icon": "icons/bdo/04_pc_skill/01_pc_skill/03_pew_skill/pew_skill_1077.webp",
+  "level": 32,
+  "combat": true
+ },
+ {
+  "id": 1872,
+  "name": {
+   "esES": "Garra del águila",
+   "es419": "Grilletes del Espíritu",
+   "en": "Spirit's Shackles"
+  },
+  "icon": "icons/bdo/04_pc_skill/01_pc_skill/03_pew_skill/pew_skill_1872.webp",
+  "level": 56,
+  "combat": true
+ },
+ {
+  "id": 1882,
+  "name": {
+   "esES": "Ira élfica",
+   "es419": "Furia Élfica",
+   "en": "Elven Rage"
+  },
+  "icon": "icons/bdo/04_pc_skill/01_pc_skill/03_pew_skill/pew_skill_1879.webp",
+  "level": 60,
+  "combat": true
+ },
+ {
+  "id": 1860,
+  "name": {
+   "esES": "Lamento del viento",
+   "es419": "Viento Sollozante",
+   "en": "Wailing Wind"
+  },
+  "icon": "icons/bdo/04_pc_skill/01_pc_skill/03_pew_skill/pew_skill_1857.webp",
+  "level": 60,
+  "combat": true
+ },
+ {
+  "id": 1102,
+  "name": {
+   "esES": "Límite: Carga céfiro",
+   "es419": "PE: Viento Cargado",
+   "en": "Extreme: Charging Wind"
+  },
+  "icon": "icons/bdo/04_pc_skill/01_pc_skill/03_pew_skill/pew_skill_1102.webp",
+  "level": 48,
+  "combat": true
+ },
+ {
+  "id": 1377,
+  "name": {
+   "esES": "Llamada de la Tierra",
+   "es419": "Vocación de la Tierra",
+   "en": "Call of the Earth"
+  },
+  "icon": "icons/bdo/04_pc_skill/01_pc_skill/03_pew_skill/pew_skill_1368.webp",
+  "level": 39,
+  "combat": true
+ },
+ {
+  "id": 309,
+  "name": {
+   "esES": "Lluvia de cuchilladas",
+   "es419": "Daga de Protección",
+   "en": "Dagger of Protection"
+  },
+  "icon": "icons/bdo/04_pc_skill/01_pc_skill/03_pew_skill/pew_skill_0307.webp",
+  "level": 23,
+  "combat": true
+ },
+ {
+  "id": 1367,
+  "name": {
+   "esES": "Lluvia de flechas",
+   "es419": "Flujo Descendiente",
+   "en": "Descending Current"
+  },
+  "icon": "icons/bdo/04_pc_skill/01_pc_skill/03_pew_skill/pew_skill_1367.webp",
+  "level": 52,
+  "combat": true
+ },
+ {
+  "id": 101,
+  "name": {
+   "esES": "Maestría con arcos",
+   "es419": "Maestría de Arco",
+   "en": "Bow Skill"
+  },
+  "icon": "icons/bdo/04_pc_skill/01_pc_skill/03_pew_skill/pew_skill_1002.webp",
+  "level": 54,
+  "combat": true
+ },
+ {
+  "id": 1428,
+  "name": {
+   "esES": "Montavientos",
+   "es419": "Montar al Viento",
+   "en": "Riding the Wind"
+  },
+  "icon": "icons/bdo/04_pc_skill/01_pc_skill/03_pew_skill/pew_skill_1428.webp",
+  "level": 40,
+  "combat": true
+ },
+ {
+  "id": 1896,
+  "name": {
+   "esES": "Movimiento: Desilusión",
+   "es419": "Flujo: Desilusión",
+   "en": "Flow: Disillusion"
+  },
+  "icon": "icons/bdo/04_pc_skill/01_pc_skill/03_pew_skill/pew_skill_1896.webp",
+  "level": 58,
+  "combat": true
+ },
+ {
+  "id": 381,
+  "name": {
+   "esES": "Movimiento: Llamada del cielo",
+   "es419": "Flujo: Llamado del Cielo",
+   "en": "Flow: Call from Sky"
+  },
+  "icon": "icons/bdo/04_pc_skill/01_pc_skill/03_pew_skill/pew_skill_0381.webp",
+  "level": 30,
+  "combat": true
+ },
+ {
+  "id": 1893,
+  "name": {
+   "esES": "Movimiento: Ráfaga de viento",
+   "es419": "Flujo: Viento Impetuoso",
+   "en": "Flow: Rushing Wind"
+  },
+  "icon": "icons/bdo/04_pc_skill/01_pc_skill/03_pew_skill/pew_skill_1893.webp",
+  "level": 56,
+  "combat": true
+ },
+ {
+  "id": 1861,
+  "name": {
+   "esES": "Movimiento: Tempestad",
+   "es419": "Flujo : Tempestad",
+   "en": "Flow: Tempest"
+  },
+  "icon": "icons/bdo/04_pc_skill/01_pc_skill/03_pew_skill/pew_skill_1861.webp",
+  "level": 57,
+  "combat": true
+ },
+ {
+  "id": 382,
+  "name": {
+   "esES": "Movimiento: Tiro de explosión aéreo",
+   "es419": "Flujo: Disparo Explosivo Aéreo",
+   "en": "Flow: Air Explosion Shot"
+  },
+  "icon": "icons/bdo/04_pc_skill/01_pc_skill/03_pew_skill/pew_skill_0382.webp",
+  "level": 20,
+  "combat": true
+ },
+ {
+  "id": 1416,
+  "name": {
+   "esES": "Movimiento: Viento a la deriva",
+   "es419": "Flujo: Viento Circulante",
+   "en": "Flow: Bypassing Wind"
+  },
+  "icon": "icons/bdo/04_pc_skill/01_pc_skill/03_pew_skill/pew_skill_1416_re.webp",
+  "level": 20,
+  "combat": true
+ },
+ {
+  "id": 2738,
+  "name": {
+   "esES": "Ojo de águila",
+   "es419": "Ráfaga de Viento",
+   "en": "Tearing Shot"
+  },
+  "icon": "icons/bdo/04_pc_skill/01_pc_skill/03_pew_skill/pew_skill_2738.webp",
+  "level": 56,
+  "combat": true
+ },
+ {
+  "id": 1874,
+  "name": {
+   "esES": "Paso de viento",
+   "es419": "Paso del Viento",
+   "en": "Wind Step"
+  },
+  "icon": "icons/bdo/04_pc_skill/01_pc_skill/03_pew_skill/pew_skill_1874.webp",
+  "level": 56,
+  "combat": true
+ },
+ {
+  "id": 1088,
+  "name": {
+   "esES": "Patada alta",
+   "es419": "Patada de Embestida",
+   "en": "Dash Kick"
+  },
+  "icon": "icons/bdo/04_pc_skill/01_pc_skill/03_pew_skill/pew_skill_1005.webp",
+  "level": 28,
+  "combat": true
+ },
+ {
+  "id": 1251,
+  "name": {
+   "esES": "Patada circular",
+   "es419": "Patada Rotativa",
+   "en": "Round Kick"
+  },
+  "icon": "icons/bdo/04_pc_skill/01_pc_skill/03_pew_skill/pew_skill_1029.webp",
+  "level": 38,
+  "combat": true
+ },
+ {
+  "id": 1255,
+  "name": {
+   "esES": "Patada giratoria vertical",
+   "es419": "Patada Creciente",
+   "en": "Crescent Kick"
+  },
+  "icon": "icons/bdo/04_pc_skill/01_pc_skill/03_pew_skill/pew_skill_1255.webp",
+  "level": 32,
+  "combat": true
+ },
+ {
+  "id": 6076,
+  "name": {
+   "esES": "Primordial: Daga Eolo",
+   "es419": "BON: Viento Separado",
+   "en": "Core: Breezy Blade"
+  },
+  "icon": "icons/bdo/04_pc_skill/01_pc_skill/03_pew_skill/pew_skill_1883.webp",
+  "level": 60,
+  "combat": true
+ },
+ {
+  "id": 6074,
+  "name": {
+   "esES": "Primordial: Daga inmovilizadora",
+   "es419": "BON: Espada Inhumana",
+   "en": "Core: Cold Blade"
+  },
+  "icon": "icons/bdo/04_pc_skill/01_pc_skill/03_pew_skill/pew_skill_1875.webp",
+  "level": 60,
+  "combat": true
+ },
+ {
+  "id": 6075,
+  "name": {
+   "esES": "Primordial: Ira élfica",
+   "es419": "BON: Furia Élfica",
+   "en": "Core: Elven Rage"
+  },
+  "icon": "icons/bdo/04_pc_skill/01_pc_skill/03_pew_skill/pew_skill_1879.webp",
+  "level": 60,
+  "combat": true
+ },
+ {
+  "id": 6073,
+  "name": {
+   "esES": "Primordial: Lamento del viento",
+   "es419": "BON: Viento Sollozante",
+   "en": "Core: Wailing Wind"
+  },
+  "icon": "icons/bdo/04_pc_skill/01_pc_skill/03_pew_skill/pew_skill_1857.webp",
+  "level": 60,
+  "combat": true
+ },
+ {
+  "id": 6078,
+  "name": {
+   "esES": "Primordial: Temblor de la naturaleza",
+   "es419": "BON: Temblor de la Naturaleza",
+   "en": "Core: Nature's Tremble"
+  },
+  "icon": "icons/bdo/04_pc_skill/01_pc_skill/03_pew_skill/pew_skill_1890.webp",
+  "level": 60,
+  "combat": true
+ },
+ {
+  "id": 6077,
+  "name": {
+   "esES": "Primordial: Vals del viento",
+   "es419": "BON: Vals de Viento",
+   "en": "Core: Waltz of Wind"
+  },
+  "icon": "icons/bdo/04_pc_skill/01_pc_skill/03_pew_skill/pew_skill_1886.webp",
+  "level": 60,
+  "combat": true
+ },
+ {
+  "id": 318,
+  "name": {
+   "esES": "Ráfaga penetrante",
+   "es419": "Viento Filoso",
+   "en": "Razor Wind"
+  },
+  "icon": "icons/bdo/04_pc_skill/01_pc_skill/03_pew_skill/pew_skill_1015.webp",
+  "level": 44,
+  "combat": true
+ },
+ {
+  "id": 1897,
+  "name": {
+   "esES": "Regeneración",
+   "es419": "Recreación",
+   "en": "Regeneration"
+  },
+  "icon": "icons/bdo/04_pc_skill/01_pc_skill/03_pew_skill/pew_skill_1897.webp",
+  "level": 59,
+  "combat": true
+ },
+ {
+  "id": 4833,
+  "name": {
+   "esES": "Renacer: Llamada del cielo",
+   "es419": "Sucesión : Llamado del Cielo",
+   "en": "Succession: Call from Sky"
+  },
+  "icon": "icons/bdo/04_pc_skill/01_pc_skill/03_pew_skill/pew_skill_0381.webp",
+  "level": 1,
+  "combat": true
+ },
+ {
+  "id": 4107,
+  "name": {
+   "esES": "Renacer: Plumas de Lemoria",
+   "es419": "Sucesión : Pluma de Lemoria",
+   "en": "Succession: Feathers of Lemoria"
+  },
+  "icon": "icons/bdo/04_pc_skill/01_pc_skill/03_pew_skill/pew_skill_4107.webp",
+  "level": 56,
+  "combat": true
+ },
+ {
+  "id": 7153,
+  "name": {
+   "esES": "Renacer: Viento cruzado",
+   "es419": "Sucesión: Viento Cruzando",
+   "en": "Succession: Twisting Wind"
+  },
+  "icon": "icons/bdo/04_pc_skill/01_pc_skill/03_pew_skill/pew_skill_1401_re.webp",
+  "level": 1,
+  "combat": true
+ },
+ {
+  "id": 92,
+  "name": {
+   "esES": "Retirada oscura",
+   "es419": "Escape de Emergencia",
+   "en": "Emergency Escape"
+  },
+  "icon": "icons/bdo/04_pc_skill/01_pc_skill/00_common/common_skill_0092.webp",
+  "level": 1,
+  "combat": true
+ },
+ {
+  "id": 1895,
+  "name": {
+   "esES": "Saeta arbórea",
+   "es419": "Flechas Penitencieras",
+   "en": "Binding Arrow"
+  },
+  "icon": "icons/bdo/04_pc_skill/01_pc_skill/03_pew_skill/pew_skill_1895.webp",
+  "level": 60,
+  "combat": true
+ },
+ {
+  "id": 1105,
+  "name": {
+   "esES": "Saeta céfiro",
+   "es419": "Viento Penetrante",
+   "en": "Penetrating Wind"
+  },
+  "icon": "icons/bdo/04_pc_skill/01_pc_skill/03_pew_skill/pew_skill_1009.webp",
+  "level": 45,
+  "combat": true
+ },
+ {
+  "id": 2819,
+  "name": {
+   "esES": "Salva de furia",
+   "es419": "Lluvia de Flechas",
+   "en": "Fury Arrow"
+  },
+  "icon": "icons/bdo/04_pc_skill/01_pc_skill/03_pew_skill/pew_skill_2819.webp",
+  "level": 57,
+  "combat": true
+ },
+ {
+  "id": 1101,
+  "name": {
+   "esES": "Sublime: Aluvión de flechas",
+   "es419": "Extremo: Flechas Desgarradas",
+   "en": "Ultimate: Tearing Arrow"
+  },
+  "icon": "icons/bdo/04_pc_skill/01_pc_skill/03_pew_skill/pew_skill_1101.webp",
+  "level": 55,
+  "combat": true
+ },
+ {
+  "id": 375,
+  "name": {
+   "esES": "Sublime: Carga céfiro",
+   "es419": "Extremo: Viento Cargado",
+   "en": "Ultimate: Charging Wind"
+  },
+  "icon": "icons/bdo/04_pc_skill/01_pc_skill/03_pew_skill/pew_skill_0375.webp",
+  "level": 16,
+  "combat": true
+ },
+ {
+  "id": 1448,
+  "name": {
+   "esES": "Sublime: Flecha fulminante",
+   "es419": "Extremo: Carrera Explosiva",
+   "en": "Ultimate: Blasting Gust"
+  },
+  "icon": "icons/bdo/04_pc_skill/01_pc_skill/03_pew_skill/pew_skill_1077.webp",
+  "level": 35,
+  "combat": true
+ },
+ {
+  "id": 1449,
+  "name": {
+   "esES": "Sublime: Lluvia de flechas",
+   "es419": "Extremo: Flujo Descendiente",
+   "en": "Ultimate: Descending Current"
+  },
+  "icon": "icons/bdo/04_pc_skill/01_pc_skill/03_pew_skill/pew_skill_1449.webp",
+  "level": 53,
+  "combat": true
+ },
+ {
+  "id": 1112,
+  "name": {
+   "esES": "Sublime: Ráfaga penetrante",
+   "es419": "Extremo: Viento Filoso",
+   "en": "Ultimate: Razor Wind"
+  },
+  "icon": "icons/bdo/04_pc_skill/01_pc_skill/03_pew_skill/pew_skill_1112.webp",
+  "level": 53,
+  "combat": true
+ },
+ {
+  "id": 374,
+  "name": {
+   "esES": "Sublime: Tiro evasivo",
+   "es419": "Extremo: Disparo Evasivo",
+   "en": "Ultimate: Evasive Shot"
+  },
+  "icon": "icons/bdo/04_pc_skill/01_pc_skill/03_pew_skill/pew_skill_0374.webp",
+  "level": 23,
+  "combat": true
+ },
+ {
+  "id": 1892,
+  "name": {
+   "esES": "Temblor de la naturaleza",
+   "es419": "Temblor de la Naturaleza",
+   "en": "Nature's Tremble"
+  },
+  "icon": "icons/bdo/04_pc_skill/01_pc_skill/03_pew_skill/pew_skill_1890.webp",
+  "level": 60,
+  "combat": true
+ },
+ {
+  "id": 321,
+  "name": {
+   "esES": "Tiro de aterrizaje evasivo",
+   "es419": "Disparo de Aterrizaje Evasivo",
+   "en": "Evasive Landing Shot"
+  },
+  "icon": "icons/bdo/04_pc_skill/01_pc_skill/03_pew_skill/pew_skill_0319_re.webp",
+  "level": 59,
+  "combat": true
+ },
+ {
+  "id": 1390,
+  "name": {
+   "esES": "Tiro en movimiento",
+   "es419": "Disparo móvil",
+   "en": "Moving Shot"
+  },
+  "icon": "icons/bdo/04_pc_skill/01_pc_skill/03_pew_skill/pew_skill_1388.webp",
+  "level": 34,
+  "combat": true
+ },
+ {
+  "id": 1253,
+  "name": {
+   "esES": "Tiro evasivo",
+   "es419": "Disparo Evasivo",
+   "en": "Evasive Shot"
+  },
+  "icon": "icons/bdo/04_pc_skill/01_pc_skill/03_pew_skill/pew_skill_1253.webp",
+  "level": 21,
+  "combat": true
+ },
+ {
+  "id": 324,
+  "name": {
+   "esES": "Tiro preciso",
+   "es419": "Punto Débil",
+   "en": "Pinpoint"
+  },
+  "icon": "icons/bdo/04_pc_skill/01_pc_skill/03_pew_skill/pew_skill_0322.webp",
+  "level": 31,
+  "combat": true
+ },
+ {
+  "id": 1888,
+  "name": {
+   "esES": "Vals del viento",
+   "es419": "Vals de Viento",
+   "en": "Waltz of Wind"
+  },
+  "icon": "icons/bdo/04_pc_skill/01_pc_skill/03_pew_skill/pew_skill_1886.webp",
+  "level": 60,
+  "combat": true
+ },
+ {
+  "id": 1401,
+  "name": {
+   "esES": "Viento cruzado",
+   "es419": "Viento Cruzando",
+   "en": "Twisting Wind"
+  },
+  "icon": "icons/bdo/04_pc_skill/01_pc_skill/03_pew_skill/pew_skill_1401_re.webp",
+  "level": 58,
+  "combat": true
+ },
+ {
+  "id": 1098,
+  "name": {
+   "esES": "Voluntad del viento",
+   "es419": "Voluntad del Viento",
+   "en": "Will of the Wind"
+  },
+  "icon": "icons/bdo/04_pc_skill/01_pc_skill/03_pew_skill/pew_skill_1007.webp",
+  "level": 41,
+  "combat": true
+ },
+ {
+  "id": 3459,
+  "name": {
+   "esES": "Absorción de furia",
+   "es419": "Absorción de Furia",
+   "en": "Rage Absorption"
+  },
+  "icon": "icons/bdo/04_pc_skill/01_pc_skill/00_common/common_skill_0090.webp",
+  "level": 35,
+  "combat": false
+ },
+ {
+  "id": 89,
+  "name": {
+   "esES": "Absorción de furia (latente)",
+   "es419": "Absorción de Furia (Innato)",
+   "en": "Rage Absorption (Innate)"
+  },
+  "icon": "icons/bdo/04_pc_skill/01_pc_skill/00_common/common_skill_0090.webp",
+  "level": 35,
+  "combat": false
+ },
+ {
+  "id": 6759,
+  "name": {
+   "esES": "Brisa de la pradera",
+   "es419": "Viento de la Gran Pradera",
+   "en": "Winds of the Prairie"
+  },
+  "icon": "icons/bdo/04_pc_skill/01_pc_skill/03_pew_skill/pew_skill_6759.webp",
+  "level": 60,
+  "combat": false
+ },
+ {
+  "id": 2076,
+  "name": {
+   "esES": "Cazador hábil",
+   "es419": "Cazador Experto",
+   "en": "Skilled Hunter"
+  },
+  "icon": "icons/bdo/04_pc_skill/01_pc_skill/06_pkm_skill/pkm_skill_2072.webp",
+  "level": 60,
+  "combat": false
+ },
+ {
+  "id": 344,
+  "name": {
+   "esES": "Corriente de los espíritus",
+   "es419": "Viento del Espíritu",
+   "en": "Wind of the Spirit"
+  },
+  "icon": "icons/bdo/04_pc_skill/01_pc_skill/03_pew_skill/pew_skill_0344.webp",
+  "level": 20,
+  "combat": false
+ },
+ {
+  "id": 6134,
+  "name": {
+   "esES": "Elvia: Comunión distorsionada",
+   "es419": "Elvia: Simpatía Discrepada",
+   "en": "Elvia: Distorted Commune"
+  },
+  "icon": "icons/bdo/04_pc_skill/01_pc_skill/03_pew_skill/pew_skill_6134.webp",
+  "level": 60,
+  "combat": false
+ },
+ {
+  "id": 4856,
+  "name": {
+   "esES": "Gran poder",
+   "es419": "Gran Poder",
+   "en": "Unyielding Might"
+  },
+  "icon": "icons/bdo/04_pc_skill/01_pc_skill/00_common/common_skill_18705.webp",
+  "level": 62,
+  "combat": false
+ },
+ {
+  "id": 6451,
+  "name": {
+   "esES": "Hoja del viento",
+   "es419": "Filo del Viento",
+   "en": "Wind Blade"
+  },
+  "icon": "icons/bdo/04_pc_skill/01_pc_skill/03_pew_skill/pew_skill_6451.webp",
+  "level": 59,
+  "combat": false
+ },
+ {
+  "id": 1707,
+  "name": {
+   "esES": "Maestría infinita",
+   "es419": "Maestría Infinita",
+   "en": "Infinite Mastery"
+  },
+  "icon": "icons/bdo/04_pc_skill/01_pc_skill/00_common/common_skill_1702.webp",
+  "level": 55,
+  "combat": false
+ },
+ {
+  "id": 6757,
+  "name": {
+   "esES": "Nebulosa de los espíritus",
+   "es419": "Galaxia del Espíritu",
+   "en": "Spirit's Haven"
+  },
+  "icon": "icons/bdo/04_pc_skill/01_pc_skill/03_pew_skill/pew_skill_6757.webp",
+  "level": 60,
+  "combat": false
+ },
+ {
+  "id": 194,
+  "name": {
+   "esES": "Sanación arcana",
+   "es419": "Curación del Espíritu",
+   "en": "Spirit Healing"
+  },
+  "icon": "icons/bdo/04_pc_skill/01_pc_skill/03_pew_skill/pew_skill_0176.webp",
+  "level": 60,
+  "combat": false
+ },
+ {
+  "id": 4854,
+  "name": {
+   "esES": "Sanación arcana XXI",
+   "es419": "Curación del Espíritu XXI",
+   "en": "Spirit Healing XXI"
+  },
+  "icon": "icons/bdo/04_pc_skill/01_pc_skill/03_pew_skill/pew_skill_4854.webp",
+  "level": 1,
+  "combat": false
+ },
+ {
+  "id": 4061,
+  "name": {
+   "esES": "Torrente de flechas",
+   "es419": "Voluntad del Viento Descendiente",
+   "en": "Will of Descending Wind"
+  },
+  "icon": "icons/bdo/04_pc_skill/01_pc_skill/03_pew_skill/pew_skill_4061.webp",
+  "level": 58,
+  "combat": false
+ },
+ {
+  "id": 91,
+  "name": {
+   "esES": "Transfuria",
+   "es419": "Transferencia de Furia",
+   "en": "Rage Transfer"
+  },
+  "icon": "icons/bdo/04_pc_skill/01_pc_skill/00_common/common_skill_0091.webp",
+  "level": 35,
+  "combat": false
+ },
+ {
+  "id": 4060,
+  "name": {
+   "esES": "Viento explosivo",
+   "es419": "Disparo del Viento Explosivo",
+   "en": "Wind Explosion Shot"
+  },
+  "icon": "icons/bdo/04_pc_skill/01_pc_skill/03_pew_skill/pew_skill_4060.webp",
+  "level": 58,
+  "combat": false
+ },
+ {
+  "id": 6758,
+  "name": {
+   "esES": "Viento protector",
+   "es419": "Viento Protector",
+   "en": "Guardian Wind"
+  },
+  "icon": "icons/bdo/04_pc_skill/01_pc_skill/03_pew_skill/pew_skill_6758.webp",
+  "level": 60,
+  "combat": false
+ }
+]

@@ -1,0 +1,1124 @@
+[
+ {
+  "id": 3459,
+  "name": {
+   "esES": "Absorción de furia",
+   "es419": "Absorción de Furia",
+   "en": "Rage Absorption"
+  },
+  "icon": "icons/bdo/04_pc_skill/01_pc_skill/00_common/common_skill_0090.webp",
+  "level": 35,
+  "combat": true
+ },
+ {
+  "id": 89,
+  "name": {
+   "esES": "Absorción de furia (latente)",
+   "es419": "Absorción de Furia (Innato)",
+   "en": "Rage Absorption (Innate)"
+  },
+  "icon": "icons/bdo/04_pc_skill/01_pc_skill/00_common/common_skill_0090.webp",
+  "level": 35,
+  "combat": true
+ },
+ {
+  "id": 7354,
+  "name": {
+   "esES": "Acometida violenta",
+   "es419": "Trotes Vulpinos",
+   "en": "Foxflare Charge"
+  },
+  "icon": "icons/bdo/04_pc_skill/01_pc_skill/27_pkow_skill/pkow_skill_7354.webp",
+  "level": 56,
+  "combat": true
+ },
+ {
+  "id": 7363,
+  "name": {
+   "esES": "Admonición",
+   "es419": "Amonestación",
+   "en": "Foxflare Stroke"
+  },
+  "icon": "icons/bdo/04_pc_skill/01_pc_skill/27_pkow_skill/pkow_skill_7363.webp",
+  "level": 56,
+  "combat": true
+ },
+ {
+  "id": 7250,
+  "name": {
+   "esES": "Amuleto animástico",
+   "es419": "Amuleto de Almas",
+   "en": "Soul Charm"
+  },
+  "icon": "icons/bdo/04_pc_skill/01_pc_skill/27_pkow_skill/pkow_skill_7250.webp",
+  "level": 58,
+  "combat": true
+ },
+ {
+  "id": 7242,
+  "name": {
+   "esES": "Amuleto explosivo",
+   "es419": "Amuleto Explosivo",
+   "en": "Ghost Bomb"
+  },
+  "icon": "icons/bdo/04_pc_skill/01_pc_skill/27_pkow_skill/pkow_skill_7239.webp",
+  "level": 54,
+  "combat": true
+ },
+ {
+  "id": 7165,
+  "name": {
+   "esES": "Arte con amuleto vulpino",
+   "es419": "Arte con Amuleto Vulpino",
+   "en": "Charm Mastery"
+  },
+  "icon": "icons/bdo/04_pc_skill/01_pc_skill/27_pkow_skill/pkow_skill_7156.webp",
+  "level": 54,
+  "combat": true
+ },
+ {
+  "id": 7362,
+  "name": {
+   "esES": "Bendición de los dioses",
+   "es419": "Descenso Divino",
+   "en": "Foxspirit Conduit"
+  },
+  "icon": "icons/bdo/04_pc_skill/01_pc_skill/27_pkow_skill/pkow_skill_7362.webp",
+  "level": 56,
+  "combat": true
+ },
+ {
+  "id": 7355,
+  "name": {
+   "esES": "Brisa meridional",
+   "es419": "Danza del Viento",
+   "en": "Twirling Retreat"
+  },
+  "icon": "icons/bdo/04_pc_skill/01_pc_skill/27_pkow_skill/pkow_skill_7355.webp",
+  "level": 58,
+  "combat": true
+ },
+ {
+  "id": 7248,
+  "name": {
+   "esES": "Brote explosivo",
+   "es419": "Capullo de Flor",
+   "en": "Constricting Charm"
+  },
+  "icon": "icons/bdo/04_pc_skill/01_pc_skill/27_pkow_skill/pkow_skill_7248.webp",
+  "level": 57,
+  "combat": true
+ },
+ {
+  "id": 7214,
+  "name": {
+   "esES": "Cadena: Pasos espectrales",
+   "es419": "Cadena: Pasos Espectrales",
+   "en": "Chain: Spirit Step"
+  },
+  "icon": "icons/bdo/04_pc_skill/01_pc_skill/27_pkow_skill/pkow_skill_7214.webp",
+  "level": 10,
+  "combat": true
+ },
+ {
+  "id": 7336,
+  "name": {
+   "esES": "Castigo abrasador",
+   "es419": "Garra Violeta",
+   "en": "Emberclaw Slash"
+  },
+  "icon": "icons/bdo/04_pc_skill/01_pc_skill/27_pkow_skill/pkow_skill_7333.webp",
+  "level": 60,
+  "combat": true
+ },
+ {
+  "id": 2076,
+  "name": {
+   "esES": "Cazador hábil",
+   "es419": "Cazador Experto",
+   "en": "Skilled Hunter"
+  },
+  "icon": "icons/bdo/04_pc_skill/01_pc_skill/06_pkm_skill/pkm_skill_2072.webp",
+  "level": 60,
+  "combat": true
+ },
+ {
+  "id": 7251,
+  "name": {
+   "esES": "Cénit: Abanico florecido",
+   "es419": "S: Abanico Floral",
+   "en": "Prime: Fan of Flames"
+  },
+  "icon": "icons/bdo/04_pc_skill/01_pc_skill/27_pkow_skill/pkow_skill_7251.webp",
+  "level": 59,
+  "combat": true
+ },
+ {
+  "id": 7283,
+  "name": {
+   "esES": "Cénit: Amuleto explosivo",
+   "es419": "S: Amuleto Explosivo",
+   "en": "Prime: Ghost Bomb"
+  },
+  "icon": "icons/bdo/04_pc_skill/01_pc_skill/27_pkow_skill/pkow_skill_7283.webp",
+  "level": 58,
+  "combat": true
+ },
+ {
+  "id": 7282,
+  "name": {
+   "esES": "Cénit: Corte desgarrador",
+   "es419": "S: Corte Desgarrador",
+   "en": "Prime: Lurking Claws"
+  },
+  "icon": "icons/bdo/04_pc_skill/01_pc_skill/27_pkow_skill/pkow_skill_7282.webp",
+  "level": 56,
+  "combat": true
+ },
+ {
+  "id": 7280,
+  "name": {
+   "esES": "Cénit: Danza de los Cielos",
+   "es419": "S: Danza de los Cielos",
+   "en": "Prime: Heavenward Dance"
+  },
+  "icon": "icons/bdo/04_pc_skill/01_pc_skill/27_pkow_skill/pkow_skill_7280.webp",
+  "level": 59,
+  "combat": true
+ },
+ {
+  "id": 7252,
+  "name": {
+   "esES": "Cénit: Danza mística",
+   "es419": "S: Consuelo",
+   "en": "Prime: Nukduri Dance"
+  },
+  "icon": "icons/bdo/04_pc_skill/01_pc_skill/27_pkow_skill/pkow_skill_7252.webp",
+  "level": 60,
+  "combat": true
+ },
+ {
+  "id": 7300,
+  "name": {
+   "esES": "Cénit: Desgarraalmas",
+   "es419": "S: Desgarraalmas",
+   "en": "Prime: Soul Tear"
+  },
+  "icon": "icons/bdo/04_pc_skill/01_pc_skill/27_pkow_skill/pkow_skill_7298.webp",
+  "level": 60,
+  "combat": true
+ },
+ {
+  "id": 7311,
+  "name": {
+   "esES": "Cénit: Diosa zorro: advenimiento",
+   "es419": "S: Diosa Zorro: Advenimiento",
+   "en": "Prime: Foxspirit: Phantom"
+  },
+  "icon": "icons/bdo/04_pc_skill/01_pc_skill/27_pkow_skill/pkow_skill_7307.webp",
+  "level": 60,
+  "combat": true
+ },
+ {
+  "id": 7279,
+  "name": {
+   "esES": "Cénit: Diosa zorro: fuerza sobrehumana",
+   "es419": "S: Diosa Zorro: Fuerza Sobrehumana",
+   "en": "Prime: Foxspirit: Form"
+  },
+  "icon": "icons/bdo/04_pc_skill/01_pc_skill/27_pkow_skill/pkow_skill_7279.webp",
+  "level": 56,
+  "combat": true
+ },
+ {
+  "id": 7312,
+  "name": {
+   "esES": "Cénit: Diosa zorro: ilusión",
+   "es419": "S: Diosa Zorro: Ilusión",
+   "en": "Prime: Foxspirit: Deceiver"
+  },
+  "icon": "icons/bdo/04_pc_skill/01_pc_skill/27_pkow_skill/pkow_skill_7312.webp",
+  "level": 56,
+  "combat": true
+ },
+ {
+  "id": 7284,
+  "name": {
+   "esES": "Cénit: Diosa zorro: jolgorio",
+   "es419": "S: Diosa Zorro: Jolgorio",
+   "en": "Prime: Foxspirit: Tag"
+  },
+  "icon": "icons/bdo/04_pc_skill/01_pc_skill/27_pkow_skill/pkow_skill_7284.webp",
+  "level": 56,
+  "combat": true
+ },
+ {
+  "id": 7293,
+  "name": {
+   "esES": "Cénit: Esfera pírica",
+   "es419": "S: Esfera Pírica",
+   "en": "Prime: Foxflare"
+  },
+  "icon": "icons/bdo/04_pc_skill/01_pc_skill/27_pkow_skill/pkow_skill_7290.webp",
+  "level": 59,
+  "combat": true
+ },
+ {
+  "id": 7303,
+  "name": {
+   "esES": "Cénit: Explosión florida",
+   "es419": "S: Explosión Florida",
+   "en": "Prime: Petal Play"
+  },
+  "icon": "icons/bdo/04_pc_skill/01_pc_skill/27_pkow_skill/pkow_skill_7301.webp",
+  "level": 60,
+  "combat": true
+ },
+ {
+  "id": 7297,
+  "name": {
+   "esES": "Cénit: Florescencia",
+   "es419": "S: Florescencia",
+   "en": "Prime: Flower Shroud"
+  },
+  "icon": "icons/bdo/04_pc_skill/01_pc_skill/27_pkow_skill/pkow_skill_7294.webp",
+  "level": 59,
+  "combat": true
+ },
+ {
+  "id": 7289,
+  "name": {
+   "esES": "Cénit: Fuego fatuo",
+   "es419": "S: Fuego Fatuo",
+   "en": "Prime: Bristling Sparks"
+  },
+  "icon": "icons/bdo/04_pc_skill/01_pc_skill/27_pkow_skill/pkow_skill_7286.webp",
+  "level": 59,
+  "combat": true
+ },
+ {
+  "id": 7281,
+  "name": {
+   "esES": "Cénit: Garra vulpina",
+   "es419": "S: Garra Vulpina",
+   "en": "Prime: Bared Claws"
+  },
+  "icon": "icons/bdo/04_pc_skill/01_pc_skill/27_pkow_skill/pkow_skill_7281.webp",
+  "level": 56,
+  "combat": true
+ },
+ {
+  "id": 7285,
+  "name": {
+   "esES": "Cénit: Llama cautivadora",
+   "es419": "S: Llama Cautivadora",
+   "en": "Prime: Spirited Away"
+  },
+  "icon": "icons/bdo/04_pc_skill/01_pc_skill/27_pkow_skill/pkow_skill_7285.webp",
+  "level": 58,
+  "combat": true
+ },
+ {
+  "id": 7306,
+  "name": {
+   "esES": "Cénit: Torbellino místico",
+   "es419": "S: Torbellino Místico",
+   "en": "Prime: Spirit Swirl"
+  },
+  "icon": "icons/bdo/04_pc_skill/01_pc_skill/27_pkow_skill/pkow_skill_7304.webp",
+  "level": 60,
+  "combat": true
+ },
+ {
+  "id": 7221,
+  "name": {
+   "esES": "Corte desgarrador",
+   "es419": "Corte Desgarrador",
+   "en": "Lurking Claws"
+  },
+  "icon": "icons/bdo/04_pc_skill/01_pc_skill/27_pkow_skill/pkow_skill_7218.webp",
+  "level": 51,
+  "combat": true
+ },
+ {
+  "id": 7226,
+  "name": {
+   "esES": "Danza de los Cielos",
+   "es419": "Danza de los Cielos",
+   "en": "Heavenward Dance"
+  },
+  "icon": "icons/bdo/04_pc_skill/01_pc_skill/27_pkow_skill/pkow_skill_7223.webp",
+  "level": 50,
+  "combat": true
+ },
+ {
+  "id": 7243,
+  "name": {
+   "esES": "Definitiva: Amuleto explosivo",
+   "es419": "Suprema: Amuleto Explosivo",
+   "en": "Absolute: Ghost Bomb"
+  },
+  "icon": "icons/bdo/04_pc_skill/01_pc_skill/27_pkow_skill/pkow_skill_7243.webp",
+  "level": 58,
+  "combat": true
+ },
+ {
+  "id": 7166,
+  "name": {
+   "esES": "Definitiva: Arte con amuleto vulpino",
+   "es419": "Suprema: Arte con Amuleto Vulpino",
+   "en": "Absolute: Charm Mastery"
+  },
+  "icon": "icons/bdo/04_pc_skill/01_pc_skill/27_pkow_skill/pkow_skill_7166.webp",
+  "level": 56,
+  "combat": true
+ },
+ {
+  "id": 7222,
+  "name": {
+   "esES": "Definitiva: Corte desgarrador",
+   "es419": "Suprema: Corte Desgarrador",
+   "en": "Absolute: Lurking Claws"
+  },
+  "icon": "icons/bdo/04_pc_skill/01_pc_skill/27_pkow_skill/pkow_skill_7222.webp",
+  "level": 57,
+  "combat": true
+ },
+ {
+  "id": 7227,
+  "name": {
+   "esES": "Definitiva: Danza de los Cielos",
+   "es419": "Suprema: Danza de los Cielos",
+   "en": "Absolute: Heavenward Dance"
+  },
+  "icon": "icons/bdo/04_pc_skill/01_pc_skill/27_pkow_skill/pkow_skill_7227.webp",
+  "level": 57,
+  "combat": true
+ },
+ {
+  "id": 7174,
+  "name": {
+   "esES": "Definitiva: Desgarraalmas",
+   "es419": "Suprema: Desgarraalmas",
+   "en": "Absolute: Soul Tear"
+  },
+  "icon": "icons/bdo/04_pc_skill/01_pc_skill/27_pkow_skill/pkow_skill_7174.webp",
+  "level": 58,
+  "combat": true
+ },
+ {
+  "id": 7186,
+  "name": {
+   "esES": "Definitiva: Diosa zorro: jolgorio",
+   "es419": "Suprema: Diosa Zorro: Jolgorio",
+   "en": "Absolute: Foxspirit: Tag"
+  },
+  "icon": "icons/bdo/04_pc_skill/01_pc_skill/27_pkow_skill/pkow_skill_7186.webp",
+  "level": 57,
+  "combat": true
+ },
+ {
+  "id": 7191,
+  "name": {
+   "esES": "Definitiva: Esfera pírica",
+   "es419": "Suprema: Esfera Pírica",
+   "en": "Absolute: Foxflare"
+  },
+  "icon": "icons/bdo/04_pc_skill/01_pc_skill/27_pkow_skill/pkow_skill_7191.webp",
+  "level": 58,
+  "combat": true
+ },
+ {
+  "id": 7234,
+  "name": {
+   "esES": "Definitiva: Espíritu ígneo",
+   "es419": "Suprema: Espíritu Ígneo",
+   "en": "Absolute: Soulflame"
+  },
+  "icon": "icons/bdo/04_pc_skill/01_pc_skill/27_pkow_skill/pkow_skill_7234.webp",
+  "level": 56,
+  "combat": true
+ },
+ {
+  "id": 7182,
+  "name": {
+   "esES": "Definitiva: Explosión florida",
+   "es419": "Suprema: Explosión Florida",
+   "en": "Absolute: Petal Play"
+  },
+  "icon": "icons/bdo/04_pc_skill/01_pc_skill/27_pkow_skill/pkow_skill_7182.webp",
+  "level": 56,
+  "combat": true
+ },
+ {
+  "id": 7201,
+  "name": {
+   "esES": "Definitiva: Florescencia",
+   "es419": "Suprema: Florescencia",
+   "en": "Absolute: Flower Shroud"
+  },
+  "icon": "icons/bdo/04_pc_skill/01_pc_skill/27_pkow_skill/pkow_skill_7201.webp",
+  "level": 58,
+  "combat": true
+ },
+ {
+  "id": 7206,
+  "name": {
+   "esES": "Definitiva: Fuego fatuo",
+   "es419": "Suprema: Fuego Fatuo",
+   "en": "Absolute: Bristling Sparks"
+  },
+  "icon": "icons/bdo/04_pc_skill/01_pc_skill/27_pkow_skill/pkow_skill_7206.webp",
+  "level": 57,
+  "combat": true
+ },
+ {
+  "id": 7170,
+  "name": {
+   "esES": "Definitiva: Garra vulpina",
+   "es419": "Suprema: Garra Vulpina",
+   "en": "Absolute: Bared Claws"
+  },
+  "icon": "icons/bdo/04_pc_skill/01_pc_skill/27_pkow_skill/pkow_skill_7170.webp",
+  "level": 56,
+  "combat": true
+ },
+ {
+  "id": 7211,
+  "name": {
+   "esES": "Definitiva: llama cautivadora",
+   "es419": "Suprema: Llama Cautivadora",
+   "en": "Absolute: Spirited Away"
+  },
+  "icon": "icons/bdo/04_pc_skill/01_pc_skill/27_pkow_skill/pkow_skill_7211.webp",
+  "level": 57,
+  "combat": true
+ },
+ {
+  "id": 7217,
+  "name": {
+   "esES": "Definitiva: Muerte súbita",
+   "es419": "Suprema: Muerte Súbita",
+   "en": "Absolute: Charmed"
+  },
+  "icon": "icons/bdo/04_pc_skill/01_pc_skill/27_pkow_skill/pkow_skill_7217.webp",
+  "level": 56,
+  "combat": true
+ },
+ {
+  "id": 7238,
+  "name": {
+   "esES": "Definitiva: Prisión espiritual",
+   "es419": "Suprema: Prisión Espiritual",
+   "en": "Absolute: Soulsnare"
+  },
+  "icon": "icons/bdo/04_pc_skill/01_pc_skill/27_pkow_skill/pkow_skill_7238.webp",
+  "level": 57,
+  "combat": true
+ },
+ {
+  "id": 7230,
+  "name": {
+   "esES": "Definitiva: Senda floral",
+   "es419": "Suprema: Senda Floral",
+   "en": "Absolute: Path of Petals"
+  },
+  "icon": "icons/bdo/04_pc_skill/01_pc_skill/27_pkow_skill/pkow_skill_7230.webp",
+  "level": 56,
+  "combat": true
+ },
+ {
+  "id": 7196,
+  "name": {
+   "esES": "Definitiva: Torbellino místico",
+   "es419": "Suprema: Torbellino Místico",
+   "en": "Absolute: Spirit Swirl"
+  },
+  "icon": "icons/bdo/04_pc_skill/01_pc_skill/27_pkow_skill/pkow_skill_7196.webp",
+  "level": 58,
+  "combat": true
+ },
+ {
+  "id": 7178,
+  "name": {
+   "esES": "Definitiva: Trampa ilusoria",
+   "es419": "Suprema: Trampa Ilusoria",
+   "en": "Absolute: Petalblast"
+  },
+  "icon": "icons/bdo/04_pc_skill/01_pc_skill/27_pkow_skill/pkow_skill_7178.webp",
+  "level": 58,
+  "combat": true
+ },
+ {
+  "id": 7246,
+  "name": {
+   "esES": "Desfile espiritual",
+   "es419": "Rueda del Destino",
+   "en": "Spirit Parade"
+  },
+  "icon": "icons/bdo/04_pc_skill/01_pc_skill/27_pkow_skill/pkow_skill_7246.webp",
+  "level": 56,
+  "combat": true
+ },
+ {
+  "id": 7173,
+  "name": {
+   "esES": "Desgarraalmas",
+   "es419": "Desgarraalmas",
+   "en": "Soul Tear"
+  },
+  "icon": "icons/bdo/04_pc_skill/01_pc_skill/27_pkow_skill/pkow_skill_7171.webp",
+  "level": 46,
+  "combat": true
+ },
+ {
+  "id": 7328,
+  "name": {
+   "esES": "Despertar: Llama del zorro",
+   "es419": "Despertar: Fuego de Zorro",
+   "en": "Awakening: Foxfire"
+  },
+  "icon": "icons/bdo/04_pc_skill/01_pc_skill/27_pkow_skill/pkow_skill_7328.webp",
+  "level": 56,
+  "combat": true
+ },
+ {
+  "id": 7185,
+  "name": {
+   "esES": "Diosa zorro: jolgorio",
+   "es419": "Diosa Zorro: Jolgorio",
+   "en": "Foxspirit: Tag"
+  },
+  "icon": "icons/bdo/04_pc_skill/01_pc_skill/27_pkow_skill/pkow_skill_7183.webp",
+  "level": 34,
+  "combat": true
+ },
+ {
+  "id": 7275,
+  "name": {
+   "esES": "Diosa zorro: penitencia",
+   "es419": "Diosa Zorro: Penitencia",
+   "en": "Foxspirit: Atonement"
+  },
+  "icon": "icons/bdo/04_pc_skill/01_pc_skill/27_pkow_skill/pkow_skill_7256.webp",
+  "level": 60,
+  "combat": true
+ },
+ {
+  "id": 7388,
+  "name": {
+   "esES": "Disparo vulpino",
+   "es419": "Espina Vulpina",
+   "en": "Foxflare Fling"
+  },
+  "icon": "icons/bdo/04_pc_skill/01_pc_skill/27_pkow_skill/pkow_skill_7388.webp",
+  "level": 60,
+  "combat": true
+ },
+ {
+  "id": 7387,
+  "name": {
+   "esES": "Elvia: viento del oeste",
+   "es419": "Elvia: Viento del oeste",
+   "en": "Elvia: Twirling Bloom"
+  },
+  "icon": "icons/bdo/04_pc_skill/01_pc_skill/27_pkow_skill/pkow_skill_7387.webp",
+  "level": 60,
+  "combat": true
+ },
+ {
+  "id": 7361,
+  "name": {
+   "esES": "Entrenamiento con abanico vulpino",
+   "es419": "Maestría de Abanicos Vulpinos",
+   "en": "Foxtail Fans Mastery"
+  },
+  "icon": "icons/bdo/04_pc_skill/01_pc_skill/27_pkow_skill/pkow_skill_7357.webp",
+  "level": 60,
+  "combat": true
+ },
+ {
+  "id": 7190,
+  "name": {
+   "esES": "Esfera pírica",
+   "es419": "Esfera Pírica",
+   "en": "Foxflare"
+  },
+  "icon": "icons/bdo/04_pc_skill/01_pc_skill/27_pkow_skill/pkow_skill_7187.webp",
+  "level": 54,
+  "combat": true
+ },
+ {
+  "id": 7233,
+  "name": {
+   "esES": "Espíritu ígneo",
+   "es419": "Espíritu Ígneo",
+   "en": "Soulflame"
+  },
+  "icon": "icons/bdo/04_pc_skill/01_pc_skill/27_pkow_skill/pkow_skill_7231.webp",
+  "level": 37,
+  "combat": true
+ },
+ {
+  "id": 7277,
+  "name": {
+   "esES": "Espiritualismo",
+   "es419": "Espiritualismo",
+   "en": "Soul Ties"
+  },
+  "icon": "icons/bdo/04_pc_skill/01_pc_skill/27_pkow_skill/pkow_skill_7277.webp",
+  "level": 1,
+  "combat": true
+ },
+ {
+  "id": 7155,
+  "name": {
+   "esES": "Evasión",
+   "es419": "Evasión",
+   "en": "Evasion"
+  },
+  "icon": "icons/bdo/04_pc_skill/01_pc_skill/27_pkow_skill/pkow_skill_7155.webp",
+  "level": 1,
+  "combat": true
+ },
+ {
+  "id": 7181,
+  "name": {
+   "esES": "Explosión florida",
+   "es419": "Explosión Florida",
+   "en": "Petal Play"
+  },
+  "icon": "icons/bdo/04_pc_skill/01_pc_skill/27_pkow_skill/pkow_skill_7179.webp",
+  "level": 35,
+  "combat": true
+ },
+ {
+  "id": 7200,
+  "name": {
+   "esES": "Florescencia",
+   "es419": "Florescencia",
+   "en": "Flower Shroud"
+  },
+  "icon": "icons/bdo/04_pc_skill/01_pc_skill/27_pkow_skill/pkow_skill_7197.webp",
+  "level": 52,
+  "combat": true
+ },
+ {
+  "id": 7205,
+  "name": {
+   "esES": "Fuego fatuo",
+   "es419": "Fuego Fatuo",
+   "en": "Bristling Sparks"
+  },
+  "icon": "icons/bdo/04_pc_skill/01_pc_skill/27_pkow_skill/pkow_skill_7202.webp",
+  "level": 53,
+  "combat": true
+ },
+ {
+  "id": 7169,
+  "name": {
+   "esES": "Garra vulpina",
+   "es419": "Garra Vulpina",
+   "en": "Bared Claws"
+  },
+  "icon": "icons/bdo/04_pc_skill/01_pc_skill/27_pkow_skill/pkow_skill_7167.webp",
+  "level": 44,
+  "combat": true
+ },
+ {
+  "id": 4856,
+  "name": {
+   "esES": "Gran poder",
+   "es419": "Gran Poder",
+   "en": "Unyielding Might"
+  },
+  "icon": "icons/bdo/04_pc_skill/01_pc_skill/00_common/common_skill_18705.webp",
+  "level": 62,
+  "combat": true
+ },
+ {
+  "id": 7249,
+  "name": {
+   "esES": "Hechizo infernal",
+   "es419": "Fuego Fantasma",
+   "en": "Spirit Sparks"
+  },
+  "icon": "icons/bdo/04_pc_skill/01_pc_skill/27_pkow_skill/pkow_skill_7249.webp",
+  "level": 58,
+  "combat": true
+ },
+ {
+  "id": 7351,
+  "name": {
+   "esES": "Lazo ígneo",
+   "es419": "Estiramiento de Grulla",
+   "en": "Twirling Crane"
+  },
+  "icon": "icons/bdo/04_pc_skill/01_pc_skill/27_pkow_skill/pkow_skill_7351.webp",
+  "level": 60,
+  "combat": true
+ },
+ {
+  "id": 7210,
+  "name": {
+   "esES": "Llama cautivadora",
+   "es419": "Llama Cautivadora",
+   "en": "Spirited Away"
+  },
+  "icon": "icons/bdo/04_pc_skill/01_pc_skill/27_pkow_skill/pkow_skill_7207.webp",
+  "level": 52,
+  "combat": true
+ },
+ {
+  "id": 7344,
+  "name": {
+   "esES": "Llamarada aplastante",
+   "es419": "Opresión irresistible",
+   "en": "Emberclaw Crush"
+  },
+  "icon": "icons/bdo/04_pc_skill/01_pc_skill/27_pkow_skill/pkow_skill_7342.webp",
+  "level": 60,
+  "combat": true
+ },
+ {
+  "id": 7332,
+  "name": {
+   "esES": "Llamarada espiritual",
+   "es419": "Rito Vulpino",
+   "en": "Emberclaw Torrent"
+  },
+  "icon": "icons/bdo/04_pc_skill/01_pc_skill/27_pkow_skill/pkow_skill_7329.webp",
+  "level": 60,
+  "combat": true
+ },
+ {
+  "id": 1707,
+  "name": {
+   "esES": "Maestría infinita",
+   "es419": "Maestría Infinita",
+   "en": "Infinite Mastery"
+  },
+  "icon": "icons/bdo/04_pc_skill/01_pc_skill/00_common/common_skill_1702.webp",
+  "level": 55,
+  "combat": true
+ },
+ {
+  "id": 7228,
+  "name": {
+   "esES": "Movimiento: desquite",
+   "es419": "Flujo: Desquite",
+   "en": "Flow: Hanpuri"
+  },
+  "icon": "icons/bdo/04_pc_skill/01_pc_skill/27_pkow_skill/pkow_skill_7228.webp",
+  "level": 25,
+  "combat": true
+ },
+ {
+  "id": 7215,
+  "name": {
+   "esES": "Movimiento: río de los muertos",
+   "es419": "Flujo: Río de los Muertos",
+   "en": "Flow: Nether River"
+  },
+  "icon": "icons/bdo/04_pc_skill/01_pc_skill/27_pkow_skill/pkow_skill_7215.webp",
+  "level": 30,
+  "combat": true
+ },
+ {
+  "id": 7341,
+  "name": {
+   "esES": "Movimiento: Vendaval sofocante",
+   "es419": "Flujo: Viento Arrastrante",
+   "en": "Flow: Foxflare Encore"
+  },
+  "icon": "icons/bdo/04_pc_skill/01_pc_skill/27_pkow_skill/pkow_skill_7341.webp",
+  "level": 58,
+  "combat": true
+ },
+ {
+  "id": 7366,
+  "name": {
+   "esES": "Movimiento: Viento cortante",
+   "es419": "Flujo: Viento Cortante",
+   "en": "Flow: Emberclaw Sweep"
+  },
+  "icon": "icons/bdo/04_pc_skill/01_pc_skill/27_pkow_skill/pkow_skill_7366.webp",
+  "level": 59,
+  "combat": true
+ },
+ {
+  "id": 7216,
+  "name": {
+   "esES": "Muerte súbita",
+   "es419": "Muerte Súbita",
+   "en": "Charmed"
+  },
+  "icon": "icons/bdo/04_pc_skill/01_pc_skill/27_pkow_skill/pkow_skill_7216.webp",
+  "level": 17,
+  "combat": true
+ },
+ {
+  "id": 7365,
+  "name": {
+   "esES": "Navillera",
+   "es419": "Navilera",
+   "en": "Foxflare Ambush"
+  },
+  "icon": "icons/bdo/04_pc_skill/01_pc_skill/27_pkow_skill/pkow_skill_7365.webp",
+  "level": 56,
+  "combat": true
+ },
+ {
+  "id": 7213,
+  "name": {
+   "esES": "Pasos espectrales",
+   "es419": "Pasos Espectrales",
+   "en": "Spirit Step"
+  },
+  "icon": "icons/bdo/04_pc_skill/01_pc_skill/27_pkow_skill/pkow_skill_7212.webp",
+  "level": 31,
+  "combat": true
+ },
+ {
+  "id": 7352,
+  "name": {
+   "esES": "Patada desgarradora",
+   "es419": "Desgarrar",
+   "en": "Foxflare Cleave"
+  },
+  "icon": "icons/bdo/04_pc_skill/01_pc_skill/27_pkow_skill/pkow_skill_7352.webp",
+  "level": 58,
+  "combat": true
+ },
+ {
+  "id": 7364,
+  "name": {
+   "esES": "Patada implacable",
+   "es419": "Patada Implacable",
+   "en": "Fan Kick"
+  },
+  "icon": "icons/bdo/04_pc_skill/01_pc_skill/27_pkow_skill/pkow_skill_7364.webp",
+  "level": 57,
+  "combat": true
+ },
+ {
+  "id": 7368,
+  "name": {
+   "esES": "Primordial: Castigo abrasador",
+   "es419": "BON: Garra Violeta",
+   "en": "Core: Emberclaw Slash"
+  },
+  "icon": "icons/bdo/04_pc_skill/01_pc_skill/27_pkow_skill/pkow_skill_7333.webp",
+  "level": 60,
+  "combat": true
+ },
+ {
+  "id": 7370,
+  "name": {
+   "esES": "Primordial: Llamarada aplastante",
+   "es419": "BON: Opresión irresistible",
+   "en": "Core: Emberclaw Crush"
+  },
+  "icon": "icons/bdo/04_pc_skill/01_pc_skill/27_pkow_skill/pkow_skill_7342.webp",
+  "level": 60,
+  "combat": true
+ },
+ {
+  "id": 7367,
+  "name": {
+   "esES": "Primordial: Llamarada espiritual",
+   "es419": "BON: Rito Vulpino",
+   "en": "Core: Emberclaw Torrent"
+  },
+  "icon": "icons/bdo/04_pc_skill/01_pc_skill/27_pkow_skill/pkow_skill_7329.webp",
+  "level": 60,
+  "combat": true
+ },
+ {
+  "id": 7371,
+  "name": {
+   "esES": "Primordial: Rapsodia ígnea",
+   "es419": "BON: Giro Sutil",
+   "en": "Core: Twirling Rhapsody"
+  },
+  "icon": "icons/bdo/04_pc_skill/01_pc_skill/27_pkow_skill/pkow_skill_7345.webp",
+  "level": 60,
+  "combat": true
+ },
+ {
+  "id": 7372,
+  "name": {
+   "esES": "Primordial: Ultimátum explosivo",
+   "es419": "BON: Danza Feroz",
+   "en": "Core: Emberclaw Finale"
+  },
+  "icon": "icons/bdo/04_pc_skill/01_pc_skill/27_pkow_skill/pkow_skill_7348.webp",
+  "level": 60,
+  "combat": true
+ },
+ {
+  "id": 7369,
+  "name": {
+   "esES": "Primordial: Vorágine mortal",
+   "es419": "BON: Brisa de Mayal",
+   "en": "Core: Twirling Foxflare"
+  },
+  "icon": "icons/bdo/04_pc_skill/01_pc_skill/27_pkow_skill/pkow_skill_7337.webp",
+  "level": 60,
+  "combat": true
+ },
+ {
+  "id": 7237,
+  "name": {
+   "esES": "Prisión espiritual",
+   "es419": "Prisión Espiritual",
+   "en": "Soulsnare"
+  },
+  "icon": "icons/bdo/04_pc_skill/01_pc_skill/27_pkow_skill/pkow_skill_7235.webp",
+  "level": 39,
+  "combat": true
+ },
+ {
+  "id": 7347,
+  "name": {
+   "esES": "Rapsodia ígnea",
+   "es419": "Giro Sutil",
+   "en": "Twirling Rhapsody"
+  },
+  "icon": "icons/bdo/04_pc_skill/01_pc_skill/27_pkow_skill/pkow_skill_7345.webp",
+  "level": 60,
+  "combat": true
+ },
+ {
+  "id": 92,
+  "name": {
+   "esES": "Retirada oscura",
+   "es419": "Escape de Emergencia",
+   "en": "Emergency Escape"
+  },
+  "icon": "icons/bdo/04_pc_skill/01_pc_skill/00_common/common_skill_0092.webp",
+  "level": 1,
+  "combat": true
+ },
+ {
+  "id": 7245,
+  "name": {
+   "esES": "Retorno celestial",
+   "es419": "Deceso",
+   "en": "Heavenly Return"
+  },
+  "icon": "icons/bdo/04_pc_skill/01_pc_skill/27_pkow_skill/pkow_skill_7245.webp",
+  "level": 56,
+  "combat": true
+ },
+ {
+  "id": 7353,
+  "name": {
+   "esES": "Saeta vulpina",
+   "es419": "Golpe Sorpresivo",
+   "en": "Foxflare Fleche"
+  },
+  "icon": "icons/bdo/04_pc_skill/01_pc_skill/27_pkow_skill/pkow_skill_7353.webp",
+  "level": 56,
+  "combat": true
+ },
+ {
+  "id": 7356,
+  "name": {
+   "esES": "Senda de la muerte",
+   "es419": "Pasos Mortales",
+   "en": "Hazy Path"
+  },
+  "icon": "icons/bdo/04_pc_skill/01_pc_skill/27_pkow_skill/pkow_skill_7356.webp",
+  "level": 57,
+  "combat": true
+ },
+ {
+  "id": 7229,
+  "name": {
+   "esES": "Senda floral",
+   "es419": "Senda Floral",
+   "en": "Path of Petals"
+  },
+  "icon": "icons/bdo/04_pc_skill/01_pc_skill/27_pkow_skill/pkow_skill_7229.webp",
+  "level": 14,
+  "combat": true
+ },
+ {
+  "id": 7195,
+  "name": {
+   "esES": "Torbellino místico",
+   "es419": "Torbellino Místico",
+   "en": "Spirit Swirl"
+  },
+  "icon": "icons/bdo/04_pc_skill/01_pc_skill/27_pkow_skill/pkow_skill_7192.webp",
+  "level": 55,
+  "combat": true
+ },
+ {
+  "id": 7247,
+  "name": {
+   "esES": "Trampa de pétalos",
+   "es419": "Trampa Floral",
+   "en": "Petal Snare"
+  },
+  "icon": "icons/bdo/04_pc_skill/01_pc_skill/27_pkow_skill/pkow_skill_7247.webp",
+  "level": 57,
+  "combat": true
+ },
+ {
+  "id": 7177,
+  "name": {
+   "esES": "Trampa ilusoria",
+   "es419": "Trampa Ilusoria",
+   "en": "Petalblast"
+  },
+  "icon": "icons/bdo/04_pc_skill/01_pc_skill/27_pkow_skill/pkow_skill_7175.webp",
+  "level": 48,
+  "combat": true
+ },
+ {
+  "id": 91,
+  "name": {
+   "esES": "Transfuria",
+   "es419": "Transferencia de Furia",
+   "en": "Rage Transfer"
+  },
+  "icon": "icons/bdo/04_pc_skill/01_pc_skill/00_common/common_skill_0091.webp",
+  "level": 35,
+  "combat": true
+ },
+ {
+  "id": 7350,
+  "name": {
+   "esES": "Ultimátum explosivo",
+   "es419": "Danza Feroz",
+   "en": "Emberclaw Finale"
+  },
+  "icon": "icons/bdo/04_pc_skill/01_pc_skill/27_pkow_skill/pkow_skill_7348.webp",
+  "level": 60,
+  "combat": true
+ },
+ {
+  "id": 7276,
+  "name": {
+   "esES": "Unión vulpina",
+   "es419": "Unión Vulpina",
+   "en": "Foxpact"
+  },
+  "icon": "icons/bdo/04_pc_skill/01_pc_skill/27_pkow_skill/pkow_skill_7276.webp",
+  "level": 20,
+  "combat": true
+ },
+ {
+  "id": 7340,
+  "name": {
+   "esES": "Vorágine mortal",
+   "es419": "Brisa de Mayal",
+   "en": "Twirling Foxflare"
+  },
+  "icon": "icons/bdo/04_pc_skill/01_pc_skill/27_pkow_skill/pkow_skill_7337.webp",
+  "level": 59,
+  "combat": true
+ }
+]

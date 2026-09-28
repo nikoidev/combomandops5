@@ -1,0 +1,1311 @@
+[
+ {
+  "id": 2421,
+  "name": {
+   "esES": "Agarre rencoroso",
+   "es419": "Mano de Rencor",
+   "en": "Grip of Grudge"
+  },
+  "icon": "icons/bdo/04_pc_skill/01_pc_skill/15_pdew_skill/pdew_skill_2421.webp",
+  "level": 57,
+  "combat": true
+ },
+ {
+  "id": 2419,
+  "name": {
+   "esES": "Arrancar alma",
+   "es419": "Espíritu Despojado",
+   "en": "Soul Snatch"
+  },
+  "icon": "icons/bdo/04_pc_skill/01_pc_skill/15_pdew_skill/pdew_skill_2419.webp",
+  "level": 56,
+  "combat": true
+ },
+ {
+  "id": 2280,
+  "name": {
+   "esES": "Asalto oscuro",
+   "es419": "Explosión de Oscuridad",
+   "en": "Darkness Burst"
+  },
+  "icon": "icons/bdo/04_pc_skill/01_pc_skill/15_pdew_skill/pdew_skill_2277.webp",
+  "level": 44,
+  "combat": true
+ },
+ {
+  "id": 2304,
+  "name": {
+   "esES": "Ataque súbito",
+   "es419": "Emboscada",
+   "en": "Sudden Attack"
+  },
+  "icon": "icons/bdo/04_pc_skill/01_pc_skill/15_pdew_skill/pdew_skill_2302.webp",
+  "level": 38,
+  "combat": true
+ },
+ {
+  "id": 2366,
+  "name": {
+   "esES": "Bala sombría",
+   "es419": "Bala de Sombras",
+   "en": "Shadow Bullet"
+  },
+  "icon": "icons/bdo/04_pc_skill/01_pc_skill/15_pdew_skill/pdew_skill_2357.webp",
+  "level": 30,
+  "combat": true
+ },
+ {
+  "id": 2358,
+  "name": {
+   "esES": "Bala sombría: Aire",
+   "es419": "Bala de Sombras : Aire",
+   "en": "Shadow Bullet: Air"
+  },
+  "icon": "icons/bdo/04_pc_skill/01_pc_skill/15_pdew_skill/pdew_skill_2358.webp",
+  "level": 22,
+  "combat": true
+ },
+ {
+  "id": 2361,
+  "name": {
+   "esES": "Barrido arrasador",
+   "es419": "Rasguño de la Locura",
+   "en": "Ravage Rake"
+  },
+  "icon": "icons/bdo/04_pc_skill/01_pc_skill/15_pdew_skill/pdew_skill_2263.webp",
+  "level": 34,
+  "combat": true
+ },
+ {
+  "id": 2336,
+  "name": {
+   "esES": "Bloqueo sombrío",
+   "es419": "Sombra Oscura",
+   "en": "Dark Shadow"
+  },
+  "icon": "icons/bdo/04_pc_skill/01_pc_skill/15_pdew_skill/pdew_skill_2336.webp",
+  "level": 9,
+  "combat": true
+ },
+ {
+  "id": 2416,
+  "name": {
+   "esES": "Brecha de alucinación",
+   "es419": "Fisura de la Ilusión",
+   "en": "Hallucination Gap"
+  },
+  "icon": "icons/bdo/04_pc_skill/01_pc_skill/15_pdew_skill/pdew_skill_2416.webp",
+  "level": 56,
+  "combat": true
+ },
+ {
+  "id": 2379,
+  "name": {
+   "esES": "Bruma",
+   "es419": "Niebla Densa",
+   "en": "Smoky Haze"
+  },
+  "icon": "icons/bdo/04_pc_skill/01_pc_skill/15_pdew_skill/pdew_skill_2296.webp",
+  "level": 45,
+  "combat": true
+ },
+ {
+  "id": 2351,
+  "name": {
+   "esES": "Cadena: Crepúsculo",
+   "es419": "Cadena: Penumbra",
+   "en": "Chain: Dusk"
+  },
+  "icon": "icons/bdo/04_pc_skill/01_pc_skill/15_pdew_skill/pdew_skill_2351.webp",
+  "level": 42,
+  "combat": true
+ },
+ {
+  "id": 2305,
+  "name": {
+   "esES": "Camuflaje",
+   "es419": "Nocturno",
+   "en": "Nocturne"
+  },
+  "icon": "icons/bdo/04_pc_skill/01_pc_skill/15_pdew_skill/pdew_skill_2305.webp",
+  "level": 42,
+  "combat": true
+ },
+ {
+  "id": 2405,
+  "name": {
+   "esES": "Caza espiritual",
+   "es419": "Caza del Espíritu",
+   "en": "Spirit Hunt"
+  },
+  "icon": "icons/bdo/04_pc_skill/01_pc_skill/15_pdew_skill/pdew_skill_2403.webp",
+  "level": 59,
+  "combat": true
+ },
+ {
+  "id": 4781,
+  "name": {
+   "esES": "Cénit: Absorción de espíritu",
+   "es419": "S : Energía del Espíritu",
+   "en": "Prime: Spirit Absorption"
+  },
+  "icon": "icons/bdo/04_pc_skill/01_pc_skill/15_pdew_skill/pdew_skill_4781.webp",
+  "level": 56,
+  "combat": true
+ },
+ {
+  "id": 4787,
+  "name": {
+   "esES": "Cénit: Acero vedir",
+   "es419": "S : Fundición Espiritual",
+   "en": "Prime: Spirit Refinement"
+  },
+  "icon": "icons/bdo/04_pc_skill/01_pc_skill/15_pdew_skill/pdew_skill_4783.webp",
+  "level": 60,
+  "combat": true
+ },
+ {
+  "id": 4791,
+  "name": {
+   "esES": "Cénit: Barrido arrasador",
+   "es419": "S : Rasguño de la Locura",
+   "en": "Prime: Ravage Rake"
+  },
+  "icon": "icons/bdo/04_pc_skill/01_pc_skill/15_pdew_skill/pdew_skill_4788.webp",
+  "level": 59,
+  "combat": true
+ },
+ {
+  "id": 4811,
+  "name": {
+   "esES": "Cénit: Camuflaje",
+   "es419": "S : Nocturno",
+   "en": "Prime: Nocturne"
+  },
+  "icon": "icons/bdo/04_pc_skill/01_pc_skill/15_pdew_skill/pdew_skill_4811.webp",
+  "level": 59,
+  "combat": true
+ },
+ {
+  "id": 4782,
+  "name": {
+   "esES": "Cénit: Corriente de los espíritus",
+   "es419": "S : Viento del Espíritu",
+   "en": "Prime: Wind of the Spirit"
+  },
+  "icon": "icons/bdo/04_pc_skill/01_pc_skill/15_pdew_skill/pdew_skill_4782.webp",
+  "level": 56,
+  "combat": true
+ },
+ {
+  "id": 4820,
+  "name": {
+   "esES": "Cénit: Destello crepuscular",
+   "es419": "S : Embestida del Crepúsculo",
+   "en": "Prime: Twilight Dash"
+  },
+  "icon": "icons/bdo/04_pc_skill/01_pc_skill/15_pdew_skill/pdew_skill_4820.webp",
+  "level": 56,
+  "combat": true
+ },
+ {
+  "id": 4794,
+  "name": {
+   "esES": "Cénit: Ejecución",
+   "es419": "S : Ejecución",
+   "en": "Prime: Enforcement"
+  },
+  "icon": "icons/bdo/04_pc_skill/01_pc_skill/15_pdew_skill/pdew_skill_4792.webp",
+  "level": 58,
+  "combat": true
+ },
+ {
+  "id": 4808,
+  "name": {
+   "esES": "Cénit: Estallido de Vedir",
+   "es419": "S : Locura de Vedir",
+   "en": "Prime: Lunacy of Vedir"
+  },
+  "icon": "icons/bdo/04_pc_skill/01_pc_skill/15_pdew_skill/pdew_skill_4806.webp",
+  "level": 60,
+  "combat": true
+ },
+ {
+  "id": 4809,
+  "name": {
+   "esES": "Cénit: Giramundos",
+   "es419": "S : Balance Inclinado",
+   "en": "Prime: Slanted Balance"
+  },
+  "icon": "icons/bdo/04_pc_skill/01_pc_skill/15_pdew_skill/pdew_skill_4809.webp",
+  "level": 56,
+  "combat": true
+ },
+ {
+  "id": 4821,
+  "name": {
+   "esES": "Cénit: Legado espiritual",
+   "es419": "S : Legado del Espíritu",
+   "en": "Prime: Spirit Legacy"
+  },
+  "icon": "icons/bdo/04_pc_skill/01_pc_skill/15_pdew_skill/pdew_skill_4821.webp",
+  "level": 60,
+  "combat": true
+ },
+ {
+  "id": 4805,
+  "name": {
+   "esES": "Cénit: Meteoro oscuro",
+   "es419": "S : Ceniza de la Oscuridad",
+   "en": "Prime: Obsidian Ashes"
+  },
+  "icon": "icons/bdo/04_pc_skill/01_pc_skill/15_pdew_skill/pdew_skill_4802.webp",
+  "level": 60,
+  "combat": true
+ },
+ {
+  "id": 4798,
+  "name": {
+   "esES": "Cénit: Ojo del sino",
+   "es419": "S : Rueda del Destino",
+   "en": "Prime: Wheel of Fortune"
+  },
+  "icon": "icons/bdo/04_pc_skill/01_pc_skill/15_pdew_skill/pdew_skill_4795.webp",
+  "level": 59,
+  "combat": true
+ },
+ {
+  "id": 4810,
+  "name": {
+   "esES": "Cénit: Oscuridad penetrante",
+   "es419": "S : Oscuridad Penetrante",
+   "en": "Prime: Pervasive Darkness"
+  },
+  "icon": "icons/bdo/04_pc_skill/01_pc_skill/15_pdew_skill/pdew_skill_4810.webp",
+  "level": 57,
+  "combat": true
+ },
+ {
+  "id": 4801,
+  "name": {
+   "esES": "Cénit: Sombra de Kamasilva",
+   "es419": "S : Corte de Kamasilvia",
+   "en": "Prime: Kamasylvia Slash"
+  },
+  "icon": "icons/bdo/04_pc_skill/01_pc_skill/15_pdew_skill/pdew_skill_4799.webp",
+  "level": 59,
+  "combat": true
+ },
+ {
+  "id": 4812,
+  "name": {
+   "esES": "Cénit: Spectris serpens",
+   "es419": "S : Asalto Aéreo",
+   "en": "Prime: Air Strike"
+  },
+  "icon": "icons/bdo/04_pc_skill/01_pc_skill/15_pdew_skill/pdew_skill_4812.webp",
+  "level": 58,
+  "combat": true
+ },
+ {
+  "id": 2365,
+  "name": {
+   "esES": "Cicatriz abierta",
+   "es419": "Herida Abierta",
+   "en": "Unclosed Scar"
+  },
+  "icon": "icons/bdo/04_pc_skill/01_pc_skill/15_pdew_skill/pdew_skill_2365.webp",
+  "level": 9,
+  "combat": true
+ },
+ {
+  "id": 2758,
+  "name": {
+   "esES": "Cólera de Vedir",
+   "es419": "Tierra de Vedir",
+   "en": "Wrath of Vedir"
+  },
+  "icon": "icons/bdo/04_pc_skill/01_pc_skill/15_pdew_skill/pdew_skill_2758.webp",
+  "level": 56,
+  "combat": true
+ },
+ {
+  "id": 2350,
+  "name": {
+   "esES": "Crepúsculo",
+   "es419": "Penumbra",
+   "en": "Dusk"
+  },
+  "icon": "icons/bdo/04_pc_skill/01_pc_skill/15_pdew_skill/pdew_skill_2349.webp",
+  "level": 26,
+  "combat": true
+ },
+ {
+  "id": 2420,
+  "name": {
+   "esES": "Cúmulo de desesperación",
+   "es419": "Lluvia de Desesperación",
+   "en": "Cluster of Despair"
+  },
+  "icon": "icons/bdo/04_pc_skill/01_pc_skill/15_pdew_skill/pdew_skill_2420_re.webp",
+  "level": 56,
+  "combat": true
+ },
+ {
+  "id": 2363,
+  "name": {
+   "esES": "Daga descubierta",
+   "es419": "Daga Revelada",
+   "en": "Unveiled Dagger"
+  },
+  "icon": "icons/bdo/04_pc_skill/01_pc_skill/15_pdew_skill/pdew_skill_2268.webp",
+  "level": 30,
+  "combat": true
+ },
+ {
+  "id": 3078,
+  "name": {
+   "esES": "Definitiva: Asalto oscuro",
+   "es419": "Suprema : Explosión de Oscuridad",
+   "en": "Absolute: Darkness Burst"
+  },
+  "icon": "icons/bdo/04_pc_skill/01_pc_skill/15_pdew_skill/pdew_skill_3078.webp",
+  "level": 57,
+  "combat": true
+ },
+ {
+  "id": 3074,
+  "name": {
+   "esES": "Definitiva: Ataque por sorpresa",
+   "es419": "Suprema : Emboscada",
+   "en": "Absolute: Sudden Attack"
+  },
+  "icon": "icons/bdo/04_pc_skill/01_pc_skill/15_pdew_skill/pdew_skill_3074.webp",
+  "level": 57,
+  "combat": true
+ },
+ {
+  "id": 3077,
+  "name": {
+   "esES": "Definitiva: Bala sombría",
+   "es419": "Suprema : Bala de Sombras",
+   "en": "Absolute: Shadow Bullet"
+  },
+  "icon": "icons/bdo/04_pc_skill/01_pc_skill/15_pdew_skill/pdew_skill_3077.webp",
+  "level": 57,
+  "combat": true
+ },
+ {
+  "id": 3083,
+  "name": {
+   "esES": "Definitiva: Barrido arrasador",
+   "es419": "Suprema : Rasguño de la Locura",
+   "en": "Absolute: Ravage Rake"
+  },
+  "icon": "icons/bdo/04_pc_skill/01_pc_skill/15_pdew_skill/pdew_skill_3083.webp",
+  "level": 56,
+  "combat": true
+ },
+ {
+  "id": 3084,
+  "name": {
+   "esES": "Definitiva: Barrido arrasador extendido",
+   "es419": "Suprema : Flujo Rasguño de la Locura",
+   "en": "Absolute: Flow: Ravage Rake"
+  },
+  "icon": "icons/bdo/04_pc_skill/01_pc_skill/15_pdew_skill/pdew_skill_3084.webp",
+  "level": 58,
+  "combat": true
+ },
+ {
+  "id": 3092,
+  "name": {
+   "esES": "Definitiva: Camuflaje",
+   "es419": "Suprema : Nocturno",
+   "en": "Absolute: Nocturne"
+  },
+  "icon": "icons/bdo/04_pc_skill/01_pc_skill/15_pdew_skill/pdew_skill_3092.webp",
+  "level": 58,
+  "combat": true
+ },
+ {
+  "id": 3075,
+  "name": {
+   "esES": "Definitiva: Daga descubierta",
+   "es419": "Suprema : Daga Revelada",
+   "en": "Absolute: Unveiled Dagger"
+  },
+  "icon": "icons/bdo/04_pc_skill/01_pc_skill/15_pdew_skill/pdew_skill_3075.webp",
+  "level": 56,
+  "combat": true
+ },
+ {
+  "id": 3086,
+  "name": {
+   "esES": "Definitiva: Ejecución",
+   "es419": "Suprema : Ejecución",
+   "en": "Absolute: Enforcement"
+  },
+  "icon": "icons/bdo/04_pc_skill/01_pc_skill/15_pdew_skill/pdew_skill_3086.webp",
+  "level": 58,
+  "combat": true
+ },
+ {
+  "id": 3080,
+  "name": {
+   "esES": "Definitiva: Estallido de Vedir",
+   "es419": "Suprema : Locura de Vedir",
+   "en": "Absolute: Lunacy of Vedir"
+  },
+  "icon": "icons/bdo/04_pc_skill/01_pc_skill/15_pdew_skill/pdew_skill_3080.webp",
+  "level": 59,
+  "combat": true
+ },
+ {
+  "id": 3087,
+  "name": {
+   "esES": "Definitiva: Fugacidad",
+   "es419": "Suprema : Ruptura del Tiempo",
+   "en": "Absolute: Split Second"
+  },
+  "icon": "icons/bdo/04_pc_skill/01_pc_skill/15_pdew_skill/pdew_skill_3087.webp",
+  "level": 57,
+  "combat": true
+ },
+ {
+  "id": 3081,
+  "name": {
+   "esES": "Definitiva: Giramundos",
+   "es419": "Suprema : Balance Inclinado",
+   "en": "Absolute: Slanted Balance"
+  },
+  "icon": "icons/bdo/04_pc_skill/01_pc_skill/15_pdew_skill/pdew_skill_3081.webp",
+  "level": 56,
+  "combat": true
+ },
+ {
+  "id": 3076,
+  "name": {
+   "esES": "Definitiva: Golpe oculto",
+   "es419": "Suprema : Arma Secreta",
+   "en": "Absolute: Hidden Strike"
+  },
+  "icon": "icons/bdo/04_pc_skill/01_pc_skill/15_pdew_skill/pdew_skill_3076.webp",
+  "level": 56,
+  "combat": true
+ },
+ {
+  "id": 3072,
+  "name": {
+   "esES": "Definitiva: Maestría con kriegsmesser",
+   "es419": "Suprema : Maestría de Kriegsmesser",
+   "en": "Absolute: Kriegsmesser Training"
+  },
+  "icon": "icons/bdo/04_pc_skill/01_pc_skill/15_pdew_skill/pdew_skill_3072.webp",
+  "level": 56,
+  "combat": true
+ },
+ {
+  "id": 3090,
+  "name": {
+   "esES": "Definitiva: Meteoro oscuro",
+   "es419": "Suprema : Ceniza de la Oscuridad",
+   "en": "Absolute: Obsidian Ashes"
+  },
+  "icon": "icons/bdo/04_pc_skill/01_pc_skill/15_pdew_skill/pdew_skill_3090.webp",
+  "level": 58,
+  "combat": true
+ },
+ {
+  "id": 3091,
+  "name": {
+   "esES": "Definitiva: Nova calamitosa",
+   "es419": "Suprema : Tierra Corrupta",
+   "en": "Absolute: Corrupt Ground"
+  },
+  "icon": "icons/bdo/04_pc_skill/01_pc_skill/15_pdew_skill/pdew_skill_3091.webp",
+  "level": 59,
+  "combat": true
+ },
+ {
+  "id": 3089,
+  "name": {
+   "esES": "Definitiva: Ojo del sino",
+   "es419": "Suprema : Rueda del Destino",
+   "en": "Absolute: Wheel of Fortune"
+  },
+  "icon": "icons/bdo/04_pc_skill/01_pc_skill/15_pdew_skill/pdew_skill_3089.webp",
+  "level": 60,
+  "combat": true
+ },
+ {
+  "id": 3082,
+  "name": {
+   "esES": "Definitiva: Oscuridad penetrante",
+   "es419": "Suprema : Oscuridad Penetrante",
+   "en": "Absolute: Pervasive Darkness"
+  },
+  "icon": "icons/bdo/04_pc_skill/01_pc_skill/15_pdew_skill/pdew_skill_3082.webp",
+  "level": 57,
+  "combat": true
+ },
+ {
+  "id": 3088,
+  "name": {
+   "esES": "Definitiva: Sombra de Kamasilva",
+   "es419": "Suprema : Corte de Kamasilvia",
+   "en": "Absolute: Kamasylvia Slash"
+  },
+  "icon": "icons/bdo/04_pc_skill/01_pc_skill/15_pdew_skill/pdew_skill_3088.webp",
+  "level": 60,
+  "combat": true
+ },
+ {
+  "id": 3079,
+  "name": {
+   "esES": "Definitiva: Spectris serpens",
+   "es419": "Suprema : Asalto Aéreo",
+   "en": "Absolute: Air Strike"
+  },
+  "icon": "icons/bdo/04_pc_skill/01_pc_skill/15_pdew_skill/pdew_skill_3079.webp",
+  "level": 56,
+  "combat": true
+ },
+ {
+  "id": 3073,
+  "name": {
+   "esES": "Definitiva: Tajo sangrante",
+   "es419": "Suprema : Corte de Cicatriz",
+   "en": "Absolute: Scarring Slash"
+  },
+  "icon": "icons/bdo/04_pc_skill/01_pc_skill/15_pdew_skill/pdew_skill_3073.webp",
+  "level": 56,
+  "combat": true
+ },
+ {
+  "id": 2417,
+  "name": {
+   "esES": "Destello crepuscular",
+   "es419": "Embestida del Crepúsculo",
+   "en": "Twilight Dash"
+  },
+  "icon": "icons/bdo/04_pc_skill/01_pc_skill/15_pdew_skill/pdew_skill_2417.webp",
+  "level": 56,
+  "combat": true
+ },
+ {
+  "id": 2258,
+  "name": {
+   "esES": "Dogma de Vedir",
+   "es419": "Dogma de Vedir",
+   "en": "Vedir's Dogma"
+  },
+  "icon": "icons/bdo/04_pc_skill/01_pc_skill/15_pdew_skill/pdew_skill_2258.webp",
+  "level": 7,
+  "combat": true
+ },
+ {
+  "id": 2347,
+  "name": {
+   "esES": "Ejecución",
+   "es419": "Ejecución",
+   "en": "Enforcement"
+  },
+  "icon": "icons/bdo/04_pc_skill/01_pc_skill/15_pdew_skill/pdew_skill_2343.webp",
+  "level": 45,
+  "combat": true
+ },
+ {
+  "id": 2390,
+  "name": {
+   "esES": "Entrenamiento de vediant",
+   "es419": "Maestría de Vediant",
+   "en": "Vediant Training"
+  },
+  "icon": "icons/bdo/04_pc_skill/01_pc_skill/15_pdew_skill/pdew_skill_2381.webp",
+  "level": 60,
+  "combat": true
+ },
+ {
+  "id": 2342,
+  "name": {
+   "esES": "Estallido de Vedir",
+   "es419": "Locura de Vedir",
+   "en": "Lunacy of Vedir"
+  },
+  "icon": "icons/bdo/04_pc_skill/01_pc_skill/15_pdew_skill/pdew_skill_2342.webp",
+  "level": 35,
+  "combat": true
+ },
+ {
+  "id": 2298,
+  "name": {
+   "esES": "Evasión",
+   "es419": "Evasión",
+   "en": "Evasion"
+  },
+  "icon": "icons/bdo/04_pc_skill/01_pc_skill/01_phm_skill/phm_skill_1017.webp",
+  "level": 1,
+  "combat": true
+ },
+ {
+  "id": 2398,
+  "name": {
+   "esES": "Explosión espiritual",
+   "es419": "Resplandor Espiritual",
+   "en": "Spirit Blaze"
+  },
+  "icon": "icons/bdo/04_pc_skill/01_pc_skill/15_pdew_skill/pdew_skill_2395.webp",
+  "level": 59,
+  "combat": true
+ },
+ {
+  "id": 2415,
+  "name": {
+   "esES": "Florecimiento obscuro",
+   "es419": "Floreciente Rosa Negra",
+   "en": "Blooming Black Rose"
+  },
+  "icon": "icons/bdo/04_pc_skill/01_pc_skill/15_pdew_skill/pdew_skill_2415.webp",
+  "level": 60,
+  "combat": true
+ },
+ {
+  "id": 2337,
+  "name": {
+   "esES": "Fugacidad",
+   "es419": "Ruptura del Tiempo",
+   "en": "Split Second"
+  },
+  "icon": "icons/bdo/04_pc_skill/01_pc_skill/15_pdew_skill/pdew_skill_2337.webp",
+  "level": 21,
+  "combat": true
+ },
+ {
+  "id": 2295,
+  "name": {
+   "esES": "Giramundos",
+   "es419": "Balance Inclinado",
+   "en": "Slanted Balance"
+  },
+  "icon": "icons/bdo/04_pc_skill/01_pc_skill/15_pdew_skill/pdew_skill_2262.webp",
+  "level": 45,
+  "combat": true
+ },
+ {
+  "id": 2362,
+  "name": {
+   "esES": "Golpe oculto",
+   "es419": "Arma Secreta",
+   "en": "Hidden Strike"
+  },
+  "icon": "icons/bdo/04_pc_skill/01_pc_skill/15_pdew_skill/pdew_skill_2267.webp",
+  "level": 33,
+  "combat": true
+ },
+ {
+  "id": 2401,
+  "name": {
+   "esES": "Legado espiritual",
+   "es419": "Legado del Espíritu",
+   "en": "Spirit Legacy"
+  },
+  "icon": "icons/bdo/04_pc_skill/01_pc_skill/15_pdew_skill/pdew_skill_2399.webp",
+  "level": 60,
+  "combat": true
+ },
+ {
+  "id": 2909,
+  "name": {
+   "esES": "Llamarada de obsidiana",
+   "es419": "Oxidación de Oscuridad",
+   "en": "Obsidian Blaze"
+  },
+  "icon": "icons/bdo/04_pc_skill/01_pc_skill/15_pdew_skill/pdew_skill_2909.webp",
+  "level": 57,
+  "combat": true
+ },
+ {
+  "id": 2293,
+  "name": {
+   "esES": "Maestría con kriegsmesser",
+   "es419": "Maestría de Kriegsmesser",
+   "en": "Kriegsmesser Training"
+  },
+  "icon": "icons/bdo/04_pc_skill/01_pc_skill/15_pdew_skill/pdew_skill_2284.webp",
+  "level": 54,
+  "combat": true
+ },
+ {
+  "id": 2370,
+  "name": {
+   "esES": "Meteoro oscuro",
+   "es419": "Ceniza de la Oscuridad",
+   "en": "Obsidian Ashes"
+  },
+  "icon": "icons/bdo/04_pc_skill/01_pc_skill/15_pdew_skill/pdew_skill_2359.webp",
+  "level": 52,
+  "combat": true
+ },
+ {
+  "id": 6769,
+  "name": {
+   "esES": "Movimiento: Aniquilación oscura",
+   "es419": "Flujo : Aniquilar Oscuridad",
+   "en": "Flow: Dark Execution"
+  },
+  "icon": "icons/bdo/04_pc_skill/01_pc_skill/15_pdew_skill/pdew_skill_6769.webp",
+  "level": 50,
+  "combat": true
+ },
+ {
+  "id": 6768,
+  "name": {
+   "esES": "Movimiento: Asalto de Vedir",
+   "es419": "Flujo : Ataque Vedir",
+   "en": "Flow: Vedir Strike"
+  },
+  "icon": "icons/bdo/04_pc_skill/01_pc_skill/15_pdew_skill/pdew_skill_6768.webp",
+  "level": 30,
+  "combat": true
+ },
+ {
+  "id": 2266,
+  "name": {
+   "esES": "Movimiento: Barrido arrasador",
+   "es419": "Flujo : Rasguño de la Locura",
+   "en": "Flow: Ravage Rake"
+  },
+  "icon": "icons/bdo/04_pc_skill/01_pc_skill/15_pdew_skill/pdew_skill_2266.webp",
+  "level": 27,
+  "combat": true
+ },
+ {
+  "id": 2413,
+  "name": {
+   "esES": "Movimiento: Destrucción masiva",
+   "es419": "Flujo: Bombardeo",
+   "en": "Flow: Bombardment"
+  },
+  "icon": "icons/bdo/04_pc_skill/01_pc_skill/15_pdew_skill/pdew_skill_2413.webp",
+  "level": 57,
+  "combat": true
+ },
+ {
+  "id": 6798,
+  "name": {
+   "esES": "Movimiento: Dispersión de oscuridad",
+   "es419": "Flujo : Oscuridad Extendida",
+   "en": "Flow: Darkness Outpouring"
+  },
+  "icon": "icons/bdo/04_pc_skill/01_pc_skill/15_pdew_skill/pdew_skill_6798.webp",
+  "level": 60,
+  "combat": true
+ },
+ {
+  "id": 2412,
+  "name": {
+   "esES": "Movimiento: Explosión espiritual",
+   "es419": "Flujo: Resplandor Espiritual",
+   "en": "Flow: Spirit Blaze"
+  },
+  "icon": "icons/bdo/04_pc_skill/01_pc_skill/15_pdew_skill/pdew_skill_2412.webp",
+  "level": 60,
+  "combat": true
+ },
+ {
+  "id": 2346,
+  "name": {
+   "esES": "Movimiento: Fin",
+   "es419": "Flujo: Terminación",
+   "en": "Flow: Termination"
+  },
+  "icon": "icons/bdo/04_pc_skill/01_pc_skill/15_pdew_skill/pdew_skill_2346.webp",
+  "level": 24,
+  "combat": true
+ },
+ {
+  "id": 2414,
+  "name": {
+   "esES": "Movimiento: Raíz de la Catástrofe",
+   "es419": "Flujo : Catástrofe Arraigada",
+   "en": "Flow: Root of Catastrophe"
+  },
+  "icon": "icons/bdo/04_pc_skill/01_pc_skill/15_pdew_skill/pdew_skill_2414.webp",
+  "level": 58,
+  "combat": true
+ },
+ {
+  "id": 2757,
+  "name": {
+   "esES": "Noctumbra",
+   "es419": "Cenizas de Locura",
+   "en": "Shadow Strike"
+  },
+  "icon": "icons/bdo/04_pc_skill/01_pc_skill/15_pdew_skill/pdew_skill_2757.webp",
+  "level": 56,
+  "combat": true
+ },
+ {
+  "id": 2374,
+  "name": {
+   "esES": "Nova calamitosa",
+   "es419": "Tierra Corrupta",
+   "en": "Corrupt Ground"
+  },
+  "icon": "icons/bdo/04_pc_skill/01_pc_skill/15_pdew_skill/pdew_skill_2360.webp",
+  "level": 51,
+  "combat": true
+ },
+ {
+  "id": 2273,
+  "name": {
+   "esES": "Ojo del sino",
+   "es419": "Rueda del Destino",
+   "en": "Wheel of Fortune"
+  },
+  "icon": "icons/bdo/04_pc_skill/01_pc_skill/15_pdew_skill/pdew_skill_2269.webp",
+  "level": 52,
+  "combat": true
+ },
+ {
+  "id": 2378,
+  "name": {
+   "esES": "Orden imperiosa",
+   "es419": "Mandato imperioso",
+   "en": "Imperious Command"
+  },
+  "icon": "icons/bdo/04_pc_skill/01_pc_skill/15_pdew_skill/pdew_skill_2378.webp",
+  "level": 35,
+  "combat": true
+ },
+ {
+  "id": 2408,
+  "name": {
+   "esES": "Oscuridad aplastante",
+   "es419": "Oscuridad Aplastante",
+   "en": "Shattering Darkness"
+  },
+  "icon": "icons/bdo/04_pc_skill/01_pc_skill/15_pdew_skill/pdew_skill_2406.webp",
+  "level": 60,
+  "combat": true
+ },
+ {
+  "id": 2332,
+  "name": {
+   "esES": "Oscuridad penetrante",
+   "es419": "Oscuridad Penetrante",
+   "en": "Pervasive Darkness"
+  },
+  "icon": "icons/bdo/04_pc_skill/01_pc_skill/15_pdew_skill/pdew_skill_2330.webp",
+  "level": 45,
+  "combat": true
+ },
+ {
+  "id": 6041,
+  "name": {
+   "esES": "Primordial: Caza espiritual",
+   "es419": "BON: Caza del Espíritu",
+   "en": "Core: Spirit Hunt"
+  },
+  "icon": "icons/bdo/04_pc_skill/01_pc_skill/15_pdew_skill/pdew_skill_2403.webp",
+  "level": 60,
+  "combat": true
+ },
+ {
+  "id": 6038,
+  "name": {
+   "esES": "Primordial: Explosión espiritual",
+   "es419": "BON: Resplandor Espiritual",
+   "en": "Core: Spirit Blaze"
+  },
+  "icon": "icons/bdo/04_pc_skill/01_pc_skill/15_pdew_skill/pdew_skill_2395.webp",
+  "level": 60,
+  "combat": true
+ },
+ {
+  "id": 6040,
+  "name": {
+   "esES": "Primordial: Legado espiritual",
+   "es419": "BON: Legado del Espíritu",
+   "en": "Core: Spirit Legacy"
+  },
+  "icon": "icons/bdo/04_pc_skill/01_pc_skill/15_pdew_skill/pdew_skill_2399.webp",
+  "level": 60,
+  "combat": true
+ },
+ {
+  "id": 6042,
+  "name": {
+   "esES": "Primordial: Oscuridad aplastante",
+   "es419": "BON: Oscuridad Aplastante",
+   "en": "Core: Shattering Darkness"
+  },
+  "icon": "icons/bdo/04_pc_skill/01_pc_skill/15_pdew_skill/pdew_skill_2406.webp",
+  "level": 60,
+  "combat": true
+ },
+ {
+  "id": 6039,
+  "name": {
+   "esES": "Primordial: Semilla de la catástrofe",
+   "es419": "BON: Raíz de la Catástrofe",
+   "en": "Core: Seed of Catastrophe"
+  },
+  "icon": "icons/bdo/04_pc_skill/01_pc_skill/15_pdew_skill/pdew_skill_2409.webp",
+  "level": 60,
+  "combat": true
+ },
+ {
+  "id": 6037,
+  "name": {
+   "esES": "Primordial: Toque abusivo",
+   "es419": "BON: Mano de Explotación",
+   "en": "Core: Touch of Exploitation"
+  },
+  "icon": "icons/bdo/04_pc_skill/01_pc_skill/15_pdew_skill/pdew_skill_2391.webp",
+  "level": 60,
+  "combat": true
+ },
+ {
+  "id": 4780,
+  "name": {
+   "esES": "Renacer: Cólera de Vedir",
+   "es419": "Sucesión : Furia de Vedir",
+   "en": "Succession: Wrath of Vedir"
+  },
+  "icon": "icons/bdo/04_pc_skill/01_pc_skill/15_pdew_skill/pdew_skill_4780.webp",
+  "level": 56,
+  "combat": true
+ },
+ {
+  "id": 2375,
+  "name": {
+   "esES": "Renacer: Definitiva: Bala sombría",
+   "es419": "Sucesión: Suprema: Bala de Sombras",
+   "en": "Succession: Absolute: Shadow Bullet"
+  },
+  "icon": "icons/bdo/04_pc_skill/01_pc_skill/15_pdew_skill/pdew_skill_3077.webp",
+  "level": 56,
+  "combat": true
+ },
+ {
+  "id": 2274,
+  "name": {
+   "esES": "Renacer: Movimiento: Barrido arrasador",
+   "es419": "Sucesión : Flujo : Rasguño de la Locura",
+   "en": "Succession: Flow: Ravage Rake"
+  },
+  "icon": "icons/bdo/04_pc_skill/01_pc_skill/15_pdew_skill/pdew_skill_3084.webp",
+  "level": 56,
+  "combat": true
+ },
+ {
+  "id": 4973,
+  "name": {
+   "esES": "Renacer: Orden imperiosa",
+   "es419": "Sucesión : Mandato Imperioso",
+   "en": "Succession: Imperious Command"
+  },
+  "icon": "icons/bdo/04_pc_skill/01_pc_skill/15_pdew_skill/pdew_skill_2378.webp",
+  "level": 56,
+  "combat": true
+ },
+ {
+  "id": 2376,
+  "name": {
+   "esES": "Renacer: Trampa ilusoria",
+   "es419": "Sucesión: Trampa de la Ilusión",
+   "en": "Succession: Phantasmal Snare"
+  },
+  "icon": "icons/bdo/04_pc_skill/01_pc_skill/15_pdew_skill/pdew_skill_2377_re.webp",
+  "level": 56,
+  "combat": true
+ },
+ {
+  "id": 92,
+  "name": {
+   "esES": "Retirada oscura",
+   "es419": "Escape de Emergencia",
+   "en": "Emergency Escape"
+  },
+  "icon": "icons/bdo/04_pc_skill/01_pc_skill/00_common/common_skill_0092.webp",
+  "level": 1,
+  "combat": true
+ },
+ {
+  "id": 2908,
+  "name": {
+   "esES": "Revelación",
+   "es419": "Daga del Destino",
+   "en": "Unveiled Fate"
+  },
+  "icon": "icons/bdo/04_pc_skill/01_pc_skill/15_pdew_skill/pdew_skill_2908.webp",
+  "level": 57,
+  "combat": true
+ },
+ {
+  "id": 2261,
+  "name": {
+   "esES": "Saciedad de espíritu",
+   "es419": "Saciedad del Espíritu",
+   "en": "Spirit Satiation"
+  },
+  "icon": "icons/bdo/04_pc_skill/01_pc_skill/15_pdew_skill/pdew_skill_2259.webp",
+  "level": 39,
+  "combat": true
+ },
+ {
+  "id": 2402,
+  "name": {
+   "esES": "Semilla de la catástrofe",
+   "es419": "Raíz de la Catástrofe",
+   "en": "Seed of Catastrophe"
+  },
+  "icon": "icons/bdo/04_pc_skill/01_pc_skill/15_pdew_skill/pdew_skill_2409.webp",
+  "level": 60,
+  "combat": true
+ },
+ {
+  "id": 2335,
+  "name": {
+   "esES": "Sombra de Kamasilva",
+   "es419": "Corte de Kamasilvia",
+   "en": "Kamasylvia Slash"
+  },
+  "icon": "icons/bdo/04_pc_skill/01_pc_skill/15_pdew_skill/pdew_skill_2257.webp",
+  "level": 52,
+  "combat": true
+ },
+ {
+  "id": 2256,
+  "name": {
+   "esES": "Spectris serpens",
+   "es419": "Asalto Aéreo",
+   "en": "Air Strike"
+  },
+  "icon": "icons/bdo/04_pc_skill/01_pc_skill/15_pdew_skill/pdew_skill_2254.webp",
+  "level": 39,
+  "combat": true
+ },
+ {
+  "id": 2341,
+  "name": {
+   "esES": "Sublime: Aguijón",
+   "es419": "Extremo: Aguijón",
+   "en": "Ultimate: Stinger"
+  },
+  "icon": "icons/bdo/04_pc_skill/01_pc_skill/15_pdew_skill/pdew_skill_2341.webp",
+  "level": 38,
+  "combat": true
+ },
+ {
+  "id": 2348,
+  "name": {
+   "esES": "Sublime: Ejecución",
+   "es419": "Extremo: Ejecución",
+   "en": "Ultimate: Enforcement"
+  },
+  "icon": "icons/bdo/04_pc_skill/01_pc_skill/15_pdew_skill/pdew_skill_2348.webp",
+  "level": 51,
+  "combat": true
+ },
+ {
+  "id": 2339,
+  "name": {
+   "esES": "Sublime: Golpe oculto",
+   "es419": "Extremo: Arma Secreta",
+   "en": "Ultimate: Hidden Strike"
+  },
+  "icon": "icons/bdo/04_pc_skill/01_pc_skill/15_pdew_skill/pdew_skill_2267.webp",
+  "level": 44,
+  "combat": true
+ },
+ {
+  "id": 2301,
+  "name": {
+   "esES": "Tajo sangrante",
+   "es419": "Corte de Cicatriz",
+   "en": "Scarring Slash"
+  },
+  "icon": "icons/bdo/04_pc_skill/01_pc_skill/15_pdew_skill/pdew_skill_2299.webp",
+  "level": 32,
+  "combat": true
+ },
+ {
+  "id": 2394,
+  "name": {
+   "esES": "Toque abusivo",
+   "es419": "Mano de Explotación",
+   "en": "Touch of Exploitation"
+  },
+  "icon": "icons/bdo/04_pc_skill/01_pc_skill/15_pdew_skill/pdew_skill_2391.webp",
+  "level": 59,
+  "combat": true
+ },
+ {
+  "id": 2418,
+  "name": {
+   "esES": "Trampa de Vedir",
+   "es419": "Trampa de Vedir",
+   "en": "Trap of Vedir"
+  },
+  "icon": "icons/bdo/04_pc_skill/01_pc_skill/15_pdew_skill/pdew_skill_2418.webp",
+  "level": 59,
+  "combat": true
+ },
+ {
+  "id": 2377,
+  "name": {
+   "esES": "Trampa ilusoria",
+   "es419": "Trampa de la Ilusión",
+   "en": "Phantasmal Snare"
+  },
+  "icon": "icons/bdo/04_pc_skill/01_pc_skill/15_pdew_skill/pdew_skill_2377_re.webp",
+  "level": 45,
+  "combat": true
+ },
+ {
+  "id": 3459,
+  "name": {
+   "esES": "Absorción de furia",
+   "es419": "Absorción de Furia",
+   "en": "Rage Absorption"
+  },
+  "icon": "icons/bdo/04_pc_skill/01_pc_skill/00_common/common_skill_0090.webp",
+  "level": 35,
+  "combat": false
+ },
+ {
+  "id": 89,
+  "name": {
+   "esES": "Absorción de furia (latente)",
+   "es419": "Absorción de Furia (Innato)",
+   "en": "Rage Absorption (Innate)"
+  },
+  "icon": "icons/bdo/04_pc_skill/01_pc_skill/00_common/common_skill_0090.webp",
+  "level": 35,
+  "combat": false
+ },
+ {
+  "id": 3299,
+  "name": {
+   "esES": "Absorción espiritual",
+   "es419": "Absorción de Espíritu",
+   "en": "Spirit Consumption"
+  },
+  "icon": "icons/bdo/04_pc_skill/01_pc_skill/15_pdew_skill/pdew_skill_3299.webp",
+  "level": 15,
+  "combat": false
+ },
+ {
+  "id": 2076,
+  "name": {
+   "esES": "Cazador hábil",
+   "es419": "Cazador Experto",
+   "en": "Skilled Hunter"
+  },
+  "icon": "icons/bdo/04_pc_skill/01_pc_skill/06_pkm_skill/pkm_skill_2072.webp",
+  "level": 60,
+  "combat": false
+ },
+ {
+  "id": 2325,
+  "name": {
+   "esES": "Consumo espiritual",
+   "es419": "Combustión del Espíritu",
+   "en": "Spirit Combustion"
+  },
+  "icon": "icons/bdo/04_pc_skill/01_pc_skill/15_pdew_skill/pdew_skill_2306.webp",
+  "level": 60,
+  "combat": false
+ },
+ {
+  "id": 4846,
+  "name": {
+   "esES": "Consumo espiritual XXI",
+   "es419": "Combustión del Espíritu XXI",
+   "en": "Spirit Combustion XXI"
+  },
+  "icon": "icons/bdo/04_pc_skill/01_pc_skill/15_pdew_skill/pdew_skill_4846.webp",
+  "level": 1,
+  "combat": false
+ },
+ {
+  "id": 6128,
+  "name": {
+   "esES": "Elvia: Fe incendiada",
+   "es419": "Elvia: Convicción Destruida",
+   "en": "Elvia: Scorched Faith"
+  },
+  "icon": "icons/bdo/04_pc_skill/01_pc_skill/15_pdew_skill/pdew_skill_6128.webp",
+  "level": 60,
+  "combat": false
+ },
+ {
+  "id": 4045,
+  "name": {
+   "esES": "Estallido giramundos",
+   "es419": "Corte Inclinado",
+   "en": "Slanted Slash"
+  },
+  "icon": "icons/bdo/04_pc_skill/01_pc_skill/15_pdew_skill/pdew_skill_4045.webp",
+  "level": 58,
+  "combat": false
+ },
+ {
+  "id": 4856,
+  "name": {
+   "esES": "Gran poder",
+   "es419": "Gran Poder",
+   "en": "Unyielding Might"
+  },
+  "icon": "icons/bdo/04_pc_skill/01_pc_skill/00_common/common_skill_18705.webp",
+  "level": 62,
+  "combat": false
+ },
+ {
+  "id": 4044,
+  "name": {
+   "esES": "Impacto desmesurado",
+   "es419": "Asalto del Equilibrio",
+   "en": "Balanced Strike"
+  },
+  "icon": "icons/bdo/04_pc_skill/01_pc_skill/15_pdew_skill/pdew_skill_4044.webp",
+  "level": 58,
+  "combat": false
+ },
+ {
+  "id": 1707,
+  "name": {
+   "esES": "Maestría infinita",
+   "es419": "Maestría Infinita",
+   "en": "Infinite Mastery"
+  },
+  "icon": "icons/bdo/04_pc_skill/01_pc_skill/00_common/common_skill_1702.webp",
+  "level": 55,
+  "combat": false
+ },
+ {
+  "id": 6460,
+  "name": {
+   "esES": "Nebulosa oscura",
+   "es419": "Estrella Oscura",
+   "en": "Dark Nebula"
+  },
+  "icon": "icons/bdo/04_pc_skill/01_pc_skill/15_pdew_skill/pdew_skill_6460.webp",
+  "level": 59,
+  "combat": false
+ },
+ {
+  "id": 91,
+  "name": {
+   "esES": "Transfuria",
+   "es419": "Transferencia de Furia",
+   "en": "Rage Transfer"
+  },
+  "icon": "icons/bdo/04_pc_skill/01_pc_skill/00_common/common_skill_0091.webp",
+  "level": 35,
+  "combat": false
+ }
+]

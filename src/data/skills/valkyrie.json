@@ -1,0 +1,1399 @@
+[
+ {
+  "id": 2816,
+  "name": {
+   "esES": "Abrazo divino",
+   "es419": "Bendición Divina",
+   "en": "Divine Descent"
+  },
+  "icon": "icons/bdo/04_pc_skill/01_pc_skill/07_pvw_skill/pvw_skill_2816.webp",
+  "level": 57,
+  "combat": true
+ },
+ {
+  "id": 756,
+  "name": {
+   "esES": "Asunción",
+   "es419": "Golpe al Cielo",
+   "en": "Skyward Strike"
+  },
+  "icon": "icons/bdo/04_pc_skill/01_pc_skill/07_pvw_skill/pvw_skill_0754.webp",
+  "level": 46,
+  "combat": true
+ },
+ {
+  "id": 769,
+  "name": {
+   "esES": "Bendición de Elion",
+   "es419": "Bendición de Elion",
+   "en": "Elion's Blessing"
+  },
+  "icon": "icons/bdo/04_pc_skill/01_pc_skill/07_pvw_skill/pvw_skill_0769.webp",
+  "level": 46,
+  "combat": true
+ },
+ {
+  "id": 752,
+  "name": {
+   "esES": "Carga justiciera",
+   "es419": "Carga de la Justicia",
+   "en": "Righteous Charge"
+  },
+  "icon": "icons/bdo/04_pc_skill/01_pc_skill/07_pvw_skill/pvw_skill_0750.webp",
+  "level": 39,
+  "combat": true
+ },
+ {
+  "id": 1961,
+  "name": {
+   "esES": "Castigatio",
+   "es419": "Castigo",
+   "en": "Castigatio"
+  },
+  "icon": "icons/bdo/04_pc_skill/01_pc_skill/07_pvw_skill/pvw_skill_1958.webp",
+  "level": 59,
+  "combat": true
+ },
+ {
+  "id": 779,
+  "name": {
+   "esES": "Castigo",
+   "es419": "Sentencia",
+   "en": "Punishment"
+  },
+  "icon": "icons/bdo/04_pc_skill/01_pc_skill/07_pvw_skill/pvw_skill_0776.webp",
+  "level": 38,
+  "combat": true
+ },
+ {
+  "id": 4140,
+  "name": {
+   "esES": "Cénit: Bendición",
+   "es419": "S : Oración Sagrada",
+   "en": "Prime: Holy Prayer"
+  },
+  "icon": "icons/bdo/04_pc_skill/01_pc_skill/07_pvw_skill/pvw_skill_4136.webp",
+  "level": 60,
+  "combat": true
+ },
+ {
+  "id": 4145,
+  "name": {
+   "esES": "Cénit: Contraataque",
+   "es419": "S : Contraataque",
+   "en": "Prime: Counter"
+  },
+  "icon": "icons/bdo/04_pc_skill/01_pc_skill/07_pvw_skill/pvw_skill_4145.webp",
+  "level": 57,
+  "combat": true
+ },
+ {
+  "id": 4143,
+  "name": {
+   "esES": "Cénit: Contragolpe",
+   "es419": "S : Contraataque de la Justicia",
+   "en": "Prime: Just Counter"
+  },
+  "icon": "icons/bdo/04_pc_skill/01_pc_skill/07_pvw_skill/pvw_skill_4143.webp",
+  "level": 59,
+  "combat": true
+ },
+ {
+  "id": 4144,
+  "name": {
+   "esES": "Cénit: Embate de luz",
+   "es419": "S : Embestida de Luz Brillante",
+   "en": "Prime: Shining Dash"
+  },
+  "icon": "icons/bdo/04_pc_skill/01_pc_skill/07_pvw_skill/pvw_skill_4144.webp",
+  "level": 58,
+  "combat": true
+ },
+ {
+  "id": 4220,
+  "name": {
+   "esES": "Cénit: Espada de juicio",
+   "es419": "S : Espada de la Condena",
+   "en": "Prime: Sword of Judgment"
+  },
+  "icon": "icons/bdo/04_pc_skill/01_pc_skill/07_pvw_skill/pvw_skill_4147.webp",
+  "level": 59,
+  "combat": true
+ },
+ {
+  "id": 4142,
+  "name": {
+   "esES": "Cénit: Gloria de Enslar",
+   "es419": "S : Gloria de Enslar",
+   "en": "Prime: Glory of Enslar"
+  },
+  "icon": "icons/bdo/04_pc_skill/01_pc_skill/07_pvw_skill/pvw_skill_4142.webp",
+  "level": 56,
+  "combat": true
+ },
+ {
+  "id": 4217,
+  "name": {
+   "esES": "Cénit: Lanza celestial",
+   "es419": "S : Lanza Celestial",
+   "en": "Prime: Celestial Spear"
+  },
+  "icon": "icons/bdo/04_pc_skill/01_pc_skill/07_pvw_skill/pvw_skill_4150.webp",
+  "level": 60,
+  "combat": true
+ },
+ {
+  "id": 4222,
+  "name": {
+   "esES": "Cénit: Lanzamiento de escudo",
+   "es419": "S : Lanzar Escudo",
+   "en": "Prime: Shield Throw"
+  },
+  "icon": "icons/bdo/04_pc_skill/01_pc_skill/07_pvw_skill/pvw_skill_4149.webp",
+  "level": 60,
+  "combat": true
+ },
+ {
+  "id": 7745,
+  "name": {
+   "esES": "Cénit: Luz cortante",
+   "es419": "S: Corte de Luz",
+   "en": "Prime: Severing Light"
+  },
+  "icon": "icons/bdo/04_pc_skill/01_pc_skill/07_pvw_skill/pvw_skill_4834.webp",
+  "level": 56,
+  "combat": true
+ },
+ {
+  "id": 4226,
+  "name": {
+   "esES": "Cénit: Poder divino",
+   "es419": "S : Poder Divino",
+   "en": "Prime: Divine Power"
+  },
+  "icon": "icons/bdo/04_pc_skill/01_pc_skill/07_pvw_skill/pvw_skill_4151.webp",
+  "level": 60,
+  "combat": true
+ },
+ {
+  "id": 4152,
+  "name": {
+   "esES": "Cénit: Purificatione",
+   "es419": "S : Escudo Purificador",
+   "en": "Prime: Purificatione"
+  },
+  "icon": "icons/bdo/04_pc_skill/01_pc_skill/07_pvw_skill/pvw_skill_4152.webp",
+  "level": 58,
+  "combat": true
+ },
+ {
+  "id": 4153,
+  "name": {
+   "esES": "Cénit: Sanctitas de Enslar",
+   "es419": "S : Santidad de Enslar",
+   "en": "Prime: Sanctitas de Enslar"
+  },
+  "icon": "icons/bdo/04_pc_skill/01_pc_skill/07_pvw_skill/pvw_skill_4153.webp",
+  "level": 59,
+  "combat": true
+ },
+ {
+  "id": 4215,
+  "name": {
+   "esES": "Cénit: Sentencia de los cielos",
+   "es419": "S : Justicia de la Luz",
+   "en": "Prime: Judgment of Light"
+  },
+  "icon": "icons/bdo/04_pc_skill/01_pc_skill/07_pvw_skill/pvw_skill_4148.webp",
+  "level": 60,
+  "combat": true
+ },
+ {
+  "id": 4223,
+  "name": {
+   "esES": "Cénit: Tajo deslumbrador",
+   "es419": "S : Corte de Destello",
+   "en": "Prime: Glaring Slash"
+  },
+  "icon": "icons/bdo/04_pc_skill/01_pc_skill/07_pvw_skill/pvw_skill_4146.webp",
+  "level": 59,
+  "combat": true
+ },
+ {
+  "id": 4141,
+  "name": {
+   "esES": "Cénit: Voluntad de hierro",
+   "es419": "S : Voluntad Noble",
+   "en": "Prime: Noble Will"
+  },
+  "icon": "icons/bdo/04_pc_skill/01_pc_skill/07_pvw_skill/pvw_skill_4141.webp",
+  "level": 56,
+  "combat": true
+ },
+ {
+  "id": 2747,
+  "name": {
+   "esES": "Clamor celestial",
+   "es419": "Respiro del Cielo",
+   "en": "Celestial Cry"
+  },
+  "icon": "icons/bdo/04_pc_skill/01_pc_skill/07_pvw_skill/pvw_skill_2747.webp",
+  "level": 56,
+  "combat": true
+ },
+ {
+  "id": 1496,
+  "name": {
+   "esES": "Contraataque",
+   "es419": "Contraataque",
+   "en": "Counter"
+  },
+  "icon": "icons/bdo/04_pc_skill/01_pc_skill/07_pvw_skill/pvw_skill_1494.webp",
+  "level": 40,
+  "combat": true
+ },
+ {
+  "id": 719,
+  "name": {
+   "esES": "Contraataque con escudo",
+   "es419": "Contraataque de Escudo",
+   "en": "Shield Counter"
+  },
+  "icon": "icons/bdo/04_pc_skill/01_pc_skill/07_pvw_skill/pvw_skill_0719.webp",
+  "level": 12,
+  "combat": true
+ },
+ {
+  "id": 1962,
+  "name": {
+   "esES": "Contraataque devastador",
+   "es419": "Contraataque Devastador",
+   "en": "Vindicta"
+  },
+  "icon": "icons/bdo/04_pc_skill/01_pc_skill/07_pvw_skill/pvw_skill_1962.webp",
+  "level": 56,
+  "combat": true
+ },
+ {
+  "id": 722,
+  "name": {
+   "esES": "Contragolpe",
+   "es419": "Contraataque de la Justicia",
+   "en": "Just Counter"
+  },
+  "icon": "icons/bdo/04_pc_skill/01_pc_skill/07_pvw_skill/pvw_skill_0720.webp",
+  "level": 43,
+  "combat": true
+ },
+ {
+  "id": 1489,
+  "name": {
+   "esES": "Corte lateral",
+   "es419": "Corte Lateral",
+   "en": "Sideways Cut"
+  },
+  "icon": "icons/bdo/04_pc_skill/01_pc_skill/07_pvw_skill/pvw_skill_1487.webp",
+  "level": 43,
+  "combat": true
+ },
+ {
+  "id": 3206,
+  "name": {
+   "esES": "Definitiva: Asunción",
+   "es419": "Suprema : Golpe al Cielo",
+   "en": "Absolute: Skyward Strike"
+  },
+  "icon": "icons/bdo/04_pc_skill/01_pc_skill/07_pvw_skill/pvw_skill_3206.webp",
+  "level": 56,
+  "combat": true
+ },
+ {
+  "id": 3220,
+  "name": {
+   "esES": "Definitiva: Carga justiciera sublime",
+   "es419": "Suprema : Extremo Carga de la Justicia",
+   "en": "Absolute: Ultimate Righteous Charge"
+  },
+  "icon": "icons/bdo/04_pc_skill/01_pc_skill/07_pvw_skill/pvw_skill_3220.webp",
+  "level": 59,
+  "combat": true
+ },
+ {
+  "id": 3213,
+  "name": {
+   "esES": "Definitiva: Castigo",
+   "es419": "Suprema : Sentencia",
+   "en": "Absolute: Punishment"
+  },
+  "icon": "icons/bdo/04_pc_skill/01_pc_skill/07_pvw_skill/pvw_skill_3213.webp",
+  "level": 56,
+  "combat": true
+ },
+ {
+  "id": 3208,
+  "name": {
+   "esES": "Definitiva: Contraataque",
+   "es419": "Suprema : Contraataque",
+   "en": "Absolute: Counter"
+  },
+  "icon": "icons/bdo/04_pc_skill/01_pc_skill/07_pvw_skill/pvw_skill_3208.webp",
+  "level": 56,
+  "combat": true
+ },
+ {
+  "id": 3205,
+  "name": {
+   "esES": "Definitiva: Contragolpe",
+   "es419": "Suprema : Contraataque de la Justicia",
+   "en": "Absolute: Just Counter"
+  },
+  "icon": "icons/bdo/04_pc_skill/01_pc_skill/07_pvw_skill/pvw_skill_3205.webp",
+  "level": 59,
+  "combat": true
+ },
+ {
+  "id": 3199,
+  "name": {
+   "esES": "Definitiva: Corte lateral",
+   "es419": "Suprema : Corte Lateral",
+   "en": "Absolute: Sideways Cut"
+  },
+  "icon": "icons/bdo/04_pc_skill/01_pc_skill/07_pvw_skill/pvw_skill_3199.webp",
+  "level": 56,
+  "combat": true
+ },
+ {
+  "id": 3215,
+  "name": {
+   "esES": "Definitiva: Eco celestial",
+   "es419": "Suprema : Eco del Cielo",
+   "en": "Absolute: Heaven's Echo"
+  },
+  "icon": "icons/bdo/04_pc_skill/01_pc_skill/07_pvw_skill/pvw_skill_3215.webp",
+  "level": 58,
+  "combat": true
+ },
+ {
+  "id": 3219,
+  "name": {
+   "esES": "Definitiva: Embate de luz",
+   "es419": "Suprema : Embestida de Luz Brillante",
+   "en": "Absolute: Shining Dash"
+  },
+  "icon": "icons/bdo/04_pc_skill/01_pc_skill/07_pvw_skill/pvw_skill_3219.webp",
+  "level": 58,
+  "combat": true
+ },
+ {
+  "id": 3196,
+  "name": {
+   "esES": "Definitiva: Esgrima de valquiria",
+   "es419": "Suprema : Espada de la Valquiria",
+   "en": "Absolute: Valkyrie Slash"
+  },
+  "icon": "icons/bdo/04_pc_skill/01_pc_skill/07_pvw_skill/pvw_skill_3196.webp",
+  "level": 56,
+  "combat": true
+ },
+ {
+  "id": 3202,
+  "name": {
+   "esES": "Definitiva: Espada de juicio",
+   "es419": "Suprema : Espada de la Condena",
+   "en": "Absolute: Sword of Judgment"
+  },
+  "icon": "icons/bdo/04_pc_skill/01_pc_skill/07_pvw_skill/pvw_skill_3202.webp",
+  "level": 59,
+  "combat": true
+ },
+ {
+  "id": 3198,
+  "name": {
+   "esES": "Definitiva: Espadazo en carrera",
+   "es419": "Suprema : Corte de Embestida",
+   "en": "Absolute: Charging Slash"
+  },
+  "icon": "icons/bdo/04_pc_skill/01_pc_skill/07_pvw_skill/pvw_skill_3198.webp",
+  "level": 56,
+  "combat": true
+ },
+ {
+  "id": 3203,
+  "name": {
+   "esES": "Definitiva: Golpe de escudo",
+   "es419": "Suprema : Golpe de Escudo",
+   "en": "Absolute: Shield Strike"
+  },
+  "icon": "icons/bdo/04_pc_skill/01_pc_skill/07_pvw_skill/pvw_skill_3203.webp",
+  "level": 56,
+  "combat": true
+ },
+ {
+  "id": 3201,
+  "name": {
+   "esES": "Definitiva: Hálito de Elion",
+   "es419": "Suprema : Respiro de Elion",
+   "en": "Absolute: Breath of Elion"
+  },
+  "icon": "icons/bdo/04_pc_skill/01_pc_skill/07_pvw_skill/pvw_skill_3201.webp",
+  "level": 56,
+  "combat": true
+ },
+ {
+  "id": 3218,
+  "name": {
+   "esES": "Definitiva: Lanza celestial",
+   "es419": "Suprema : Lanza Celestial",
+   "en": "Absolute: Celestial Spear"
+  },
+  "icon": "icons/bdo/04_pc_skill/01_pc_skill/07_pvw_skill/pvw_skill_3218.webp",
+  "level": 59,
+  "combat": true
+ },
+ {
+  "id": 3204,
+  "name": {
+   "esES": "Definitiva: Lanzamiento de escudo",
+   "es419": "Suprema : Lanzar Escudo",
+   "en": "Absolute: Shield Throw"
+  },
+  "icon": "icons/bdo/04_pc_skill/01_pc_skill/07_pvw_skill/pvw_skill_3204.webp",
+  "level": 58,
+  "combat": true
+ },
+ {
+  "id": 3210,
+  "name": {
+   "esES": "Definitiva: Lluvia de patadas",
+   "es419": "Suprema : Patadas Sucesivas",
+   "en": "Absolute: Flurry of Kicks"
+  },
+  "icon": "icons/bdo/04_pc_skill/01_pc_skill/07_pvw_skill/pvw_skill_3210.webp",
+  "level": 57,
+  "combat": true
+ },
+ {
+  "id": 3209,
+  "name": {
+   "esES": "Definitiva: Luz afilada",
+   "es419": "Suprema : Luz Afilada",
+   "en": "Absolute: Sharp Light"
+  },
+  "icon": "icons/bdo/04_pc_skill/01_pc_skill/07_pvw_skill/pvw_skill_3209.webp",
+  "level": 59,
+  "combat": true
+ },
+ {
+  "id": 3200,
+  "name": {
+   "esES": "Definitiva: Luz cortante",
+   "es419": "Suprema : Corte de Luz",
+   "en": "Absolute: Severing Light"
+  },
+  "icon": "icons/bdo/04_pc_skill/01_pc_skill/07_pvw_skill/pvw_skill_3200.webp",
+  "level": 57,
+  "combat": true
+ },
+ {
+  "id": 3211,
+  "name": {
+   "esES": "Definitiva: Patada alta",
+   "es419": "Suprema : Patada Voladora",
+   "en": "Absolute: Flying Kick"
+  },
+  "icon": "icons/bdo/04_pc_skill/01_pc_skill/07_pvw_skill/pvw_skill_3211.webp",
+  "level": 56,
+  "combat": true
+ },
+ {
+  "id": 3212,
+  "name": {
+   "esES": "Definitiva: Patada alta doble",
+   "es419": "Suprema : Flujo Patada Doble Voladora",
+   "en": "Absolute: Double Flying Kick"
+  },
+  "icon": "icons/bdo/04_pc_skill/01_pc_skill/07_pvw_skill/pvw_skill_3212.webp",
+  "level": 57,
+  "combat": true
+ },
+ {
+  "id": 3214,
+  "name": {
+   "esES": "Definitiva: Poder divino",
+   "es419": "Suprema : Poder Divino",
+   "en": "Absolute: Divine Power"
+  },
+  "icon": "icons/bdo/04_pc_skill/01_pc_skill/07_pvw_skill/pvw_skill_3214.webp",
+  "level": 59,
+  "combat": true
+ },
+ {
+  "id": 3207,
+  "name": {
+   "esES": "Definitiva: Sentencia de los cielos",
+   "es419": "Suprema : Justicia de la Luz",
+   "en": "Absolute: Judgment of Light"
+  },
+  "icon": "icons/bdo/04_pc_skill/01_pc_skill/07_pvw_skill/pvw_skill_3207.webp",
+  "level": 60,
+  "combat": true
+ },
+ {
+  "id": 3217,
+  "name": {
+   "esES": "Definitiva: Tajo deslumbrador",
+   "es419": "Suprema : Corte de Destello",
+   "en": "Absolute: Glaring Slash"
+  },
+  "icon": "icons/bdo/04_pc_skill/01_pc_skill/07_pvw_skill/pvw_skill_3217.webp",
+  "level": 59,
+  "combat": true
+ },
+ {
+  "id": 3197,
+  "name": {
+   "esES": "Definitiva: Tajo frontal",
+   "es419": "Suprema : Corte Avanzado",
+   "en": "Absolute: Forward Slash"
+  },
+  "icon": "icons/bdo/04_pc_skill/01_pc_skill/07_pvw_skill/pvw_skill_3197.webp",
+  "level": 56,
+  "combat": true
+ },
+ {
+  "id": 746,
+  "name": {
+   "esES": "Eco celestial",
+   "es419": "Eco del Cielo",
+   "en": "Heaven's Echo"
+  },
+  "icon": "icons/bdo/04_pc_skill/01_pc_skill/07_pvw_skill/pvw_skill_0744.webp",
+  "level": 45,
+  "combat": true
+ },
+ {
+  "id": 731,
+  "name": {
+   "esES": "Embate de luz",
+   "es419": "Embestida de Luz Brillante",
+   "en": "Shining Dash"
+  },
+  "icon": "icons/bdo/04_pc_skill/01_pc_skill/07_pvw_skill/pvw_skill_0731.webp",
+  "level": 46,
+  "combat": true
+ },
+ {
+  "id": 730,
+  "name": {
+   "esES": "Empujón con escudo",
+   "es419": "Empuje con Escudo",
+   "en": "Shield Push"
+  },
+  "icon": "icons/bdo/04_pc_skill/01_pc_skill/07_pvw_skill/pvw_skill_0730.webp",
+  "level": 15,
+  "combat": true
+ },
+ {
+  "id": 1954,
+  "name": {
+   "esES": "Entrenamiento de Geirr",
+   "es419": "Maestría de Lancia",
+   "en": "Lancia Training"
+  },
+  "icon": "icons/bdo/04_pc_skill/01_pc_skill/07_pvw_skill/pvw_skill_1945.webp",
+  "level": 60,
+  "combat": true
+ },
+ {
+  "id": 1475,
+  "name": {
+   "esES": "Esgrima de valquiria",
+   "es419": "Espada de la Valquiria",
+   "en": "Valkyrie Slash"
+  },
+  "icon": "icons/bdo/04_pc_skill/01_pc_skill/07_pvw_skill/pvw_skill_1466.webp",
+  "level": 54,
+  "combat": true
+ },
+ {
+  "id": 2815,
+  "name": {
+   "esES": "Espada de Elion",
+   "es419": "Golpe Divino",
+   "en": "Divine Slam"
+  },
+  "icon": "icons/bdo/04_pc_skill/01_pc_skill/07_pvw_skill/pvw_skill_2815.webp",
+  "level": 57,
+  "combat": true
+ },
+ {
+  "id": 735,
+  "name": {
+   "esES": "Espada de juicio",
+   "es419": "Espada de la Condena",
+   "en": "Sword of Judgment"
+  },
+  "icon": "icons/bdo/04_pc_skill/01_pc_skill/07_pvw_skill/pvw_skill_0732.webp",
+  "level": 46,
+  "combat": true
+ },
+ {
+  "id": 749,
+  "name": {
+   "esES": "Espadazo en carrera",
+   "es419": "Corte de Embestida",
+   "en": "Charging Slash"
+  },
+  "icon": "icons/bdo/04_pc_skill/01_pc_skill/07_pvw_skill/pvw_skill_0747.webp",
+  "level": 40,
+  "combat": true
+ },
+ {
+  "id": 1484,
+  "name": {
+   "esES": "Evasión",
+   "es419": "Evasión",
+   "en": "Evasion"
+  },
+  "icon": "icons/bdo/04_pc_skill/01_pc_skill/01_phm_skill/phm_skill_1017.webp",
+  "level": 1,
+  "combat": true
+ },
+ {
+  "id": 1978,
+  "name": {
+   "esES": "Gallardía",
+   "es419": "Estocada Seria",
+   "en": "Blitz Stab"
+  },
+  "icon": "icons/bdo/04_pc_skill/01_pc_skill/07_pvw_skill/pvw_skill_1978.webp",
+  "level": 56,
+  "combat": true
+ },
+ {
+  "id": 1984,
+  "name": {
+   "esES": "Gladius Gloriae",
+   "es419": "Espada Gloriosa",
+   "en": "Gladius Gloriae"
+  },
+  "icon": "icons/bdo/04_pc_skill/01_pc_skill/07_pvw_skill/pvw_skill_1984.webp",
+  "level": 60,
+  "combat": true
+ },
+ {
+  "id": 1499,
+  "name": {
+   "esES": "Golpe de escudo",
+   "es419": "Golpe de Escudo",
+   "en": "Shield Strike"
+  },
+  "icon": "icons/bdo/04_pc_skill/01_pc_skill/07_pvw_skill/pvw_skill_1497.webp",
+  "level": 34,
+  "combat": true
+ },
+ {
+  "id": 718,
+  "name": {
+   "esES": "Guardia",
+   "es419": "Defensa",
+   "en": "Guard"
+  },
+  "icon": "icons/bdo/04_pc_skill/01_pc_skill/07_pvw_skill/pvw_skill_0718.webp",
+  "level": 1,
+  "combat": true
+ },
+ {
+  "id": 764,
+  "name": {
+   "esES": "Hálito de Elion",
+   "es419": "Respiro de Elion",
+   "en": "Breath of Elion"
+  },
+  "icon": "icons/bdo/04_pc_skill/01_pc_skill/07_pvw_skill/pvw_skill_0762.webp",
+  "level": 42,
+  "combat": true
+ },
+ {
+  "id": 1974,
+  "name": {
+   "esES": "Hastiludium",
+   "es419": "Embestida Desesperada",
+   "en": "Hastiludium"
+  },
+  "icon": "icons/bdo/04_pc_skill/01_pc_skill/07_pvw_skill/pvw_skill_1972.webp",
+  "level": 60,
+  "combat": true
+ },
+ {
+  "id": 768,
+  "name": {
+   "esES": "Lanza celestial",
+   "es419": "Lanza Celestial",
+   "en": "Celestial Spear"
+  },
+  "icon": "icons/bdo/04_pc_skill/01_pc_skill/07_pvw_skill/pvw_skill_0765.webp",
+  "level": 40,
+  "combat": true
+ },
+ {
+  "id": 1486,
+  "name": {
+   "esES": "Lanzamiento de escudo",
+   "es419": "Lanzar Escudo",
+   "en": "Shield Throw"
+  },
+  "icon": "icons/bdo/04_pc_skill/01_pc_skill/07_pvw_skill/pvw_skill_1485.webp",
+  "level": 24,
+  "combat": true
+ },
+ {
+  "id": 725,
+  "name": {
+   "esES": "Lluvia de patadas",
+   "es419": "Patadas Sucesivas",
+   "en": "Flurry of Kicks"
+  },
+  "icon": "icons/bdo/04_pc_skill/01_pc_skill/07_pvw_skill/pvw_skill_0723.webp",
+  "level": 28,
+  "combat": true
+ },
+ {
+  "id": 1493,
+  "name": {
+   "esES": "Luz afilada",
+   "es419": "Luz Afilada",
+   "en": "Sharp Light"
+  },
+  "icon": "icons/bdo/04_pc_skill/01_pc_skill/07_pvw_skill/pvw_skill_1490.webp",
+  "level": 41,
+  "combat": true
+ },
+ {
+  "id": 1482,
+  "name": {
+   "esES": "Luz cortante",
+   "es419": "Corte de Luz",
+   "en": "Severing Light"
+  },
+  "icon": "icons/bdo/04_pc_skill/01_pc_skill/07_pvw_skill/pvw_skill_1479.webp",
+  "level": 35,
+  "combat": true
+ },
+ {
+  "id": 4835,
+  "name": {
+   "esES": "Movimiento del Renacer: Contraataque afilado",
+   "es419": "Sucesión : Flujo : Contraataque Agudo",
+   "en": "Succession: Flow: Sharp Counter"
+  },
+  "icon": "icons/bdo/04_pc_skill/01_pc_skill/07_pvw_skill/pvw_skill_0785.webp",
+  "level": 1,
+  "combat": true
+ },
+ {
+  "id": 4836,
+  "name": {
+   "esES": "Movimiento del Renacer: Escudo giratorio",
+   "es419": "Sucesión : Flujo : Escudo Rotativo",
+   "en": "Succession: Flow: Spinning Shield"
+  },
+  "icon": "icons/bdo/04_pc_skill/01_pc_skill/07_pvw_skill/pvw_skill_0784.webp",
+  "level": 1,
+  "combat": true
+ },
+ {
+  "id": 785,
+  "name": {
+   "esES": "Movimiento: Contraataque afilado",
+   "es419": "Flujo: Contraataque Agudo",
+   "en": "Flow: Sharp Counter"
+  },
+  "icon": "icons/bdo/04_pc_skill/01_pc_skill/07_pvw_skill/pvw_skill_0785.webp",
+  "level": 15,
+  "combat": true
+ },
+ {
+  "id": 784,
+  "name": {
+   "esES": "Movimiento: Escudo giratorio",
+   "es419": "Flujo: Escudo Rotativo",
+   "en": "Flow: Spinning Shield"
+  },
+  "icon": "icons/bdo/04_pc_skill/01_pc_skill/07_pvw_skill/pvw_skill_0784.webp",
+  "level": 24,
+  "combat": true
+ },
+ {
+  "id": 1982,
+  "name": {
+   "esES": "Movimiento: Liberación de fe",
+   "es419": "Flujo: Explosión de Divinidad",
+   "en": "Flow: Divina Vult"
+  },
+  "icon": "icons/bdo/04_pc_skill/01_pc_skill/07_pvw_skill/pvw_skill_1982_re.webp",
+  "level": 58,
+  "combat": true
+ },
+ {
+  "id": 1981,
+  "name": {
+   "esES": "Movimiento: Lucem fluxum",
+   "es419": "Flujo: Descarga de Luz",
+   "en": "Flow: Lucem Fluxum"
+  },
+  "icon": "icons/bdo/04_pc_skill/01_pc_skill/07_pvw_skill/pvw_skill_1981.webp",
+  "level": 57,
+  "combat": true
+ },
+ {
+  "id": 729,
+  "name": {
+   "esES": "Movimiento: Patada alta doble",
+   "es419": "Flujo: Patada Doble Voladora",
+   "en": "Flow: Double Flying Kick"
+  },
+  "icon": "icons/bdo/04_pc_skill/01_pc_skill/07_pvw_skill/pvw_skill_0729.webp",
+  "level": 38,
+  "combat": true
+ },
+ {
+  "id": 2748,
+  "name": {
+   "esES": "Obliteración celestial",
+   "es419": "Lanza Sagrada",
+   "en": "Celestial Smite"
+  },
+  "icon": "icons/bdo/04_pc_skill/01_pc_skill/07_pvw_skill/pvw_skill_2748.webp",
+  "level": 56,
+  "combat": true
+ },
+ {
+  "id": 1967,
+  "name": {
+   "esES": "Onda de luz",
+   "es419": "Ondulación de Luz",
+   "en": "Wave of Light"
+  },
+  "icon": "icons/bdo/04_pc_skill/01_pc_skill/07_pvw_skill/pvw_skill_1967.webp",
+  "level": 56,
+  "combat": true
+ },
+ {
+  "id": 728,
+  "name": {
+   "esES": "Patada alta",
+   "es419": "Patada Voladora",
+   "en": "Flying Kick"
+  },
+  "icon": "icons/bdo/04_pc_skill/01_pc_skill/07_pvw_skill/pvw_skill_0727.webp",
+  "level": 8,
+  "combat": true
+ },
+ {
+  "id": 4211,
+  "name": {
+   "esES": "Persecución escudera",
+   "es419": "Persecución de Escudo",
+   "en": "Shield Chase"
+  },
+  "icon": "icons/bdo/04_pc_skill/01_pc_skill/07_pvw_skill/pvw_skill_0736.webp",
+  "level": 56,
+  "combat": true
+ },
+ {
+  "id": 1980,
+  "name": {
+   "esES": "Persecución mortal",
+   "es419": "Persecución a Muerte",
+   "en": "Death Line Chase"
+  },
+  "icon": "icons/bdo/04_pc_skill/01_pc_skill/07_pvw_skill/pvw_skill_1980.webp",
+  "level": 56,
+  "combat": true
+ },
+ {
+  "id": 742,
+  "name": {
+   "esES": "Poder divino",
+   "es419": "Poder Divino",
+   "en": "Divine Power"
+  },
+  "icon": "icons/bdo/04_pc_skill/01_pc_skill/07_pvw_skill/pvw_skill_0739.webp",
+  "level": 50,
+  "combat": true
+ },
+ {
+  "id": 6093,
+  "name": {
+   "esES": "Primordial - Veredicto: Geirr Iustitiae",
+   "es419": "BON: Veredicto: Lancia de la Justicia",
+   "en": "Core: Verdict: Lancia Iustitiae"
+  },
+  "icon": "icons/bdo/04_pc_skill/01_pc_skill/07_pvw_skill/pvw_skill_1968.webp",
+  "level": 60,
+  "combat": true
+ },
+ {
+  "id": 6091,
+  "name": {
+   "esES": "Primordial: Castigatio",
+   "es419": "BON: Castigo",
+   "en": "Core: Castigatio"
+  },
+  "icon": "icons/bdo/04_pc_skill/01_pc_skill/07_pvw_skill/pvw_skill_1958.webp",
+  "level": 60,
+  "combat": true
+ },
+ {
+  "id": 6095,
+  "name": {
+   "esES": "Primordial: Hastiludium",
+   "es419": "BON: Embestida Desesperada",
+   "en": "Core: Hastiludium"
+  },
+  "icon": "icons/bdo/04_pc_skill/01_pc_skill/07_pvw_skill/pvw_skill_1972.webp",
+  "level": 60,
+  "combat": true
+ },
+ {
+  "id": 6094,
+  "name": {
+   "esES": "Primordial: Purificatione",
+   "es419": "BON: Escudo Purificador",
+   "en": "Core: Purificatione"
+  },
+  "icon": "icons/bdo/04_pc_skill/01_pc_skill/07_pvw_skill/pvw_skill_1955.webp",
+  "level": 60,
+  "combat": true
+ },
+ {
+  "id": 6092,
+  "name": {
+   "esES": "Primordial: Sacrum ferit",
+   "es419": "BON: Golpe Sagrado",
+   "en": "Core: Sacrum Ferit"
+  },
+  "icon": "icons/bdo/04_pc_skill/01_pc_skill/07_pvw_skill/pvw_skill_1963.webp",
+  "level": 60,
+  "combat": true
+ },
+ {
+  "id": 6096,
+  "name": {
+   "esES": "Primordial: Sanctitas de Enslar",
+   "es419": "BON: Santidad de Enslar",
+   "en": "Core: Sanctitas de Enslar"
+  },
+  "icon": "icons/bdo/04_pc_skill/01_pc_skill/07_pvw_skill/pvw_skill_1975.webp",
+  "level": 60,
+  "combat": true
+ },
+ {
+  "id": 783,
+  "name": {
+   "esES": "Promesa de confianza",
+   "es419": "Juramento de Fe",
+   "en": "Vow of Trust"
+  },
+  "icon": "icons/bdo/04_pc_skill/01_pc_skill/07_pvw_skill/pvw_skill_0781.webp",
+  "level": 39,
+  "combat": true
+ },
+ {
+  "id": 1985,
+  "name": {
+   "esES": "Prontitud",
+   "es419": "Prontitud",
+   "en": "Promptness"
+  },
+  "icon": "icons/bdo/04_pc_skill/01_pc_skill/07_pvw_skill/pvw_skill_1985.webp",
+  "level": 56,
+  "combat": true
+ },
+ {
+  "id": 1957,
+  "name": {
+   "esES": "Purificatione",
+   "es419": "Escudo Purificador",
+   "en": "Purificatione"
+  },
+  "icon": "icons/bdo/04_pc_skill/01_pc_skill/07_pvw_skill/pvw_skill_1955.webp",
+  "level": 60,
+  "combat": true
+ },
+ {
+  "id": 4857,
+  "name": {
+   "esES": "Renacer: Carga justiciera sublime",
+   "es419": "Sucesión : Extremo Carga de la Justicia",
+   "en": "Succession: Ultimate Righteous Charge"
+  },
+  "icon": "icons/bdo/04_pc_skill/01_pc_skill/07_pvw_skill/pvw_skill_3220.webp",
+  "level": 1,
+  "combat": true
+ },
+ {
+  "id": 6475,
+  "name": {
+   "esES": "Renacer: Definitiva: Eco celestial",
+   "es419": "Sucesión: Suprema: Eco del Cielo",
+   "en": "Succession: Absolute: Heaven's Echo"
+  },
+  "icon": "icons/bdo/04_pc_skill/01_pc_skill/07_pvw_skill/pvw_skill_3215.webp",
+  "level": 58,
+  "combat": true
+ },
+ {
+  "id": 5325,
+  "name": {
+   "esES": "Renacer: Sublime: Luz cortante",
+   "es419": "Sucesión: Extremo: Corte de Luz",
+   "en": "Succession: Ultimate: Severing Light"
+  },
+  "icon": "icons/bdo/04_pc_skill/01_pc_skill/07_pvw_skill/pvw_skill_1483.webp",
+  "level": 56,
+  "combat": true
+ },
+ {
+  "id": 4135,
+  "name": {
+   "esES": "Renacer: Voto de valquiria",
+   "es419": "Sucesión : Juramento de Valquiria",
+   "en": "Succession: Valkyrie's Vow"
+  },
+  "icon": "icons/bdo/04_pc_skill/01_pc_skill/07_pvw_skill/pvw_skill_4135.webp",
+  "level": 56,
+  "combat": true
+ },
+ {
+  "id": 92,
+  "name": {
+   "esES": "Retirada oscura",
+   "es419": "Escape de Emergencia",
+   "en": "Emergency Escape"
+  },
+  "icon": "icons/bdo/04_pc_skill/01_pc_skill/00_common/common_skill_0092.webp",
+  "level": 1,
+  "combat": true
+ },
+ {
+  "id": 1966,
+  "name": {
+   "esES": "Sacrum ferit",
+   "es419": "Golpe Sagrado",
+   "en": "Sacrum Ferit"
+  },
+  "icon": "icons/bdo/04_pc_skill/01_pc_skill/07_pvw_skill/pvw_skill_1963.webp",
+  "level": 60,
+  "combat": true
+ },
+ {
+  "id": 1977,
+  "name": {
+   "esES": "Sanctitas de Enslar",
+   "es419": "Santidad de Enslar",
+   "en": "Sanctitas de Enslar"
+  },
+  "icon": "icons/bdo/04_pc_skill/01_pc_skill/07_pvw_skill/pvw_skill_1975.webp",
+  "level": 60,
+  "combat": true
+ },
+ {
+  "id": 774,
+  "name": {
+   "esES": "Sentencia de los cielos",
+   "es419": "Justicia de la Luz",
+   "en": "Judgment of Light"
+  },
+  "icon": "icons/bdo/04_pc_skill/01_pc_skill/07_pvw_skill/pvw_skill_0772.webp",
+  "level": 55,
+  "combat": true
+ },
+ {
+  "id": 753,
+  "name": {
+   "esES": "Sublime: Carga justiciera",
+   "es419": "Extremo: Carga de la Justicia",
+   "en": "Ultimate: Righteous Charge"
+  },
+  "icon": "icons/bdo/04_pc_skill/01_pc_skill/07_pvw_skill/pvw_skill_0753.webp",
+  "level": 51,
+  "combat": true
+ },
+ {
+  "id": 780,
+  "name": {
+   "esES": "Sublime: Castigo",
+   "es419": "Extremo: Sentencia",
+   "en": "Ultimate: Punishment"
+  },
+  "icon": "icons/bdo/04_pc_skill/01_pc_skill/07_pvw_skill/pvw_skill_0780.webp",
+  "level": 47,
+  "combat": true
+ },
+ {
+  "id": 770,
+  "name": {
+   "esES": "Sublime: Espada de juicio",
+   "es419": "Extremo: Espada de la Condena",
+   "en": "Ultimate: Sword of Judgment"
+  },
+  "icon": "icons/bdo/04_pc_skill/01_pc_skill/07_pvw_skill/pvw_skill_0770.webp",
+  "level": 51,
+  "combat": true
+ },
+ {
+  "id": 1979,
+  "name": {
+   "esES": "Sublime: Gallardía",
+   "es419": "Extremo: Estocada Seria",
+   "en": "Ultimate: Blitz Stab"
+  },
+  "icon": "icons/bdo/04_pc_skill/01_pc_skill/07_pvw_skill/pvw_skill_1979.webp",
+  "level": 58,
+  "combat": true
+ },
+ {
+  "id": 775,
+  "name": {
+   "esES": "Sublime: Lanza celestial",
+   "es419": "Extremo: Lanza Celestial",
+   "en": "Ultimate: Celestial Spear"
+  },
+  "icon": "icons/bdo/04_pc_skill/01_pc_skill/07_pvw_skill/pvw_skill_0775.webp",
+  "level": 48,
+  "combat": true
+ },
+ {
+  "id": 726,
+  "name": {
+   "esES": "Sublime: Lluvia de patadas",
+   "es419": "Extremo: Patadas Sucesivas",
+   "en": "Ultimate: Flurry of Kicks"
+  },
+  "icon": "icons/bdo/04_pc_skill/01_pc_skill/07_pvw_skill/pvw_skill_0726.webp",
+  "level": 44,
+  "combat": true
+ },
+ {
+  "id": 771,
+  "name": {
+   "esES": "Sublime: Luz afilada",
+   "es419": "Extremo: Luz Afilada",
+   "en": "Ultimate: Sharp Light"
+  },
+  "icon": "icons/bdo/04_pc_skill/01_pc_skill/07_pvw_skill/pvw_skill_0771.webp",
+  "level": 52,
+  "combat": true
+ },
+ {
+  "id": 1483,
+  "name": {
+   "esES": "Sublime: Luz cortante",
+   "es419": "Extremo: Corte de Luz",
+   "en": "Ultimate: Severing Light"
+  },
+  "icon": "icons/bdo/04_pc_skill/01_pc_skill/07_pvw_skill/pvw_skill_1483.webp",
+  "level": 43,
+  "combat": true
+ },
+ {
+  "id": 743,
+  "name": {
+   "esES": "Sublime: Poder divino",
+   "es419": "Extremo: Poder Divino",
+   "en": "Ultimate: Divine Power"
+  },
+  "icon": "icons/bdo/04_pc_skill/01_pc_skill/07_pvw_skill/pvw_skill_0743.webp",
+  "level": 54,
+  "combat": true
+ },
+ {
+  "id": 761,
+  "name": {
+   "esES": "Tajo deslumbrador",
+   "es419": "Corte de Destello",
+   "en": "Glaring Slash"
+  },
+  "icon": "icons/bdo/04_pc_skill/01_pc_skill/07_pvw_skill/pvw_skill_0757.webp",
+  "level": 53,
+  "combat": true
+ },
+ {
+  "id": 1478,
+  "name": {
+   "esES": "Tajo frontal",
+   "es419": "Corte Avanzado",
+   "en": "Forward Slash"
+  },
+  "icon": "icons/bdo/04_pc_skill/01_pc_skill/07_pvw_skill/pvw_skill_1476.webp",
+  "level": 32,
+  "combat": true
+ },
+ {
+  "id": 1983,
+  "name": {
+   "esES": "Terra sancta",
+   "es419": "Tierra Sagrada",
+   "en": "Terra Sancta"
+  },
+  "icon": "icons/bdo/04_pc_skill/01_pc_skill/07_pvw_skill/pvw_skill_1983.webp",
+  "level": 58,
+  "combat": true
+ },
+ {
+  "id": 1971,
+  "name": {
+   "esES": "Veredicto: Geirr Iustitiae",
+   "es419": "Veredicto: Lancia de la Justicia",
+   "en": "Verdict: Lancia Iustitiae"
+  },
+  "icon": "icons/bdo/04_pc_skill/01_pc_skill/07_pvw_skill/pvw_skill_1968.webp",
+  "level": 60,
+  "combat": true
+ },
+ {
+  "id": 3459,
+  "name": {
+   "esES": "Absorción de furia",
+   "es419": "Absorción de Furia",
+   "en": "Rage Absorption"
+  },
+  "icon": "icons/bdo/04_pc_skill/01_pc_skill/00_common/common_skill_0090.webp",
+  "level": 35,
+  "combat": false
+ },
+ {
+  "id": 89,
+  "name": {
+   "esES": "Absorción de furia (latente)",
+   "es419": "Absorción de Furia (Innato)",
+   "en": "Rage Absorption (Innate)"
+  },
+  "icon": "icons/bdo/04_pc_skill/01_pc_skill/00_common/common_skill_0090.webp",
+  "level": 35,
+  "combat": false
+ },
+ {
+  "id": 2076,
+  "name": {
+   "esES": "Cazador hábil",
+   "es419": "Cazador Experto",
+   "en": "Skilled Hunter"
+  },
+  "icon": "icons/bdo/04_pc_skill/01_pc_skill/06_pkm_skill/pkm_skill_2072.webp",
+  "level": 60,
+  "combat": false
+ },
+ {
+  "id": 6138,
+  "name": {
+   "esES": "Elvia: Alas resquebrajadas",
+   "es419": "Elvia: Ala Rota",
+   "en": "Elvia: Torn Wing"
+  },
+  "icon": "icons/bdo/04_pc_skill/01_pc_skill/07_pvw_skill/pvw_skill_6138.webp",
+  "level": 60,
+  "combat": false
+ },
+ {
+  "id": 4856,
+  "name": {
+   "esES": "Gran poder",
+   "es419": "Gran Poder",
+   "en": "Unyielding Might"
+  },
+  "icon": "icons/bdo/04_pc_skill/01_pc_skill/00_common/common_skill_18705.webp",
+  "level": 62,
+  "combat": false
+ },
+ {
+  "id": 4834,
+  "name": {
+   "esES": "Habilidad sin usar",
+   "es419": "Habilidad no usada",
+   "en": "Not in Use"
+  },
+  "icon": "icons/bdo/04_pc_skill/01_pc_skill/07_pvw_skill/pvw_skill_4834.webp",
+  "level": 1,
+  "combat": false
+ },
+ {
+  "id": 1707,
+  "name": {
+   "esES": "Maestría infinita",
+   "es419": "Maestría Infinita",
+   "en": "Infinite Mastery"
+  },
+  "icon": "icons/bdo/04_pc_skill/01_pc_skill/00_common/common_skill_1702.webp",
+  "level": 55,
+  "combat": false
+ },
+ {
+  "id": 717,
+  "name": {
+   "esES": "Promesa noble",
+   "es419": "Juramento",
+   "en": "Noble Vow"
+  },
+  "icon": "icons/bdo/04_pc_skill/01_pc_skill/07_pvw_skill/pvw_skill_0717.webp",
+  "level": 20,
+  "combat": false
+ },
+ {
+  "id": 4858,
+  "name": {
+   "esES": "Renacer: Persecución escudera",
+   "es419": "(Sin usar) Sucesión : Persecución de Escudo",
+   "en": "(Not in Use) Succession: Shield Chase"
+  },
+  "icon": "icons/bdo/04_pc_skill/01_pc_skill/07_pvw_skill/pvw_skill_0736.webp",
+  "level": 56,
+  "combat": false
+ },
+ {
+  "id": 4053,
+  "name": {
+   "esES": "Sentencia divina de los cielos",
+   "es419": "Justicia de la Luz Divina",
+   "en": "Divine Judgment of Light"
+  },
+  "icon": "icons/bdo/04_pc_skill/01_pc_skill/07_pvw_skill/pvw_skill_4053.webp",
+  "level": 58,
+  "combat": false
+ },
+ {
+  "id": 4052,
+  "name": {
+   "esES": "Sentencia luminosa de los cielos",
+   "es419": "Justicia de la Luz Brillante",
+   "en": "Shining Judgment of Light"
+  },
+  "icon": "icons/bdo/04_pc_skill/01_pc_skill/07_pvw_skill/pvw_skill_4052.webp",
+  "level": 58,
+  "combat": false
+ },
+ {
+  "id": 6459,
+  "name": {
+   "esES": "Supernova",
+   "es419": "Explosión de Divinidad",
+   "en": "Divina Inpulsa"
+  },
+  "icon": "icons/bdo/04_pc_skill/01_pc_skill/07_pvw_skill/pvw_skill_6459.webp",
+  "level": 59,
+  "combat": false
+ },
+ {
+  "id": 91,
+  "name": {
+   "esES": "Transfuria",
+   "es419": "Transferencia de Furia",
+   "en": "Rage Transfer"
+  },
+  "icon": "icons/bdo/04_pc_skill/01_pc_skill/00_common/common_skill_0091.webp",
+  "level": 35,
+  "combat": false
+ }
+]

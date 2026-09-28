@@ -1,0 +1,1212 @@
+[
+ {
+  "id": 2900,
+  "name": {
+   "esES": "Avalancha",
+   "es419": "Caída de Rocas",
+   "en": "Falling Rock"
+  },
+  "icon": "icons/bdo/04_pc_skill/01_pc_skill/04_pgm_skill/pgm_skill_0287.webp",
+  "level": 55,
+  "combat": true
+ },
+ {
+  "id": 1152,
+  "name": {
+   "esES": "Bestia rabiosa",
+   "es419": "Asalto de Bestia",
+   "en": "Storming Beast"
+  },
+  "icon": "icons/bdo/04_pc_skill/01_pc_skill/04_pgm_skill/pgm_skill_1033.webp",
+  "level": 19,
+  "combat": true
+ },
+ {
+  "id": 2807,
+  "name": {
+   "esES": "Bestia temible",
+   "es419": "Bestia Enfurecida",
+   "en": "Wailing Beast"
+  },
+  "icon": "icons/bdo/04_pc_skill/01_pc_skill/04_pgm_skill/pgm_skill_2807.webp",
+  "level": 57,
+  "combat": true
+ },
+ {
+  "id": 1150,
+  "name": {
+   "esES": "Bramido temible",
+   "es419": "Tirano Temible",
+   "en": "Fearsome Tyrant"
+  },
+  "icon": "icons/bdo/04_pc_skill/01_pc_skill/04_pgm_skill/pgm_skill_1032.webp",
+  "level": 50,
+  "combat": true
+ },
+ {
+  "id": 1292,
+  "name": {
+   "esES": "Cabezazo",
+   "es419": "Cabezazo",
+   "en": "Headbutt"
+  },
+  "icon": "icons/bdo/04_pc_skill/01_pc_skill/04_pgm_skill/pgm_skill_1038.webp",
+  "level": 27,
+  "combat": true
+ },
+ {
+  "id": 1843,
+  "name": {
+   "esES": "Cañonazo explosivo",
+   "es419": "Reventón de Flama",
+   "en": "Flame Buster"
+  },
+  "icon": "icons/bdo/04_pc_skill/01_pc_skill/04_pgm_skill/pgm_skill_1841.webp",
+  "level": 60,
+  "combat": true
+ },
+ {
+  "id": 1829,
+  "name": {
+   "esES": "Carrera arrolladora",
+   "es419": "Erupción",
+   "en": "Ground Lifting"
+  },
+  "icon": "icons/bdo/04_pc_skill/01_pc_skill/04_pgm_skill/pgm_skill_1827.webp",
+  "level": 59,
+  "combat": true
+ },
+ {
+  "id": 5417,
+  "name": {
+   "esES": "Cénit: Apoderamiedo",
+   "es419": "S: Miedo Abrumante",
+   "en": "Prime: Seizing Fear"
+  },
+  "icon": "icons/bdo/04_pc_skill/01_pc_skill/04_pgm_skill/pgm_skill_5413.webp",
+  "level": 60,
+  "combat": true
+ },
+ {
+  "id": 5442,
+  "name": {
+   "esES": "Cénit: Bestia imparable",
+   "es419": "S: Bestia Imparable",
+   "en": "Prime: Unstoppable Beast"
+  },
+  "icon": "icons/bdo/04_pc_skill/01_pc_skill/04_pgm_skill/pgm_skill_5411.webp",
+  "level": 60,
+  "combat": true
+ },
+ {
+  "id": 5439,
+  "name": {
+   "esES": "Cénit: Bestia rabiosa",
+   "es419": "S: Asalto de Bestia",
+   "en": "Prime: Storming Beast"
+  },
+  "icon": "icons/bdo/04_pc_skill/01_pc_skill/04_pgm_skill/pgm_skill_5439.webp",
+  "level": 57,
+  "combat": true
+ },
+ {
+  "id": 5435,
+  "name": {
+   "esES": "Cénit: Bramido temible",
+   "es419": "S: Tirano Temible",
+   "en": "Prime: Fearsome Tyrant"
+  },
+  "icon": "icons/bdo/04_pc_skill/01_pc_skill/04_pgm_skill/pgm_skill_5433.webp",
+  "level": 60,
+  "combat": true
+ },
+ {
+  "id": 5440,
+  "name": {
+   "esES": "Cénit: Depredación",
+   "es419": "S: Caza Depredadora",
+   "en": "Prime: Predatory Hunt"
+  },
+  "icon": "icons/bdo/04_pc_skill/01_pc_skill/04_pgm_skill/pgm_skill_5440.webp",
+  "level": 58,
+  "combat": true
+ },
+ {
+  "id": 5444,
+  "name": {
+   "esES": "Cénit: Devastación",
+   "es419": "S: Devastación",
+   "en": "Prime: Devastation"
+  },
+  "icon": "icons/bdo/04_pc_skill/01_pc_skill/04_pgm_skill/pgm_skill_5444.webp",
+  "level": 56,
+  "combat": true
+ },
+ {
+  "id": 5438,
+  "name": {
+   "esES": "Cénit: Embestida de toro",
+   "es419": "S: Deslave",
+   "en": "Prime: Tackling Rock"
+  },
+  "icon": "icons/bdo/04_pc_skill/01_pc_skill/04_pgm_skill/pgm_skill_5436.webp",
+  "level": 58,
+  "combat": true
+ },
+ {
+  "id": 5411,
+  "name": {
+   "esES": "Cénit: Enfurecimiento",
+   "es419": "S: Enloquecido",
+   "en": "Prime: Berserk Form"
+  },
+  "icon": "icons/bdo/04_pc_skill/01_pc_skill/04_pgm_skill/pgm_skill_5442_re.webp",
+  "level": 56,
+  "combat": true
+ },
+ {
+  "id": 5412,
+  "name": {
+   "esES": "Cénit: Fortaleza de coloso",
+   "es419": "S: Fortaleza del Gigante",
+   "en": "Prime: Fort of Giant"
+  },
+  "icon": "icons/bdo/04_pc_skill/01_pc_skill/04_pgm_skill/pgm_skill_5412.webp",
+  "level": 56,
+  "combat": true
+ },
+ {
+  "id": 5421,
+  "name": {
+   "esES": "Cénit: Frenesí destructor",
+   "es419": "S: Destructor Frenético",
+   "en": "Prime: Frenzied Destroyer"
+  },
+  "icon": "icons/bdo/04_pc_skill/01_pc_skill/04_pgm_skill/pgm_skill_5418.webp",
+  "level": 59,
+  "combat": true
+ },
+ {
+  "id": 5425,
+  "name": {
+   "esES": "Cénit: Golpe fiero",
+   "es419": "S: Golpe Furioso",
+   "en": "Prime: Fierce Strike"
+  },
+  "icon": "icons/bdo/04_pc_skill/01_pc_skill/04_pgm_skill/pgm_skill_5422.webp",
+  "level": 60,
+  "combat": true
+ },
+ {
+  "id": 5443,
+  "name": {
+   "esES": "Cénit: Onda antigua",
+   "es419": "S: Onda Ancestral",
+   "en": "Prime: Ancient Wave"
+  },
+  "icon": "icons/bdo/04_pc_skill/01_pc_skill/04_pgm_skill/pgm_skill_5443.webp",
+  "level": 56,
+  "combat": true
+ },
+ {
+  "id": 5441,
+  "name": {
+   "esES": "Cénit: Perforador de lava",
+   "es419": "S: Perforar la Lava",
+   "en": "Prime: Lava Piercer"
+  },
+  "icon": "icons/bdo/04_pc_skill/01_pc_skill/04_pgm_skill/pgm_skill_5441.webp",
+  "level": 56,
+  "combat": true
+ },
+ {
+  "id": 5432,
+  "name": {
+   "esES": "Cénit: Trueno furioso",
+   "es419": "S: Tormenta Violenta",
+   "en": "Prime: Raging Thunder"
+  },
+  "icon": "icons/bdo/04_pc_skill/01_pc_skill/04_pgm_skill/pgm_skill_5430.webp",
+  "level": 60,
+  "combat": true
+ },
+ {
+  "id": 5429,
+  "name": {
+   "esES": "Cénit: Zarpazo de acero",
+   "es419": "S: Corte de Viento Bestial",
+   "en": "Prime: Beastly Wind Slash"
+  },
+  "icon": "icons/bdo/04_pc_skill/01_pc_skill/04_pgm_skill/pgm_skill_5426.webp",
+  "level": 59,
+  "combat": true
+ },
+ {
+  "id": 329,
+  "name": {
+   "esES": "Cicatriz de garra",
+   "es419": "Cicatriz de la Garra",
+   "en": "Claw Scar"
+  },
+  "icon": "icons/bdo/04_pc_skill/01_pc_skill/04_pgm_skill/pgm_skill_0325.webp",
+  "level": 42,
+  "combat": true
+ },
+ {
+  "id": 1421,
+  "name": {
+   "esES": "Cólera de bestia",
+   "es419": "Furia de la Bestia",
+   "en": "Wrath of Beast"
+  },
+  "icon": "icons/bdo/04_pc_skill/01_pc_skill/04_pgm_skill/pgm_skill_1419.webp",
+  "level": 46,
+  "combat": true
+ },
+ {
+  "id": 300,
+  "name": {
+   "esES": "Coz terrible",
+   "es419": "Caza de Débiles",
+   "en": "Weakling Hunt"
+  },
+  "icon": "icons/bdo/04_pc_skill/01_pc_skill/04_pgm_skill/pgm_skill_0297.webp",
+  "level": 36,
+  "combat": true
+ },
+ {
+  "id": 2890,
+  "name": {
+   "esES": "Definitiva: Bestia rabiosa",
+   "es419": "Suprema : Asalto de Bestia",
+   "en": "Absolute: Storming Beast"
+  },
+  "icon": "icons/bdo/04_pc_skill/01_pc_skill/04_pgm_skill/pgm_skill_2890.webp",
+  "level": 56,
+  "combat": true
+ },
+ {
+  "id": 2889,
+  "name": {
+   "esES": "Definitiva: Bramido temible",
+   "es419": "Suprema : Tirano Temible",
+   "en": "Absolute: Fearsome Tyrant"
+  },
+  "icon": "icons/bdo/04_pc_skill/01_pc_skill/04_pgm_skill/pgm_skill_2889.webp",
+  "level": 59,
+  "combat": true
+ },
+ {
+  "id": 2893,
+  "name": {
+   "esES": "Definitiva: Cabezazo",
+   "es419": "Suprema : Cabezazo",
+   "en": "Absolute: Headbutt"
+  },
+  "icon": "icons/bdo/04_pc_skill/01_pc_skill/04_pgm_skill/pgm_skill_2893.webp",
+  "level": 56,
+  "combat": true
+ },
+ {
+  "id": 2905,
+  "name": {
+   "esES": "Definitiva: Cólera de bestia",
+   "es419": "Suprema : Furia de la Bestia",
+   "en": "Absolute: Wrath of Beast"
+  },
+  "icon": "icons/bdo/04_pc_skill/01_pc_skill/04_pgm_skill/pgm_skill_2905.webp",
+  "level": 58,
+  "combat": true
+ },
+ {
+  "id": 2902,
+  "name": {
+   "esES": "Definitiva: Coz terrible",
+   "es419": "Suprema : Caza de Débiles",
+   "en": "Absolute: Weakling Hunt"
+  },
+  "icon": "icons/bdo/04_pc_skill/01_pc_skill/04_pgm_skill/pgm_skill_2902.webp",
+  "level": 57,
+  "combat": true
+ },
+ {
+  "id": 2897,
+  "name": {
+   "esES": "Definitiva: Depredación",
+   "es419": "Suprema : Caza Depredadora",
+   "en": "Absolute: Predatory Hunt"
+  },
+  "icon": "icons/bdo/04_pc_skill/01_pc_skill/04_pgm_skill/pgm_skill_2897.webp",
+  "level": 57,
+  "combat": true
+ },
+ {
+  "id": 2894,
+  "name": {
+   "esES": "Definitiva: Embestida de toro",
+   "es419": "Suprema : Deslave",
+   "en": "Absolute: Tackling Rock"
+  },
+  "icon": "icons/bdo/04_pc_skill/01_pc_skill/04_pgm_skill/pgm_skill_2894.webp",
+  "level": 56,
+  "combat": true
+ },
+ {
+  "id": 2903,
+  "name": {
+   "esES": "Definitiva: Ensañamiento",
+   "es419": "Suprema : Tormenta de Cadáver",
+   "en": "Absolute: Corpse Storm"
+  },
+  "icon": "icons/bdo/04_pc_skill/01_pc_skill/04_pgm_skill/pgm_skill_2903.webp",
+  "level": 59,
+  "combat": true
+ },
+ {
+  "id": 2892,
+  "name": {
+   "esES": "Definitiva: Enterrador",
+   "es419": "Suprema : Enterrador",
+   "en": "Absolute: Undertaker"
+  },
+  "icon": "icons/bdo/04_pc_skill/01_pc_skill/04_pgm_skill/pgm_skill_2892.webp",
+  "level": 57,
+  "combat": true
+ },
+ {
+  "id": 2896,
+  "name": {
+   "esES": "Definitiva: Frenesí destructor",
+   "es419": "Suprema : Destructor Frenético",
+   "en": "Absolute: Frenzied Destroyer"
+  },
+  "icon": "icons/bdo/04_pc_skill/01_pc_skill/04_pgm_skill/pgm_skill_2896.webp",
+  "level": 57,
+  "combat": true
+ },
+ {
+  "id": 2899,
+  "name": {
+   "esES": "Definitiva: Fuerza elástica",
+   "es419": "Suprema : Fuerza Elástica",
+   "en": "Absolute: Elastic Force"
+  },
+  "icon": "icons/bdo/04_pc_skill/01_pc_skill/04_pgm_skill/pgm_skill_2899.webp",
+  "level": 56,
+  "combat": true
+ },
+ {
+  "id": 2895,
+  "name": {
+   "esES": "Definitiva: Golpe fiero",
+   "es419": "Suprema : Golpe Furioso",
+   "en": "Absolute: Fierce Strike"
+  },
+  "icon": "icons/bdo/04_pc_skill/01_pc_skill/04_pgm_skill/pgm_skill_2895.webp",
+  "level": 56,
+  "combat": true
+ },
+ {
+  "id": 2906,
+  "name": {
+   "esES": "Definitiva: Ira de bestia",
+   "es419": "Suprema : Ira de la Bestia",
+   "en": "Absolute: Ire of Beast"
+  },
+  "icon": "icons/bdo/04_pc_skill/01_pc_skill/04_pgm_skill/pgm_skill_2906.webp",
+  "level": 59,
+  "combat": true
+ },
+ {
+  "id": 2901,
+  "name": {
+   "esES": "Definitiva: Romperrocas",
+   "es419": "Suprema : Aplasta Roca",
+   "en": "Absolute: Rock Smash"
+  },
+  "icon": "icons/bdo/04_pc_skill/01_pc_skill/04_pgm_skill/pgm_skill_2901.webp",
+  "level": 58,
+  "combat": true
+ },
+ {
+  "id": 2907,
+  "name": {
+   "esES": "Definitiva: Rugido de bestia",
+   "es419": "Suprema : Rugido de la Bestia",
+   "en": "Absolute: Beast Roar"
+  },
+  "icon": "icons/bdo/04_pc_skill/01_pc_skill/04_pgm_skill/pgm_skill_2907.webp",
+  "level": 59,
+  "combat": true
+ },
+ {
+  "id": 2898,
+  "name": {
+   "esES": "Definitiva: Trueno furioso",
+   "es419": "Suprema : Tormenta Violenta",
+   "en": "Absolute: Raging Thunder"
+  },
+  "icon": "icons/bdo/04_pc_skill/01_pc_skill/04_pgm_skill/pgm_skill_2898.webp",
+  "level": 58,
+  "combat": true
+ },
+ {
+  "id": 2891,
+  "name": {
+   "esES": "Definitiva: Vapulear",
+   "es419": "Suprema : Aplastar",
+   "en": "Absolute: Smack Down"
+  },
+  "icon": "icons/bdo/04_pc_skill/01_pc_skill/04_pgm_skill/pgm_skill_2891.webp",
+  "level": 56,
+  "combat": true
+ },
+ {
+  "id": 2904,
+  "name": {
+   "esES": "Definitiva: Zarpazo de acero",
+   "es419": "Suprema : Corte de Viento Bestial",
+   "en": "Absolute: Beastly Wind Slash"
+  },
+  "icon": "icons/bdo/04_pc_skill/01_pc_skill/04_pgm_skill/pgm_skill_2904.webp",
+  "level": 60,
+  "combat": true
+ },
+ {
+  "id": 1174,
+  "name": {
+   "esES": "Depredación",
+   "es419": "Caza Depredadora",
+   "en": "Predatory Hunt"
+  },
+  "icon": "icons/bdo/04_pc_skill/01_pc_skill/04_pgm_skill/pgm_skill_1043.webp",
+  "level": 39,
+  "combat": true
+ },
+ {
+  "id": 1833,
+  "name": {
+   "esES": "Devastación",
+   "es419": "Devastación",
+   "en": "Devastation"
+  },
+  "icon": "icons/bdo/04_pc_skill/01_pc_skill/04_pgm_skill/pgm_skill_1830.webp",
+  "level": 60,
+  "combat": true
+ },
+ {
+  "id": 1161,
+  "name": {
+   "esES": "Embestida de toro",
+   "es419": "Deslave",
+   "en": "Tackling Rock"
+  },
+  "icon": "icons/bdo/04_pc_skill/01_pc_skill/04_pgm_skill/pgm_skill_1039.webp",
+  "level": 30,
+  "combat": true
+ },
+ {
+  "id": 302,
+  "name": {
+   "esES": "Ensañamiento",
+   "es419": "Tormenta de Cadáver",
+   "en": "Corpse Storm"
+  },
+  "icon": "icons/bdo/04_pc_skill/01_pc_skill/04_pgm_skill/pgm_skill_0301.webp",
+  "level": 38,
+  "combat": true
+ },
+ {
+  "id": 1158,
+  "name": {
+   "esES": "Enterrador",
+   "es419": "Enterrador",
+   "en": "Undertaker"
+  },
+  "icon": "icons/bdo/04_pc_skill/01_pc_skill/04_pgm_skill/pgm_skill_1036.webp",
+  "level": 37,
+  "combat": true
+ },
+ {
+  "id": 1822,
+  "name": {
+   "esES": "Entrenamiento de exterminador",
+   "es419": "Maestría del Guantelete de Cañón",
+   "en": "Buster Training"
+  },
+  "icon": "icons/bdo/04_pc_skill/01_pc_skill/04_pgm_skill/pgm_skill_1813.webp",
+  "level": 60,
+  "combat": true
+ },
+ {
+  "id": 2740,
+  "name": {
+   "esES": "Estampida",
+   "es419": "Deslave Violento",
+   "en": "Feral Stampede"
+  },
+  "icon": "icons/bdo/04_pc_skill/01_pc_skill/04_pgm_skill/pgm_skill_2740.webp",
+  "level": 56,
+  "combat": true
+ },
+ {
+  "id": 371,
+  "name": {
+   "esES": "Evasión",
+   "es419": "Evasión",
+   "en": "Evasion"
+  },
+  "icon": "icons/bdo/04_pc_skill/01_pc_skill/01_phm_skill/phm_skill_1017.webp",
+  "level": 10,
+  "combat": true
+ },
+ {
+  "id": 1171,
+  "name": {
+   "esES": "Frenesí destructor",
+   "es419": "Destructor Frenético",
+   "en": "Frenzied Destroyer"
+  },
+  "icon": "icons/bdo/04_pc_skill/01_pc_skill/04_pgm_skill/pgm_skill_1042.webp",
+  "level": 44,
+  "combat": true
+ },
+ {
+  "id": 107,
+  "name": {
+   "esES": "Fuerza elástica",
+   "es419": "Fuerza Elástica",
+   "en": "Elastic Force"
+  },
+  "icon": "icons/bdo/04_pc_skill/01_pc_skill/04_pgm_skill/pgm_skill_1057.webp",
+  "level": 53,
+  "combat": true
+ },
+ {
+  "id": 121,
+  "name": {
+   "esES": "Furia temblante",
+   "es419": "Temblor Furioso",
+   "en": "Quaking Fury"
+  },
+  "icon": "icons/bdo/04_pc_skill/01_pc_skill/04_pgm_skill/pgm_skill_0121.webp",
+  "level": 53,
+  "combat": true
+ },
+ {
+  "id": 2739,
+  "name": {
+   "esES": "Furor feral",
+   "es419": "Tormenta de la Bestia",
+   "en": "Feral Rage"
+  },
+  "icon": "icons/bdo/04_pc_skill/01_pc_skill/04_pgm_skill/pgm_skill_2739.webp",
+  "level": 56,
+  "combat": true
+ },
+ {
+  "id": 1840,
+  "name": {
+   "esES": "Golpe de titán",
+   "es419": "Golpe del Titán",
+   "en": "Titan Blow"
+  },
+  "icon": "icons/bdo/04_pc_skill/01_pc_skill/04_pgm_skill/pgm_skill_1837.webp",
+  "level": 60,
+  "combat": true
+ },
+ {
+  "id": 1166,
+  "name": {
+   "esES": "Golpe fiero",
+   "es419": "Golpe Furioso",
+   "en": "Fierce Strike"
+  },
+  "icon": "icons/bdo/04_pc_skill/01_pc_skill/04_pgm_skill/pgm_skill_1041.webp",
+  "level": 42,
+  "combat": true
+ },
+ {
+  "id": 2808,
+  "name": {
+   "esES": "Hachas destructoras",
+   "es419": "Hacha de Destrucción",
+   "en": "Axe of Destruction"
+  },
+  "icon": "icons/bdo/04_pc_skill/01_pc_skill/04_pgm_skill/pgm_skill_2808.webp",
+  "level": 57,
+  "combat": true
+ },
+ {
+  "id": 1424,
+  "name": {
+   "esES": "Ira de bestia",
+   "es419": "Ira de la Bestia",
+   "en": "Ire of Beast"
+  },
+  "icon": "icons/bdo/04_pc_skill/01_pc_skill/04_pgm_skill/pgm_skill_1422.webp",
+  "level": 50,
+  "combat": true
+ },
+ {
+  "id": 1294,
+  "name": {
+   "esES": "Liberación",
+   "es419": "Rechazo",
+   "en": "Shake Off"
+  },
+  "icon": "icons/bdo/04_pc_skill/01_pc_skill/04_pgm_skill/pgm_skill_1040.webp",
+  "level": 39,
+  "combat": true
+ },
+ {
+  "id": 295,
+  "name": {
+   "esES": "Límite: Zarpazo de acero",
+   "es419": "PE: Corte de Viento Bestial",
+   "en": "Extreme: Beastly Wind Slash"
+  },
+  "icon": "icons/bdo/04_pc_skill/01_pc_skill/04_pgm_skill/pgm_skill_0295.webp",
+  "level": 55,
+  "combat": true
+ },
+ {
+  "id": 1836,
+  "name": {
+   "esES": "Llanto de la tierra",
+   "es419": "Cañonazo",
+   "en": "Seismic Blast"
+  },
+  "icon": "icons/bdo/04_pc_skill/01_pc_skill/04_pgm_skill/pgm_skill_6465.webp",
+  "level": 60,
+  "combat": true
+ },
+ {
+  "id": 1846,
+  "name": {
+   "esES": "Movimiento: Andanada de golpes",
+   "es419": "Flujo: Lluvia de Golpes",
+   "en": "Flow: Slugfest"
+  },
+  "icon": "icons/bdo/04_pc_skill/01_pc_skill/04_pgm_skill/pgm_skill_1846.webp",
+  "level": 56,
+  "combat": true
+ },
+ {
+  "id": 1849,
+  "name": {
+   "esES": "Movimiento: División terrenal",
+   "es419": "Flujo: Terremoto",
+   "en": "Flow: Earth Dividing"
+  },
+  "icon": "icons/bdo/04_pc_skill/01_pc_skill/04_pgm_skill/pgm_skill_1849.webp",
+  "level": 58,
+  "combat": true
+ },
+ {
+  "id": 1852,
+  "name": {
+   "esES": "Movimiento: Movilidad de tiro",
+   "es419": "Flujo: Disparo Móvil",
+   "en": "Flow: Shooting Mobility"
+  },
+  "icon": "icons/bdo/04_pc_skill/01_pc_skill/04_pgm_skill/pgm_skill_1852.webp",
+  "level": 57,
+  "combat": true
+ },
+ {
+  "id": 1851,
+  "name": {
+   "esES": "Movimiento: Onda antigua",
+   "es419": "Flujo: Onda Ancestral",
+   "en": "Flow: Ancient Wave"
+  },
+  "icon": "icons/bdo/04_pc_skill/01_pc_skill/04_pgm_skill/pgm_skill_1851.webp",
+  "level": 57,
+  "combat": true
+ },
+ {
+  "id": 1854,
+  "name": {
+   "esES": "Movimiento: Poder oculto",
+   "es419": "Flujo: Poder Ancestral",
+   "en": "Flow: Ancient Power"
+  },
+  "icon": "icons/bdo/04_pc_skill/01_pc_skill/04_pgm_skill/pgm_skill_1854.webp",
+  "level": 58,
+  "combat": true
+ },
+ {
+  "id": 1391,
+  "name": {
+   "esES": "Movimiento: Quebrantarrocas",
+   "es419": "(Sin usar) Flujo: Rompe Rocas",
+   "en": "(Not in Use) Flow: Boulder Crash"
+  },
+  "icon": "icons/bdo/04_pc_skill/01_pc_skill/04_pgm_skill/pgm_skill_1391.webp",
+  "level": 1,
+  "combat": true
+ },
+ {
+  "id": 1850,
+  "name": {
+   "esES": "Movimiento: Reventón",
+   "es419": "Flujo: Cañón de Ráfaga",
+   "en": "Flow: Scatter Shot"
+  },
+  "icon": "icons/bdo/04_pc_skill/01_pc_skill/04_pgm_skill/pgm_skill_1850_re.webp",
+  "level": 60,
+  "combat": true
+ },
+ {
+  "id": 1853,
+  "name": {
+   "esES": "Movimiento: Tiro dividido",
+   "es419": "Flujo: Plomazo",
+   "en": "Flow: Split Shot"
+  },
+  "icon": "icons/bdo/04_pc_skill/01_pc_skill/04_pgm_skill/pgm_skill_1853.webp",
+  "level": 60,
+  "combat": true
+ },
+ {
+  "id": 368,
+  "name": {
+   "esES": "Movimiento: Vendaval",
+   "es419": "Flujo: Corte de Tormenta",
+   "en": "Flow: Windstorm"
+  },
+  "icon": "icons/bdo/04_pc_skill/01_pc_skill/04_pgm_skill/pgm_skill_0368.webp",
+  "level": 18,
+  "combat": true
+ },
+ {
+  "id": 1845,
+  "name": {
+   "esES": "Paso de titán",
+   "es419": "Paso del Titán",
+   "en": "Titan Step"
+  },
+  "icon": "icons/bdo/04_pc_skill/01_pc_skill/04_pgm_skill/pgm_skill_1845.webp",
+  "level": 56,
+  "combat": true
+ },
+ {
+  "id": 215,
+  "name": {
+   "esES": "Perforador de lava",
+   "es419": "Perforar la Lava",
+   "en": "Lava Piercer"
+  },
+  "icon": "icons/bdo/04_pc_skill/01_pc_skill/04_pgm_skill/pgm_skill_0213.webp",
+  "level": 54,
+  "combat": true
+ },
+ {
+  "id": 6054,
+  "name": {
+   "esES": "Primordial: Cañonazo explosivo",
+   "es419": "BON: Reventón de Flama",
+   "en": "Core: Flame Buster"
+  },
+  "icon": "icons/bdo/04_pc_skill/01_pc_skill/04_pgm_skill/pgm_skill_1841.webp",
+  "level": 60,
+  "combat": true
+ },
+ {
+  "id": 6052,
+  "name": {
+   "esES": "Primordial: Carrera arrolladora",
+   "es419": "BON: Erupción",
+   "en": "Core: Ground Lifting"
+  },
+  "icon": "icons/bdo/04_pc_skill/01_pc_skill/04_pgm_skill/pgm_skill_1827.webp",
+  "level": 60,
+  "combat": true
+ },
+ {
+  "id": 6050,
+  "name": {
+   "esES": "Primordial: Devastación",
+   "es419": "BON: Devastación",
+   "en": "Core: Devastation"
+  },
+  "icon": "icons/bdo/04_pc_skill/01_pc_skill/04_pgm_skill/pgm_skill_1830.webp",
+  "level": 60,
+  "combat": true
+ },
+ {
+  "id": 6051,
+  "name": {
+   "esES": "Primordial: Golpe de titán",
+   "es419": "BON: Golpe del Titán",
+   "en": "Core: Titan Blow"
+  },
+  "icon": "icons/bdo/04_pc_skill/01_pc_skill/04_pgm_skill/pgm_skill_1837.webp",
+  "level": 60,
+  "combat": true
+ },
+ {
+  "id": 6053,
+  "name": {
+   "esES": "Primordial: Llanto de la tierra",
+   "es419": "BON: Cañonazo",
+   "en": "Core: Seismic Blast"
+  },
+  "icon": "icons/bdo/04_pc_skill/01_pc_skill/04_pgm_skill/pgm_skill_6465.webp",
+  "level": 60,
+  "combat": true
+ },
+ {
+  "id": 6049,
+  "name": {
+   "esES": "Primordial: Somanta de palos",
+   "es419": "BON: Explosión",
+   "en": "Core: Blasting"
+  },
+  "icon": "icons/bdo/04_pc_skill/01_pc_skill/04_pgm_skill/pgm_skill_1823.webp",
+  "level": 60,
+  "combat": true
+ },
+ {
+  "id": 1848,
+  "name": {
+   "esES": "Puñetazos llameantes",
+   "es419": "Cadena de Fuego",
+   "en": "Flame Pummel"
+  },
+  "icon": "icons/bdo/04_pc_skill/01_pc_skill/04_pgm_skill/pgm_skill_1848.webp",
+  "level": 56,
+  "combat": true
+ },
+ {
+  "id": 1815,
+  "name": {
+   "esES": "Renacer: Avalancha",
+   "es419": "Sucesión: Caída de Rocas",
+   "en": "Succession: Falling Rock"
+  },
+  "icon": "icons/bdo/04_pc_skill/01_pc_skill/04_pgm_skill/pgm_skill_0287.webp",
+  "level": 1,
+  "combat": true
+ },
+ {
+  "id": 5459,
+  "name": {
+   "esES": "Renacer: Coz terrible",
+   "es419": "Sucesión: Caza de Débiles",
+   "en": "Succession: Weakling Hunt"
+  },
+  "icon": "icons/bdo/04_pc_skill/01_pc_skill/04_pgm_skill/pgm_skill_2902.webp",
+  "level": 1,
+  "combat": true
+ },
+ {
+  "id": 1813,
+  "name": {
+   "esES": "Renacer: Sublime: Frenesí destructor",
+   "es419": "Sucesión: Extremo: Destructor Frenético",
+   "en": "Succession: Ultimate: Frenzied Destroyer"
+  },
+  "icon": "icons/bdo/04_pc_skill/01_pc_skill/04_pgm_skill/pgm_skill_0389.webp",
+  "level": 1,
+  "combat": true
+ },
+ {
+  "id": 5410,
+  "name": {
+   "esES": "Renacer: Terror salvaje",
+   "es419": "Sucesión: Rugido de Bestia",
+   "en": "Succession: Feral Roar"
+  },
+  "icon": "icons/bdo/04_pc_skill/01_pc_skill/04_pgm_skill/pgm_skill_5410.webp",
+  "level": 56,
+  "combat": true
+ },
+ {
+  "id": 92,
+  "name": {
+   "esES": "Retirada oscura",
+   "es419": "Escape de Emergencia",
+   "en": "Emergency Escape"
+  },
+  "icon": "icons/bdo/04_pc_skill/01_pc_skill/00_common/common_skill_0092.webp",
+  "level": 1,
+  "combat": true
+ },
+ {
+  "id": 1392,
+  "name": {
+   "esES": "Roca gigantesca",
+   "es419": "Roca Gigantesca",
+   "en": "Time to Rock"
+  },
+  "icon": "icons/bdo/04_pc_skill/01_pc_skill/04_pgm_skill/pgm_skill_1392.webp",
+  "level": 60,
+  "combat": true
+ },
+ {
+  "id": 292,
+  "name": {
+   "esES": "Romperrocas",
+   "es419": "Aplasta Roca",
+   "en": "Rock Smash"
+  },
+  "icon": "icons/bdo/04_pc_skill/01_pc_skill/04_pgm_skill/pgm_skill_0290.webp",
+  "level": 40,
+  "combat": true
+ },
+ {
+  "id": 1427,
+  "name": {
+   "esES": "Rugido de bestia",
+   "es419": "Rugido de la Bestia",
+   "en": "Beast Roar"
+  },
+  "icon": "icons/bdo/04_pc_skill/01_pc_skill/04_pgm_skill/pgm_skill_1425.webp",
+  "level": 43,
+  "combat": true
+ },
+ {
+  "id": 1826,
+  "name": {
+   "esES": "Somanta de palos",
+   "es419": "Explosión",
+   "en": "Blasting"
+  },
+  "icon": "icons/bdo/04_pc_skill/01_pc_skill/04_pgm_skill/pgm_skill_1823.webp",
+  "level": 59,
+  "combat": true
+ },
+ {
+  "id": 389,
+  "name": {
+   "esES": "Sublime: Frenesí destructor",
+   "es419": "Extremo: Destructor Frenético",
+   "en": "Ultimate: Frenzied Destroyer"
+  },
+  "icon": "icons/bdo/04_pc_skill/01_pc_skill/04_pgm_skill/pgm_skill_0389.webp",
+  "level": 45,
+  "combat": true
+ },
+ {
+  "id": 243,
+  "name": {
+   "esES": "Sublime: Fuerza elástica",
+   "es419": "Extremo: Fuerza Elástica",
+   "en": "Ultimate: Elastic Force"
+  },
+  "icon": "icons/bdo/04_pc_skill/01_pc_skill/04_pgm_skill/pgm_skill_0243.webp",
+  "level": 55,
+  "combat": true
+ },
+ {
+  "id": 296,
+  "name": {
+   "esES": "Sublime: Golpe fiero",
+   "es419": "Extremo: Golpe Furioso",
+   "en": "Ultimate: Fierce Strike"
+  },
+  "icon": "icons/bdo/04_pc_skill/01_pc_skill/04_pgm_skill/pgm_skill_0296.webp",
+  "level": 52,
+  "combat": true
+ },
+ {
+  "id": 1847,
+  "name": {
+   "esES": "Suplex",
+   "es419": "Arraigarse",
+   "en": "Rooting"
+  },
+  "icon": "icons/bdo/04_pc_skill/01_pc_skill/04_pgm_skill/pgm_skill_1847.webp",
+  "level": 56,
+  "combat": true
+ },
+ {
+  "id": 1179,
+  "name": {
+   "esES": "Trueno furioso",
+   "es419": "Tormenta Violenta",
+   "en": "Raging Thunder"
+  },
+  "icon": "icons/bdo/04_pc_skill/01_pc_skill/04_pgm_skill/pgm_skill_1044.webp",
+  "level": 50,
+  "combat": true
+ },
+ {
+  "id": 1155,
+  "name": {
+   "esES": "Vapulear",
+   "es419": "Aplastar",
+   "en": "Smack Down"
+  },
+  "icon": "icons/bdo/04_pc_skill/01_pc_skill/04_pgm_skill/pgm_skill_1034.webp",
+  "level": 29,
+  "combat": true
+ },
+ {
+  "id": 317,
+  "name": {
+   "esES": "Zarpazo de acero",
+   "es419": "Corte de Viento Bestial",
+   "en": "Beastly Wind Slash"
+  },
+  "icon": "icons/bdo/04_pc_skill/01_pc_skill/04_pgm_skill/pgm_skill_0314.webp",
+  "level": 37,
+  "combat": true
+ },
+ {
+  "id": 3459,
+  "name": {
+   "esES": "Absorción de furia",
+   "es419": "Absorción de Furia",
+   "en": "Rage Absorption"
+  },
+  "icon": "icons/bdo/04_pc_skill/01_pc_skill/00_common/common_skill_0090.webp",
+  "level": 35,
+  "combat": false
+ },
+ {
+  "id": 89,
+  "name": {
+   "esES": "Absorción de furia (latente)",
+   "es419": "Absorción de Furia (Innato)",
+   "en": "Rage Absorption (Innate)"
+  },
+  "icon": "icons/bdo/04_pc_skill/01_pc_skill/00_common/common_skill_0090.webp",
+  "level": 35,
+  "combat": false
+ },
+ {
+  "id": 285,
+  "name": {
+   "esES": "Apoderamiedo",
+   "es419": "Miedo Abrumante",
+   "en": "Seizing Fear"
+  },
+  "icon": "icons/bdo/04_pc_skill/01_pc_skill/04_pgm_skill/pgm_skill_0267.webp",
+  "level": 60,
+  "combat": false
+ },
+ {
+  "id": 4852,
+  "name": {
+   "esES": "Apoderamiedo XXI",
+   "es419": "Miedo Abrumante XXI",
+   "en": "Seizing Fear XXI"
+  },
+  "icon": "icons/bdo/04_pc_skill/01_pc_skill/04_pgm_skill/pgm_skill_4852.webp",
+  "level": 1,
+  "combat": false
+ },
+ {
+  "id": 2076,
+  "name": {
+   "esES": "Cazador hábil",
+   "es419": "Cazador Experto",
+   "en": "Skilled Hunter"
+  },
+  "icon": "icons/bdo/04_pc_skill/01_pc_skill/06_pkm_skill/pkm_skill_2072.webp",
+  "level": 60,
+  "combat": false
+ },
+ {
+  "id": 6130,
+  "name": {
+   "esES": "Elvia: Fogonazo frenético",
+   "es419": "Elvia: Guía Frenética",
+   "en": "Elvia: Frenzied Delivery"
+  },
+  "icon": "icons/bdo/04_pc_skill/01_pc_skill/04_pgm_skill/pgm_skill_6130.webp",
+  "level": 60,
+  "combat": false
+ },
+ {
+  "id": 4056,
+  "name": {
+   "esES": "Frenesí temible",
+   "es419": "Tirano Frenético",
+   "en": "Frenzied Tyrant"
+  },
+  "icon": "icons/bdo/04_pc_skill/01_pc_skill/04_pgm_skill/pgm_skill_4056.webp",
+  "level": 58,
+  "combat": false
+ },
+ {
+  "id": 345,
+  "name": {
+   "esES": "Fuerte de gigante",
+   "es419": "Fortaleza del Gigante",
+   "en": "Fort of Giant"
+  },
+  "icon": "icons/bdo/04_pc_skill/01_pc_skill/04_pgm_skill/pgm_skill_0345.webp",
+  "level": 20,
+  "combat": false
+ },
+ {
+  "id": 354,
+  "name": {
+   "esES": "Furia de la bestia",
+   "es419": "La furia de Bestia",
+   "en": "Fury of the Beast"
+  },
+  "icon": "icons/bdo/04_pc_skill/01_pc_skill/04_pgm_skill/pgm_skill_0345.webp",
+  "level": 1,
+  "combat": false
+ },
+ {
+  "id": 4856,
+  "name": {
+   "esES": "Gran poder",
+   "es419": "Gran Poder",
+   "en": "Unyielding Might"
+  },
+  "icon": "icons/bdo/04_pc_skill/01_pc_skill/00_common/common_skill_18705.webp",
+  "level": 62,
+  "combat": false
+ },
+ {
+  "id": 1707,
+  "name": {
+   "esES": "Maestría infinita",
+   "es419": "Maestría Infinita",
+   "en": "Infinite Mastery"
+  },
+  "icon": "icons/bdo/04_pc_skill/01_pc_skill/00_common/common_skill_1702.webp",
+  "level": 55,
+  "combat": false
+ },
+ {
+  "id": 6465,
+  "name": {
+   "esES": "Salto gigante",
+   "es419": "Paso de Gigante",
+   "en": "Giant Leap"
+  },
+  "icon": "icons/bdo/04_pc_skill/01_pc_skill/04_pgm_skill/pgm_skill_1834.webp",
+  "level": 59,
+  "combat": false
+ },
+ {
+  "id": 91,
+  "name": {
+   "esES": "Transfuria",
+   "es419": "Transferencia de Furia",
+   "en": "Rage Transfer"
+  },
+  "icon": "icons/bdo/04_pc_skill/01_pc_skill/00_common/common_skill_0091.webp",
+  "level": 35,
+  "combat": false
+ },
+ {
+  "id": 4057,
+  "name": {
+   "esES": "Zarpazo frenético",
+   "es419": "Viento Frenético",
+   "en": "Frenzied Winds"
+  },
+  "icon": "icons/bdo/04_pc_skill/01_pc_skill/04_pgm_skill/pgm_skill_4057.webp",
+  "level": 58,
+  "combat": false
+ }
+]

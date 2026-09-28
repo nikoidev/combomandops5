@@ -1,0 +1,1267 @@
+[
+ {
+  "id": 6700,
+  "name": {
+   "esES": "¡Camaradas, al abordaje!",
+   "es419": "¡Todos estamos listos!",
+   "en": "No Mercy, Scallywags!"
+  },
+  "icon": "icons/bdo/04_pc_skill/01_pc_skill/24_pfw_skill/pfw_skill_6700.webp",
+  "level": 56,
+  "combat": true
+ },
+ {
+  "id": 6530,
+  "name": {
+   "esES": "¡Levad anclas!",
+   "es419": "Montar Barriles",
+   "en": "Smooth Sailin'"
+  },
+  "icon": "icons/bdo/04_pc_skill/01_pc_skill/24_pfw_skill/pfw_skill_6527.webp",
+  "level": 41,
+  "combat": true
+ },
+ {
+  "id": 6681,
+  "name": {
+   "esES": "¡Sin piedad!",
+   "es419": "¡Listo Capitana!",
+   "en": "Spare No Quarter!"
+  },
+  "icon": "icons/bdo/04_pc_skill/01_pc_skill/24_pfw_skill/pfw_skill_6699.webp",
+  "level": 59,
+  "combat": true
+ },
+ {
+  "id": 3459,
+  "name": {
+   "esES": "Absorción de furia",
+   "es419": "Absorción de Furia",
+   "en": "Rage Absorption"
+  },
+  "icon": "icons/bdo/04_pc_skill/01_pc_skill/00_common/common_skill_0090.webp",
+  "level": 35,
+  "combat": true
+ },
+ {
+  "id": 89,
+  "name": {
+   "esES": "Absorción de furia (latente)",
+   "es419": "Absorción de Furia (Innato)",
+   "en": "Rage Absorption (Innate)"
+  },
+  "icon": "icons/bdo/04_pc_skill/01_pc_skill/00_common/common_skill_0090.webp",
+  "level": 35,
+  "combat": true
+ },
+ {
+  "id": 6585,
+  "name": {
+   "esES": "Aguacero",
+   "es419": "Ola Torrencial",
+   "en": "Wipe Out"
+  },
+  "icon": "icons/bdo/04_pc_skill/01_pc_skill/24_pfw_skill/pfw_skill_6582.webp",
+  "level": 51,
+  "combat": true
+ },
+ {
+  "id": 6526,
+  "name": {
+   "esES": "Aliento de las olas",
+   "es419": "Aliento de la Marea",
+   "en": "Sea Lungs"
+  },
+  "icon": "icons/bdo/04_pc_skill/01_pc_skill/24_pfw_skill/pfw_skill_6526.webp",
+  "level": 1,
+  "combat": true
+ },
+ {
+  "id": 6718,
+  "name": {
+   "esES": "Alta mar",
+   "es419": "Explosión de Marea",
+   "en": "Tidal Surge"
+  },
+  "icon": "icons/bdo/04_pc_skill/01_pc_skill/24_pfw_skill/pfw_skill_6719.webp",
+  "level": 56,
+  "combat": true
+ },
+ {
+  "id": 6686,
+  "name": {
+   "esES": "Bruma del mar",
+   "es419": "Isla de Neblinas",
+   "en": "Sea Mist"
+  },
+  "icon": "icons/bdo/04_pc_skill/01_pc_skill/24_pfw_skill/pfw_skill_6683.webp",
+  "level": 60,
+  "combat": true
+ },
+ {
+  "id": 2076,
+  "name": {
+   "esES": "Cazador hábil",
+   "es419": "Cazador Experto",
+   "en": "Skilled Hunter"
+  },
+  "icon": "icons/bdo/04_pc_skill/01_pc_skill/06_pkm_skill/pkm_skill_2072.webp",
+  "level": 60,
+  "combat": true
+ },
+ {
+  "id": 6640,
+  "name": {
+   "esES": "Cénit: Aguacero",
+   "es419": "S: Ola Torrencial",
+   "en": "Prime: Wipe Out"
+  },
+  "icon": "icons/bdo/04_pc_skill/01_pc_skill/24_pfw_skill/pfw_skill_6638.webp",
+  "level": 60,
+  "combat": true
+ },
+ {
+  "id": 6732,
+  "name": {
+   "esES": "Cénit: Embrujo del mar",
+   "es419": "S: Seducción del Mar",
+   "en": "Prime: Ocean's Allure"
+  },
+  "icon": "icons/bdo/04_pc_skill/01_pc_skill/24_pfw_skill/pfw_skill_6732.webp",
+  "level": 58,
+  "combat": true
+ },
+ {
+  "id": 6625,
+  "name": {
+   "esES": "Cénit: Fuerza de los mares",
+   "es419": "S: Fuerza del Tsunami",
+   "en": "Prime: Hydropower"
+  },
+  "icon": "icons/bdo/04_pc_skill/01_pc_skill/24_pfw_skill/pfw_skill_6625.webp",
+  "level": 58,
+  "combat": true
+ },
+ {
+  "id": 6652,
+  "name": {
+   "esES": "Cénit: Labios de sirena",
+   "es419": "S: Labios Ondulantes",
+   "en": "Prime: Wave Pout"
+  },
+  "icon": "icons/bdo/04_pc_skill/01_pc_skill/24_pfw_skill/pfw_skill_6652.webp",
+  "level": 57,
+  "combat": true
+ },
+ {
+  "id": 6629,
+  "name": {
+   "esES": "Cénit: Marea alta",
+   "es419": "S: Golpe Ondulante",
+   "en": "Prime: Wave Lash"
+  },
+  "icon": "icons/bdo/04_pc_skill/01_pc_skill/24_pfw_skill/pfw_skill_6626.webp",
+  "level": 60,
+  "combat": true
+ },
+ {
+  "id": 6650,
+  "name": {
+   "esES": "Cénit: Marekha: Ballena onírica",
+   "es419": "S: Mareka: Sueño de la Ballena",
+   "en": "Prime: Mareca: Whale Song"
+  },
+  "icon": "icons/bdo/04_pc_skill/01_pc_skill/24_pfw_skill/pfw_skill_6650.webp",
+  "level": 59,
+  "combat": true
+ },
+ {
+  "id": 6647,
+  "name": {
+   "esES": "Cénit: Marekha: Espíritu libre",
+   "es419": "S: Mareka: Nado Romántico",
+   "en": "Prime: Mareca: Sea Stroll"
+  },
+  "icon": "icons/bdo/04_pc_skill/01_pc_skill/24_pfw_skill/pfw_skill_6647.webp",
+  "level": 58,
+  "combat": true
+ },
+ {
+  "id": 6648,
+  "name": {
+   "esES": "Cénit: Marekha: Espuma marina",
+   "es419": "S: Mareka: Espuma Jovial",
+   "en": "Prime: Mareca: Spiral Soak"
+  },
+  "icon": "icons/bdo/04_pc_skill/01_pc_skill/24_pfw_skill/pfw_skill_6648.webp",
+  "level": 60,
+  "combat": true
+ },
+ {
+  "id": 6649,
+  "name": {
+   "esES": "Cénit: Marekha: Marea onírica",
+   "es419": "S: Mareka: Humo de Ensueño",
+   "en": "Prime: Mareca: Jet Stream"
+  },
+  "icon": "icons/bdo/04_pc_skill/01_pc_skill/24_pfw_skill/pfw_skill_6649.webp",
+  "level": 60,
+  "combat": true
+ },
+ {
+  "id": 6623,
+  "name": {
+   "esES": "Cénit: Ola de la serenakha",
+   "es419": "S: Marea Romántica",
+   "en": "Prime: Ocean's Embrace"
+  },
+  "icon": "icons/bdo/04_pc_skill/01_pc_skill/24_pfw_skill/pfw_skill_6619.webp",
+  "level": 60,
+  "combat": true
+ },
+ {
+  "id": 6646,
+  "name": {
+   "esES": "Cénit: Orbe oceánico",
+   "es419": "S: Esfera Ondulante",
+   "en": "Prime: Ocean's Pearl"
+  },
+  "icon": "icons/bdo/04_pc_skill/01_pc_skill/24_pfw_skill/pfw_skill_6644.webp",
+  "level": 60,
+  "combat": true
+ },
+ {
+  "id": 6731,
+  "name": {
+   "esES": "Cénit: Orden de capitana: ¡Abran fuego!",
+   "es419": "S: Orden de la Capitana: ¡Comienza!",
+   "en": "Prime: Cap'n's Orders: Open Fire!"
+  },
+  "icon": "icons/bdo/04_pc_skill/01_pc_skill/24_pfw_skill/pfw_skill_6731.webp",
+  "level": 60,
+  "combat": true
+ },
+ {
+  "id": 6624,
+  "name": {
+   "esES": "Cénit: Reliquia de los Cuervos",
+   "es419": "S: Tesoro Familiar del Cuervo",
+   "en": "Prime: Heirloom of the Crow"
+  },
+  "icon": "icons/bdo/04_pc_skill/01_pc_skill/24_pfw_skill/pfw_skill_6624.webp",
+  "level": 56,
+  "combat": true
+ },
+ {
+  "id": 6633,
+  "name": {
+   "esES": "Cénit: Tempestad incontenible",
+   "es419": "S: Tempestad Arremetedora",
+   "en": "Prime: Storming Gale"
+  },
+  "icon": "icons/bdo/04_pc_skill/01_pc_skill/24_pfw_skill/pfw_skill_6630.webp",
+  "level": 59,
+  "combat": true
+ },
+ {
+  "id": 6643,
+  "name": {
+   "esES": "Cénit: Tifón",
+   "es419": "S: Marejada Ciclónica",
+   "en": "Prime: Storm Surge"
+  },
+  "icon": "icons/bdo/04_pc_skill/01_pc_skill/24_pfw_skill/pfw_skill_6641.webp",
+  "level": 60,
+  "combat": true
+ },
+ {
+  "id": 6637,
+  "name": {
+   "esES": "Cénit: Trampa del mar",
+   "es419": "S: Azul Caprichoso",
+   "en": "Prime: Ocean Melancholy"
+  },
+  "icon": "icons/bdo/04_pc_skill/01_pc_skill/24_pfw_skill/pfw_skill_6634.webp",
+  "level": 60,
+  "combat": true
+ },
+ {
+  "id": 6651,
+  "name": {
+   "esES": "Cénit: Vorágine",
+   "es419": "S: Torcer Ruta",
+   "en": "Prime: Whirling Slash"
+  },
+  "icon": "icons/bdo/04_pc_skill/01_pc_skill/24_pfw_skill/pfw_skill_6651.webp",
+  "level": 56,
+  "combat": true
+ },
+ {
+  "id": 6715,
+  "name": {
+   "esES": "Código de los piratas",
+   "es419": "Juramento de los Piratas Peces Saltarines",
+   "en": "Code of the Scallywags"
+  },
+  "icon": "icons/bdo/04_pc_skill/01_pc_skill/24_pfw_skill/pfw_skill_6715.webp",
+  "level": 56,
+  "combat": true
+ },
+ {
+  "id": 6674,
+  "name": {
+   "esES": "Contacto: Básico",
+   "es419": "Mano a Mano: Básico",
+   "en": "Close Quarters: Basic"
+  },
+  "icon": "icons/bdo/04_pc_skill/01_pc_skill/24_pfw_skill/pfw_skill_6669.webp",
+  "level": 60,
+  "combat": true
+ },
+ {
+  "id": 6706,
+  "name": {
+   "esES": "Contacto: Carga",
+   "es419": "Mano a Mano: Embestida",
+   "en": "Close Quarters: Charge"
+  },
+  "icon": "icons/bdo/04_pc_skill/01_pc_skill/24_pfw_skill/pfw_skill_6706.webp",
+  "level": 57,
+  "combat": true
+ },
+ {
+  "id": 6678,
+  "name": {
+   "esES": "Contacto: Represión",
+   "es419": "Mano a Mano: Someter",
+   "en": "Close Quarters: Suppress"
+  },
+  "icon": "icons/bdo/04_pc_skill/01_pc_skill/24_pfw_skill/pfw_skill_6675.webp",
+  "level": 59,
+  "combat": true
+ },
+ {
+  "id": 6486,
+  "name": {
+   "esES": "Corte grácil",
+   "es419": "Cortar Agua",
+   "en": "Splashin' Around"
+  },
+  "icon": "icons/bdo/04_pc_skill/01_pc_skill/24_pfw_skill/pfw_skill_6477.webp",
+  "level": 53,
+  "combat": true
+ },
+ {
+  "id": 6544,
+  "name": {
+   "esES": "Creciente del mar",
+   "es419": "Como un Pez",
+   "en": "Tidal Slash"
+  },
+  "icon": "icons/bdo/04_pc_skill/01_pc_skill/24_pfw_skill/pfw_skill_6541.webp",
+  "level": 32,
+  "combat": true
+ },
+ {
+  "id": 6553,
+  "name": {
+   "esES": "Cresta de la ola",
+   "es419": "Caza de la Marea",
+   "en": "Sea Prowler"
+  },
+  "icon": "icons/bdo/04_pc_skill/01_pc_skill/24_pfw_skill/pfw_skill_6550.webp",
+  "level": 40,
+  "combat": true
+ },
+ {
+  "id": 6525,
+  "name": {
+   "esES": "Cuerda de marekha",
+   "es419": "Cuerda de Mareka",
+   "en": "Mareca Swing"
+  },
+  "icon": "icons/bdo/04_pc_skill/01_pc_skill/24_pfw_skill/pfw_skill_6525.webp",
+  "level": 10,
+  "combat": true
+ },
+ {
+  "id": 6531,
+  "name": {
+   "esES": "Definitiva: ¡Levad anclas!",
+   "es419": "Suprema: Montar Barriles",
+   "en": "Absolute: Smooth Sailin'"
+  },
+  "icon": "icons/bdo/04_pc_skill/01_pc_skill/24_pfw_skill/pfw_skill_6531.webp",
+  "level": 57,
+  "combat": true
+ },
+ {
+  "id": 6586,
+  "name": {
+   "esES": "Definitiva: Aguacero",
+   "es419": "Suprema: Ola Torrencial",
+   "en": "Absolute: Wipe Out"
+  },
+  "icon": "icons/bdo/04_pc_skill/01_pc_skill/24_pfw_skill/pfw_skill_6586.webp",
+  "level": 57,
+  "combat": true
+ },
+ {
+  "id": 6665,
+  "name": {
+   "esES": "Definitiva: Beso de sirena",
+   "es419": "Suprema: Beso de la Marea",
+   "en": "Absolute: Tide's Kiss"
+  },
+  "icon": "icons/bdo/04_pc_skill/01_pc_skill/24_pfw_skill/pfw_skill_6665.webp",
+  "level": 60,
+  "combat": true
+ },
+ {
+  "id": 6487,
+  "name": {
+   "esES": "Definitiva: Corte grácil",
+   "es419": "Suprema: Cortar Agua",
+   "en": "Absolute: Splashin' Around"
+  },
+  "icon": "icons/bdo/04_pc_skill/01_pc_skill/24_pfw_skill/pfw_skill_6487.webp",
+  "level": 56,
+  "combat": true
+ },
+ {
+  "id": 6545,
+  "name": {
+   "esES": "Definitiva: Creciente del mar",
+   "es419": "Suprema: Como un Pez",
+   "en": "Absolute: Tidal Slash"
+  },
+  "icon": "icons/bdo/04_pc_skill/01_pc_skill/24_pfw_skill/pfw_skill_6545.webp",
+  "level": 57,
+  "combat": true
+ },
+ {
+  "id": 6554,
+  "name": {
+   "esES": "Definitiva: Cresta de la ola",
+   "es419": "Suprema: Caza de la Marea",
+   "en": "Absolute: Sea Prowler"
+  },
+  "icon": "icons/bdo/04_pc_skill/01_pc_skill/24_pfw_skill/pfw_skill_6554.webp",
+  "level": 56,
+  "combat": true
+ },
+ {
+  "id": 6668,
+  "name": {
+   "esES": "Definitiva: Inundación",
+   "es419": "Suprema: Desbordamiento",
+   "en": "Absolute: Overflow"
+  },
+  "icon": "icons/bdo/04_pc_skill/01_pc_skill/24_pfw_skill/pfw_skill_6668.webp",
+  "level": 59,
+  "combat": true
+ },
+ {
+  "id": 6581,
+  "name": {
+   "esES": "Definitiva: Labios de sirena",
+   "es419": "Suprema: Labios Ondulantes",
+   "en": "Absolute: Wave Pout"
+  },
+  "icon": "icons/bdo/04_pc_skill/01_pc_skill/24_pfw_skill/pfw_skill_6581.webp",
+  "level": 57,
+  "combat": true
+ },
+ {
+  "id": 6507,
+  "name": {
+   "esES": "Definitiva: Marea alta",
+   "es419": "Suprema: Golpe Ondulante",
+   "en": "Absolute: Wave Lash"
+  },
+  "icon": "icons/bdo/04_pc_skill/01_pc_skill/24_pfw_skill/pfw_skill_6507.webp",
+  "level": 58,
+  "combat": true
+ },
+ {
+  "id": 6518,
+  "name": {
+   "esES": "Definitiva: Marejada",
+   "es419": "Suprema: Ola Salvaje",
+   "en": "Absolute: Crashing Wave"
+  },
+  "icon": "icons/bdo/04_pc_skill/01_pc_skill/24_pfw_skill/pfw_skill_6518.webp",
+  "level": 58,
+  "combat": true
+ },
+ {
+  "id": 6567,
+  "name": {
+   "esES": "Definitiva: Marekha: Ballena onírica",
+   "es419": "Suprema: Mareka: Sueño de la Ballena",
+   "en": "Absolute: Mareca: Whale Song"
+  },
+  "icon": "icons/bdo/04_pc_skill/01_pc_skill/24_pfw_skill/pfw_skill_6567.webp",
+  "level": 60,
+  "combat": true
+ },
+ {
+  "id": 6571,
+  "name": {
+   "esES": "Definitiva: Marekha: Espíritu libre",
+   "es419": "Suprema: Mareka: Nado Romántico",
+   "en": "Absolute: Mareca: Sea Stroll"
+  },
+  "icon": "icons/bdo/04_pc_skill/01_pc_skill/24_pfw_skill/pfw_skill_6571.webp",
+  "level": 58,
+  "combat": true
+ },
+ {
+  "id": 6576,
+  "name": {
+   "esES": "Definitiva: Marekha: Espuma marina",
+   "es419": "Suprema: Mareka: Espuma Jovial",
+   "en": "Absolute: Mareca: Spiral Soak"
+  },
+  "icon": "icons/bdo/04_pc_skill/01_pc_skill/24_pfw_skill/pfw_skill_6576.webp",
+  "level": 59,
+  "combat": true
+ },
+ {
+  "id": 6563,
+  "name": {
+   "esES": "Definitiva: Marekha: Marea onírica",
+   "es419": "Suprema: Mareka: Humo de Ensueño",
+   "en": "Absolute: Mareca: Jet Stream"
+  },
+  "icon": "icons/bdo/04_pc_skill/01_pc_skill/24_pfw_skill/pfw_skill_6563.webp",
+  "level": 60,
+  "combat": true
+ },
+ {
+  "id": 6591,
+  "name": {
+   "esES": "Definitiva: Orbe oceánico",
+   "es419": "Suprema: Esfera Ondulante",
+   "en": "Absolute: Ocean's Pearl"
+  },
+  "icon": "icons/bdo/04_pc_skill/01_pc_skill/24_pfw_skill/pfw_skill_6591.webp",
+  "level": 58,
+  "combat": true
+ },
+ {
+  "id": 6491,
+  "name": {
+   "esES": "Definitiva: Paseo etéreo",
+   "es419": "Suprema: Surfear Olas",
+   "en": "Absolute: Riding Waves"
+  },
+  "icon": "icons/bdo/04_pc_skill/01_pc_skill/24_pfw_skill/pfw_skill_6491.webp",
+  "level": 56,
+  "combat": true
+ },
+ {
+  "id": 6502,
+  "name": {
+   "esES": "Definitiva: Remolino marino",
+   "es419": "Suprema: Oleaje de Piedra",
+   "en": "Absolute: Whirlpool"
+  },
+  "icon": "icons/bdo/04_pc_skill/01_pc_skill/24_pfw_skill/pfw_skill_6502.webp",
+  "level": 57,
+  "combat": true
+ },
+ {
+  "id": 6496,
+  "name": {
+   "esES": "Definitiva: Rompeolas",
+   "es419": "Suprema: Romper Olas",
+   "en": "Absolute: Wave Breaker"
+  },
+  "icon": "icons/bdo/04_pc_skill/01_pc_skill/24_pfw_skill/pfw_skill_6496.webp",
+  "level": 56,
+  "combat": true
+ },
+ {
+  "id": 6535,
+  "name": {
+   "esES": "Definitiva: Tempestad",
+   "es419": "Suprema: Tempestad",
+   "en": "Absolute: Squall"
+  },
+  "icon": "icons/bdo/04_pc_skill/01_pc_skill/24_pfw_skill/pfw_skill_6535.webp",
+  "level": 57,
+  "combat": true
+ },
+ {
+  "id": 6512,
+  "name": {
+   "esES": "Definitiva: Tempestad incontenible",
+   "es419": "Suprema: Tempestad Arremetedora",
+   "en": "Absolute: Storming Gale"
+  },
+  "icon": "icons/bdo/04_pc_skill/01_pc_skill/24_pfw_skill/pfw_skill_6512.webp",
+  "level": 56,
+  "combat": true
+ },
+ {
+  "id": 6524,
+  "name": {
+   "esES": "Definitiva: Tifón",
+   "es419": "Suprema: Marejada Ciclónica",
+   "en": "Absolute: Storm Surge"
+  },
+  "icon": "icons/bdo/04_pc_skill/01_pc_skill/24_pfw_skill/pfw_skill_6524.webp",
+  "level": 58,
+  "combat": true
+ },
+ {
+  "id": 6559,
+  "name": {
+   "esES": "Definitiva: Trampa del mar",
+   "es419": "Suprema: Azul Caprichoso",
+   "en": "Absolute: Ocean Melancholy"
+  },
+  "icon": "icons/bdo/04_pc_skill/01_pc_skill/24_pfw_skill/pfw_skill_6559.webp",
+  "level": 58,
+  "combat": true
+ },
+ {
+  "id": 6661,
+  "name": {
+   "esES": "Definitiva: Vorágine",
+   "es419": "Suprema: Torcer Ruta",
+   "en": "Absolute: Whirling Slash"
+  },
+  "icon": "icons/bdo/04_pc_skill/01_pc_skill/24_pfw_skill/pfw_skill_6661.webp",
+  "level": 56,
+  "combat": true
+ },
+ {
+  "id": 6654,
+  "name": {
+   "esES": "Despertar: Patrakha conquistadora",
+   "es419": "Despertar: Patraka Conquistadora.",
+   "en": "Awakening: Patraca Conquest"
+  },
+  "icon": "icons/bdo/04_pc_skill/01_pc_skill/24_pfw_skill/pfw_skill_6654.webp",
+  "level": 56,
+  "combat": true
+ },
+ {
+  "id": 6724,
+  "name": {
+   "esES": "Elvia: Niebla oscura",
+   "es419": "Elvia: Neblina Negra",
+   "en": "Elvia: Dark Mists"
+  },
+  "icon": "icons/bdo/04_pc_skill/01_pc_skill/24_pfw_skill/pfw_skill_6724.webp",
+  "level": 60,
+  "combat": true
+ },
+ {
+  "id": 6702,
+  "name": {
+   "esES": "Embrujo del mar",
+   "es419": "Seducción del Mar",
+   "en": "Ocean's Allure"
+  },
+  "icon": "icons/bdo/04_pc_skill/01_pc_skill/24_pfw_skill/pfw_skill_6702.webp",
+  "level": 58,
+  "combat": true
+ },
+ {
+  "id": 6488,
+  "name": {
+   "esES": "Evasión",
+   "es419": "Evasión",
+   "en": "Evasion"
+  },
+  "icon": "icons/bdo/04_pc_skill/01_pc_skill/24_pfw_skill/pfw_skill_6488.webp",
+  "level": 1,
+  "combat": true
+ },
+ {
+  "id": 6719,
+  "name": {
+   "esES": "Gran oleaje",
+   "es419": "Marea Ondulante",
+   "en": "Rising Whirlpool"
+  },
+  "icon": "icons/bdo/04_pc_skill/01_pc_skill/24_pfw_skill/pfw_skill_6718.webp",
+  "level": 56,
+  "combat": true
+ },
+ {
+  "id": 4856,
+  "name": {
+   "esES": "Gran poder",
+   "es419": "Gran Poder",
+   "en": "Unyielding Might"
+  },
+  "icon": "icons/bdo/04_pc_skill/01_pc_skill/00_common/common_skill_18705.webp",
+  "level": 62,
+  "combat": true
+ },
+ {
+  "id": 6705,
+  "name": {
+   "esES": "Honor familiar",
+   "es419": "Honor de la Familia",
+   "en": "Family's Honor"
+  },
+  "icon": "icons/bdo/04_pc_skill/01_pc_skill/24_pfw_skill/pfw_skill_6705.webp",
+  "level": 56,
+  "combat": true
+ },
+ {
+  "id": 6667,
+  "name": {
+   "esES": "Inundación",
+   "es419": "Desbordamiento",
+   "en": "Overflow"
+  },
+  "icon": "icons/bdo/04_pc_skill/01_pc_skill/24_pfw_skill/pfw_skill_6592.webp",
+  "level": 52,
+  "combat": true
+ },
+ {
+  "id": 6580,
+  "name": {
+   "esES": "Labios de sirena",
+   "es419": "Labios Ondulantes",
+   "en": "Wave Pout"
+  },
+  "icon": "icons/bdo/04_pc_skill/01_pc_skill/24_pfw_skill/pfw_skill_6577.webp",
+  "level": 47,
+  "combat": true
+ },
+ {
+  "id": 1707,
+  "name": {
+   "esES": "Maestría infinita",
+   "es419": "Maestría Infinita",
+   "en": "Infinite Mastery"
+  },
+  "icon": "icons/bdo/04_pc_skill/01_pc_skill/00_common/common_skill_1702.webp",
+  "level": 55,
+  "combat": true
+ },
+ {
+  "id": 6736,
+  "name": {
+   "esES": "Mar brava",
+   "es419": "Valentía Arremetedora",
+   "en": "Vigor Rush"
+  },
+  "icon": "icons/bdo/04_pc_skill/01_pc_skill/24_pfw_skill/pfw_skill_6736.webp",
+  "level": 60,
+  "combat": true
+ },
+ {
+  "id": 6692,
+  "name": {
+   "esES": "Marca del Cuervo",
+   "es419": "Objetivo del Cuervo",
+   "en": "Crow's Mark"
+  },
+  "icon": "icons/bdo/04_pc_skill/01_pc_skill/24_pfw_skill/pfw_skill_6690.webp",
+  "level": 59,
+  "combat": true
+ },
+ {
+  "id": 6506,
+  "name": {
+   "esES": "Marea alta",
+   "es419": "Golpe Ondulante",
+   "en": "Wave Lash"
+  },
+  "icon": "icons/bdo/04_pc_skill/01_pc_skill/24_pfw_skill/pfw_skill_6503.webp",
+  "level": 44,
+  "combat": true
+ },
+ {
+  "id": 6517,
+  "name": {
+   "esES": "Marejada",
+   "es419": "Ola Salvaje",
+   "en": "Crashing Wave"
+  },
+  "icon": "icons/bdo/04_pc_skill/01_pc_skill/24_pfw_skill/pfw_skill_6514.webp",
+  "level": 54,
+  "combat": true
+ },
+ {
+  "id": 6722,
+  "name": {
+   "esES": "Marekha: Baile de las ballenas",
+   "es419": "Mareka: Ballena Romántica",
+   "en": "Mareca: Spiral of Dreams"
+  },
+  "icon": "icons/bdo/04_pc_skill/01_pc_skill/24_pfw_skill/pfw_skill_6722.webp",
+  "level": 58,
+  "combat": true
+ },
+ {
+  "id": 6566,
+  "name": {
+   "esES": "Marekha: Ballena onírica",
+   "es419": "Mareka: Sueño de la Ballena",
+   "en": "Mareca: Whale Song"
+  },
+  "icon": "icons/bdo/04_pc_skill/01_pc_skill/24_pfw_skill/pfw_skill_6564.webp",
+  "level": 54,
+  "combat": true
+ },
+ {
+  "id": 6570,
+  "name": {
+   "esES": "Marekha: Espíritu libre",
+   "es419": "Mareka: Nado Romántico",
+   "en": "Mareca: Sea Stroll"
+  },
+  "icon": "icons/bdo/04_pc_skill/01_pc_skill/24_pfw_skill/pfw_skill_6568.webp",
+  "level": 49,
+  "combat": true
+ },
+ {
+  "id": 6723,
+  "name": {
+   "esES": "Marekha: Espíritu soñador",
+   "es419": "Mareka: Nado de Ensueño",
+   "en": "Mareca: Sea of Dreams"
+  },
+  "icon": "icons/bdo/04_pc_skill/01_pc_skill/24_pfw_skill/pfw_skill_6723.webp",
+  "level": 58,
+  "combat": true
+ },
+ {
+  "id": 6575,
+  "name": {
+   "esES": "Marekha: Espuma marina",
+   "es419": "Mareka: Espuma Jovial",
+   "en": "Mareca: Spiral Soak"
+  },
+  "icon": "icons/bdo/04_pc_skill/01_pc_skill/24_pfw_skill/pfw_skill_6572.webp",
+  "level": 53,
+  "combat": true
+ },
+ {
+  "id": 6562,
+  "name": {
+   "esES": "Marekha: Marea onírica",
+   "es419": "Mareka: Humo de Ensueño",
+   "en": "Mareca: Jet Stream"
+  },
+  "icon": "icons/bdo/04_pc_skill/01_pc_skill/24_pfw_skill/pfw_skill_6560.webp",
+  "level": 55,
+  "combat": true
+ },
+ {
+  "id": 6664,
+  "name": {
+   "esES": "Movimiento: Beso de sirena",
+   "es419": "Flujo: Beso de la Marea",
+   "en": "Flow: Tide's Kiss"
+  },
+  "icon": "icons/bdo/04_pc_skill/01_pc_skill/24_pfw_skill/pfw_skill_6662.webp",
+  "level": 55,
+  "combat": true
+ },
+ {
+  "id": 6658,
+  "name": {
+   "esES": "Movimiento: Maretazo",
+   "es419": "Flujo: Secuela",
+   "en": "Flow: After the Storm"
+  },
+  "icon": "icons/bdo/04_pc_skill/01_pc_skill/24_pfw_skill/pfw_skill_6658.webp",
+  "level": 46,
+  "combat": true
+ },
+ {
+  "id": 6548,
+  "name": {
+   "esES": "Movimiento: Olas turbulentas",
+   "es419": "Flujo: Ola Intensa",
+   "en": "Flow: Raging Torrent"
+  },
+  "icon": "icons/bdo/04_pc_skill/01_pc_skill/24_pfw_skill/pfw_skill_6546.webp",
+  "level": 55,
+  "combat": true
+ },
+ {
+  "id": 6698,
+  "name": {
+   "esES": "Movimiento: Patrakha devastadora",
+   "es419": "Flujo: Arpón de la Tierra",
+   "en": "Flow: Earth-render Patraca"
+  },
+  "icon": "icons/bdo/04_pc_skill/01_pc_skill/24_pfw_skill/pfw_skill_6698.webp",
+  "level": 59,
+  "combat": true
+ },
+ {
+  "id": 6492,
+  "name": {
+   "esES": "Movimiento: Rugir de las olas",
+   "es419": "Flujo: Saltar Olas",
+   "en": "Flow: Wave Skedaddle"
+  },
+  "icon": "icons/bdo/04_pc_skill/01_pc_skill/24_pfw_skill/pfw_skill_6492.webp",
+  "level": 45,
+  "combat": true
+ },
+ {
+  "id": 6534,
+  "name": {
+   "esES": "Movimiento: Tempestad",
+   "es419": "Flujo: Tempestad",
+   "en": "Flow: Squall"
+  },
+  "icon": "icons/bdo/04_pc_skill/01_pc_skill/24_pfw_skill/pfw_skill_6532.webp",
+  "level": 37,
+  "combat": true
+ },
+ {
+  "id": 6540,
+  "name": {
+   "esES": "Movimiento: Velada onírica",
+   "es419": "Flujo: Banquete de Ensueño",
+   "en": "Flow: Dreamswirl"
+  },
+  "icon": "icons/bdo/04_pc_skill/01_pc_skill/24_pfw_skill/pfw_skill_6540.webp",
+  "level": 45,
+  "combat": true
+ },
+ {
+  "id": 6720,
+  "name": {
+   "esES": "Ola devastadora",
+   "es419": "Golpe de las Olas",
+   "en": "Wave Blast"
+  },
+  "icon": "icons/bdo/04_pc_skill/01_pc_skill/24_pfw_skill/pfw_skill_6720.webp",
+  "level": 57,
+  "combat": true
+ },
+ {
+  "id": 6721,
+  "name": {
+   "esES": "Orbe explosivo",
+   "es419": "Explosión de Esfera",
+   "en": "Pearl Blast"
+  },
+  "icon": "icons/bdo/04_pc_skill/01_pc_skill/24_pfw_skill/pfw_skill_6721.webp",
+  "level": 57,
+  "combat": true
+ },
+ {
+  "id": 6590,
+  "name": {
+   "esES": "Orbe oceánico",
+   "es419": "Esfera Ondulante",
+   "en": "Ocean's Pearl"
+  },
+  "icon": "icons/bdo/04_pc_skill/01_pc_skill/24_pfw_skill/pfw_skill_6587.webp",
+  "level": 52,
+  "combat": true
+ },
+ {
+  "id": 6695,
+  "name": {
+   "esES": "Orden de capitana: ¡Abran fuego!",
+   "es419": "Orden de la Capitana: ¡Comienza!",
+   "en": "Cap'n's Orders: Open Fire!"
+  },
+  "icon": "icons/bdo/04_pc_skill/01_pc_skill/24_pfw_skill/pfw_skill_6693.webp",
+  "level": 60,
+  "combat": true
+ },
+ {
+  "id": 6490,
+  "name": {
+   "esES": "Paseo etéreo",
+   "es419": "Surfear Olas",
+   "en": "Riding Waves"
+  },
+  "icon": "icons/bdo/04_pc_skill/01_pc_skill/24_pfw_skill/pfw_skill_6489.webp",
+  "level": 31,
+  "combat": true
+ },
+ {
+  "id": 6696,
+  "name": {
+   "esES": "Patrakha atrapacorazones",
+   "es419": "Arpón del Corazón",
+   "en": "Heart-catcher Patraca"
+  },
+  "icon": "icons/bdo/04_pc_skill/01_pc_skill/24_pfw_skill/pfw_skill_6696.webp",
+  "level": 56,
+  "combat": true
+ },
+ {
+  "id": 6689,
+  "name": {
+   "esES": "Patrakha cegadora",
+   "es419": "Arpón del Sol",
+   "en": "Sun-shielder Patraca"
+  },
+  "icon": "icons/bdo/04_pc_skill/01_pc_skill/24_pfw_skill/pfw_skill_6687.webp",
+  "level": 60,
+  "combat": true
+ },
+ {
+  "id": 6682,
+  "name": {
+   "esES": "Patrakha perforaguas",
+   "es419": "Arpón Perforador",
+   "en": "Surface-slicer Patraca"
+  },
+  "icon": "icons/bdo/04_pc_skill/01_pc_skill/24_pfw_skill/pfw_skill_6682.webp",
+  "level": 56,
+  "combat": true
+ },
+ {
+  "id": 6703,
+  "name": {
+   "esES": "Patrakha perforavientos",
+   "es419": "Arpón del Viento",
+   "en": "Wind-piercer Patraca"
+  },
+  "icon": "icons/bdo/04_pc_skill/01_pc_skill/24_pfw_skill/pfw_skill_6703.webp",
+  "level": 59,
+  "combat": true
+ },
+ {
+  "id": 6697,
+  "name": {
+   "esES": "Patrakha rompeolas",
+   "es419": "Arpón de la Marea",
+   "en": "Wave-breaker Patraca"
+  },
+  "icon": "icons/bdo/04_pc_skill/01_pc_skill/24_pfw_skill/pfw_skill_6697.webp",
+  "level": 56,
+  "combat": true
+ },
+ {
+  "id": 7402,
+  "name": {
+   "esES": "Patrakha surcaolas",
+   "es419": "Arpón del Oleaje",
+   "en": "Tide-splitter Patraca"
+  },
+  "icon": "icons/bdo/04_pc_skill/01_pc_skill/24_pfw_skill/pfw_skill_7402.webp",
+  "level": 59,
+  "combat": true
+ },
+ {
+  "id": 6701,
+  "name": {
+   "esES": "Pirotecnia",
+   "es419": "Fuegos Artificiales",
+   "en": "Light 'Em Up"
+  },
+  "icon": "icons/bdo/04_pc_skill/01_pc_skill/24_pfw_skill/pfw_skill_6701.webp",
+  "level": 58,
+  "combat": true
+ },
+ {
+  "id": 6726,
+  "name": {
+   "esES": "Primordial: ¡Sin piedad!",
+   "es419": "BON: ¡Listo Capitana!",
+   "en": "Core: Spare No Quarter!"
+  },
+  "icon": "icons/bdo/04_pc_skill/01_pc_skill/24_pfw_skill/pfw_skill_6699.webp",
+  "level": 60,
+  "combat": true
+ },
+ {
+  "id": 6725,
+  "name": {
+   "esES": "Primordial: Bruma del mar",
+   "es419": "BON: Isla de Neblinas",
+   "en": "Core: Sea Mist"
+  },
+  "icon": "icons/bdo/04_pc_skill/01_pc_skill/24_pfw_skill/pfw_skill_6683.webp",
+  "level": 60,
+  "combat": true
+ },
+ {
+  "id": 6730,
+  "name": {
+   "esES": "Primordial: Contacto: Represión",
+   "es419": "BON: Mano a Mano: Someter",
+   "en": "Core: Close Quarters: Suppress"
+  },
+  "icon": "icons/bdo/04_pc_skill/01_pc_skill/24_pfw_skill/pfw_skill_6675.webp",
+  "level": 60,
+  "combat": true
+ },
+ {
+  "id": 6727,
+  "name": {
+   "esES": "Primordial: Marca del Cuervo",
+   "es419": "BON: Objetivo del Cuervo",
+   "en": "Core: Crow's Mark"
+  },
+  "icon": "icons/bdo/04_pc_skill/01_pc_skill/24_pfw_skill/pfw_skill_6690.webp",
+  "level": 60,
+  "combat": true
+ },
+ {
+  "id": 6728,
+  "name": {
+   "esES": "Primordial: Orden de capitana: ¡Abran fuego!",
+   "es419": "BON: Orden de la Capitana: ¡Comienza!",
+   "en": "Core: Cap'n's Orders: Open Fire!"
+  },
+  "icon": "icons/bdo/04_pc_skill/01_pc_skill/24_pfw_skill/pfw_skill_6693.webp",
+  "level": 60,
+  "combat": true
+ },
+ {
+  "id": 6729,
+  "name": {
+   "esES": "Primordial: Patrakha cegadora",
+   "es419": "BON: Arpón del Sol",
+   "en": "Core: Sun-shielder Patraca"
+  },
+  "icon": "icons/bdo/04_pc_skill/01_pc_skill/24_pfw_skill/pfw_skill_6687.webp",
+  "level": 60,
+  "combat": true
+ },
+ {
+  "id": 6549,
+  "name": {
+   "esES": "Rabao, ¡a cubierta!",
+   "es419": "¡Listo Lavao!",
+   "en": "Labao on Deck!"
+  },
+  "icon": "icons/bdo/04_pc_skill/01_pc_skill/24_pfw_skill/pfw_skill_6549.webp",
+  "level": 57,
+  "combat": true
+ },
+ {
+  "id": 6501,
+  "name": {
+   "esES": "Remolino marino",
+   "es419": "Oleaje de Piedra",
+   "en": "Whirlpool"
+  },
+  "icon": "icons/bdo/04_pc_skill/01_pc_skill/24_pfw_skill/pfw_skill_6498.webp",
+  "level": 42,
+  "combat": true
+ },
+ {
+  "id": 6707,
+  "name": {
+   "esES": "Remolino turbulento",
+   "es419": "Remolino Árido",
+   "en": "Entangling Vortex"
+  },
+  "icon": "icons/bdo/04_pc_skill/01_pc_skill/24_pfw_skill/pfw_skill_6707.webp",
+  "level": 60,
+  "combat": true
+ },
+ {
+  "id": 6653,
+  "name": {
+   "esES": "Renacer: Movimiento: Rugir de las olas",
+   "es419": "Sucesión: Flujo: Saltar Olas",
+   "en": "Succession: Flow: Wave Skedaddle"
+  },
+  "icon": "icons/bdo/04_pc_skill/01_pc_skill/24_pfw_skill/pfw_skill_6492.webp",
+  "level": 56,
+  "combat": true
+ },
+ {
+  "id": 92,
+  "name": {
+   "esES": "Retirada oscura",
+   "es419": "Escape de Emergencia",
+   "en": "Emergency Escape"
+  },
+  "icon": "icons/bdo/04_pc_skill/01_pc_skill/00_common/common_skill_0092.webp",
+  "level": 1,
+  "combat": true
+ },
+ {
+  "id": 6495,
+  "name": {
+   "esES": "Rompeolas",
+   "es419": "Romper Olas",
+   "en": "Wave Breaker"
+  },
+  "icon": "icons/bdo/04_pc_skill/01_pc_skill/24_pfw_skill/pfw_skill_6493.webp",
+  "level": 34,
+  "combat": true
+ },
+ {
+  "id": 6511,
+  "name": {
+   "esES": "Tempestad incontenible",
+   "es419": "Tempestad Arremetedora",
+   "en": "Storming Gale"
+  },
+  "icon": "icons/bdo/04_pc_skill/01_pc_skill/24_pfw_skill/pfw_skill_6508.webp",
+  "level": 41,
+  "combat": true
+ },
+ {
+  "id": 6523,
+  "name": {
+   "esES": "Tifón",
+   "es419": "Marejada Ciclónica",
+   "en": "Storm Surge"
+  },
+  "icon": "icons/bdo/04_pc_skill/01_pc_skill/24_pfw_skill/pfw_skill_6519.webp",
+  "level": 50,
+  "combat": true
+ },
+ {
+  "id": 6558,
+  "name": {
+   "esES": "Trampa del mar",
+   "es419": "Azul Caprichoso",
+   "en": "Ocean Melancholy"
+  },
+  "icon": "icons/bdo/04_pc_skill/01_pc_skill/24_pfw_skill/pfw_skill_6555.webp",
+  "level": 50,
+  "combat": true
+ },
+ {
+  "id": 91,
+  "name": {
+   "esES": "Transfuria",
+   "es419": "Transferencia de Furia",
+   "en": "Rage Transfer"
+  },
+  "icon": "icons/bdo/04_pc_skill/01_pc_skill/00_common/common_skill_0091.webp",
+  "level": 35,
+  "combat": true
+ },
+ {
+  "id": 6616,
+  "name": {
+   "esES": "Voluntad inmarcesible",
+   "es419": "Técnica de Espada Romántica",
+   "en": "Sword Song"
+  },
+  "icon": "icons/bdo/04_pc_skill/01_pc_skill/24_pfw_skill/pfw_skill_6607.webp",
+  "level": 60,
+  "combat": true
+ },
+ {
+  "id": 6660,
+  "name": {
+   "esES": "Vorágine",
+   "es419": "Torcer Ruta",
+   "en": "Whirling Slash"
+  },
+  "icon": "icons/bdo/04_pc_skill/01_pc_skill/24_pfw_skill/pfw_skill_6497.webp",
+  "level": 48,
+  "combat": true
+ }
+]

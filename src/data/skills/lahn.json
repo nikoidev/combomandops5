@@ -1,0 +1,1300 @@
+[
+ {
+  "id": 2989,
+  "name": {
+   "esES": "Aplacaespíritus",
+   "es419": "Azote",
+   "en": "Berated Ghost"
+  },
+  "icon": "icons/bdo/04_pc_skill/01_pc_skill/17_psw_skill/psw_skill_2953.webp",
+  "level": 36,
+  "combat": true
+ },
+ {
+  "id": 2981,
+  "name": {
+   "esES": "Asalto creciente",
+   "es419": "Ciclón de Péndulo",
+   "en": "Crescent Barrage"
+  },
+  "icon": "icons/bdo/04_pc_skill/01_pc_skill/17_psw_skill/psw_skill_2950.webp",
+  "level": 39,
+  "combat": true
+ },
+ {
+  "id": 2965,
+  "name": {
+   "esES": "Baño de sangre",
+   "es419": "Sangre Filosa",
+   "en": "Blade of Blood"
+  },
+  "icon": "icons/bdo/04_pc_skill/01_pc_skill/17_psw_skill/psw_skill_2965.webp",
+  "level": 20,
+  "combat": true
+ },
+ {
+  "id": 2999,
+  "name": {
+   "esES": "Brumaveloz",
+   "es419": "Bosque de Niebla",
+   "en": "Nimbus Stride"
+  },
+  "icon": "icons/bdo/04_pc_skill/01_pc_skill/17_psw_skill/psw_skill_2960.webp",
+  "level": 36,
+  "combat": true
+ },
+ {
+  "id": 3298,
+  "name": {
+   "esES": "Carga",
+   "es419": "Bosque Sangriento",
+   "en": "Bloody Stride"
+  },
+  "icon": "icons/bdo/04_pc_skill/01_pc_skill/17_psw_skill/psw_skill_3298.webp",
+  "level": 56,
+  "combat": true
+ },
+ {
+  "id": 2995,
+  "name": {
+   "esES": "Caricia de acero",
+   "es419": "Presión de Tres Puntos",
+   "en": "Three Point Stipple"
+  },
+  "icon": "icons/bdo/04_pc_skill/01_pc_skill/17_psw_skill/psw_skill_2955.webp",
+  "level": 28,
+  "combat": true
+ },
+ {
+  "id": 2994,
+  "name": {
+   "esES": "Catástrofe",
+   "es419": "Golpe de Alma",
+   "en": "Soul Ascent"
+  },
+  "icon": "icons/bdo/04_pc_skill/01_pc_skill/17_psw_skill/psw_skill_2951.webp",
+  "level": 40,
+  "combat": true
+ },
+ {
+  "id": 4898,
+  "name": {
+   "esES": "Cénit: Asalto creciente",
+   "es419": "S: Ciclón de Péndulo",
+   "en": "Prime: Crescent Barrage"
+  },
+  "icon": "icons/bdo/04_pc_skill/01_pc_skill/17_psw_skill/psw_skill_4896.webp",
+  "level": 58,
+  "combat": true
+ },
+ {
+  "id": 4895,
+  "name": {
+   "esES": "Cénit: Cercenar",
+   "es419": "S: Corte de Péndulo",
+   "en": "Prime: Pendulum Cleaver"
+  },
+  "icon": "icons/bdo/04_pc_skill/01_pc_skill/17_psw_skill/psw_skill_4893.webp",
+  "level": 58,
+  "combat": true
+ },
+ {
+  "id": 4919,
+  "name": {
+   "esES": "Cénit: Corazón roto",
+   "es419": "S: Corazón Perforante",
+   "en": "Prime: Bleeding Hearts"
+  },
+  "icon": "icons/bdo/04_pc_skill/01_pc_skill/17_psw_skill/psw_skill_4919.webp",
+  "level": 58,
+  "combat": true
+ },
+ {
+  "id": 4918,
+  "name": {
+   "esES": "Cénit: Danza fantasmal",
+   "es419": "S: Danza Fantasmal",
+   "en": "Prime: Phantom Dance"
+  },
+  "icon": "icons/bdo/04_pc_skill/01_pc_skill/17_psw_skill/psw_skill_4918.webp",
+  "level": 56,
+  "combat": true
+ },
+ {
+  "id": 4901,
+  "name": {
+   "esES": "Cénit: Danza primaveral",
+   "es419": "S: Viento Primaveral",
+   "en": "Prime: Spring Breeze"
+  },
+  "icon": "icons/bdo/04_pc_skill/01_pc_skill/17_psw_skill/psw_skill_4899.webp",
+  "level": 58,
+  "combat": true
+ },
+ {
+  "id": 4917,
+  "name": {
+   "esES": "Cénit: Danza temeraria",
+   "es419": "S: Arte de Espada Escarlata",
+   "en": "Prime: Blade Dance"
+  },
+  "icon": "icons/bdo/04_pc_skill/01_pc_skill/17_psw_skill/psw_skill_4917.webp",
+  "level": 58,
+  "combat": true
+ },
+ {
+  "id": 4914,
+  "name": {
+   "esES": "Cénit: Exorcismo",
+   "es419": "S: Exorcismo",
+   "en": "Prime: Salp'uri Purge"
+  },
+  "icon": "icons/bdo/04_pc_skill/01_pc_skill/17_psw_skill/psw_skill_4914.webp",
+  "level": 60,
+  "combat": true
+ },
+ {
+  "id": 4887,
+  "name": {
+   "esES": "Cénit: Flor de seda",
+   "es419": "S: Flor de la Seda",
+   "en": "Prime: Silk Flower"
+  },
+  "icon": "icons/bdo/04_pc_skill/01_pc_skill/17_psw_skill/psw_skill_4886.webp",
+  "level": 56,
+  "combat": true
+ },
+ {
+  "id": 4892,
+  "name": {
+   "esES": "Cénit: Fragancia floreciente",
+   "es419": "S: Fragancia Floreciente",
+   "en": "Prime: Blooming Aroma"
+  },
+  "icon": "icons/bdo/04_pc_skill/01_pc_skill/17_psw_skill/psw_skill_4888.webp",
+  "level": 60,
+  "combat": true
+ },
+ {
+  "id": 4885,
+  "name": {
+   "esES": "Cénit: Gracia celestial",
+   "es419": "S: Baile de la Luna Creciente",
+   "en": "Prime: Crescent Charm"
+  },
+  "icon": "icons/bdo/04_pc_skill/01_pc_skill/17_psw_skill/psw_skill_4885.webp",
+  "level": 56,
+  "combat": true
+ },
+ {
+  "id": 4913,
+  "name": {
+   "esES": "Cénit: Patada pendular",
+   "es419": "S: Golpe de Péndulo",
+   "en": "Prime: Pendulum Kick"
+  },
+  "icon": "icons/bdo/04_pc_skill/01_pc_skill/17_psw_skill/psw_skill_4910.webp",
+  "level": 59,
+  "combat": true
+ },
+ {
+  "id": 4915,
+  "name": {
+   "esES": "Cénit: Pétalo al viento",
+   "es419": "S: Pétalo al Viento",
+   "en": "Prime: Primrose Sprint"
+  },
+  "icon": "icons/bdo/04_pc_skill/01_pc_skill/17_psw_skill/psw_skill_4915.webp",
+  "level": 58,
+  "combat": true
+ },
+ {
+  "id": 4909,
+  "name": {
+   "esES": "Cénit: Sepulcro de orquídeas",
+   "es419": "S: Flor de la Mañana",
+   "en": "Prime: Blooming Nether Flower"
+  },
+  "icon": "icons/bdo/04_pc_skill/01_pc_skill/17_psw_skill/psw_skill_4906.webp",
+  "level": 60,
+  "combat": true
+ },
+ {
+  "id": 4916,
+  "name": {
+   "esES": "Cénit: Sin miedo",
+   "es419": "S: Réquiem",
+   "en": "Prime: Furious Chase"
+  },
+  "icon": "icons/bdo/04_pc_skill/01_pc_skill/17_psw_skill/psw_skill_4916.webp",
+  "level": 56,
+  "combat": true
+ },
+ {
+  "id": 4905,
+  "name": {
+   "esES": "Cénit: Sueño de orquídea",
+   "es419": "S: Sueño de Orquídea",
+   "en": "Prime: Cymbidium"
+  },
+  "icon": "icons/bdo/04_pc_skill/01_pc_skill/17_psw_skill/psw_skill_4902.webp",
+  "level": 60,
+  "combat": true
+ },
+ {
+  "id": 3016,
+  "name": {
+   "esES": "Cercenar",
+   "es419": "Corte de Péndulo",
+   "en": "Pendulum Cleaver"
+  },
+  "icon": "icons/bdo/04_pc_skill/01_pc_skill/17_psw_skill/psw_skill_2970.webp",
+  "level": 36,
+  "combat": true
+ },
+ {
+  "id": 3296,
+  "name": {
+   "esES": "Corazón desbocado",
+   "es419": "Rueda del Grito",
+   "en": "Bridled Despair"
+  },
+  "icon": "icons/bdo/04_pc_skill/01_pc_skill/17_psw_skill/psw_skill_3296.webp",
+  "level": 60,
+  "combat": true
+ },
+ {
+  "id": 3227,
+  "name": {
+   "esES": "Corazón noble",
+   "es419": "Elegancia Noble",
+   "en": "Stately Dignity"
+  },
+  "icon": "icons/bdo/04_pc_skill/01_pc_skill/17_psw_skill/psw_skill_3225.webp",
+  "level": 37,
+  "combat": true
+ },
+ {
+  "id": 3297,
+  "name": {
+   "esES": "Corazón roto",
+   "es419": "Corazón Perforante",
+   "en": "Bleeding Hearts"
+  },
+  "icon": "icons/bdo/04_pc_skill/01_pc_skill/17_psw_skill/psw_skill_3297.webp",
+  "level": 58,
+  "combat": true
+ },
+ {
+  "id": 3002,
+  "name": {
+   "esES": "Danza aérea",
+   "es419": "Estigma de la Fragancia",
+   "en": "Fragrant Stigma"
+  },
+  "icon": "icons/bdo/04_pc_skill/01_pc_skill/17_psw_skill/psw_skill_2962.webp",
+  "level": 40,
+  "combat": true
+ },
+ {
+  "id": 2963,
+  "name": {
+   "esES": "Danza de bruma",
+   "es419": "Camino Eólico",
+   "en": "Nimbus Dismount"
+  },
+  "icon": "icons/bdo/04_pc_skill/01_pc_skill/17_psw_skill/psw_skill_2963.webp",
+  "level": 7,
+  "combat": true
+ },
+ {
+  "id": 3327,
+  "name": {
+   "esES": "Danza de la garza",
+   "es419": "Garza Blanca",
+   "en": "White Heron"
+  },
+  "icon": "icons/bdo/04_pc_skill/01_pc_skill/17_psw_skill/psw_skill_3327.webp",
+  "level": 57,
+  "combat": true
+ },
+ {
+  "id": 3295,
+  "name": {
+   "esES": "Danza fantasma",
+   "es419": "Danza Fantasmal",
+   "en": "Phantom Dance"
+  },
+  "icon": "icons/bdo/04_pc_skill/01_pc_skill/17_psw_skill/psw_skill_3295.webp",
+  "level": 56,
+  "combat": true
+ },
+ {
+  "id": 2947,
+  "name": {
+   "esES": "Danza lunar",
+   "es419": "Danza Lunar",
+   "en": "Moondance"
+  },
+  "icon": "icons/bdo/04_pc_skill/01_pc_skill/17_psw_skill/psw_skill_2938.webp",
+  "level": 54,
+  "combat": true
+ },
+ {
+  "id": 3286,
+  "name": {
+   "esES": "Danza mortal",
+   "es419": "Danza de la Muerte",
+   "en": "Deadly Dance"
+  },
+  "icon": "icons/bdo/04_pc_skill/01_pc_skill/17_psw_skill/psw_skill_3284.webp",
+  "level": 59,
+  "combat": true
+ },
+ {
+  "id": 3149,
+  "name": {
+   "esES": "Danza primaveral",
+   "es419": "Viento Primaveral",
+   "en": "Spring Breeze"
+  },
+  "icon": "icons/bdo/04_pc_skill/01_pc_skill/17_psw_skill/psw_skill_3147.webp",
+  "level": 33,
+  "combat": true
+ },
+ {
+  "id": 3010,
+  "name": {
+   "esES": "Danza temeraria",
+   "es419": "Arte de Espada Escarlata",
+   "en": "Blade Dance"
+  },
+  "icon": "icons/bdo/04_pc_skill/01_pc_skill/17_psw_skill/psw_skill_2967.webp",
+  "level": 35,
+  "combat": true
+ },
+ {
+  "id": 3306,
+  "name": {
+   "esES": "Definitiva: Aplacaespíritus",
+   "es419": "Suprema : Azote",
+   "en": "Absolute: Berated Ghost"
+  },
+  "icon": "icons/bdo/04_pc_skill/01_pc_skill/17_psw_skill/psw_skill_3306.webp",
+  "level": 56,
+  "combat": true
+ },
+ {
+  "id": 3303,
+  "name": {
+   "esES": "Definitiva: Asalto creciente",
+   "es419": "Suprema: Ciclón de Péndulo",
+   "en": "Absolute: Crescent Barrage"
+  },
+  "icon": "icons/bdo/04_pc_skill/01_pc_skill/17_psw_skill/psw_skill_3303.webp",
+  "level": 57,
+  "combat": true
+ },
+ {
+  "id": 3308,
+  "name": {
+   "esES": "Definitiva: Caricia de acero",
+   "es419": "Suprema : Presión de Tres Puntos",
+   "en": "Absolute: Three Point Stipple"
+  },
+  "icon": "icons/bdo/04_pc_skill/01_pc_skill/17_psw_skill/psw_skill_3308.webp",
+  "level": 57,
+  "combat": true
+ },
+ {
+  "id": 3304,
+  "name": {
+   "esES": "Definitiva: Catástrofe",
+   "es419": "Suprema : Golpe de Alma",
+   "en": "Absolute: Soul Ascent"
+  },
+  "icon": "icons/bdo/04_pc_skill/01_pc_skill/17_psw_skill/psw_skill_3304.webp",
+  "level": 57,
+  "combat": true
+ },
+ {
+  "id": 3316,
+  "name": {
+   "esES": "Definitiva: Cercenar",
+   "es419": "Suprema : Corte de Péndulo",
+   "en": "Absolute: Pendulum Cleaver"
+  },
+  "icon": "icons/bdo/04_pc_skill/01_pc_skill/17_psw_skill/psw_skill_3316.webp",
+  "level": 56,
+  "combat": true
+ },
+ {
+  "id": 3312,
+  "name": {
+   "esES": "Definitiva: Danza aérea",
+   "es419": "Suprema : Estigma de la Fragancia",
+   "en": "Absolute: Fragrant Stigma"
+  },
+  "icon": "icons/bdo/04_pc_skill/01_pc_skill/17_psw_skill/psw_skill_3312.webp",
+  "level": 58,
+  "combat": true
+ },
+ {
+  "id": 3323,
+  "name": {
+   "esES": "Definitiva: Danza lunar",
+   "es419": "Suprema : Danza Lunar",
+   "en": "Absolute: Moondance"
+  },
+  "icon": "icons/bdo/04_pc_skill/01_pc_skill/17_psw_skill/psw_skill_3323.webp",
+  "level": 56,
+  "combat": true
+ },
+ {
+  "id": 3321,
+  "name": {
+   "esES": "Definitiva: Danza primaveral",
+   "es419": "Suprema : Viento Primaveral",
+   "en": "Absolute: Spring Breeze"
+  },
+  "icon": "icons/bdo/04_pc_skill/01_pc_skill/17_psw_skill/psw_skill_3321.webp",
+  "level": 57,
+  "combat": true
+ },
+ {
+  "id": 3320,
+  "name": {
+   "esES": "Definitiva: Danza ritual",
+   "es419": "Suprema : Baile Sagrado",
+   "en": "Absolute: Sacred Dance"
+  },
+  "icon": "icons/bdo/04_pc_skill/01_pc_skill/17_psw_skill/psw_skill_3320.webp",
+  "level": 59,
+  "combat": true
+ },
+ {
+  "id": 3314,
+  "name": {
+   "esES": "Definitiva: Danza temeraria",
+   "es419": "Suprema: Arte de Espada Escarlata",
+   "en": "Absolute: Blade Dance"
+  },
+  "icon": "icons/bdo/04_pc_skill/01_pc_skill/17_psw_skill/psw_skill_3314.webp",
+  "level": 56,
+  "combat": true
+ },
+ {
+  "id": 3317,
+  "name": {
+   "esES": "Definitiva: Desmembrar",
+   "es419": "Suprema : Ruptura",
+   "en": "Absolute: Dismemberment"
+  },
+  "icon": "icons/bdo/04_pc_skill/01_pc_skill/17_psw_skill/psw_skill_3317.webp",
+  "level": 56,
+  "combat": true
+ },
+ {
+  "id": 3311,
+  "name": {
+   "esES": "Definitiva: Exorcismo",
+   "es419": "Suprema : Exorcismo",
+   "en": "Absolute: Salp'uri Purge"
+  },
+  "icon": "icons/bdo/04_pc_skill/01_pc_skill/17_psw_skill/psw_skill_3311.webp",
+  "level": 60,
+  "combat": true
+ },
+ {
+  "id": 3319,
+  "name": {
+   "esES": "Definitiva: Orquídea de acero",
+   "es419": "Suprema : Orquídea de Viento",
+   "en": "Absolute: Wind Orchid"
+  },
+  "icon": "icons/bdo/04_pc_skill/01_pc_skill/17_psw_skill/psw_skill_3319.webp",
+  "level": 58,
+  "combat": true
+ },
+ {
+  "id": 3322,
+  "name": {
+   "esES": "Definitiva: Paso de baile",
+   "es419": "Suprema: Baile Divino",
+   "en": "Absolute: Ethereal Dance"
+  },
+  "icon": "icons/bdo/04_pc_skill/01_pc_skill/17_psw_skill/psw_skill_3322.webp",
+  "level": 57,
+  "combat": true
+ },
+ {
+  "id": 3302,
+  "name": {
+   "esES": "Definitiva: Patada pendular",
+   "es419": "Suprema : Golpe de Péndulo",
+   "en": "Absolute: Pendulum Kick"
+  },
+  "icon": "icons/bdo/04_pc_skill/01_pc_skill/17_psw_skill/psw_skill_3302.webp",
+  "level": 57,
+  "combat": true
+ },
+ {
+  "id": 3318,
+  "name": {
+   "esES": "Definitiva: Pétalo de lahn",
+   "es419": "Suprema : Orquídea",
+   "en": "Absolute: Catasetum"
+  },
+  "icon": "icons/bdo/04_pc_skill/01_pc_skill/17_psw_skill/psw_skill_3318.webp",
+  "level": 57,
+  "combat": true
+ },
+ {
+  "id": 3309,
+  "name": {
+   "esES": "Definitiva: Precisión asesina",
+   "es419": "Suprema : Supresión",
+   "en": "Absolute: Deadly Restraint"
+  },
+  "icon": "icons/bdo/04_pc_skill/01_pc_skill/17_psw_skill/psw_skill_3309.webp",
+  "level": 57,
+  "combat": true
+ },
+ {
+  "id": 3310,
+  "name": {
+   "esES": "Definitiva: Purga",
+   "es419": "Suprema: Purga",
+   "en": "Absolute: Coax"
+  },
+  "icon": "icons/bdo/04_pc_skill/01_pc_skill/17_psw_skill/psw_skill_3310.webp",
+  "level": 58,
+  "combat": true
+ },
+ {
+  "id": 3305,
+  "name": {
+   "esES": "Definitiva: Sepulcro de orquídeas",
+   "es419": "Suprema : Flor de la Mañana",
+   "en": "Absolute: Blooming Nether Flower"
+  },
+  "icon": "icons/bdo/04_pc_skill/01_pc_skill/17_psw_skill/psw_skill_3305.webp",
+  "level": 58,
+  "combat": true
+ },
+ {
+  "id": 3313,
+  "name": {
+   "esES": "Definitiva: Sin miedo",
+   "es419": "Suprema : Réquiem",
+   "en": "Absolute: Furious Chase"
+  },
+  "icon": "icons/bdo/04_pc_skill/01_pc_skill/17_psw_skill/psw_skill_3313.webp",
+  "level": 56,
+  "combat": true
+ },
+ {
+  "id": 3307,
+  "name": {
+   "esES": "Definitiva: Sueño de orquídea",
+   "es419": "Suprema : Sueño de Orquídea",
+   "en": "Absolute: Cymbidium"
+  },
+  "icon": "icons/bdo/04_pc_skill/01_pc_skill/17_psw_skill/psw_skill_3307.webp",
+  "level": 56,
+  "combat": true
+ },
+ {
+  "id": 3300,
+  "name": {
+   "esES": "Definitiva: Tajo oscilante",
+   "es419": "Suprema : Tajo Lunar",
+   "en": "Absolute: Moon Slash"
+  },
+  "icon": "icons/bdo/04_pc_skill/01_pc_skill/17_psw_skill/psw_skill_3300.webp",
+  "level": 56,
+  "combat": true
+ },
+ {
+  "id": 3315,
+  "name": {
+   "esES": "Definitiva: Vuelo del fénix",
+   "es419": "Suprema : Ojo del Fénix",
+   "en": "Absolute: Eye of the Phoenix"
+  },
+  "icon": "icons/bdo/04_pc_skill/01_pc_skill/17_psw_skill/psw_skill_3315.webp",
+  "level": 57,
+  "combat": true
+ },
+ {
+  "id": 3019,
+  "name": {
+   "esES": "Desmembrar",
+   "es419": "Ruptura",
+   "en": "Dismemberment"
+  },
+  "icon": "icons/bdo/04_pc_skill/01_pc_skill/17_psw_skill/psw_skill_2971.webp",
+  "level": 37,
+  "combat": true
+ },
+ {
+  "id": 3289,
+  "name": {
+   "esES": "Doble filo",
+   "es419": "Advenimiento",
+   "en": "Tailspin"
+  },
+  "icon": "icons/bdo/04_pc_skill/01_pc_skill/17_psw_skill/psw_skill_3287.webp",
+  "level": 60,
+  "combat": true
+ },
+ {
+  "id": 3294,
+  "name": {
+   "esES": "Erradicar",
+   "es419": "Fuego Fantasmal",
+   "en": "Eradication"
+  },
+  "icon": "icons/bdo/04_pc_skill/01_pc_skill/17_psw_skill/psw_skill_3294_re.webp",
+  "level": 59,
+  "combat": true
+ },
+ {
+  "id": 2937,
+  "name": {
+   "esES": "Evasión",
+   "es419": "Evasión",
+   "en": "Evasion"
+  },
+  "icon": "icons/bdo/04_pc_skill/01_pc_skill/16_pcm_skill/pcm_skill_2423.webp",
+  "level": 1,
+  "combat": true
+ },
+ {
+  "id": 2959,
+  "name": {
+   "esES": "Exorcismo",
+   "es419": "Exorcismo",
+   "en": "Salp'uri Purge"
+  },
+  "icon": "icons/bdo/04_pc_skill/01_pc_skill/17_psw_skill/psw_skill_2959.webp",
+  "level": 35,
+  "combat": true
+ },
+ {
+  "id": 3279,
+  "name": {
+   "esES": "Furor sacro",
+   "es419": "Delirio",
+   "en": "Furor"
+  },
+  "icon": "icons/bdo/04_pc_skill/01_pc_skill/17_psw_skill/psw_skill_3276.webp",
+  "level": 60,
+  "combat": true
+ },
+ {
+  "id": 3270,
+  "name": {
+   "esES": "Lamento del quilin",
+   "es419": "Herida de la Tierra",
+   "en": "Earthly Pain"
+  },
+  "icon": "icons/bdo/04_pc_skill/01_pc_skill/17_psw_skill/psw_skill_3267.webp",
+  "level": 60,
+  "combat": true
+ },
+ {
+  "id": 3266,
+  "name": {
+   "esES": "Maestría con Sangfanjes",
+   "es419": "Maestría de Espadas de Sangre",
+   "en": "Crimson Glaives Training"
+  },
+  "icon": "icons/bdo/04_pc_skill/01_pc_skill/17_psw_skill/psw_skill_3262.webp",
+  "level": 60,
+  "combat": true
+ },
+ {
+  "id": 3325,
+  "name": {
+   "esES": "Mirada asesina",
+   "es419": "Ojos de Sangre",
+   "en": "Eyes of Blood"
+  },
+  "icon": "icons/bdo/04_pc_skill/01_pc_skill/17_psw_skill/psw_skill_3325.webp",
+  "level": 56,
+  "combat": true
+ },
+ {
+  "id": 4930,
+  "name": {
+   "esES": "Movimiento del Renacer: Brumaveloz",
+   "es419": "Sucesión: Flujo: Bosque de Niebla",
+   "en": "Succession: Flow: Nimbus Stride"
+  },
+  "icon": "icons/bdo/04_pc_skill/01_pc_skill/17_psw_skill/psw_skill_2961.webp",
+  "level": 1,
+  "combat": true
+ },
+ {
+  "id": 4928,
+  "name": {
+   "esES": "Movimiento del Renacer: Patada pendular",
+   "es419": "Sucesión: Flujo: Golpe de Péndulo",
+   "en": "Succession: Flow: Pendulum Kick"
+  },
+  "icon": "icons/bdo/04_pc_skill/01_pc_skill/17_psw_skill/psw_skill_3302.webp",
+  "level": 1,
+  "combat": true
+ },
+ {
+  "id": 3280,
+  "name": {
+   "esES": "Movimiento: Bailando con la Muerte",
+   "es419": "Flujo : Panorama",
+   "en": "Flow: Dancing with Death"
+  },
+  "icon": "icons/bdo/04_pc_skill/01_pc_skill/17_psw_skill/psw_skill_3280.webp",
+  "level": 58,
+  "combat": true
+ },
+ {
+  "id": 2956,
+  "name": {
+   "esES": "Movimiento: Beso de la Parca",
+   "es419": "Flujo: Corazón Letal",
+   "en": "Flow: Four Point Splatter"
+  },
+  "icon": "icons/bdo/04_pc_skill/01_pc_skill/17_psw_skill/psw_skill_2956.webp",
+  "level": 24,
+  "combat": true
+ },
+ {
+  "id": 2961,
+  "name": {
+   "esES": "Movimiento: Brumaveloz",
+   "es419": "Flujo : Bosque de Niebla",
+   "en": "Flow: Nimbus Stride"
+  },
+  "icon": "icons/bdo/04_pc_skill/01_pc_skill/17_psw_skill/psw_skill_2961.webp",
+  "level": 22,
+  "combat": true
+ },
+ {
+  "id": 3026,
+  "name": {
+   "esES": "Movimiento: Danza ritual",
+   "es419": "Flujo : Baile Sagrado",
+   "en": "Flow: Sacred Dance"
+  },
+  "icon": "icons/bdo/04_pc_skill/01_pc_skill/17_psw_skill/psw_skill_2974.webp",
+  "level": 48,
+  "combat": true
+ },
+ {
+  "id": 2977,
+  "name": {
+   "esES": "Movimiento: Patada pendular",
+   "es419": "Flujo : Golpe de Péndulo",
+   "en": "Flow: Pendulum Kick"
+  },
+  "icon": "icons/bdo/04_pc_skill/01_pc_skill/17_psw_skill/psw_skill_2949.webp",
+  "level": 38,
+  "combat": true
+ },
+ {
+  "id": 3290,
+  "name": {
+   "esES": "Movimiento: Venganza",
+   "es419": "Flujo : Ofensa Diabólica",
+   "en": "Flow: Vice"
+  },
+  "icon": "icons/bdo/04_pc_skill/01_pc_skill/17_psw_skill/psw_skill_3290.webp",
+  "level": 59,
+  "combat": true
+ },
+ {
+  "id": 3275,
+  "name": {
+   "esES": "Movimiento: Victoria",
+   "es419": "Flujo : Corte",
+   "en": "Flow: Mangler"
+  },
+  "icon": "icons/bdo/04_pc_skill/01_pc_skill/17_psw_skill/psw_skill_3275.webp",
+  "level": 57,
+  "combat": true
+ },
+ {
+  "id": 3024,
+  "name": {
+   "esES": "Orquídea de acero",
+   "es419": "Orquídea de Viento",
+   "en": "Wind Orchid"
+  },
+  "icon": "icons/bdo/04_pc_skill/01_pc_skill/17_psw_skill/psw_skill_2973.webp",
+  "level": 46,
+  "combat": true
+ },
+ {
+  "id": 3152,
+  "name": {
+   "esES": "Paso de baile",
+   "es419": "Baile Divino",
+   "en": "Ethereal Dance"
+  },
+  "icon": "icons/bdo/04_pc_skill/01_pc_skill/17_psw_skill/psw_skill_3152.webp",
+  "level": 15,
+  "combat": true
+ },
+ {
+  "id": 3291,
+  "name": {
+   "esES": "Patada circular",
+   "es419": "Danza de Luna Nueva",
+   "en": "Blood Moon Twist"
+  },
+  "icon": "icons/bdo/04_pc_skill/01_pc_skill/17_psw_skill/psw_skill_3291_re.webp",
+  "level": 56,
+  "combat": true
+ },
+ {
+  "id": 2976,
+  "name": {
+   "esES": "Patada pendular",
+   "es419": "Golpe de Péndulo",
+   "en": "Pendulum Kick"
+  },
+  "icon": "icons/bdo/04_pc_skill/01_pc_skill/17_psw_skill/psw_skill_2948.webp",
+  "level": 27,
+  "combat": true
+ },
+ {
+  "id": 3292,
+  "name": {
+   "esES": "Perforaalmas",
+   "es419": "Percatación Espiritual",
+   "en": "Soul Raid"
+  },
+  "icon": "icons/bdo/04_pc_skill/01_pc_skill/17_psw_skill/psw_skill_3292.webp",
+  "level": 56,
+  "combat": true
+ },
+ {
+  "id": 3028,
+  "name": {
+   "esES": "Pétalo al viento",
+   "es419": "Pétalo al Viento",
+   "en": "Primrose Sprint"
+  },
+  "icon": "icons/bdo/04_pc_skill/01_pc_skill/17_psw_skill/psw_skill_3027.webp",
+  "level": 21,
+  "combat": true
+ },
+ {
+  "id": 3021,
+  "name": {
+   "esES": "Pétalo de lahn",
+   "es419": "Orquídea",
+   "en": "Catasetum"
+  },
+  "icon": "icons/bdo/04_pc_skill/01_pc_skill/17_psw_skill/psw_skill_2972.webp",
+  "level": 34,
+  "combat": true
+ },
+ {
+  "id": 2997,
+  "name": {
+   "esES": "Precisión asesina",
+   "es419": "Supresión",
+   "en": "Deadly Restraint"
+  },
+  "icon": "icons/bdo/04_pc_skill/01_pc_skill/17_psw_skill/psw_skill_2957.webp",
+  "level": 32,
+  "combat": true
+ },
+ {
+  "id": 3324,
+  "name": {
+   "esES": "Presa del quilin",
+   "es419": "Persecución de Fénix",
+   "en": "Phoenix Chase"
+  },
+  "icon": "icons/bdo/04_pc_skill/01_pc_skill/17_psw_skill/psw_skill_3324.webp",
+  "level": 56,
+  "combat": true
+ },
+ {
+  "id": 6019,
+  "name": {
+   "esES": "Primordial: Corazón desbocado",
+   "es419": "BON: Rueda del Grito",
+   "en": "Core: Bridled Despair"
+  },
+  "icon": "icons/bdo/04_pc_skill/01_pc_skill/17_psw_skill/psw_skill_3296.webp",
+  "level": 60,
+  "combat": true
+ },
+ {
+  "id": 6023,
+  "name": {
+   "esES": "Primordial: Danza mortal",
+   "es419": "BON: Danza de la Muerte",
+   "en": "Core: Deadly Dance"
+  },
+  "icon": "icons/bdo/04_pc_skill/01_pc_skill/17_psw_skill/psw_skill_3284.webp",
+  "level": 60,
+  "combat": true
+ },
+ {
+  "id": 6024,
+  "name": {
+   "esES": "Primordial: Doble filo",
+   "es419": "BON: Advenimiento",
+   "en": "Core: Tailspin"
+  },
+  "icon": "icons/bdo/04_pc_skill/01_pc_skill/17_psw_skill/psw_skill_3287.webp",
+  "level": 60,
+  "combat": true
+ },
+ {
+  "id": 6022,
+  "name": {
+   "esES": "Primordial: Erradicar",
+   "es419": "BON: Fuego Fantasmal",
+   "en": "Core: Eradication"
+  },
+  "icon": "icons/bdo/04_pc_skill/01_pc_skill/17_psw_skill/psw_skill_3294_re.webp",
+  "level": 60,
+  "combat": true
+ },
+ {
+  "id": 6021,
+  "name": {
+   "esES": "Primordial: Furor sacro",
+   "es419": "BON: Delirio",
+   "en": "Core: Furor"
+  },
+  "icon": "icons/bdo/04_pc_skill/01_pc_skill/17_psw_skill/psw_skill_3276.webp",
+  "level": 60,
+  "combat": true
+ },
+ {
+  "id": 6020,
+  "name": {
+   "esES": "Primordial: Tentando a la muerte",
+   "es419": "BON: Pasos de Extinción",
+   "en": "Core: Taunting Death"
+  },
+  "icon": "icons/bdo/04_pc_skill/01_pc_skill/17_psw_skill/psw_skill_3271.webp",
+  "level": 60,
+  "combat": true
+ },
+ {
+  "id": 2958,
+  "name": {
+   "esES": "Purga",
+   "es419": "Purga",
+   "en": "Coax"
+  },
+  "icon": "icons/bdo/04_pc_skill/01_pc_skill/17_psw_skill/psw_skill_2958.webp",
+  "level": 18,
+  "combat": true
+ },
+ {
+  "id": 5452,
+  "name": {
+   "esES": "Renacer: Brumaveloz",
+   "es419": "Sucesión: Bosque de Niebla",
+   "en": "Succession: Nimbus Stride"
+  },
+  "icon": "icons/bdo/04_pc_skill/01_pc_skill/17_psw_skill/psw_skill_2960.webp",
+  "level": 1,
+  "combat": true
+ },
+ {
+  "id": 4884,
+  "name": {
+   "esES": "Renacer: Danza celestial",
+   "es419": "Sucesión: Baile Celestial",
+   "en": "Succession: Heavenly Waltz"
+  },
+  "icon": "icons/bdo/04_pc_skill/01_pc_skill/17_psw_skill/psw_skill_4884.webp",
+  "level": 56,
+  "combat": true
+ },
+ {
+  "id": 92,
+  "name": {
+   "esES": "Retirada oscura",
+   "es419": "Escape de Emergencia",
+   "en": "Emergency Escape"
+  },
+  "icon": "icons/bdo/04_pc_skill/01_pc_skill/00_common/common_skill_0092.webp",
+  "level": 1,
+  "combat": true
+ },
+ {
+  "id": 3004,
+  "name": {
+   "esES": "Rocío",
+   "es419": "Rocío de Madrugada",
+   "en": "Morning Dew"
+  },
+  "icon": "icons/bdo/04_pc_skill/01_pc_skill/17_psw_skill/psw_skill_2964.webp",
+  "level": 39,
+  "combat": true
+ },
+ {
+  "id": 3281,
+  "name": {
+   "esES": "Sangfanjes del terror",
+   "es419": "Rueda de Cadena",
+   "en": "Flailing Blades"
+  },
+  "icon": "icons/bdo/04_pc_skill/01_pc_skill/17_psw_skill/psw_skill_3281.webp",
+  "level": 56,
+  "combat": true
+ },
+ {
+  "id": 2986,
+  "name": {
+   "esES": "Sepulcro de orquídeas",
+   "es419": "Flor de la Mañana",
+   "en": "Blooming Nether Flower"
+  },
+  "icon": "icons/bdo/04_pc_skill/01_pc_skill/17_psw_skill/psw_skill_2952.webp",
+  "level": 47,
+  "combat": true
+ },
+ {
+  "id": 3006,
+  "name": {
+   "esES": "Sin miedo",
+   "es419": "Réquiem",
+   "en": "Furious Chase"
+  },
+  "icon": "icons/bdo/04_pc_skill/01_pc_skill/17_psw_skill/psw_skill_2966.webp",
+  "level": 23,
+  "combat": true
+ },
+ {
+  "id": 3150,
+  "name": {
+   "esES": "Sublime: Danza primaveral",
+   "es419": "Extremo : Viento Primaveral",
+   "en": "Ultimate: Spring Breeze"
+  },
+  "icon": "icons/bdo/04_pc_skill/01_pc_skill/17_psw_skill/psw_skill_3150.webp",
+  "level": 40,
+  "combat": true
+ },
+ {
+  "id": 3029,
+  "name": {
+   "esES": "Sublime: Pétalo al viento",
+   "es419": "Extremo: Pétalo al Viento",
+   "en": "Ultimate: Primrose Sprint"
+  },
+  "icon": "icons/bdo/04_pc_skill/01_pc_skill/17_psw_skill/psw_skill_3029.webp",
+  "level": 32,
+  "combat": true
+ },
+ {
+  "id": 2991,
+  "name": {
+   "esES": "Sueño de orquídea",
+   "es419": "Sueño de Orquídea",
+   "en": "Cymbidium"
+  },
+  "icon": "icons/bdo/04_pc_skill/01_pc_skill/17_psw_skill/psw_skill_2954.webp",
+  "level": 27,
+  "combat": true
+ },
+ {
+  "id": 3224,
+  "name": {
+   "esES": "Tajo oscilante",
+   "es419": "Tajo Lunar",
+   "en": "Moon Slash"
+  },
+  "icon": "icons/bdo/04_pc_skill/01_pc_skill/17_psw_skill/psw_skill_3221.webp",
+  "level": 45,
+  "combat": true
+ },
+ {
+  "id": 3274,
+  "name": {
+   "esES": "Tentando a la muerte",
+   "es419": "Pasos de Extinción",
+   "en": "Taunting Death"
+  },
+  "icon": "icons/bdo/04_pc_skill/01_pc_skill/17_psw_skill/psw_skill_3271.webp",
+  "level": 60,
+  "combat": true
+ },
+ {
+  "id": 3326,
+  "name": {
+   "esES": "Valor de orquídea",
+   "es419": "Caída Furiosa",
+   "en": "Cymbidium Trail"
+  },
+  "icon": "icons/bdo/04_pc_skill/01_pc_skill/17_psw_skill/psw_skill_3326.webp",
+  "level": 57,
+  "combat": true
+ },
+ {
+  "id": 3012,
+  "name": {
+   "esES": "Vuelo del fénix",
+   "es419": "Ojo del Fénix",
+   "en": "Eye of the Phoenix"
+  },
+  "icon": "icons/bdo/04_pc_skill/01_pc_skill/17_psw_skill/psw_skill_2969.webp",
+  "level": 29,
+  "combat": true
+ },
+ {
+  "id": 3459,
+  "name": {
+   "esES": "Absorción de furia",
+   "es419": "Absorción de Furia",
+   "en": "Rage Absorption"
+  },
+  "icon": "icons/bdo/04_pc_skill/01_pc_skill/00_common/common_skill_0090.webp",
+  "level": 35,
+  "combat": false
+ },
+ {
+  "id": 89,
+  "name": {
+   "esES": "Absorción de furia (latente)",
+   "es419": "Absorción de Furia (Innato)",
+   "en": "Rage Absorption (Innate)"
+  },
+  "icon": "icons/bdo/04_pc_skill/01_pc_skill/00_common/common_skill_0090.webp",
+  "level": 35,
+  "combat": false
+ },
+ {
+  "id": 7154,
+  "name": {
+   "esES": "Atracción letal",
+   "es419": "Danza de la atracción",
+   "en": "Fatal Attraction"
+  },
+  "icon": "icons/bdo/04_pc_skill/01_pc_skill/17_psw_skill/psw_skill_7154.webp",
+  "level": 60,
+  "combat": false
+ },
+ {
+  "id": 2076,
+  "name": {
+   "esES": "Cazador hábil",
+   "es419": "Cazador Experto",
+   "en": "Skilled Hunter"
+  },
+  "icon": "icons/bdo/04_pc_skill/01_pc_skill/06_pkm_skill/pkm_skill_2072.webp",
+  "level": 60,
+  "combat": false
+ },
+ {
+  "id": 4032,
+  "name": {
+   "esES": "Danza ritual de los espíritus",
+   "es419": "Baile Espiritual",
+   "en": "Sacred Dance of Souls"
+  },
+  "icon": "icons/bdo/04_pc_skill/01_pc_skill/17_psw_skill/psw_skill_4032.webp",
+  "level": 58,
+  "combat": false
+ },
+ {
+  "id": 3254,
+  "name": {
+   "esES": "Don del quilin",
+   "es419": "Orquídea Dorada",
+   "en": "Blooming Affinity"
+  },
+  "icon": "icons/bdo/04_pc_skill/01_pc_skill/17_psw_skill/psw_skill_3254.webp",
+  "level": 15,
+  "combat": false
+ },
+ {
+  "id": 6456,
+  "name": {
+   "esES": "Ejecución con sangfanjes",
+   "es419": "Cadenas de Penitencia",
+   "en": "Binding Chains"
+  },
+  "icon": "icons/bdo/04_pc_skill/01_pc_skill/17_psw_skill/psw_skill_6456.webp",
+  "level": 59,
+  "combat": false
+ },
+ {
+  "id": 6125,
+  "name": {
+   "esES": "Elvia: Muerte rápida",
+   "es419": "Elvia: Muerte Adelantada",
+   "en": "Elvia: Hastened Expiration"
+  },
+  "icon": "icons/bdo/04_pc_skill/01_pc_skill/17_psw_skill/psw_skill_6125.webp",
+  "level": 60,
+  "combat": false
+ },
+ {
+  "id": 4033,
+  "name": {
+   "esES": "Filo de los espíritus",
+   "es419": "Sangre Espiritual",
+   "en": "Blade of Souls"
+  },
+  "icon": "icons/bdo/04_pc_skill/01_pc_skill/17_psw_skill/psw_skill_4033.webp",
+  "level": 58,
+  "combat": false
+ },
+ {
+  "id": 4856,
+  "name": {
+   "esES": "Gran poder",
+   "es419": "Gran Poder",
+   "en": "Unyielding Might"
+  },
+  "icon": "icons/bdo/04_pc_skill/01_pc_skill/00_common/common_skill_18705.webp",
+  "level": 62,
+  "combat": false
+ },
+ {
+  "id": 3253,
+  "name": {
+   "esES": "Hoja danzante",
+   "es419": "Hoja Extendida",
+   "en": "Zephyr"
+  },
+  "icon": "icons/bdo/04_pc_skill/01_pc_skill/17_psw_skill/psw_skill_3234.webp",
+  "level": 60,
+  "combat": false
+ },
+ {
+  "id": 1707,
+  "name": {
+   "esES": "Maestría infinita",
+   "es419": "Maestría Infinita",
+   "en": "Infinite Mastery"
+  },
+  "icon": "icons/bdo/04_pc_skill/01_pc_skill/00_common/common_skill_1702.webp",
+  "level": 55,
+  "combat": false
+ },
+ {
+  "id": 91,
+  "name": {
+   "esES": "Transfuria",
+   "es419": "Transferencia de Furia",
+   "en": "Rage Transfer"
+  },
+  "icon": "icons/bdo/04_pc_skill/01_pc_skill/00_common/common_skill_0091.webp",
+  "level": 35,
+  "combat": false
+ }
+]

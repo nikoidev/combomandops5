@@ -1,0 +1,816 @@
+[
+ {
+  "id": 3459,
+  "name": {
+   "esES": "Absorción de furia",
+   "es419": "Absorción de Furia",
+   "en": "Rage Absorption"
+  },
+  "icon": "icons/bdo/04_pc_skill/01_pc_skill/00_common/common_skill_0090.webp",
+  "level": 35,
+  "combat": true
+ },
+ {
+  "id": 89,
+  "name": {
+   "esES": "Absorción de furia (latente)",
+   "es419": "Absorción de Furia (Innato)",
+   "en": "Rage Absorption (Innate)"
+  },
+  "icon": "icons/bdo/04_pc_skill/01_pc_skill/00_common/common_skill_0090.webp",
+  "level": 35,
+  "combat": true
+ },
+ {
+  "id": 8120,
+  "name": {
+   "esES": "Acción y reacción",
+   "es419": "Acción y Reacción",
+   "en": "Action Reaction"
+  },
+  "icon": "icons/bdo/04_pc_skill/01_pc_skill/29_pnyw_skill/pnyw_skill_8101.webp",
+  "level": 60,
+  "combat": true
+ },
+ {
+  "id": 8123,
+  "name": {
+   "esES": "Activación del gravitorium",
+   "es419": "Activar Gravitorium",
+   "en": "Core Activation"
+  },
+  "icon": "icons/bdo/04_pc_skill/01_pc_skill/29_pnyw_skill/pnyw_skill_8123.webp",
+  "level": 1,
+  "combat": true
+ },
+ {
+  "id": 8028,
+  "name": {
+   "esES": "Activación del gravitorium",
+   "es419": "Reactivación de Gravitorium",
+   "en": "Core Reactivation"
+  },
+  "icon": "icons/bdo/04_pc_skill/01_pc_skill/29_pnyw_skill/pnyw_skill_8028.webp",
+  "level": 1,
+  "combat": true
+ },
+ {
+  "id": 8162,
+  "name": {
+   "esES": "Almádena ciclónica",
+   "es419": "Molino de Viento",
+   "en": "Hammer Spin"
+  },
+  "icon": "icons/bdo/04_pc_skill/01_pc_skill/29_pnyw_skill/pnyw_skill_8159.webp",
+  "level": 60,
+  "combat": true
+ },
+ {
+  "id": 8122,
+  "name": {
+   "esES": "Antigravedad",
+   "es419": "Gravedad Inversa",
+   "en": "Anti-gravity"
+  },
+  "icon": "icons/bdo/04_pc_skill/01_pc_skill/29_pnyw_skill/pnyw_skill_8122.webp",
+  "level": 1,
+  "combat": true
+ },
+ {
+  "id": 8049,
+  "name": {
+   "esES": "Bateo explosivo",
+   "es419": "Golpe Largo",
+   "en": "Home Run"
+  },
+  "icon": "icons/bdo/04_pc_skill/01_pc_skill/29_pnyw_skill/pnyw_skill_8046.webp",
+  "level": 55,
+  "combat": true
+ },
+ {
+  "id": 8211,
+  "name": {
+   "esES": "Bendición áurea",
+   "es419": "Bendición Dorada",
+   "en": "Golden Boon"
+  },
+  "icon": "icons/bdo/04_pc_skill/01_pc_skill/29_pnyw_skill/pnyw_skill_8211.webp",
+  "level": 58,
+  "combat": true
+ },
+ {
+  "id": 8039,
+  "name": {
+   "esES": "Campo gravitacional",
+   "es419": "Campo Gravitacional",
+   "en": "Gravity Field"
+  },
+  "icon": "icons/bdo/04_pc_skill/01_pc_skill/29_pnyw_skill/pnyw_skill_8036.webp",
+  "level": 54,
+  "combat": true
+ },
+ {
+  "id": 8185,
+  "name": {
+   "esES": "Carga acelerada",
+   "es419": "Embestida Acelerada",
+   "en": "Hammer Rush"
+  },
+  "icon": "icons/bdo/04_pc_skill/01_pc_skill/29_pnyw_skill/pnyw_skill_8185.webp",
+  "level": 57,
+  "combat": true
+ },
+ {
+  "id": 2076,
+  "name": {
+   "esES": "Cazador hábil",
+   "es419": "Cazador Experto",
+   "en": "Skilled Hunter"
+  },
+  "icon": "icons/bdo/04_pc_skill/01_pc_skill/06_pkm_skill/pkm_skill_2072.webp",
+  "level": 60,
+  "combat": true
+ },
+ {
+  "id": 8169,
+  "name": {
+   "esES": "Coacción",
+   "es419": "Intimidar",
+   "en": "Gravity's Grip"
+  },
+  "icon": "icons/bdo/04_pc_skill/01_pc_skill/29_pnyw_skill/pnyw_skill_8169.webp",
+  "level": 56,
+  "combat": true
+ },
+ {
+  "id": 8209,
+  "name": {
+   "esES": "Control gravitatorio",
+   "es419": "Control de Gravedad",
+   "en": "Gravity Crush"
+  },
+  "icon": "icons/bdo/04_pc_skill/01_pc_skill/29_pnyw_skill/pnyw_skill_8209.webp",
+  "level": 56,
+  "combat": true
+ },
+ {
+  "id": 8050,
+  "name": {
+   "esES": "Definitiva: Bateo explosivo",
+   "es419": "Suprema : Golpe Largo",
+   "en": "Absolute: Home Run"
+  },
+  "icon": "icons/bdo/04_pc_skill/01_pc_skill/29_pnyw_skill/pnyw_skill_8050.webp",
+  "level": 60,
+  "combat": true
+ },
+ {
+  "id": 8040,
+  "name": {
+   "esES": "Definitiva: Campo gravitacional",
+   "es419": "Suprema : Campo Gravitacional",
+   "en": "Absolute: Gravity Field"
+  },
+  "icon": "icons/bdo/04_pc_skill/01_pc_skill/29_pnyw_skill/pnyw_skill_8040.webp",
+  "level": 59,
+  "combat": true
+ },
+ {
+  "id": 8071,
+  "name": {
+   "esES": "Definitiva: Energía controlada",
+   "es419": "Suprema : Energía Potencial",
+   "en": "Absolute: Potential Energy"
+  },
+  "icon": "icons/bdo/04_pc_skill/01_pc_skill/29_pnyw_skill/pnyw_skill_8071.webp",
+  "level": 60,
+  "combat": true
+ },
+ {
+  "id": 8065,
+  "name": {
+   "esES": "Definitiva: Gravitación",
+   "es419": "Suprema : Fuerza de Atracción",
+   "en": "Absolute: Attraction"
+  },
+  "icon": "icons/bdo/04_pc_skill/01_pc_skill/29_pnyw_skill/pnyw_skill_8065.webp",
+  "level": 58,
+  "combat": true
+ },
+ {
+  "id": 8035,
+  "name": {
+   "esES": "Definitiva: Impacto gravitatorio",
+   "es419": "Suprema : Ataque hacia arriba",
+   "en": "Absolute: Hammer in the Knee"
+  },
+  "icon": "icons/bdo/04_pc_skill/01_pc_skill/29_pnyw_skill/pnyw_skill_8035.webp",
+  "level": 58,
+  "combat": true
+ },
+ {
+  "id": 8031,
+  "name": {
+   "esES": "Definitiva: Instalación del gravitorium",
+   "es419": "Suprema : Instalar Gravitorium",
+   "en": "Absolute: Gravity Anchor"
+  },
+  "icon": "icons/bdo/04_pc_skill/01_pc_skill/29_pnyw_skill/pnyw_skill_8031.webp",
+  "level": 56,
+  "combat": true
+ },
+ {
+  "id": 8077,
+  "name": {
+   "esES": "Definitiva: Lanzamartillos",
+   "es419": "Suprema : Lanzar martillos",
+   "en": "Absolute: Hammer Throw"
+  },
+  "icon": "icons/bdo/04_pc_skill/01_pc_skill/29_pnyw_skill/pnyw_skill_8077.webp",
+  "level": 59,
+  "combat": true
+ },
+ {
+  "id": 8011,
+  "name": {
+   "esES": "Definitiva: Martillada",
+   "es419": "Suprema: Maniobra de Martillos",
+   "en": "Absolute: Hammer Mastery"
+  },
+  "icon": "icons/bdo/04_pc_skill/01_pc_skill/29_pnyw_skill/pnyw_skill_8011.webp",
+  "level": 56,
+  "combat": true
+ },
+ {
+  "id": 8023,
+  "name": {
+   "esES": "Definitiva: Martilleo",
+   "es419": "Suprema : Martilleo",
+   "en": "Absolute: Hammer Punch"
+  },
+  "icon": "icons/bdo/04_pc_skill/01_pc_skill/29_pnyw_skill/pnyw_skill_8023.webp",
+  "level": 58,
+  "combat": true
+ },
+ {
+  "id": 8019,
+  "name": {
+   "esES": "Definitiva: Patada doble",
+   "es419": "Suprema : Patada Doble",
+   "en": "Absolute: Drop Kick"
+  },
+  "icon": "icons/bdo/04_pc_skill/01_pc_skill/29_pnyw_skill/pnyw_skill_8019.webp",
+  "level": 58,
+  "combat": true
+ },
+ {
+  "id": 8015,
+  "name": {
+   "esES": "Definitiva: Rompecabezas",
+   "es419": "Suprema : Rompe Yelmos",
+   "en": "Absolute: Hammer Strike"
+  },
+  "icon": "icons/bdo/04_pc_skill/01_pc_skill/29_pnyw_skill/pnyw_skill_8015.webp",
+  "level": 58,
+  "combat": true
+ },
+ {
+  "id": 8027,
+  "name": {
+   "esES": "Definitiva: Salto ingrávido",
+   "es419": "Suprema : Salto Ligero",
+   "en": "Absolute: One Small Step"
+  },
+  "icon": "icons/bdo/04_pc_skill/01_pc_skill/29_pnyw_skill/pnyw_skill_8027.webp",
+  "level": 58,
+  "combat": true
+ },
+ {
+  "id": 8055,
+  "name": {
+   "esES": "Definitiva: Tara divina",
+   "es419": "Suprema: Peso Divino",
+   "en": "Absolute: Gravity Press"
+  },
+  "icon": "icons/bdo/04_pc_skill/01_pc_skill/29_pnyw_skill/pnyw_skill_8055.webp",
+  "level": 60,
+  "combat": true
+ },
+ {
+  "id": 8063,
+  "name": {
+   "esES": "Definitiva: Vórtice martillador",
+   "es419": "Suprema : Ataque en salto",
+   "en": "Absolute: Hammerdown"
+  },
+  "icon": "icons/bdo/04_pc_skill/01_pc_skill/29_pnyw_skill/pnyw_skill_8063.webp",
+  "level": 58,
+  "combat": true
+ },
+ {
+  "id": 8210,
+  "name": {
+   "esES": "Distorsión gravitatoria",
+   "es419": "Refracción de Gravedad",
+   "en": "Gravity Distortion"
+  },
+  "icon": "icons/bdo/04_pc_skill/01_pc_skill/29_pnyw_skill/pnyw_skill_8210.webp",
+  "level": 58,
+  "combat": true
+ },
+ {
+  "id": 8215,
+  "name": {
+   "esES": "Elvia: Ruptura espacial",
+   "es419": "Elvia: Corte Espacial",
+   "en": "Elvia: Space Distortion"
+  },
+  "icon": "icons/bdo/04_pc_skill/01_pc_skill/29_pnyw_skill/pnyw_skill_8215.webp",
+  "level": 60,
+  "combat": true
+ },
+ {
+  "id": 8208,
+  "name": {
+   "esES": "Embestida gravitatoria",
+   "es419": "Carga Veloz",
+   "en": "Gravity Rush"
+  },
+  "icon": "icons/bdo/04_pc_skill/01_pc_skill/29_pnyw_skill/pnyw_skill_8208.webp",
+  "level": 56,
+  "combat": true
+ },
+ {
+  "id": 8070,
+  "name": {
+   "esES": "Energía controlada",
+   "es419": "Energía Potencial",
+   "en": "Potential Energy"
+  },
+  "icon": "icons/bdo/04_pc_skill/01_pc_skill/29_pnyw_skill/pnyw_skill_8066.webp",
+  "level": 55,
+  "combat": true
+ },
+ {
+  "id": 8000,
+  "name": {
+   "esES": "Evasión",
+   "es419": "Evasión",
+   "en": "Evasion"
+  },
+  "icon": "icons/bdo/04_pc_skill/01_pc_skill/29_pnyw_skill/pnyw_skill_8000.webp",
+  "level": 1,
+  "combat": true
+ },
+ {
+  "id": 8078,
+  "name": {
+   "esES": "Evasión gravitatoria",
+   "es419": "Evitación de Gravedad",
+   "en": "Gravity Blink"
+  },
+  "icon": "icons/bdo/04_pc_skill/01_pc_skill/29_pnyw_skill/pnyw_skill_8078.webp",
+  "level": 5,
+  "combat": true
+ },
+ {
+  "id": 8131,
+  "name": {
+   "esES": "Fusión de gravitorium",
+   "es419": "Gravitorium Fusionados",
+   "en": "Core Fusion"
+  },
+  "icon": "icons/bdo/04_pc_skill/01_pc_skill/29_pnyw_skill/pnyw_skill_8131.webp",
+  "level": 56,
+  "combat": true
+ },
+ {
+  "id": 4856,
+  "name": {
+   "esES": "Gran poder",
+   "es419": "Gran Poder",
+   "en": "Unyielding Might"
+  },
+  "icon": "icons/bdo/04_pc_skill/01_pc_skill/00_common/common_skill_18705.webp",
+  "level": 62,
+  "combat": true
+ },
+ {
+  "id": 8059,
+  "name": {
+   "esES": "Gravitación",
+   "es419": "Fuerza de Atracción",
+   "en": "Attraction"
+  },
+  "icon": "icons/bdo/04_pc_skill/01_pc_skill/29_pnyw_skill/pnyw_skill_8064.webp",
+  "level": 53,
+  "combat": true
+ },
+ {
+  "id": 8034,
+  "name": {
+   "esES": "Impacto gravitatorio",
+   "es419": "Ataque hacia arriba",
+   "en": "Hammer in the Knee"
+  },
+  "icon": "icons/bdo/04_pc_skill/01_pc_skill/29_pnyw_skill/pnyw_skill_8032.webp",
+  "level": 51,
+  "combat": true
+ },
+ {
+  "id": 8030,
+  "name": {
+   "esES": "Instalación del gravitorium",
+   "es419": "Instalar Gravitorium",
+   "en": "Gravity Anchor"
+  },
+  "icon": "icons/bdo/04_pc_skill/01_pc_skill/29_pnyw_skill/pnyw_skill_8029.webp",
+  "level": 35,
+  "combat": true
+ },
+ {
+  "id": 8076,
+  "name": {
+   "esES": "Lanzamartillos",
+   "es419": "Lanzar martillos",
+   "en": "Hammer Throw"
+  },
+  "icon": "icons/bdo/04_pc_skill/01_pc_skill/29_pnyw_skill/pnyw_skill_8074.webp",
+  "level": 54,
+  "combat": true
+ },
+ {
+  "id": 1707,
+  "name": {
+   "esES": "Maestría infinita",
+   "es419": "Maestría Infinita",
+   "en": "Infinite Mastery"
+  },
+  "icon": "icons/bdo/04_pc_skill/01_pc_skill/00_common/common_skill_1702.webp",
+  "level": 55,
+  "combat": true
+ },
+ {
+  "id": 8010,
+  "name": {
+   "esES": "Martillada",
+   "es419": "Maniobra de Martillos",
+   "en": "Hammer Mastery"
+  },
+  "icon": "icons/bdo/04_pc_skill/01_pc_skill/29_pnyw_skill/pnyw_skill_8001.webp",
+  "level": 54,
+  "combat": true
+ },
+ {
+  "id": 8165,
+  "name": {
+   "esES": "Martillazo estremecedor",
+   "es419": "Martillazo Estremecedor",
+   "en": "Hammerfall"
+  },
+  "icon": "icons/bdo/04_pc_skill/01_pc_skill/29_pnyw_skill/pnyw_skill_8163.webp",
+  "level": 60,
+  "combat": true
+ },
+ {
+  "id": 8022,
+  "name": {
+   "esES": "Martilleo",
+   "es419": "Martilleo",
+   "en": "Hammer Punch"
+  },
+  "icon": "icons/bdo/04_pc_skill/01_pc_skill/29_pnyw_skill/pnyw_skill_8020.webp",
+  "level": 50,
+  "combat": true
+ },
+ {
+  "id": 8121,
+  "name": {
+   "esES": "Masa y aceleración",
+   "es419": "Masa y Aceleración",
+   "en": "F = ma"
+  },
+  "icon": "icons/bdo/04_pc_skill/01_pc_skill/29_pnyw_skill/pnyw_skill_8121.webp",
+  "level": 20,
+  "combat": true
+ },
+ {
+  "id": 8213,
+  "name": {
+   "esES": "Movimiento: Barrera áurea",
+   "es419": "Flujo: Muro Dorado",
+   "en": "Flow: Golden Barrier"
+  },
+  "icon": "icons/bdo/04_pc_skill/01_pc_skill/29_pnyw_skill/pnyw_skill_8213.webp",
+  "level": 57,
+  "combat": true
+ },
+ {
+  "id": 8056,
+  "name": {
+   "esES": "Movimiento: Bombardeo gravitatorio",
+   "es419": "Flujo: Bombardeo de Gravedad",
+   "en": "Flow: Gravity Storm"
+  },
+  "icon": "icons/bdo/04_pc_skill/01_pc_skill/29_pnyw_skill/pnyw_skill_8056.webp",
+  "level": 20,
+  "combat": true
+ },
+ {
+  "id": 8214,
+  "name": {
+   "esES": "Movimiento: Cadena dorada",
+   "es419": "Flujo: Cadena Dorada",
+   "en": "Flow: Gold Continuum"
+  },
+  "icon": "icons/bdo/04_pc_skill/01_pc_skill/29_pnyw_skill/pnyw_skill_8214.webp",
+  "level": 60,
+  "combat": true
+ },
+ {
+  "id": 8146,
+  "name": {
+   "esES": "Movimiento: Columna áurea",
+   "es419": "Flujo: Pilar Dorado",
+   "en": "Flow: Golden Pillar"
+  },
+  "icon": "icons/bdo/04_pc_skill/01_pc_skill/29_pnyw_skill/pnyw_skill_8142.webp",
+  "level": 59,
+  "combat": true
+ },
+ {
+  "id": 8141,
+  "name": {
+   "esES": "Movimiento: Enredadera áurea",
+   "es419": "Flujo: Enredadera Dorada",
+   "en": "Flow: Golden Vines"
+  },
+  "icon": "icons/bdo/04_pc_skill/01_pc_skill/29_pnyw_skill/pnyw_skill_8137.webp",
+  "level": 58,
+  "combat": true
+ },
+ {
+  "id": 8179,
+  "name": {
+   "esES": "Movimiento: Espina áurea",
+   "es419": "Flujo: Espina Dorada",
+   "en": "Flow: Golden Thorns"
+  },
+  "icon": "icons/bdo/04_pc_skill/01_pc_skill/29_pnyw_skill/pnyw_skill_8175.webp",
+  "level": 59,
+  "combat": true
+ },
+ {
+  "id": 8190,
+  "name": {
+   "esES": "Movimiento: Explosión áurea",
+   "es419": "Flujo: Bombardeo Dorado",
+   "en": "Flow: Golden Skyfall"
+  },
+  "icon": "icons/bdo/04_pc_skill/01_pc_skill/29_pnyw_skill/pnyw_skill_8186.webp",
+  "level": 60,
+  "combat": true
+ },
+ {
+  "id": 8057,
+  "name": {
+   "esES": "Movimiento: Fuerza repulsiva",
+   "es419": "Flujo: Generar Repulsión",
+   "en": "Flow: Repulsion"
+  },
+  "icon": "icons/bdo/04_pc_skill/01_pc_skill/29_pnyw_skill/pnyw_skill_8057.webp",
+  "level": 30,
+  "combat": true
+ },
+ {
+  "id": 8174,
+  "name": {
+   "esES": "Movimiento: Muralla áurea",
+   "es419": "Flujo : Muralla Dorada",
+   "en": "Flow: Golden Blockade"
+  },
+  "icon": "icons/bdo/04_pc_skill/01_pc_skill/29_pnyw_skill/pnyw_skill_8170.webp",
+  "level": 59,
+  "combat": true
+ },
+ {
+  "id": 8184,
+  "name": {
+   "esES": "Movimiento: Ola áurea",
+   "es419": "Flujo: Olas Doradas",
+   "en": "Flow: Golden Wave"
+  },
+  "icon": "icons/bdo/04_pc_skill/01_pc_skill/29_pnyw_skill/pnyw_skill_8180.webp",
+  "level": 60,
+  "combat": true
+ },
+ {
+  "id": 8136,
+  "name": {
+   "esES": "Movimiento: Rastro áureo",
+   "es419": "Flujo: Trayectoria Dorada",
+   "en": "Flow: Golden Trajectory"
+  },
+  "icon": "icons/bdo/04_pc_skill/01_pc_skill/29_pnyw_skill/pnyw_skill_8132.webp",
+  "level": 59,
+  "combat": true
+ },
+ {
+  "id": 8147,
+  "name": {
+   "esES": "Movimiento: Relámpago áureo",
+   "es419": "Flujo: Trueno Dorado",
+   "en": "Flow: Golden Thunder"
+  },
+  "icon": "icons/bdo/04_pc_skill/01_pc_skill/29_pnyw_skill/pnyw_skill_8147.webp",
+  "level": 17,
+  "combat": true
+ },
+ {
+  "id": 8212,
+  "name": {
+   "esES": "Movimiento: Senda áurea",
+   "es419": "Flujo: Camino Dorado",
+   "en": "Flow: Golden Path"
+  },
+  "icon": "icons/bdo/04_pc_skill/01_pc_skill/29_pnyw_skill/pnyw_skill_8212.webp",
+  "level": 57,
+  "combat": true
+ },
+ {
+  "id": 8018,
+  "name": {
+   "esES": "Patada doble",
+   "es419": "Patada Doble",
+   "en": "Drop Kick"
+  },
+  "icon": "icons/bdo/04_pc_skill/01_pc_skill/29_pnyw_skill/pnyw_skill_8016.webp",
+  "level": 50,
+  "combat": true
+ },
+ {
+  "id": 8158,
+  "name": {
+   "esES": "Poder inabarcable",
+   "es419": "Fuerza incontrolable",
+   "en": "Infinite Power"
+  },
+  "icon": "icons/bdo/04_pc_skill/01_pc_skill/29_pnyw_skill/pnyw_skill_8155.webp",
+  "level": 60,
+  "combat": true
+ },
+ {
+  "id": 8193,
+  "name": {
+   "esES": "Primordial: Almádena ciclónica",
+   "es419": "BON : Molino de Viento",
+   "en": "Core: Hammer Spin"
+  },
+  "icon": "icons/bdo/04_pc_skill/01_pc_skill/29_pnyw_skill/pnyw_skill_8159.webp",
+  "level": 60,
+  "combat": true
+ },
+ {
+  "id": 8194,
+  "name": {
+   "esES": "Primordial: Martillazo estremecedor",
+   "es419": "BON : Martillazo Estremecedor",
+   "en": "Core: Hammerfall"
+  },
+  "icon": "icons/bdo/04_pc_skill/01_pc_skill/29_pnyw_skill/pnyw_skill_8163.webp",
+  "level": 60,
+  "combat": true
+ },
+ {
+  "id": 8192,
+  "name": {
+   "esES": "Primordial: Poder inabarcable",
+   "es419": "BON : Fuerza incontrolable",
+   "en": "Core: Infinite Power"
+  },
+  "icon": "icons/bdo/04_pc_skill/01_pc_skill/29_pnyw_skill/pnyw_skill_8155.webp",
+  "level": 60,
+  "combat": true
+ },
+ {
+  "id": 8191,
+  "name": {
+   "esES": "Primordial: Rompiendo los límites",
+   "es419": "BON : Romper Límite",
+   "en": "Core: Hammer Smash"
+  },
+  "icon": "icons/bdo/04_pc_skill/01_pc_skill/29_pnyw_skill/pnyw_skill_8151.webp",
+  "level": 60,
+  "combat": true
+ },
+ {
+  "id": 8195,
+  "name": {
+   "esES": "Primordial: Salto antigravitatorio",
+   "es419": "BON: Salto Antigravitatorio",
+   "en": "Core: One Giant Leap"
+  },
+  "icon": "icons/bdo/04_pc_skill/01_pc_skill/29_pnyw_skill/pnyw_skill_8166.webp",
+  "level": 60,
+  "combat": true
+ },
+ {
+  "id": 92,
+  "name": {
+   "esES": "Retirada oscura",
+   "es419": "Escape de Emergencia",
+   "en": "Emergency Escape"
+  },
+  "icon": "icons/bdo/04_pc_skill/01_pc_skill/00_common/common_skill_0092.webp",
+  "level": 1,
+  "combat": true
+ },
+ {
+  "id": 8014,
+  "name": {
+   "esES": "Rompecabezas",
+   "es419": "Rompe Yelmos",
+   "en": "Hammer Strike"
+  },
+  "icon": "icons/bdo/04_pc_skill/01_pc_skill/29_pnyw_skill/pnyw_skill_8012.webp",
+  "level": 50,
+  "combat": true
+ },
+ {
+  "id": 8154,
+  "name": {
+   "esES": "Rompiendo los límites",
+   "es419": "Romper Límite",
+   "en": "Hammer Smash"
+  },
+  "icon": "icons/bdo/04_pc_skill/01_pc_skill/29_pnyw_skill/pnyw_skill_8151.webp",
+  "level": 60,
+  "combat": true
+ },
+ {
+  "id": 8168,
+  "name": {
+   "esES": "Salto antigravitatorio",
+   "es419": "Salto Antigravitatorio",
+   "en": "One Giant Leap"
+  },
+  "icon": "icons/bdo/04_pc_skill/01_pc_skill/29_pnyw_skill/pnyw_skill_8166.webp",
+  "level": 58,
+  "combat": true
+ },
+ {
+  "id": 8026,
+  "name": {
+   "esES": "Salto ingrávido",
+   "es419": "Salto Ligero",
+   "en": "One Small Step"
+  },
+  "icon": "icons/bdo/04_pc_skill/01_pc_skill/29_pnyw_skill/pnyw_skill_8024.webp",
+  "level": 52,
+  "combat": true
+ },
+ {
+  "id": 8054,
+  "name": {
+   "esES": "Tara divina",
+   "es419": "Peso Divino",
+   "en": "Gravity Press"
+  },
+  "icon": "icons/bdo/04_pc_skill/01_pc_skill/29_pnyw_skill/pnyw_skill_8051.webp",
+  "level": 55,
+  "combat": true
+ },
+ {
+  "id": 8079,
+  "name": {
+   "esES": "Teletransporte evasivo",
+   "es419": "Evasión Trasera",
+   "en": "Reversal"
+  },
+  "icon": "icons/bdo/04_pc_skill/01_pc_skill/29_pnyw_skill/pnyw_skill_8079.webp",
+  "level": 5,
+  "combat": true
+ },
+ {
+  "id": 91,
+  "name": {
+   "esES": "Transfuria",
+   "es419": "Transferencia de Furia",
+   "en": "Rage Transfer"
+  },
+  "icon": "icons/bdo/04_pc_skill/01_pc_skill/00_common/common_skill_0091.webp",
+  "level": 35,
+  "combat": true
+ },
+ {
+  "id": 8062,
+  "name": {
+   "esES": "Vórtice martillador",
+   "es419": "Ataque en salto",
+   "en": "Hammerdown"
+  },
+  "icon": "icons/bdo/04_pc_skill/01_pc_skill/29_pnyw_skill/pnyw_skill_8061.webp",
+  "level": 40,
+  "combat": true
+ }
+]

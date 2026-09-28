@@ -1,0 +1,1190 @@
+[
+ {
+  "id": 7060,
+  "name": {
+   "esES": "[Furia oscura] Escama retorcida",
+   "es419": "(Sin usar) Espíritu Negro: Estocada Escama",
+   "en": "(Not in Use) Black Spirit: Tip of the Scale"
+  },
+  "icon": "icons/bdo/04_pc_skill/01_pc_skill/25_pqw_skill/pqw_skill_7021.webp",
+  "level": 1,
+  "combat": true
+ },
+ {
+  "id": 3459,
+  "name": {
+   "esES": "Absorción de furia",
+   "es419": "Absorción de Furia",
+   "en": "Rage Absorption"
+  },
+  "icon": "icons/bdo/04_pc_skill/01_pc_skill/00_common/common_skill_0090.webp",
+  "level": 35,
+  "combat": true
+ },
+ {
+  "id": 89,
+  "name": {
+   "esES": "Absorción de furia (latente)",
+   "es419": "Absorción de Furia (Innato)",
+   "en": "Rage Absorption (Innate)"
+  },
+  "icon": "icons/bdo/04_pc_skill/01_pc_skill/00_common/common_skill_0090.webp",
+  "level": 35,
+  "combat": true
+ },
+ {
+  "id": 6858,
+  "name": {
+   "esES": "Acometida abrasadora",
+   "es419": "Corte Congelado",
+   "en": "Blazing Strike"
+  },
+  "icon": "icons/bdo/04_pc_skill/01_pc_skill/25_pqw_skill/pqw_skill_6855.webp",
+  "level": 51,
+  "combat": true
+ },
+ {
+  "id": 7009,
+  "name": {
+   "esES": "Acometida demoledora",
+   "es419": "Golpe Sísmico",
+   "en": "Tectonic Slam"
+  },
+  "icon": "icons/bdo/04_pc_skill/01_pc_skill/25_pqw_skill/pqw_skill_7009.webp",
+  "level": 58,
+  "combat": true
+ },
+ {
+  "id": 7017,
+  "name": {
+   "esES": "Acometida tempestuosa",
+   "es419": "Asalto de Tormenta",
+   "en": "Storm Maul"
+  },
+  "icon": "icons/bdo/04_pc_skill/01_pc_skill/25_pqw_skill/pqw_skill_7017.webp",
+  "level": 56,
+  "combat": true
+ },
+ {
+  "id": 6839,
+  "name": {
+   "esES": "Amenaza del dragón",
+   "es419": "Marcha del Dragón",
+   "en": "Dragon's Advance"
+  },
+  "icon": "icons/bdo/04_pc_skill/01_pc_skill/25_pqw_skill/pqw_skill_6837.webp",
+  "level": 30,
+  "combat": true
+ },
+ {
+  "id": 7046,
+  "name": {
+   "esES": "Aniquilación relámpago",
+   "es419": "Aniquilación de Rayo",
+   "en": "Brimbolt Annihilation"
+  },
+  "icon": "icons/bdo/04_pc_skill/01_pc_skill/25_pqw_skill/pqw_skill_7046.webp",
+  "level": 60,
+  "combat": true
+ },
+ {
+  "id": 7019,
+  "name": {
+   "esES": "Apocalipsis",
+   "es419": "Apocalipsis",
+   "en": "Extinction"
+  },
+  "icon": "icons/bdo/04_pc_skill/01_pc_skill/25_pqw_skill/pqw_skill_7015.webp",
+  "level": 59,
+  "combat": true
+ },
+ {
+  "id": 6814,
+  "name": {
+   "esES": "Ardentía",
+   "es419": "Refracción",
+   "en": "Refraction"
+  },
+  "icon": "icons/bdo/04_pc_skill/01_pc_skill/25_pqw_skill/pqw_skill_6813.webp",
+  "level": 35,
+  "combat": true
+ },
+ {
+  "id": 6931,
+  "name": {
+   "esES": "Asalto azur",
+   "es419": "Agresión Azul",
+   "en": "Azure Onslaught"
+  },
+  "icon": "icons/bdo/04_pc_skill/01_pc_skill/25_pqw_skill/pqw_skill_6929.webp",
+  "level": 49,
+  "combat": true
+ },
+ {
+  "id": 6987,
+  "name": {
+   "esES": "Asalto final",
+   "es419": "Última Marcha",
+   "en": "Abyssal Advance"
+  },
+  "icon": "icons/bdo/04_pc_skill/01_pc_skill/25_pqw_skill/pqw_skill_6986.webp",
+  "level": 58,
+  "combat": true
+ },
+ {
+  "id": 6818,
+  "name": {
+   "esES": "Asalto sofocante",
+   "es419": "Terror en el Cielo",
+   "en": "Soaring Assault"
+  },
+  "icon": "icons/bdo/04_pc_skill/01_pc_skill/25_pqw_skill/pqw_skill_6816.webp",
+  "level": 50,
+  "combat": true
+ },
+ {
+  "id": 6812,
+  "name": {
+   "esES": "Blindaje frontal",
+   "es419": "Defensa Frontal",
+   "en": "Scale Bastion"
+  },
+  "icon": "icons/bdo/04_pc_skill/01_pc_skill/25_pqw_skill/pqw_skill_6812.webp",
+  "level": 1,
+  "combat": true
+ },
+ {
+  "id": 6894,
+  "name": {
+   "esES": "Bocanada de Markthanan",
+   "es419": "Aliento de Maktanan",
+   "en": "Markthanan's Breath"
+  },
+  "icon": "icons/bdo/04_pc_skill/01_pc_skill/25_pqw_skill/pqw_skill_6892.webp",
+  "level": 55,
+  "combat": true
+ },
+ {
+  "id": 6984,
+  "name": {
+   "esES": "Carga del dragón",
+   "es419": "Asalto de Dragón",
+   "en": "Dragon's Assault"
+  },
+  "icon": "icons/bdo/04_pc_skill/01_pc_skill/25_pqw_skill/pqw_skill_6985.webp",
+  "level": 57,
+  "combat": true
+ },
+ {
+  "id": 6890,
+  "name": {
+   "esES": "Castigo perverso",
+   "es419": "Venganza Sangrienta",
+   "en": "Dragon's Maw"
+  },
+  "icon": "icons/bdo/04_pc_skill/01_pc_skill/25_pqw_skill/pqw_skill_6887.webp",
+  "level": 43,
+  "combat": true
+ },
+ {
+  "id": 2076,
+  "name": {
+   "esES": "Cazador hábil",
+   "es419": "Cazador Experto",
+   "en": "Skilled Hunter"
+  },
+  "icon": "icons/bdo/04_pc_skill/01_pc_skill/06_pkm_skill/pkm_skill_2072.webp",
+  "level": 60,
+  "combat": true
+ },
+ {
+  "id": 6917,
+  "name": {
+   "esES": "Cénit: Acometida abrasadora",
+   "es419": "S: Corte Congelado",
+   "en": "Prime: Blazing Strike"
+  },
+  "icon": "icons/bdo/04_pc_skill/01_pc_skill/25_pqw_skill/pqw_skill_6915.webp",
+  "level": 60,
+  "combat": true
+ },
+ {
+  "id": 6981,
+  "name": {
+   "esES": "Cénit: Ascensión",
+   "es419": "S: Ascensión",
+   "en": "Prime: Ascent"
+  },
+  "icon": "icons/bdo/04_pc_skill/01_pc_skill/25_pqw_skill/pqw_skill_6981.webp",
+  "level": 59,
+  "combat": true
+ },
+ {
+  "id": 6958,
+  "name": {
+   "esES": "Cénit: Cenizas",
+   "es419": "S: Hoguera",
+   "en": "Prime: Cinders"
+  },
+  "icon": "icons/bdo/04_pc_skill/01_pc_skill/25_pqw_skill/pqw_skill_6954.webp",
+  "level": 60,
+  "combat": true
+ },
+ {
+  "id": 6919,
+  "name": {
+   "esES": "Cénit: Dominio de Markthanan",
+   "es419": "S: Territorio de Maktanan",
+   "en": "Prime: Markthanan's Dominion"
+  },
+  "icon": "icons/bdo/04_pc_skill/01_pc_skill/25_pqw_skill/pqw_skill_6919.webp",
+  "level": 59,
+  "combat": true
+ },
+ {
+  "id": 6920,
+  "name": {
+   "esES": "Cénit: Escama de Markthanan",
+   "es419": "S: Escama de Maktanan",
+   "en": "Prime: Markthanan's Scale"
+  },
+  "icon": "icons/bdo/04_pc_skill/01_pc_skill/25_pqw_skill/pqw_skill_6920.webp",
+  "level": 60,
+  "combat": true
+ },
+ {
+  "id": 6911,
+  "name": {
+   "esES": "Cénit: Estallido del rayo",
+   "es419": "S: Tempestad de Rayo",
+   "en": "Prime: Brimbolt Raze"
+  },
+  "icon": "icons/bdo/04_pc_skill/01_pc_skill/25_pqw_skill/pqw_skill_6909.webp",
+  "level": 59,
+  "combat": true
+ },
+ {
+  "id": 6900,
+  "name": {
+   "esES": "Cénit: Estallido devastador",
+   "es419": "S: Quemadura de Rayo",
+   "en": "Prime: Brimbolt Strike"
+  },
+  "icon": "icons/bdo/04_pc_skill/01_pc_skill/25_pqw_skill/pqw_skill_6897.webp",
+  "level": 60,
+  "combat": true
+ },
+ {
+  "id": 6933,
+  "name": {
+   "esES": "Cénit: Filo sanguinario",
+   "es419": "S: Sangre en los Labios",
+   "en": "Prime: Bloodthirst"
+  },
+  "icon": "icons/bdo/04_pc_skill/01_pc_skill/25_pqw_skill/pqw_skill_6933.webp",
+  "level": 56,
+  "combat": true
+ },
+ {
+  "id": 6922,
+  "name": {
+   "esES": "Cénit: Fuerza draconiana",
+   "es419": "S: Fisiología del Dragón",
+   "en": "Prime: Dragonborn Constitution"
+  },
+  "icon": "icons/bdo/04_pc_skill/01_pc_skill/25_pqw_skill/pqw_skill_6922.webp",
+  "level": 56,
+  "combat": true
+ },
+ {
+  "id": 6976,
+  "name": {
+   "esES": "Cénit: Furia del dragón",
+   "es419": "S: Desesperación",
+   "en": "Prime: Dragon's Fury"
+  },
+  "icon": "icons/bdo/04_pc_skill/01_pc_skill/25_pqw_skill/pqw_skill_6976.webp",
+  "level": 56,
+  "combat": true
+ },
+ {
+  "id": 6923,
+  "name": {
+   "esES": "Cénit: Garra fiera",
+   "es419": "S: Garras del Terror",
+   "en": "Prime: Abyssal Fang"
+  },
+  "icon": "icons/bdo/04_pc_skill/01_pc_skill/25_pqw_skill/pqw_skill_6923.webp",
+  "level": 57,
+  "combat": true
+ },
+ {
+  "id": 6980,
+  "name": {
+   "esES": "Cénit: Garra violenta",
+   "es419": "S: Garra Cortante",
+   "en": "Prime: Sundering Claw"
+  },
+  "icon": "icons/bdo/04_pc_skill/01_pc_skill/25_pqw_skill/pqw_skill_6980.webp",
+  "level": 60,
+  "combat": true
+ },
+ {
+  "id": 6918,
+  "name": {
+   "esES": "Cénit: Ignición",
+   "es419": "S: Brasa",
+   "en": "Prime: Embers"
+  },
+  "icon": "icons/bdo/04_pc_skill/01_pc_skill/25_pqw_skill/pqw_skill_6918.webp",
+  "level": 58,
+  "combat": true
+ },
+ {
+  "id": 6914,
+  "name": {
+   "esES": "Cénit: Mandoble fatal",
+   "es419": "S: Cortes Sucesivos",
+   "en": "Prime: Omnislash"
+  },
+  "icon": "icons/bdo/04_pc_skill/01_pc_skill/25_pqw_skill/pqw_skill_6912.webp",
+  "level": 58,
+  "combat": true
+ },
+ {
+  "id": 6908,
+  "name": {
+   "esES": "Cénit: Orden de Markthanan",
+   "es419": "S: Mano de Maktanan",
+   "en": "Prime: Markthanan's Flourish"
+  },
+  "icon": "icons/bdo/04_pc_skill/01_pc_skill/25_pqw_skill/pqw_skill_6905.webp",
+  "level": 60,
+  "combat": true
+ },
+ {
+  "id": 6921,
+  "name": {
+   "esES": "Cénit: Puñalada penetrante",
+   "es419": "S: Estocada al Pulmón",
+   "en": "Prime: Skewer"
+  },
+  "icon": "icons/bdo/04_pc_skill/01_pc_skill/25_pqw_skill/pqw_skill_6921.webp",
+  "level": 57,
+  "combat": true
+ },
+ {
+  "id": 6904,
+  "name": {
+   "esES": "Cénit: Rajapescuezos",
+   "es419": "S: Último Respiro",
+   "en": "Prime: Eviscerate"
+  },
+  "icon": "icons/bdo/04_pc_skill/01_pc_skill/25_pqw_skill/pqw_skill_6901.webp",
+  "level": 60,
+  "combat": true
+ },
+ {
+  "id": 6982,
+  "name": {
+   "esES": "Colmillo de Markthanan",
+   "es419": "Colmillo de Maktanan",
+   "en": "Markthanan's Fang"
+  },
+  "icon": "icons/bdo/04_pc_skill/01_pc_skill/25_pqw_skill/pqw_skill_6983.webp",
+  "level": 56,
+  "combat": true
+ },
+ {
+  "id": 6977,
+  "name": {
+   "esES": "Corazón de Markthanan",
+   "es419": "Corazón de Maktanan",
+   "en": "Markthanan's Heart"
+  },
+  "icon": "icons/bdo/04_pc_skill/01_pc_skill/25_pqw_skill/pqw_skill_6977.webp",
+  "level": 20,
+  "combat": true
+ },
+ {
+  "id": 6859,
+  "name": {
+   "esES": "Definitiva: Acometida abrasadora",
+   "es419": "Suprema: Corte Congelado",
+   "en": "Absolute: Blazing Strike"
+  },
+  "icon": "icons/bdo/04_pc_skill/01_pc_skill/25_pqw_skill/pqw_skill_6859.webp",
+  "level": 59,
+  "combat": true
+ },
+ {
+  "id": 6815,
+  "name": {
+   "esES": "Definitiva: Ardentía",
+   "es419": "Suprema: Refracción",
+   "en": "Absolute: Refraction"
+  },
+  "icon": "icons/bdo/04_pc_skill/01_pc_skill/25_pqw_skill/pqw_skill_6815.webp",
+  "level": 56,
+  "combat": true
+ },
+ {
+  "id": 6932,
+  "name": {
+   "esES": "Definitiva: Asalto azur",
+   "es419": "Suprema: Agresión Azul",
+   "en": "Absolute: Azure Onslaught"
+  },
+  "icon": "icons/bdo/04_pc_skill/01_pc_skill/25_pqw_skill/pqw_skill_6932.webp",
+  "level": 56,
+  "combat": true
+ },
+ {
+  "id": 6819,
+  "name": {
+   "esES": "Definitiva: Asalto sofocante",
+   "es419": "Suprema: Terror en el Cielo",
+   "en": "Absolute: Soaring Assault"
+  },
+  "icon": "icons/bdo/04_pc_skill/01_pc_skill/25_pqw_skill/pqw_skill_6819.webp",
+  "level": 56,
+  "combat": true
+ },
+ {
+  "id": 6895,
+  "name": {
+   "esES": "Definitiva: Bocanada de Markthanan",
+   "es419": "Suprema: Aliento de Maktanan",
+   "en": "Absolute: Markthanan's Breath"
+  },
+  "icon": "icons/bdo/04_pc_skill/01_pc_skill/25_pqw_skill/pqw_skill_6895.webp",
+  "level": 58,
+  "combat": true
+ },
+ {
+  "id": 6891,
+  "name": {
+   "esES": "Definitiva: Castigo perverso",
+   "es419": "Suprema: Venganza Sangrienta",
+   "en": "Absolute: Dragon's Maw"
+  },
+  "icon": "icons/bdo/04_pc_skill/01_pc_skill/25_pqw_skill/pqw_skill_6891.webp",
+  "level": 57,
+  "combat": true
+ },
+ {
+  "id": 6877,
+  "name": {
+   "esES": "Definitiva: Dominio de Markthanan",
+   "es419": "Suprema: Territorio de Maktanan",
+   "en": "Absolute: Markthanan's Dominion"
+  },
+  "icon": "icons/bdo/04_pc_skill/01_pc_skill/25_pqw_skill/pqw_skill_6877.webp",
+  "level": 59,
+  "combat": true
+ },
+ {
+  "id": 6849,
+  "name": {
+   "esES": "Definitiva: Escama de Markthanan",
+   "es419": "Suprema: Escama de Maktanan",
+   "en": "Absolute: Markthanan's Scale"
+  },
+  "icon": "icons/bdo/04_pc_skill/01_pc_skill/25_pqw_skill/pqw_skill_6849.webp",
+  "level": 60,
+  "combat": true
+ },
+ {
+  "id": 6854,
+  "name": {
+   "esES": "Definitiva: Estallido del rayo",
+   "es419": "Suprema: Tempestad de Rayo",
+   "en": "Absolute: Brimbolt Raze"
+  },
+  "icon": "icons/bdo/04_pc_skill/01_pc_skill/25_pqw_skill/pqw_skill_6854.webp",
+  "level": 57,
+  "combat": true
+ },
+ {
+  "id": 6825,
+  "name": {
+   "esES": "Definitiva: Estallido devastador",
+   "es419": "Suprema: Quemadura de Rayo",
+   "en": "Absolute: Brimbolt Strike"
+  },
+  "icon": "icons/bdo/04_pc_skill/01_pc_skill/25_pqw_skill/pqw_skill_6825.webp",
+  "level": 60,
+  "combat": true
+ },
+ {
+  "id": 6882,
+  "name": {
+   "esES": "Definitiva: Garra fiera",
+   "es419": "Suprema: Garras del Terror",
+   "en": "Absolute: Abyssal Fang"
+  },
+  "icon": "icons/bdo/04_pc_skill/01_pc_skill/25_pqw_skill/pqw_skill_6882.webp",
+  "level": 56,
+  "combat": true
+ },
+ {
+  "id": 6886,
+  "name": {
+   "esES": "Definitiva: Ignición",
+   "es419": "Suprema: Brasa",
+   "en": "Absolute: Embers"
+  },
+  "icon": "icons/bdo/04_pc_skill/01_pc_skill/25_pqw_skill/pqw_skill_6886.webp",
+  "level": 57,
+  "combat": true
+ },
+ {
+  "id": 6811,
+  "name": {
+   "esES": "Definitiva: Maestría con destructora",
+   "es419": "Suprema: Maestría de Slayer",
+   "en": "Absolute: Slayer Training"
+  },
+  "icon": "icons/bdo/04_pc_skill/01_pc_skill/25_pqw_skill/pqw_skill_6811.webp",
+  "level": 56,
+  "combat": true
+ },
+ {
+  "id": 6863,
+  "name": {
+   "esES": "Definitiva: Mandoble fatal",
+   "es419": "Suprema: Cortes Sucesivos",
+   "en": "Absolute: Omnislash"
+  },
+  "icon": "icons/bdo/04_pc_skill/01_pc_skill/25_pqw_skill/pqw_skill_6863.webp",
+  "level": 57,
+  "combat": true
+ },
+ {
+  "id": 6843,
+  "name": {
+   "esES": "Definitiva: Movimiento: Garra de Markthanan",
+   "es419": "Suprema: Flujo: Garras de Maktanan",
+   "en": "Absolute: Flow: Markthanan's Claws"
+  },
+  "icon": "icons/bdo/04_pc_skill/01_pc_skill/25_pqw_skill/pqw_skill_6843.webp",
+  "level": 58,
+  "combat": true
+ },
+ {
+  "id": 6871,
+  "name": {
+   "esES": "Definitiva: Movimiento: Último suspiro",
+   "es419": "Suprema: Flujo: Corte de Garganta",
+   "en": "Absolute: Flow: Asphyxiate"
+  },
+  "icon": "icons/bdo/04_pc_skill/01_pc_skill/25_pqw_skill/pqw_skill_6871.webp",
+  "level": 56,
+  "combat": true
+ },
+ {
+  "id": 6836,
+  "name": {
+   "esES": "Definitiva: Orden de Markthanan",
+   "es419": "Suprema: Mano de Maktanan",
+   "en": "Absolute: Markthanan's Flourish"
+  },
+  "icon": "icons/bdo/04_pc_skill/01_pc_skill/25_pqw_skill/pqw_skill_6836.webp",
+  "level": 58,
+  "combat": true
+ },
+ {
+  "id": 6868,
+  "name": {
+   "esES": "Definitiva: Puñalada penetrante",
+   "es419": "Suprema: Estocada al Pulmón",
+   "en": "Absolute: Skewer"
+  },
+  "icon": "icons/bdo/04_pc_skill/01_pc_skill/25_pqw_skill/pqw_skill_6868.webp",
+  "level": 56,
+  "combat": true
+ },
+ {
+  "id": 6831,
+  "name": {
+   "esES": "Definitiva: Rajapescuezos",
+   "es419": "Suprema: Último Respiro",
+   "en": "Absolute: Eviscerate"
+  },
+  "icon": "icons/bdo/04_pc_skill/01_pc_skill/25_pqw_skill/pqw_skill_6831.webp",
+  "level": 57,
+  "combat": true
+ },
+ {
+  "id": 6928,
+  "name": {
+   "esES": "Despertar: Alacinérea del olvido",
+   "es419": "Despertar: Alacinérea del Olvido",
+   "en": "Awakening: Ashen Wings of Oblivion"
+  },
+  "icon": "icons/bdo/04_pc_skill/01_pc_skill/25_pqw_skill/pqw_skill_6928.webp",
+  "level": 56,
+  "combat": true
+ },
+ {
+  "id": 6876,
+  "name": {
+   "esES": "Dominio de Markthanan",
+   "es419": "Territorio de Maktanan",
+   "en": "Markthanan's Dominion"
+  },
+  "icon": "icons/bdo/04_pc_skill/01_pc_skill/25_pqw_skill/pqw_skill_6872.webp",
+  "level": 55,
+  "combat": true
+ },
+ {
+  "id": 6986,
+  "name": {
+   "esES": "Dominio siniestro",
+   "es419": "Dominio Espeluznante",
+   "en": "Abyssal Dominion"
+  },
+  "icon": "icons/bdo/04_pc_skill/01_pc_skill/25_pqw_skill/pqw_skill_6987.webp",
+  "level": 58,
+  "combat": true
+ },
+ {
+  "id": 7064,
+  "name": {
+   "esES": "Elvia: Mandato ineludible",
+   "es419": "Elvia: El mandamiento resucitado",
+   "en": "Elvia: Edict Unbound"
+  },
+  "icon": "icons/bdo/04_pc_skill/01_pc_skill/25_pqw_skill/pqw_skill_7064.webp",
+  "level": 60,
+  "combat": true
+ },
+ {
+  "id": 7007,
+  "name": {
+   "esES": "Entrenamiento con trion",
+   "es419": "Entrenamiento Trion",
+   "en": "Trion Training"
+  },
+  "icon": "icons/bdo/04_pc_skill/01_pc_skill/25_pqw_skill/pqw_skill_7003.webp",
+  "level": 60,
+  "combat": true
+ },
+ {
+  "id": 6848,
+  "name": {
+   "esES": "Escama de Markthanan",
+   "es419": "Escama de Maktanan",
+   "en": "Markthanan's Scale"
+  },
+  "icon": "icons/bdo/04_pc_skill/01_pc_skill/25_pqw_skill/pqw_skill_6844.webp",
+  "level": 55,
+  "combat": true
+ },
+ {
+  "id": 7024,
+  "name": {
+   "esES": "Escama retorcida",
+   "es419": "Estocada Escama",
+   "en": "Tip of the Scale"
+  },
+  "icon": "icons/bdo/04_pc_skill/01_pc_skill/25_pqw_skill/pqw_skill_7021.webp",
+  "level": 59,
+  "combat": true
+ },
+ {
+  "id": 6853,
+  "name": {
+   "esES": "Estallido del rayo",
+   "es419": "Tempestad de Rayo",
+   "en": "Brimbolt Raze"
+  },
+  "icon": "icons/bdo/04_pc_skill/01_pc_skill/25_pqw_skill/pqw_skill_6850.webp",
+  "level": 40,
+  "combat": true
+ },
+ {
+  "id": 6824,
+  "name": {
+   "esES": "Estallido devastador",
+   "es419": "Quemadura de Rayo",
+   "en": "Brimbolt Strike"
+  },
+  "icon": "icons/bdo/04_pc_skill/01_pc_skill/25_pqw_skill/pqw_skill_6820.webp",
+  "level": 55,
+  "combat": true
+ },
+ {
+  "id": 6800,
+  "name": {
+   "esES": "Evasión",
+   "es419": "Evasión",
+   "en": "Evasion"
+  },
+  "icon": "icons/bdo/04_pc_skill/01_pc_skill/25_pqw_skill/pqw_skill_6800.webp",
+  "level": 1,
+  "combat": true
+ },
+ {
+  "id": 6983,
+  "name": {
+   "esES": "Garra cruel",
+   "es419": "Garra Brotante",
+   "en": "Soaring Claw"
+  },
+  "icon": "icons/bdo/04_pc_skill/01_pc_skill/25_pqw_skill/pqw_skill_6982.webp",
+  "level": 56,
+  "combat": true
+ },
+ {
+  "id": 6881,
+  "name": {
+   "esES": "Garra fiera",
+   "es419": "Garras del Terror",
+   "en": "Abyssal Fang"
+  },
+  "icon": "icons/bdo/04_pc_skill/01_pc_skill/25_pqw_skill/pqw_skill_6878.webp",
+  "level": 46,
+  "combat": true
+ },
+ {
+  "id": 4856,
+  "name": {
+   "esES": "Gran poder",
+   "es419": "Gran Poder",
+   "en": "Unyielding Might"
+  },
+  "icon": "icons/bdo/04_pc_skill/01_pc_skill/00_common/common_skill_18705.webp",
+  "level": 62,
+  "combat": true
+ },
+ {
+  "id": 7020,
+  "name": {
+   "esES": "Heraldo del caos",
+   "es419": "Heraldo del Caos",
+   "en": "Doombringer"
+  },
+  "icon": "icons/bdo/04_pc_skill/01_pc_skill/25_pqw_skill/pqw_skill_7018.webp",
+  "level": 58,
+  "combat": true
+ },
+ {
+  "id": 6885,
+  "name": {
+   "esES": "Ignición",
+   "es419": "Brasa",
+   "en": "Embers"
+  },
+  "icon": "icons/bdo/04_pc_skill/01_pc_skill/25_pqw_skill/pqw_skill_6883.webp",
+  "level": 41,
+  "combat": true
+ },
+ {
+  "id": 7035,
+  "name": {
+   "esES": "Incisión flamígera",
+   "es419": "Fuego tajante",
+   "en": "Crackling Flame"
+  },
+  "icon": "icons/bdo/04_pc_skill/01_pc_skill/25_pqw_skill/pqw_skill_7035.webp",
+  "level": 56,
+  "combat": true
+ },
+ {
+  "id": 6988,
+  "name": {
+   "esES": "Lanza perforadora",
+   "es419": "Lanza Perforadora",
+   "en": "Impale"
+  },
+  "icon": "icons/bdo/04_pc_skill/01_pc_skill/25_pqw_skill/pqw_skill_6988.webp",
+  "level": 56,
+  "combat": true
+ },
+ {
+  "id": 7034,
+  "name": {
+   "esES": "Lanza siembratormentas",
+   "es419": "Lanza Perfora Tormentas",
+   "en": "Storm Piercer"
+  },
+  "icon": "icons/bdo/04_pc_skill/01_pc_skill/25_pqw_skill/pqw_skill_7032.webp",
+  "level": 59,
+  "combat": true
+ },
+ {
+  "id": 7016,
+  "name": {
+   "esES": "Llamarada fatídica",
+   "es419": "Llamado",
+   "en": "Fate Beckons"
+  },
+  "icon": "icons/bdo/04_pc_skill/01_pc_skill/25_pqw_skill/pqw_skill_7016.webp",
+  "level": 56,
+  "combat": true
+ },
+ {
+  "id": 6810,
+  "name": {
+   "esES": "Maestría con destructora",
+   "es419": "Maestría de Slayer",
+   "en": "Slayer Training"
+  },
+  "icon": "icons/bdo/04_pc_skill/01_pc_skill/25_pqw_skill/pqw_skill_6801.webp",
+  "level": 53,
+  "combat": true
+ },
+ {
+  "id": 1707,
+  "name": {
+   "esES": "Maestría infinita",
+   "es419": "Maestría Infinita",
+   "en": "Infinite Mastery"
+  },
+  "icon": "icons/bdo/04_pc_skill/01_pc_skill/00_common/common_skill_1702.webp",
+  "level": 55,
+  "combat": true
+ },
+ {
+  "id": 6862,
+  "name": {
+   "esES": "Mandoble fatal",
+   "es419": "Cortes Sucesivos",
+   "en": "Omnislash"
+  },
+  "icon": "icons/bdo/04_pc_skill/01_pc_skill/25_pqw_skill/pqw_skill_6860.webp",
+  "level": 42,
+  "combat": true
+ },
+ {
+  "id": 7031,
+  "name": {
+   "esES": "Manifiesto del dragón",
+   "es419": "Manifiesto del dragón",
+   "en": "Savage Decree"
+  },
+  "icon": "icons/bdo/04_pc_skill/01_pc_skill/25_pqw_skill/pqw_skill_7029.webp",
+  "level": 60,
+  "combat": true
+ },
+ {
+  "id": 7045,
+  "name": {
+   "esES": "Movimiento: Ala de la perdición",
+   "es419": "Flujo: Alas de Destrucción",
+   "en": "Flow: Dragon Flight"
+  },
+  "icon": "icons/bdo/04_pc_skill/01_pc_skill/25_pqw_skill/pqw_skill_7045.webp",
+  "level": 58,
+  "combat": true
+ },
+ {
+  "id": 6840,
+  "name": {
+   "esES": "Movimiento: Alas de Markthanan",
+   "es419": "Flujo: Alas de Maktanan",
+   "en": "Flow: Markthanan's Wings"
+  },
+  "icon": "icons/bdo/04_pc_skill/01_pc_skill/25_pqw_skill/pqw_skill_6840.webp",
+  "level": 16,
+  "combat": true
+ },
+ {
+  "id": 7063,
+  "name": {
+   "esES": "Movimiento: Aniquilación",
+   "es419": "Flujo: Erradicación",
+   "en": "Flow: Obliterate"
+  },
+  "icon": "icons/bdo/04_pc_skill/01_pc_skill/25_pqw_skill/pqw_skill_7063.webp",
+  "level": 60,
+  "combat": true
+ },
+ {
+  "id": 6842,
+  "name": {
+   "esES": "Movimiento: Garra de Markthanan",
+   "es419": "Flujo: Garras de Maktanan",
+   "en": "Flow: Markthanan's Claws"
+  },
+  "icon": "icons/bdo/04_pc_skill/01_pc_skill/25_pqw_skill/pqw_skill_6841.webp",
+  "level": 46,
+  "combat": true
+ },
+ {
+  "id": 7014,
+  "name": {
+   "esES": "Movimiento: Garra oculta",
+   "es419": "Flujo: Garra Acechante",
+   "en": "Flow: Concealed Claw"
+  },
+  "icon": "icons/bdo/04_pc_skill/01_pc_skill/25_pqw_skill/pqw_skill_7014.webp",
+  "level": 58,
+  "combat": true
+ },
+ {
+  "id": 6826,
+  "name": {
+   "esES": "Movimiento: Onda expansiva",
+   "es419": "Flujo: Onda de Relámpago",
+   "en": "Flow: Brimbolt Wave"
+  },
+  "icon": "icons/bdo/04_pc_skill/01_pc_skill/25_pqw_skill/pqw_skill_6826.webp",
+  "level": 32,
+  "combat": true
+ },
+ {
+  "id": 7041,
+  "name": {
+   "esES": "Movimiento: Perforanubes",
+   "es419": "Flujo: Rajar nubes",
+   "en": "Flow: Cloud's Strife"
+  },
+  "icon": "icons/bdo/04_pc_skill/01_pc_skill/25_pqw_skill/pqw_skill_7041.webp",
+  "level": 59,
+  "combat": true
+ },
+ {
+  "id": 6870,
+  "name": {
+   "esES": "Movimiento: Último suspiro",
+   "es419": "Flujo: Corte de Garganta",
+   "en": "Flow: Asphyxiate"
+  },
+  "icon": "icons/bdo/04_pc_skill/01_pc_skill/25_pqw_skill/pqw_skill_6869.webp",
+  "level": 39,
+  "combat": true
+ },
+ {
+  "id": 6835,
+  "name": {
+   "esES": "Orden de Markthanan",
+   "es419": "Mano de Maktanan",
+   "en": "Markthanan's Flourish"
+  },
+  "icon": "icons/bdo/04_pc_skill/01_pc_skill/25_pqw_skill/pqw_skill_6832.webp",
+  "level": 44,
+  "combat": true
+ },
+ {
+  "id": 6985,
+  "name": {
+   "esES": "Perforaalas",
+   "es419": "Alas Perforantes",
+   "en": "Eviscerating Wings"
+  },
+  "icon": "icons/bdo/04_pc_skill/01_pc_skill/25_pqw_skill/pqw_skill_6984.webp",
+  "level": 57,
+  "combat": true
+ },
+ {
+  "id": 6926,
+  "name": {
+   "esES": "Pisada de dragón",
+   "es419": "Pasos del Dragón",
+   "en": "Dragonwalk"
+  },
+  "icon": "icons/bdo/04_pc_skill/01_pc_skill/25_pqw_skill/pqw_skill_6924.webp",
+  "level": 37,
+  "combat": true
+ },
+ {
+  "id": 6953,
+  "name": {
+   "esES": "Poder de Markthanan",
+   "es419": "Cuerpo de Maktanan",
+   "en": "Markthanan's Rattle"
+  },
+  "icon": "icons/bdo/04_pc_skill/01_pc_skill/25_pqw_skill/pqw_skill_6934.webp",
+  "level": 60,
+  "combat": true
+ },
+ {
+  "id": 7055,
+  "name": {
+   "esES": "Primordial: Acometida demoledora",
+   "es419": "BON: Golpe Sísmico",
+   "en": "Core: Tectonic Slam"
+  },
+  "icon": "icons/bdo/04_pc_skill/01_pc_skill/25_pqw_skill/pqw_skill_7009.webp",
+  "level": 60,
+  "combat": true
+ },
+ {
+  "id": 7056,
+  "name": {
+   "esES": "Primordial: Apocalipsis",
+   "es419": "BON: Apocalipsis",
+   "en": "Core: Extinction"
+  },
+  "icon": "icons/bdo/04_pc_skill/01_pc_skill/25_pqw_skill/pqw_skill_7015.webp",
+  "level": 60,
+  "combat": true
+ },
+ {
+  "id": 7051,
+  "name": {
+   "esES": "Primordial: Escama retorcida",
+   "es419": "BON: Estocada Escama",
+   "en": "Core: Tip of the Scale"
+  },
+  "icon": "icons/bdo/04_pc_skill/01_pc_skill/25_pqw_skill/pqw_skill_6989.webp",
+  "level": 60,
+  "combat": true
+ },
+ {
+  "id": 7054,
+  "name": {
+   "esES": "Primordial: Manifiesto del dragón",
+   "es419": "BON: Manifiesto del dragón",
+   "en": "Core: Savage Decree"
+  },
+  "icon": "icons/bdo/04_pc_skill/01_pc_skill/25_pqw_skill/pqw_skill_6997.webp",
+  "level": 60,
+  "combat": true
+ },
+ {
+  "id": 7052,
+  "name": {
+   "esES": "Primordial: Rencor latente",
+   "es419": "BON: Rencor del Alma",
+   "en": "Core: Spiteful Soul"
+  },
+  "icon": "icons/bdo/04_pc_skill/01_pc_skill/25_pqw_skill/pqw_skill_6993.webp",
+  "level": 60,
+  "combat": true
+ },
+ {
+  "id": 7053,
+  "name": {
+   "esES": "Primordial: Rugido sísmico",
+   "es419": "BON: Rugido Desgarrador",
+   "en": "Core: Sundering Roar"
+  },
+  "icon": "icons/bdo/04_pc_skill/01_pc_skill/25_pqw_skill/pqw_skill_7010.webp",
+  "level": 60,
+  "combat": true
+ },
+ {
+  "id": 6867,
+  "name": {
+   "esES": "Puñalada penetrante",
+   "es419": "Estocada al Pulmón",
+   "en": "Skewer"
+  },
+  "icon": "icons/bdo/04_pc_skill/01_pc_skill/25_pqw_skill/pqw_skill_6864.webp",
+  "level": 52,
+  "combat": true
+ },
+ {
+  "id": 6830,
+  "name": {
+   "esES": "Rajapescuezos",
+   "es419": "Último Respiro",
+   "en": "Eviscerate"
+  },
+  "icon": "icons/bdo/04_pc_skill/01_pc_skill/25_pqw_skill/pqw_skill_6827.webp",
+  "level": 45,
+  "combat": true
+ },
+ {
+  "id": 7067,
+  "name": {
+   "esES": "Renacer: Asalto azur",
+   "es419": "Sucesión: Agresión Azul",
+   "en": "Succession: Azure Onslaught"
+  },
+  "icon": "icons/bdo/04_pc_skill/01_pc_skill/25_pqw_skill/pqw_skill_6932.webp",
+  "level": 56,
+  "combat": true
+ },
+ {
+  "id": 7043,
+  "name": {
+   "esES": "Renacer: Corazón de Markthanan",
+   "es419": "Sucesión: Corazón de Maktanan",
+   "en": "Succession: Markthanan's Heart"
+  },
+  "icon": "icons/bdo/04_pc_skill/01_pc_skill/25_pqw_skill/pqw_skill_6977.webp",
+  "level": 56,
+  "combat": true
+ },
+ {
+  "id": 6978,
+  "name": {
+   "esES": "Renacer: Movimiento: Onda expansiva",
+   "es419": "Sucesión: Flujo: Onda de Relámpago",
+   "en": "Succession: Flow: Brimbolt Wave"
+  },
+  "icon": "icons/bdo/04_pc_skill/01_pc_skill/25_pqw_skill/pqw_skill_6826.webp",
+  "level": 56,
+  "combat": true
+ },
+ {
+  "id": 7028,
+  "name": {
+   "esES": "Rencor latente",
+   "es419": "Rencor del Alma",
+   "en": "Spiteful Soul"
+  },
+  "icon": "icons/bdo/04_pc_skill/01_pc_skill/25_pqw_skill/pqw_skill_7025.webp",
+  "level": 60,
+  "combat": true
+ },
+ {
+  "id": 92,
+  "name": {
+   "esES": "Retirada oscura",
+   "es419": "Escape de Emergencia",
+   "en": "Emergency Escape"
+  },
+  "icon": "icons/bdo/04_pc_skill/01_pc_skill/00_common/common_skill_0092.webp",
+  "level": 1,
+  "combat": true
+ },
+ {
+  "id": 7040,
+  "name": {
+   "esES": "Rugido sísmico",
+   "es419": "Rugido Desgarrador",
+   "en": "Sundering Roar"
+  },
+  "icon": "icons/bdo/04_pc_skill/01_pc_skill/25_pqw_skill/pqw_skill_7037.webp",
+  "level": 60,
+  "combat": true
+ },
+ {
+  "id": 7042,
+  "name": {
+   "esES": "Sacudida violenta",
+   "es419": "Explosión Aérea",
+   "en": "Aerial Burst"
+  },
+  "icon": "icons/bdo/04_pc_skill/01_pc_skill/25_pqw_skill/pqw_skill_7043.webp",
+  "level": 56,
+  "combat": true
+ },
+ {
+  "id": 91,
+  "name": {
+   "esES": "Transfuria",
+   "es419": "Transferencia de Furia",
+   "en": "Rage Transfer"
+  },
+  "icon": "icons/bdo/04_pc_skill/01_pc_skill/00_common/common_skill_0091.webp",
+  "level": 35,
+  "combat": true
+ },
+ {
+  "id": 6979,
+  "name": {
+   "esES": "Venganza incensante",
+   "es419": "Anhelo del Tiempo",
+   "en": "Ceaseless Vengeance"
+  },
+  "icon": "icons/bdo/04_pc_skill/01_pc_skill/25_pqw_skill/pqw_skill_6979.webp",
+  "level": 60,
+  "combat": true
+ }
+]

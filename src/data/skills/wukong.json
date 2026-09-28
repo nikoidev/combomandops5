@@ -1,0 +1,772 @@
+[
+ {
+  "id": 9603,
+  "name": {
+   "esES": "¡Al ataque!",
+   "es419": "¡Ataca!",
+   "en": "Strike 'Em!"
+  },
+  "icon": "icons/bdo/04_pc_skill/01_pc_skill/20_pjkd_skill/pjkd_skill_9603.webp",
+  "level": 60,
+  "combat": true
+ },
+ {
+  "id": 9622,
+  "name": {
+   "esES": "¡Alto ahí!",
+   "es419": "¡Alto!",
+   "en": "Hold It Right There!"
+  },
+  "icon": "icons/bdo/04_pc_skill/01_pc_skill/20_pjkd_skill/pjkd_skill_9622.webp",
+  "level": 58,
+  "combat": true
+ },
+ {
+  "id": 9511,
+  "name": {
+   "esES": "¡Aparta!",
+   "es419": "¡Quítate!",
+   "en": "Move"
+  },
+  "icon": "icons/bdo/04_pc_skill/01_pc_skill/20_pjkd_skill/pjkd_skill_9511.webp",
+  "level": 1,
+  "combat": true
+ },
+ {
+  "id": 9657,
+  "name": {
+   "esES": "¡Aquí!",
+   "es419": "¡Aquí estoy!",
+   "en": "Behind You!"
+  },
+  "icon": "icons/bdo/04_pc_skill/01_pc_skill/20_pjkd_skill/pjkd_skill_9668.webp",
+  "level": 57,
+  "combat": true
+ },
+ {
+  "id": 9627,
+  "name": {
+   "esES": "¡Arde en llamas!",
+   "es419": "¡Calcina!",
+   "en": "Ignite!"
+  },
+  "icon": "icons/bdo/04_pc_skill/01_pc_skill/20_pjkd_skill/pjkd_skill_9627.webp",
+  "level": 56,
+  "combat": true
+ },
+ {
+  "id": 9633,
+  "name": {
+   "esES": "¡Clávate al suelo!",
+   "es419": "¡Sé clavado!",
+   "en": "Impale Through!"
+  },
+  "icon": "icons/bdo/04_pc_skill/01_pc_skill/20_pjkd_skill/pjkd_skill_9633.webp",
+  "level": 58,
+  "combat": true
+ },
+ {
+  "id": 9632,
+  "name": {
+   "esES": "¡Clávate!",
+   "es419": "¡Clavado!",
+   "en": "Impale!"
+  },
+  "icon": "icons/bdo/04_pc_skill/01_pc_skill/20_pjkd_skill/pjkd_skill_9632.webp",
+  "level": 56,
+  "combat": true
+ },
+ {
+  "id": 9560,
+  "name": {
+   "esES": "¡Clávate!",
+   "es419": "¡Clavado!",
+   "en": "Impale"
+  },
+  "icon": "icons/bdo/04_pc_skill/01_pc_skill/20_pjkd_skill/pjkd_skill_9558.webp",
+  "level": 50,
+  "combat": true
+ },
+ {
+  "id": 9629,
+  "name": {
+   "esES": "¡Crece más!",
+   "es419": "¡Alárgate más!",
+   "en": "Extend Longer!"
+  },
+  "icon": "icons/bdo/04_pc_skill/01_pc_skill/20_pjkd_skill/pjkd_skill_9629.webp",
+  "level": 58,
+  "combat": true
+ },
+ {
+  "id": 9628,
+  "name": {
+   "esES": "¡Crece!",
+   "es419": "¡Alárgate!",
+   "en": "Extend!"
+  },
+  "icon": "icons/bdo/04_pc_skill/01_pc_skill/20_pjkd_skill/pjkd_skill_9628.webp",
+  "level": 56,
+  "combat": true
+ },
+ {
+  "id": 9552,
+  "name": {
+   "esES": "¡Crece!",
+   "es419": "¡Alárgate!",
+   "en": "Extend"
+  },
+  "icon": "icons/bdo/04_pc_skill/01_pc_skill/20_pjkd_skill/pjkd_skill_9550.webp",
+  "level": 50,
+  "combat": true
+ },
+ {
+  "id": 9573,
+  "name": {
+   "esES": "¡Es en vano!",
+   "es419": "¡Es en vano!",
+   "en": "Missed Me!"
+  },
+  "icon": "icons/bdo/04_pc_skill/01_pc_skill/20_pjkd_skill/pjkd_skill_9573.webp",
+  "level": 1,
+  "combat": true
+ },
+ {
+  "id": 9620,
+  "name": {
+   "esES": "¡Estírate más!",
+   "es419": "¡Extiéndete más!",
+   "en": "Stretch Further!"
+  },
+  "icon": "icons/bdo/04_pc_skill/01_pc_skill/20_pjkd_skill/pjkd_skill_9620.webp",
+  "level": 58,
+  "combat": true
+ },
+ {
+  "id": 9619,
+  "name": {
+   "esES": "¡Estírate!",
+   "es419": "¡Extiéndete!",
+   "en": "Stretch!"
+  },
+  "icon": "icons/bdo/04_pc_skill/01_pc_skill/20_pjkd_skill/pjkd_skill_9619.webp",
+  "level": 56,
+  "combat": true
+ },
+ {
+  "id": 9521,
+  "name": {
+   "esES": "¡Estírate!",
+   "es419": "¡Extiéndete!",
+   "en": "Stretch"
+  },
+  "icon": "icons/bdo/04_pc_skill/01_pc_skill/20_pjkd_skill/pjkd_skill_9519.webp",
+  "level": 54,
+  "combat": true
+ },
+ {
+  "id": 9635,
+  "name": {
+   "esES": "¡Esto no ha acabado aún!",
+   "es419": "¡Esto aún no termina!",
+   "en": "It Ain't Over Yet!"
+  },
+  "icon": "icons/bdo/04_pc_skill/01_pc_skill/20_pjkd_skill/pjkd_skill_9635.webp",
+  "level": 58,
+  "combat": true
+ },
+ {
+  "id": 9634,
+  "name": {
+   "esES": "¡Esto no ha acabado!",
+   "es419": "¡Esto no termina!",
+   "en": "It Ain't Over!"
+  },
+  "icon": "icons/bdo/04_pc_skill/01_pc_skill/20_pjkd_skill/pjkd_skill_9634.webp",
+  "level": 56,
+  "combat": true
+ },
+ {
+  "id": 9567,
+  "name": {
+   "esES": "¡Esto no ha acabado!",
+   "es419": "¡Esto no termina!",
+   "en": "It Ain't Over"
+  },
+  "icon": "icons/bdo/04_pc_skill/01_pc_skill/20_pjkd_skill/pjkd_skill_9565.webp",
+  "level": 44,
+  "combat": true
+ },
+ {
+  "id": 9549,
+  "name": {
+   "esES": "¡Explota todo!",
+   "es419": "¡Explótense!",
+   "en": "Explode 'em All!"
+  },
+  "icon": "icons/bdo/04_pc_skill/01_pc_skill/20_pjkd_skill/pjkd_skill_9549.webp",
+  "level": 59,
+  "combat": true
+ },
+ {
+  "id": 9548,
+  "name": {
+   "esES": "¡Explota!",
+   "es419": "¡Explótate!",
+   "en": "Explode"
+  },
+  "icon": "icons/bdo/04_pc_skill/01_pc_skill/20_pjkd_skill/pjkd_skill_9546.webp",
+  "level": 42,
+  "combat": true
+ },
+ {
+  "id": 9512,
+  "name": {
+   "esES": "¡Fuera de mi camino!",
+   "es419": "¡Quítate de aquí!",
+   "en": "Move Outta My Way!"
+  },
+  "icon": "icons/bdo/04_pc_skill/01_pc_skill/20_pjkd_skill/pjkd_skill_9512.webp",
+  "level": 56,
+  "combat": true
+ },
+ {
+  "id": 9621,
+  "name": {
+   "esES": "¡No huyas!",
+   "es419": "¡Quieto!",
+   "en": "Hold It!"
+  },
+  "icon": "icons/bdo/04_pc_skill/01_pc_skill/20_pjkd_skill/pjkd_skill_9621.webp",
+  "level": 56,
+  "combat": true
+ },
+ {
+  "id": 9535,
+  "name": {
+   "esES": "¡No huyas!",
+   "es419": "¡Quieto!",
+   "en": "Hold It"
+  },
+  "icon": "icons/bdo/04_pc_skill/01_pc_skill/20_pjkd_skill/pjkd_skill_9533.webp",
+  "level": 40,
+  "combat": true
+ },
+ {
+  "id": 9579,
+  "name": {
+   "esES": "¡Te agarré con fuerza!",
+   "es419": "¡Estás bien atrapado!",
+   "en": "Gotcha Now!"
+  },
+  "icon": "icons/bdo/04_pc_skill/01_pc_skill/20_pjkd_skill/pjkd_skill_9579.webp",
+  "level": 56,
+  "combat": true
+ },
+ {
+  "id": 9578,
+  "name": {
+   "esES": "¡Te agarré!",
+   "es419": "¡Te atrapé!",
+   "en": "Gotcha"
+  },
+  "icon": "icons/bdo/04_pc_skill/01_pc_skill/20_pjkd_skill/pjkd_skill_9577.webp",
+  "level": 42,
+  "combat": true
+ },
+ {
+  "id": 9626,
+  "name": {
+   "esES": "¡Te aplastaré sin piedad!",
+   "es419": "¡Te destruiré a golpes!",
+   "en": "Crush to Bits!"
+  },
+  "icon": "icons/bdo/04_pc_skill/01_pc_skill/20_pjkd_skill/pjkd_skill_9626.webp",
+  "level": 58,
+  "combat": true
+ },
+ {
+  "id": 9625,
+  "name": {
+   "esES": "¡Te aplastaré!",
+   "es419": "¡Te destruiré!",
+   "en": "Crush!"
+  },
+  "icon": "icons/bdo/04_pc_skill/01_pc_skill/20_pjkd_skill/pjkd_skill_9625.webp",
+  "level": 56,
+  "combat": true
+ },
+ {
+  "id": 9543,
+  "name": {
+   "esES": "¡Te aplastaré!",
+   "es419": "¡Te destruiré!",
+   "en": "Crush"
+  },
+  "icon": "icons/bdo/04_pc_skill/01_pc_skill/20_pjkd_skill/pjkd_skill_9541.webp",
+  "level": 52,
+  "combat": true
+ },
+ {
+  "id": 9656,
+  "name": {
+   "esES": "¡Te atravesaré!",
+   "es419": "¡Te atravesaré!",
+   "en": "Right Through You!"
+  },
+  "icon": "icons/bdo/04_pc_skill/01_pc_skill/20_pjkd_skill/pjkd_skill_9666.webp",
+  "level": 56,
+  "combat": true
+ },
+ {
+  "id": 9631,
+  "name": {
+   "esES": "¡Te calcinaré por completo!",
+   "es419": "¡Incineraré a todos!",
+   "en": "Scorch It All!"
+  },
+  "icon": "icons/bdo/04_pc_skill/01_pc_skill/20_pjkd_skill/pjkd_skill_9663.webp",
+  "level": 59,
+  "combat": true
+ },
+ {
+  "id": 9630,
+  "name": {
+   "esES": "¡Te calcinaré!",
+   "es419": "¡Incineraré!",
+   "en": "Scorch!"
+  },
+  "icon": "icons/bdo/04_pc_skill/01_pc_skill/20_pjkd_skill/pjkd_skill_9630.webp",
+  "level": 56,
+  "combat": true
+ },
+ {
+  "id": 9556,
+  "name": {
+   "esES": "¡Te calcinaré!",
+   "es419": "¡Incineraré!",
+   "en": "Scorch"
+  },
+  "icon": "icons/bdo/04_pc_skill/01_pc_skill/20_pjkd_skill/pjkd_skill_9554.webp",
+  "level": 50,
+  "combat": true
+ },
+ {
+  "id": 9531,
+  "name": {
+   "esES": "¡Te haré papilla!",
+   "es419": "¡Te aplastaré todo!",
+   "en": "Smash 'em Flat!"
+  },
+  "icon": "icons/bdo/04_pc_skill/01_pc_skill/20_pjkd_skill/pjkd_skill_9531.webp",
+  "level": 58,
+  "combat": true
+ },
+ {
+  "id": 9530,
+  "name": {
+   "esES": "¡Te machacaré!",
+   "es419": "¡Te aplastaré!",
+   "en": "Smash"
+  },
+  "icon": "icons/bdo/04_pc_skill/01_pc_skill/20_pjkd_skill/pjkd_skill_9528.webp",
+  "level": 52,
+  "combat": true
+ },
+ {
+  "id": 9517,
+  "name": {
+   "esES": "¡Te moleré a golpes!",
+   "es419": "¡Te haré pedacitos!",
+   "en": "To Shreds You Say?!"
+  },
+  "icon": "icons/bdo/04_pc_skill/01_pc_skill/20_pjkd_skill/pjkd_skill_9517.webp",
+  "level": 56,
+  "combat": true
+ },
+ {
+  "id": 9516,
+  "name": {
+   "esES": "¡Te moleré!",
+   "es419": "¡Te haré pedazos!",
+   "en": "To Shreds"
+  },
+  "icon": "icons/bdo/04_pc_skill/01_pc_skill/20_pjkd_skill/pjkd_skill_9515.webp",
+  "level": 35,
+  "combat": true
+ },
+ {
+  "id": 9624,
+  "name": {
+   "esES": "¡Te perforaré de lleno!",
+   "es419": "¡Sé Atravesado!",
+   "en": "Pierce Through!"
+  },
+  "icon": "icons/bdo/04_pc_skill/01_pc_skill/20_pjkd_skill/pjkd_skill_9624.webp",
+  "level": 58,
+  "combat": true
+ },
+ {
+  "id": 9623,
+  "name": {
+   "esES": "¡Te perforaré!",
+   "es419": "¡Atravesado!",
+   "en": "Pierce!"
+  },
+  "icon": "icons/bdo/04_pc_skill/01_pc_skill/20_pjkd_skill/pjkd_skill_9623.webp",
+  "level": 56,
+  "combat": true
+ },
+ {
+  "id": 9539,
+  "name": {
+   "esES": "¡Te perforaré!",
+   "es419": "¡Atravesado!",
+   "en": "Pierce"
+  },
+  "icon": "icons/bdo/04_pc_skill/01_pc_skill/20_pjkd_skill/pjkd_skill_9537.webp",
+  "level": 50,
+  "combat": true
+ },
+ {
+  "id": 9532,
+  "name": {
+   "esES": "¡Te reduciré a cenizas!",
+   "es419": "¡Carbonízate!",
+   "en": "Burn to Ash!"
+  },
+  "icon": "icons/bdo/04_pc_skill/01_pc_skill/20_pjkd_skill/pjkd_skill_9532.webp",
+  "level": 24,
+  "combat": true
+ },
+ {
+  "id": 9574,
+  "name": {
+   "esES": "¡Todo es en vano!",
+   "es419": "¡Todo es en vano!",
+   "en": "Missed Me, Again!"
+  },
+  "icon": "icons/bdo/04_pc_skill/01_pc_skill/20_pjkd_skill/pjkd_skill_9574.webp",
+  "level": 9,
+  "combat": true
+ },
+ {
+  "id": 9655,
+  "name": {
+   "esES": "¡Toma golpe!",
+   "es419": "¡Aguanta esta!",
+   "en": "Taste This!"
+  },
+  "icon": "icons/bdo/04_pc_skill/01_pc_skill/20_pjkd_skill/pjkd_skill_9667.webp",
+  "level": 56,
+  "combat": true
+ },
+ {
+  "id": 9571,
+  "name": {
+   "esES": "¡Una vez más!",
+   "es419": "¡Otra vez!",
+   "en": "Again"
+  },
+  "icon": "icons/bdo/04_pc_skill/01_pc_skill/20_pjkd_skill/pjkd_skill_9569.webp",
+  "level": 50,
+  "combat": true
+ },
+ {
+  "id": 9572,
+  "name": {
+   "esES": "¡Y otra!",
+   "es419": "¡Otra y Otra vez!",
+   "en": "Once Again!"
+  },
+  "icon": "icons/bdo/04_pc_skill/01_pc_skill/20_pjkd_skill/pjkd_skill_9572.webp",
+  "level": 56,
+  "combat": true
+ },
+ {
+  "id": 3459,
+  "name": {
+   "esES": "Absorción de furia",
+   "es419": "Absorción de Furia",
+   "en": "Rage Absorption"
+  },
+  "icon": "icons/bdo/04_pc_skill/01_pc_skill/00_common/common_skill_0090.webp",
+  "level": 35,
+  "combat": true
+ },
+ {
+  "id": 89,
+  "name": {
+   "esES": "Absorción de furia (latente)",
+   "es419": "Absorción de Furia (Innato)",
+   "en": "Rage Absorption (Innate)"
+  },
+  "icon": "icons/bdo/04_pc_skill/01_pc_skill/00_common/common_skill_0090.webp",
+  "level": 35,
+  "combat": true
+ },
+ {
+  "id": 9638,
+  "name": {
+   "esES": "Aguja del pesar",
+   "es419": "Estacas de Tormento",
+   "en": "Tormenting Spike"
+  },
+  "icon": "icons/bdo/04_pc_skill/01_pc_skill/20_pjkd_skill/pjkd_skill_9636.webp",
+  "level": 60,
+  "combat": true
+ },
+ {
+  "id": 9658,
+  "name": {
+   "esES": "Al cielo",
+   "es419": "Elevación Celeste",
+   "en": "Soaring Nimbus"
+  },
+  "icon": "icons/bdo/04_pc_skill/01_pc_skill/20_pjkd_skill/pjkd_skill_9669.webp",
+  "level": 57,
+  "combat": true
+ },
+ {
+  "id": 9618,
+  "name": {
+   "esES": "Ascendida: Botija mágica de Tusita",
+   "es419": "Ascensión : Calabaza del Palacio Tushita",
+   "en": "Unleashed: Tusita's Gourd"
+  },
+  "icon": "icons/bdo/04_pc_skill/01_pc_skill/20_pjkd_skill/pjkd_skill_9618.webp",
+  "level": 56,
+  "combat": true
+ },
+ {
+  "id": 9564,
+  "name": {
+   "esES": "Botija mágica de Tusita",
+   "es419": "Calabaza del Palacio Tushita",
+   "en": "Tusita's Gourd"
+  },
+  "icon": "icons/bdo/04_pc_skill/01_pc_skill/20_pjkd_skill/pjkd_skill_9562.webp",
+  "level": 45,
+  "combat": true
+ },
+ {
+  "id": 9659,
+  "name": {
+   "esES": "Buda victorioso: imperfecto",
+   "es419": "Buda Victorioso: Imperfección",
+   "en": "Fighting Buddha: Incomplete"
+  },
+  "icon": "icons/bdo/04_pc_skill/01_pc_skill/20_pjkd_skill/pjkd_skill_9671.webp",
+  "level": 58,
+  "combat": true
+ },
+ {
+  "id": 9602,
+  "name": {
+   "esES": "Calma serena",
+   "es419": "Tranquilidad Perfecta",
+   "en": "Monkey See, Monkey Do"
+  },
+  "icon": "icons/bdo/04_pc_skill/01_pc_skill/20_pjkd_skill/pjkd_skill_9602.webp",
+  "level": 50,
+  "combat": true
+ },
+ {
+  "id": 2076,
+  "name": {
+   "esES": "Cazador hábil",
+   "es419": "Cazador Experto",
+   "en": "Skilled Hunter"
+  },
+  "icon": "icons/bdo/04_pc_skill/01_pc_skill/06_pkm_skill/pkm_skill_2072.webp",
+  "level": 60,
+  "combat": true
+ },
+ {
+  "id": 9644,
+  "name": {
+   "esES": "Dedo de Buda",
+   "es419": "Indicación de Buda",
+   "en": "Buddha's Finger"
+  },
+  "icon": "icons/bdo/04_pc_skill/01_pc_skill/20_pjkd_skill/pjkd_skill_9661.webp",
+  "level": 60,
+  "combat": true
+ },
+ {
+  "id": 9510,
+  "name": {
+   "esES": "Definitiva: Entrenamiento del jingubang",
+   "es419": "Suprema : Práctica del Báculo Sagrado",
+   "en": "Absolute: Power Pole Mastery"
+  },
+  "icon": "icons/bdo/04_pc_skill/01_pc_skill/20_pjkd_skill/pjkd_skill_9510.webp",
+  "level": 56,
+  "combat": true
+ },
+ {
+  "id": 9641,
+  "name": {
+   "esES": "Desorden",
+   "es419": "Disturbio",
+   "en": "Upheaval"
+  },
+  "icon": "icons/bdo/04_pc_skill/01_pc_skill/20_pjkd_skill/pjkd_skill_9665.webp",
+  "level": 60,
+  "combat": true
+ },
+ {
+  "id": 9647,
+  "name": {
+   "esES": "Eje celestial",
+   "es419": "Engravecimiento",
+   "en": "Heaven's Pivot"
+  },
+  "icon": "icons/bdo/04_pc_skill/01_pc_skill/20_pjkd_skill/pjkd_skill_9645.webp",
+  "level": 60,
+  "combat": true
+ },
+ {
+  "id": 9509,
+  "name": {
+   "esES": "Entrenamiento del jingubang",
+   "es419": "Práctica del Báculo Sagrado",
+   "en": "Power Pole Mastery"
+  },
+  "icon": "icons/bdo/04_pc_skill/01_pc_skill/20_pjkd_skill/pjkd_skill_9500.webp",
+  "level": 54,
+  "combat": true
+ },
+ {
+  "id": 6351,
+  "name": {
+   "esES": "Evasión",
+   "es419": "Evasión",
+   "en": "Evasion"
+  },
+  "icon": "icons/bdo/04_pc_skill/01_pc_skill/20_pjkd_skill/pjkd_skill_6351.webp",
+  "level": 1,
+  "combat": true
+ },
+ {
+  "id": 9599,
+  "name": {
+   "esES": "Fruto de la inmortalidad",
+   "es419": "Durazno de la Inmortalidad",
+   "en": "Peaches of Immortality"
+  },
+  "icon": "icons/bdo/04_pc_skill/01_pc_skill/20_pjkd_skill/pjkd_skill_9600.webp",
+  "level": 60,
+  "combat": true
+ },
+ {
+  "id": 4856,
+  "name": {
+   "esES": "Gran poder",
+   "es419": "Gran Poder",
+   "en": "Unyielding Might"
+  },
+  "icon": "icons/bdo/04_pc_skill/01_pc_skill/00_common/common_skill_18705.webp",
+  "level": 62,
+  "combat": true
+ },
+ {
+  "id": 9604,
+  "name": {
+   "esES": "Legado de Huaguo",
+   "es419": "Energía del Monte Huaguo",
+   "en": "Legacy of Huaguo"
+  },
+  "icon": "icons/bdo/04_pc_skill/01_pc_skill/20_pjkd_skill/pjkd_skill_9604.webp",
+  "level": 20,
+  "combat": true
+ },
+ {
+  "id": 1707,
+  "name": {
+   "esES": "Maestría infinita",
+   "es419": "Maestría Infinita",
+   "en": "Infinite Mastery"
+  },
+  "icon": "icons/bdo/04_pc_skill/01_pc_skill/00_common/common_skill_1702.webp",
+  "level": 55,
+  "combat": true
+ },
+ {
+  "id": 9600,
+  "name": {
+   "esES": "Mirada áurea: imperfecta",
+   "es419": "Ojo de la verdad: Imperfección",
+   "en": "Golden Gaze: Incomplete"
+  },
+  "icon": "icons/bdo/04_pc_skill/01_pc_skill/20_pjkd_skill/pjkd_skill_9580.webp",
+  "level": 20,
+  "combat": true
+ },
+ {
+  "id": 9576,
+  "name": {
+   "esES": "Movimiento: Nube voladora",
+   "es419": "Flujo: Nube Voladora",
+   "en": "Flow: Flying Nimbus"
+  },
+  "icon": "icons/bdo/04_pc_skill/01_pc_skill/20_pjkd_skill/pjkd_skill_9576.webp",
+  "level": 20,
+  "combat": true
+ },
+ {
+  "id": 9601,
+  "name": {
+   "esES": "Néctar celestial",
+   "es419": "Agua Sagrada",
+   "en": "Celestial Nectar"
+  },
+  "icon": "icons/bdo/04_pc_skill/01_pc_skill/20_pjkd_skill/pjkd_skill_9601.webp",
+  "level": 56,
+  "combat": true
+ },
+ {
+  "id": 9575,
+  "name": {
+   "esES": "Nube voladora",
+   "es419": "Nube Voladora",
+   "en": "Flying Nimbus"
+  },
+  "icon": "icons/bdo/04_pc_skill/01_pc_skill/20_pjkd_skill/pjkd_skill_9575.webp",
+  "level": 5,
+  "combat": true
+ },
+ {
+  "id": 92,
+  "name": {
+   "esES": "Retirada oscura",
+   "es419": "Escape de Emergencia",
+   "en": "Emergency Escape"
+  },
+  "icon": "icons/bdo/04_pc_skill/01_pc_skill/00_common/common_skill_0092.webp",
+  "level": 1,
+  "combat": true
+ },
+ {
+  "id": 9660,
+  "name": {
+   "esES": "Sorbo: Botija mágica de Tusita",
+   "es419": "Absorción: Calabaza del Palacio Tushita",
+   "en": "Drain: Tusita's Gourd"
+  },
+  "icon": "icons/bdo/04_pc_skill/01_pc_skill/20_pjkd_skill/pjkd_skill_9670.webp",
+  "level": 58,
+  "combat": true
+ },
+ {
+  "id": 91,
+  "name": {
+   "esES": "Transfuria",
+   "es419": "Transferencia de Furia",
+   "en": "Rage Transfer"
+  },
+  "icon": "icons/bdo/04_pc_skill/01_pc_skill/00_common/common_skill_0091.webp",
+  "level": 35,
+  "combat": true
+ }
+]

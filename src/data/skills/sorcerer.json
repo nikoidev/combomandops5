@@ -1,0 +1,1355 @@
+[
+ {
+  "id": 1358,
+  "name": {
+   "esES": "Absorción de espíritu",
+   "es419": "Absorción de Espíritu",
+   "en": "Spirit Absorption"
+  },
+  "icon": "icons/bdo/04_pc_skill/01_pc_skill/02_phw_skill/phw_skill_1357.webp",
+  "level": 49,
+  "combat": true
+ },
+ {
+  "id": 171,
+  "name": {
+   "esES": "Aguijón de medianoche",
+   "es419": "Embestida de la Noche",
+   "en": "Midnight Stinger"
+  },
+  "icon": "icons/bdo/04_pc_skill/01_pc_skill/02_phw_skill/phw_skill_0171.webp",
+  "level": 10,
+  "combat": true
+ },
+ {
+  "id": 1418,
+  "name": {
+   "esES": "Ala de cuervo",
+   "es419": "Embestida de Cuervo",
+   "en": "Rushing Crow"
+  },
+  "icon": "icons/bdo/04_pc_skill/01_pc_skill/02_phw_skill/phw_skill_1417.webp",
+  "level": 32,
+  "combat": true
+ },
+ {
+  "id": 1791,
+  "name": {
+   "esES": "Alas de cuervo",
+   "es419": "Alas del Cuervo",
+   "en": "Wings of the Crow"
+  },
+  "icon": "icons/bdo/04_pc_skill/01_pc_skill/02_phw_skill/phw_skill_1791.webp",
+  "level": 56,
+  "combat": true
+ },
+ {
+  "id": 5706,
+  "name": {
+   "esES": "Alimento de cuervos",
+   "es419": "Comida de Cuervo",
+   "en": "Crow Food"
+  },
+  "icon": "icons/bdo/04_pc_skill/01_pc_skill/02_phw_skill/phw_skill_0170.webp",
+  "level": 30,
+  "combat": true
+ },
+ {
+  "id": 348,
+  "name": {
+   "esES": "Cataclismo sangriento",
+   "es419": "Calamidad Sangrienta",
+   "en": "Bloody Calamity"
+  },
+  "icon": "icons/bdo/04_pc_skill/01_pc_skill/02_phw_skill/phw_skill_0348.webp",
+  "level": 35,
+  "combat": true
+ },
+ {
+  "id": 1788,
+  "name": {
+   "esES": "Caza de muertos",
+   "es419": "Caza Muertos",
+   "en": "Dead Hunt"
+  },
+  "icon": "icons/bdo/04_pc_skill/01_pc_skill/02_phw_skill/phw_skill_1785.webp",
+  "level": 59,
+  "combat": true
+ },
+ {
+  "id": 4592,
+  "name": {
+   "esES": "Cénit: Aguijón de medianoche",
+   "es419": "S : Embestida de la Noche",
+   "en": "Prime: Midnight Stinger"
+  },
+  "icon": "icons/bdo/04_pc_skill/01_pc_skill/02_phw_skill/phw_skill_4592.webp",
+  "level": 56,
+  "combat": true
+ },
+ {
+  "id": 4595,
+  "name": {
+   "esES": "Cénit: Ala de cuervo",
+   "es419": "S : Embestida de Cuervo",
+   "en": "Prime: Rushing Crow"
+  },
+  "icon": "icons/bdo/04_pc_skill/01_pc_skill/02_phw_skill/phw_skill_4595.webp",
+  "level": 57,
+  "combat": true
+ },
+ {
+  "id": 4593,
+  "name": {
+   "esES": "Cénit: Cataclismo sangriento",
+   "es419": "S : Calamidad Sangrienta",
+   "en": "Prime: Bloody Calamity"
+  },
+  "icon": "icons/bdo/04_pc_skill/01_pc_skill/02_phw_skill/phw_skill_4593.webp",
+  "level": 60,
+  "combat": true
+ },
+ {
+  "id": 4568,
+  "name": {
+   "esES": "Cénit: Erupción sombría",
+   "es419": "S : Erupción de Sombra",
+   "en": "Prime: Shadow Eruption"
+  },
+  "icon": "icons/bdo/04_pc_skill/01_pc_skill/02_phw_skill/phw_skill_4565.webp",
+  "level": 59,
+  "combat": true
+ },
+ {
+  "id": 4591,
+  "name": {
+   "esES": "Cénit: Esbirro abismal",
+   "es419": "S : Secuaz del Abismo",
+   "en": "Prime: Agent of Abyss"
+  },
+  "icon": "icons/bdo/04_pc_skill/01_pc_skill/02_phw_skill/phw_skill_4591.webp",
+  "level": 56,
+  "combat": true
+ },
+ {
+  "id": 4585,
+  "name": {
+   "esES": "Cénit: Estallido de cuervo",
+   "es419": "S : Fuego de Cuervo",
+   "en": "Prime: Crow Flare"
+  },
+  "icon": "icons/bdo/04_pc_skill/01_pc_skill/02_phw_skill/phw_skill_4583.webp",
+  "level": 60,
+  "combat": true
+ },
+ {
+  "id": 4576,
+  "name": {
+   "esES": "Cénit: Garras de oscuridad",
+   "es419": "S : Garras de la Oscuridad",
+   "en": "Prime: Claws of Darkness"
+  },
+  "icon": "icons/bdo/04_pc_skill/01_pc_skill/02_phw_skill/phw_skill_4573.webp",
+  "level": 59,
+  "combat": true
+ },
+ {
+  "id": 4579,
+  "name": {
+   "esES": "Cénit: Llama abismal",
+   "es419": "S : Fuego Abismal",
+   "en": "Prime: Abyssal Flame"
+  },
+  "icon": "icons/bdo/04_pc_skill/01_pc_skill/02_phw_skill/phw_skill_4577.webp",
+  "level": 60,
+  "combat": true
+ },
+ {
+  "id": 4594,
+  "name": {
+   "esES": "Cénit: Llama oscura",
+   "es419": "S : Flama Oscura",
+   "en": "Prime: Dark Flame"
+  },
+  "icon": "icons/bdo/04_pc_skill/01_pc_skill/02_phw_skill/phw_skill_4594.webp",
+  "level": 59,
+  "combat": true
+ },
+ {
+  "id": 4590,
+  "name": {
+   "esES": "Cénit: Manipulación abismal",
+   "es419": "S : Agitación Negra",
+   "en": "Prime: Dark Manipulation"
+  },
+  "icon": "icons/bdo/04_pc_skill/01_pc_skill/02_phw_skill/phw_skill_4586.webp",
+  "level": 60,
+  "combat": true
+ },
+ {
+  "id": 4582,
+  "name": {
+   "esES": "Cénit: Onda negra",
+   "es419": "S : Onda Oscura",
+   "en": "Prime: Black Wave"
+  },
+  "icon": "icons/bdo/04_pc_skill/01_pc_skill/02_phw_skill/phw_skill_4580.webp",
+  "level": 58,
+  "combat": true
+ },
+ {
+  "id": 4572,
+  "name": {
+   "esES": "Cénit: Pesadilla perturbadora",
+   "es419": "S : Sueño de Muerte",
+   "en": "Prime: Dream of Doom"
+  },
+  "icon": "icons/bdo/04_pc_skill/01_pc_skill/02_phw_skill/phw_skill_4569.webp",
+  "level": 59,
+  "combat": true
+ },
+ {
+  "id": 200,
+  "name": {
+   "esES": "Cénit: Pulso de oscuridad",
+   "es419": "S: Oscuridad Liberada",
+   "en": "Prime: Darkness Released"
+  },
+  "icon": "icons/bdo/04_pc_skill/01_pc_skill/02_phw_skill/phw_skill_0200_re.webp",
+  "level": 56,
+  "combat": true
+ },
+ {
+  "id": 4597,
+  "name": {
+   "esES": "Cénit: Quebrantamiento",
+   "es419": "S : Infracción",
+   "en": "Prime: Violation"
+  },
+  "icon": "icons/bdo/04_pc_skill/01_pc_skill/02_phw_skill/phw_skill_4597.webp",
+  "level": 56,
+  "combat": true
+ },
+ {
+  "id": 4596,
+  "name": {
+   "esES": "Cénit: Tajo esquivo",
+   "es419": "S : Captura de Sombra",
+   "en": "Prime: Turn-back Slash"
+  },
+  "icon": "icons/bdo/04_pc_skill/01_pc_skill/02_phw_skill/phw_skill_4596.webp",
+  "level": 58,
+  "combat": true
+ },
+ {
+  "id": 4564,
+  "name": {
+   "esES": "Cénit: Vanguardia abismal",
+   "es419": "S : Advenimiento del Abismo",
+   "en": "Prime: Abyssal Vanguard"
+  },
+  "icon": "icons/bdo/04_pc_skill/01_pc_skill/02_phw_skill/phw_skill_4564.webp",
+  "level": 56,
+  "combat": true
+ },
+ {
+  "id": 1789,
+  "name": {
+   "esES": "Cosecha de almas",
+   "es419": "Cosecha de Alma",
+   "en": "Soul Harvest"
+  },
+  "icon": "icons/bdo/04_pc_skill/01_pc_skill/02_phw_skill/phw_skill_1789.webp",
+  "level": 56,
+  "combat": true
+ },
+ {
+  "id": 1201,
+  "name": {
+   "esES": "Cuervo nocturno",
+   "es419": "Cuervo Nocturno",
+   "en": "Night Crow"
+  },
+  "icon": "icons/bdo/04_pc_skill/01_pc_skill/02_phw_skill/phw_skill_1055.webp",
+  "level": 24,
+  "combat": true
+ },
+ {
+  "id": 582,
+  "name": {
+   "esES": "Cuervo rabioso",
+   "es419": "Golpe de Cuervo",
+   "en": "Storming Crow"
+  },
+  "icon": "icons/bdo/04_pc_skill/01_pc_skill/02_phw_skill/phw_skill_1060.webp",
+  "level": 52,
+  "combat": true
+ },
+ {
+  "id": 2885,
+  "name": {
+   "esES": "Definitiva: Aguijón de medianoche",
+   "es419": "Suprema : Embestida de la Noche",
+   "en": "Absolute: Midnight Stinger"
+  },
+  "icon": "icons/bdo/04_pc_skill/01_pc_skill/02_phw_skill/phw_skill_2885.webp",
+  "level": 56,
+  "combat": true
+ },
+ {
+  "id": 2887,
+  "name": {
+   "esES": "Definitiva: Ala de cuervo",
+   "es419": "Suprema : Embestida de Cuervo",
+   "en": "Absolute: Rushing Crow"
+  },
+  "icon": "icons/bdo/04_pc_skill/01_pc_skill/02_phw_skill/phw_skill_2887.webp",
+  "level": 57,
+  "combat": true
+ },
+ {
+  "id": 2886,
+  "name": {
+   "esES": "Definitiva: Cataclismo sangriento",
+   "es419": "Suprema : Calamidad Sangrienta",
+   "en": "Absolute: Bloody Calamity"
+  },
+  "icon": "icons/bdo/04_pc_skill/01_pc_skill/02_phw_skill/phw_skill_2886.webp",
+  "level": 60,
+  "combat": true
+ },
+ {
+  "id": 2878,
+  "name": {
+   "esES": "Definitiva: Desgarro de oscuridad",
+   "es419": "Suprema : Corte Oscuro",
+   "en": "Absolute: Dark Split"
+  },
+  "icon": "icons/bdo/04_pc_skill/01_pc_skill/02_phw_skill/phw_skill_2878.webp",
+  "level": 56,
+  "combat": true
+ },
+ {
+  "id": 2874,
+  "name": {
+   "esES": "Definitiva: Energía siniestra",
+   "es419": "Suprema : Energía Siniestra",
+   "en": "Absolute: Sinister Energy"
+  },
+  "icon": "icons/bdo/04_pc_skill/01_pc_skill/02_phw_skill/phw_skill_2874.webp",
+  "level": 56,
+  "combat": true
+ },
+ {
+  "id": 2871,
+  "name": {
+   "esES": "Definitiva: Erupción sombría",
+   "es419": "Suprema : Erupción de Sombra",
+   "en": "Absolute: Shadow Eruption"
+  },
+  "icon": "icons/bdo/04_pc_skill/01_pc_skill/02_phw_skill/phw_skill_2871.webp",
+  "level": 57,
+  "combat": true
+ },
+ {
+  "id": 2882,
+  "name": {
+   "esES": "Definitiva: Estallido de cuervo",
+   "es419": "Suprema : Fuego de Cuervo",
+   "en": "Absolute: Crow Flare"
+  },
+  "icon": "icons/bdo/04_pc_skill/01_pc_skill/02_phw_skill/phw_skill_2882.webp",
+  "level": 56,
+  "combat": true
+ },
+ {
+  "id": 2876,
+  "name": {
+   "esES": "Definitiva: Garras de oscuridad",
+   "es419": "Suprema : Garras de la Oscuridad",
+   "en": "Absolute: Claws of Darkness"
+  },
+  "icon": "icons/bdo/04_pc_skill/01_pc_skill/02_phw_skill/phw_skill_2876.webp",
+  "level": 56,
+  "combat": true
+ },
+ {
+  "id": 2875,
+  "name": {
+   "esES": "Definitiva: Llama abismal",
+   "es419": "Suprema : Fuego Abismal",
+   "en": "Absolute: Abyssal Flame"
+  },
+  "icon": "icons/bdo/04_pc_skill/01_pc_skill/02_phw_skill/phw_skill_2875.webp",
+  "level": 56,
+  "combat": true
+ },
+ {
+  "id": 2877,
+  "name": {
+   "esES": "Definitiva: Llama oscura",
+   "es419": "Suprema : Flama Oscura",
+   "en": "Absolute: Dark Flame"
+  },
+  "icon": "icons/bdo/04_pc_skill/01_pc_skill/02_phw_skill/phw_skill_2877.webp",
+  "level": 59,
+  "combat": true
+ },
+ {
+  "id": 2872,
+  "name": {
+   "esES": "Definitiva: Marca sombría",
+   "es419": "Suprema : Marca de la Sombra",
+   "en": "Absolute: Mark of the Shadow"
+  },
+  "icon": "icons/bdo/04_pc_skill/01_pc_skill/02_phw_skill/phw_skill_2872.webp",
+  "level": 57,
+  "combat": true
+ },
+ {
+  "id": 2869,
+  "name": {
+   "esES": "Definitiva: Onda negra",
+   "es419": "Suprema : Onda Oscura",
+   "en": "Absolute: Black Wave"
+  },
+  "icon": "icons/bdo/04_pc_skill/01_pc_skill/02_phw_skill/phw_skill_2869.webp",
+  "level": 59,
+  "combat": true
+ },
+ {
+  "id": 2888,
+  "name": {
+   "esES": "Definitiva: Oscuridad absoluta",
+   "es419": "Suprema : Oscuridad Absoluta",
+   "en": "Absolute: Absolute Darkness"
+  },
+  "icon": "icons/bdo/04_pc_skill/01_pc_skill/02_phw_skill/phw_skill_2888.webp",
+  "level": 57,
+  "combat": true
+ },
+ {
+  "id": 2881,
+  "name": {
+   "esES": "Definitiva: Patada sombría",
+   "es419": "Suprema : Patada de la Sombra",
+   "en": "Absolute: Shadow Kick"
+  },
+  "icon": "icons/bdo/04_pc_skill/01_pc_skill/02_phw_skill/phw_skill_2881.webp",
+  "level": 57,
+  "combat": true
+ },
+ {
+  "id": 2873,
+  "name": {
+   "esES": "Definitiva: Pesadilla perturbadora",
+   "es419": "Suprema : Sueño de Muerte",
+   "en": "Absolute: Dream of Doom"
+  },
+  "icon": "icons/bdo/04_pc_skill/01_pc_skill/02_phw_skill/phw_skill_2873.webp",
+  "level": 59,
+  "combat": true
+ },
+ {
+  "id": 2883,
+  "name": {
+   "esES": "Definitiva: Picotazo",
+   "es419": "Suprema : Patada de Pico",
+   "en": "Absolute: Beak Kick"
+  },
+  "icon": "icons/bdo/04_pc_skill/01_pc_skill/02_phw_skill/phw_skill_2883.webp",
+  "level": 57,
+  "combat": true
+ },
+ {
+  "id": 2880,
+  "name": {
+   "esES": "Definitiva: Pulso de oscuridad",
+   "es419": "Suprema : Oscuridad Liberada",
+   "en": "Absolute: Darkness Released"
+  },
+  "icon": "icons/bdo/04_pc_skill/01_pc_skill/02_phw_skill/phw_skill_2880.webp",
+  "level": 57,
+  "combat": true
+ },
+ {
+  "id": 2870,
+  "name": {
+   "esES": "Definitiva: Signos de agonía",
+   "es419": "Suprema : Signos de Agonía",
+   "en": "Absolute: Signs of Agony"
+  },
+  "icon": "icons/bdo/04_pc_skill/01_pc_skill/02_phw_skill/phw_skill_2870.webp",
+  "level": 56,
+  "combat": true
+ },
+ {
+  "id": 120,
+  "name": {
+   "esES": "Desgarro de oscuridad",
+   "es419": "Corte Oscuro",
+   "en": "Dark Split"
+  },
+  "icon": "icons/bdo/04_pc_skill/01_pc_skill/02_phw_skill/phw_skill_1059.webp",
+  "level": 54,
+  "combat": true
+ },
+ {
+  "id": 581,
+  "name": {
+   "esES": "Energía siniestra",
+   "es419": "Energía Siniestra",
+   "en": "Sinister Energy"
+  },
+  "icon": "icons/bdo/04_pc_skill/01_pc_skill/02_phw_skill/phw_skill_1053.webp",
+  "level": 53,
+  "combat": true
+ },
+ {
+  "id": 1779,
+  "name": {
+   "esES": "Entrenamiento de guadaña",
+   "es419": "Maestría de Guadaña",
+   "en": "Scythe Training"
+  },
+  "icon": "icons/bdo/04_pc_skill/01_pc_skill/02_phw_skill/phw_skill_1770.webp",
+  "level": 60,
+  "combat": true
+ },
+ {
+  "id": 1190,
+  "name": {
+   "esES": "Erupción sombría",
+   "es419": "Erupción de Sombra",
+   "en": "Shadow Eruption"
+  },
+  "icon": "icons/bdo/04_pc_skill/01_pc_skill/02_phw_skill/phw_skill_1050.webp",
+  "level": 40,
+  "combat": true
+ },
+ {
+  "id": 1412,
+  "name": {
+   "esES": "Espiral de oscuridad",
+   "es419": "Oscuridad Turbulenta",
+   "en": "Swirling Darkness"
+  },
+  "icon": "icons/bdo/04_pc_skill/01_pc_skill/02_phw_skill/phw_skill_1798_re.webp",
+  "level": 58,
+  "combat": true
+ },
+ {
+  "id": 5705,
+  "name": {
+   "esES": "Esquirlas de la oscuridad",
+   "es419": "Fragmento de la Oscuridad",
+   "en": "Shards of Darkness"
+  },
+  "icon": "icons/bdo/04_pc_skill/01_pc_skill/02_phw_skill/phw_skill_1048.webp",
+  "level": 58,
+  "combat": true
+ },
+ {
+  "id": 1413,
+  "name": {
+   "esES": "Esquiva agresiva",
+   "es419": "Flujo de Oscuridad",
+   "en": "Flow of Darkness"
+  },
+  "icon": "icons/bdo/04_pc_skill/01_pc_skill/02_phw_skill/phw_skill_1411.webp",
+  "level": 26,
+  "combat": true
+ },
+ {
+  "id": 166,
+  "name": {
+   "esES": "Estallido de cuervo",
+   "es419": "Fuego de Cuervo",
+   "en": "Crow Flare"
+  },
+  "icon": "icons/bdo/04_pc_skill/01_pc_skill/02_phw_skill/phw_skill_0164.webp",
+  "level": 35,
+  "combat": true
+ },
+ {
+  "id": 1046,
+  "name": {
+   "esES": "Evasión",
+   "es419": "Evasión",
+   "en": "Evasion"
+  },
+  "icon": "icons/bdo/04_pc_skill/01_pc_skill/01_phm_skill/phm_skill_1017.webp",
+  "level": 1,
+  "combat": true
+ },
+ {
+  "id": 1356,
+  "name": {
+   "esES": "Explosión de esquirlas",
+   "es419": "Explosión de Fragmentos",
+   "en": "Shard Explosion"
+  },
+  "icon": "icons/bdo/04_pc_skill/01_pc_skill/02_phw_skill/phw_skill_1356.webp",
+  "level": 16,
+  "combat": true
+ },
+ {
+  "id": 379,
+  "name": {
+   "esES": "Garra umbría",
+   "es419": "Rastrillo de la Oscuridad",
+   "en": "Dark Tendrils"
+  },
+  "icon": "icons/bdo/04_pc_skill/01_pc_skill/02_phw_skill/phw_skill_379.webp",
+  "level": 60,
+  "combat": true
+ },
+ {
+  "id": 583,
+  "name": {
+   "esES": "Garras de oscuridad",
+   "es419": "Garras de la Oscuridad",
+   "en": "Claws of Darkness"
+  },
+  "icon": "icons/bdo/04_pc_skill/01_pc_skill/02_phw_skill/phw_skill_1056.webp",
+  "level": 55,
+  "combat": true
+ },
+ {
+  "id": 2814,
+  "name": {
+   "esES": "Golpe de abismo",
+   "es419": "Oscuridad Abismal",
+   "en": "Abyssal Blow"
+  },
+  "icon": "icons/bdo/04_pc_skill/01_pc_skill/02_phw_skill/phw_skill_2814.webp",
+  "level": 57,
+  "combat": true
+ },
+ {
+  "id": 2735,
+  "name": {
+   "esES": "Ignición sombría",
+   "es419": "Fuego de la Sombra",
+   "en": "Shadow Ignition"
+  },
+  "icon": "icons/bdo/04_pc_skill/01_pc_skill/02_phw_skill/phw_skill_2735.webp",
+  "level": 56,
+  "combat": true
+ },
+ {
+  "id": 1200,
+  "name": {
+   "esES": "Llama abismal",
+   "es419": "Fuego Abismal",
+   "en": "Abyssal Flame"
+  },
+  "icon": "icons/bdo/04_pc_skill/01_pc_skill/02_phw_skill/phw_skill_1054.webp",
+  "level": 32,
+  "combat": true
+ },
+ {
+  "id": 1205,
+  "name": {
+   "esES": "Llama oscura",
+   "es419": "Flama Oscura",
+   "en": "Dark Flame"
+  },
+  "icon": "icons/bdo/04_pc_skill/01_pc_skill/02_phw_skill/phw_skill_1204.webp",
+  "level": 39,
+  "combat": true
+ },
+ {
+  "id": 1800,
+  "name": {
+   "esES": "Llamada de la Parca",
+   "es419": "Cuchilla de la Oscuridad",
+   "en": "Blade of Darkness"
+  },
+  "icon": "icons/bdo/04_pc_skill/01_pc_skill/02_phw_skill/phw_skill_1798.webp",
+  "level": 58,
+  "combat": true
+ },
+ {
+  "id": 1194,
+  "name": {
+   "esES": "Marca sombría",
+   "es419": "Marca de la Sombra",
+   "en": "Mark of the Shadow"
+  },
+  "icon": "icons/bdo/04_pc_skill/01_pc_skill/02_phw_skill/phw_skill_1051.webp",
+  "level": 48,
+  "combat": true
+ },
+ {
+  "id": 1797,
+  "name": {
+   "esES": "Movimiento: Cuervo nocturno",
+   "es419": "Flujo: Cuervo Nocturno",
+   "en": "Flow: Night Crow"
+  },
+  "icon": "icons/bdo/04_pc_skill/01_pc_skill/02_phw_skill/phw_skill_1797.webp",
+  "level": 56,
+  "combat": true
+ },
+ {
+  "id": 1801,
+  "name": {
+   "esES": "Movimiento: Llanto de la oscuridad",
+   "es419": "Flujo: Llanto de la Oscuridad",
+   "en": "Flow: Cry of Darkness"
+  },
+  "icon": "icons/bdo/04_pc_skill/01_pc_skill/02_phw_skill/phw_skill_1801.webp",
+  "level": 58,
+  "combat": true
+ },
+ {
+  "id": 1784,
+  "name": {
+   "esES": "Movimiento: Plan maligno",
+   "es419": "Flujo: Venganza",
+   "en": "Flow: Vile Plan"
+  },
+  "icon": "icons/bdo/04_pc_skill/01_pc_skill/02_phw_skill/phw_skill_1784.webp",
+  "level": 57,
+  "combat": true
+ },
+ {
+  "id": 1806,
+  "name": {
+   "esES": "Movimiento: Réquiem",
+   "es419": "Flujo: Réquiem",
+   "en": "Flow: Requiem"
+  },
+  "icon": "icons/bdo/04_pc_skill/01_pc_skill/02_phw_skill/phw_skill_1806.webp",
+  "level": 60,
+  "combat": true
+ },
+ {
+  "id": 6452,
+  "name": {
+   "esES": "Movimiento: Segadora de almas",
+   "es419": "Flujo: Incisión Espiritual",
+   "en": "Flow: Soul Reaper"
+  },
+  "icon": "icons/bdo/04_pc_skill/01_pc_skill/02_phw_skill/phw_skill_6452.webp",
+  "level": 59,
+  "combat": true
+ },
+ {
+  "id": 588,
+  "name": {
+   "esES": "Onda negra",
+   "es419": "Onda Oscura",
+   "en": "Black Wave"
+  },
+  "icon": "icons/bdo/04_pc_skill/01_pc_skill/02_phw_skill/phw_skill_0585.webp",
+  "level": 40,
+  "combat": true
+ },
+ {
+  "id": 1432,
+  "name": {
+   "esES": "Oscuridad absoluta",
+   "es419": "Oscuridad Absoluta",
+   "en": "Absolute Darkness"
+  },
+  "icon": "icons/bdo/04_pc_skill/01_pc_skill/02_phw_skill/phw_skill_1430.webp",
+  "level": 32,
+  "combat": true
+ },
+ {
+  "id": 162,
+  "name": {
+   "esES": "Oscuridad rebotante",
+   "es419": "Rebote de Oscuridad",
+   "en": "Rebounding Darkness"
+  },
+  "icon": "icons/bdo/04_pc_skill/01_pc_skill/02_phw_skill/phw_skill_0162.webp",
+  "level": 8,
+  "combat": true
+ },
+ {
+  "id": 1415,
+  "name": {
+   "esES": "Pacto sangriento",
+   "es419": "Contrato de Sangre",
+   "en": "Bloody Contract"
+  },
+  "icon": "icons/bdo/04_pc_skill/01_pc_skill/02_phw_skill/phw_skill_1414.webp",
+  "level": 30,
+  "combat": true
+ },
+ {
+  "id": 199,
+  "name": {
+   "esES": "Patada sombría",
+   "es419": "Patada de la Sombra",
+   "en": "Shadow Kick"
+  },
+  "icon": "icons/bdo/04_pc_skill/01_pc_skill/02_phw_skill/phw_skill_0199.webp",
+  "level": 1,
+  "combat": true
+ },
+ {
+  "id": 1209,
+  "name": {
+   "esES": "Perdición inminente",
+   "es419": "Final Inminente",
+   "en": "Imminent Doom"
+  },
+  "icon": "icons/bdo/04_pc_skill/01_pc_skill/02_phw_skill/phw_skill_1209.webp",
+  "level": 50,
+  "combat": true
+ },
+ {
+  "id": 1805,
+  "name": {
+   "esES": "Pesadilla",
+   "es419": "Pesadilla",
+   "en": "Nightmare"
+  },
+  "icon": "icons/bdo/04_pc_skill/01_pc_skill/02_phw_skill/phw_skill_1805.webp",
+  "level": 57,
+  "combat": true
+ },
+ {
+  "id": 1810,
+  "name": {
+   "esES": "Pesadilla de Cartian",
+   "es419": "Pesadilla de Cartian",
+   "en": "Cartian's Nightmare"
+  },
+  "icon": "icons/bdo/04_pc_skill/01_pc_skill/02_phw_skill/phw_skill_1807.webp",
+  "level": 60,
+  "combat": true
+ },
+ {
+  "id": 93,
+  "name": {
+   "esES": "Pesadilla perturbadora",
+   "es419": "Sueño de Muerte",
+   "en": "Dream of Doom"
+  },
+  "icon": "icons/bdo/04_pc_skill/01_pc_skill/02_phw_skill/phw_skill_1052.webp",
+  "level": 47,
+  "combat": true
+ },
+ {
+  "id": 168,
+  "name": {
+   "esES": "Picotazo",
+   "es419": "Patada de Pico",
+   "en": "Beak Kick"
+  },
+  "icon": "icons/bdo/04_pc_skill/01_pc_skill/02_phw_skill/phw_skill_0167.webp",
+  "level": 37,
+  "combat": true
+ },
+ {
+  "id": 347,
+  "name": {
+   "esES": "Presagio siniestro",
+   "es419": "Presagio Siniestro",
+   "en": "Sinister Omen"
+  },
+  "icon": "icons/bdo/04_pc_skill/01_pc_skill/02_phw_skill/phw_skill_0347.webp",
+  "level": 45,
+  "combat": true
+ },
+ {
+  "id": 6079,
+  "name": {
+   "esES": "Primordial: Caza de muertos",
+   "es419": "BON: Caza Muertos",
+   "en": "Core: Dead Hunt"
+  },
+  "icon": "icons/bdo/04_pc_skill/01_pc_skill/02_phw_skill/phw_skill_1785.webp",
+  "level": 60,
+  "combat": true
+ },
+ {
+  "id": 6083,
+  "name": {
+   "esES": "Primordial: Espiral de oscuridad",
+   "es419": "BON: Oscuridad Turbulenta",
+   "en": "Core: Swirling Darkness"
+  },
+  "icon": "icons/bdo/04_pc_skill/01_pc_skill/02_phw_skill/phw_skill_1798_re.webp",
+  "level": 60,
+  "combat": true
+ },
+ {
+  "id": 6081,
+  "name": {
+   "esES": "Primordial: Pesadilla de Cartian",
+   "es419": "BON: Pesadilla de Cartian",
+   "en": "Core: Cartian's Nightmare"
+  },
+  "icon": "icons/bdo/04_pc_skill/01_pc_skill/02_phw_skill/phw_skill_1807.webp",
+  "level": 60,
+  "combat": true
+ },
+ {
+  "id": 6084,
+  "name": {
+   "esES": "Primordial: Quebrantamiento",
+   "es419": "BON: Infracción",
+   "en": "Core: Violation"
+  },
+  "icon": "icons/bdo/04_pc_skill/01_pc_skill/02_phw_skill/phw_skill_1802.webp",
+  "level": 60,
+  "combat": true
+ },
+ {
+  "id": 6080,
+  "name": {
+   "esES": "Primordial: Sentencia de la Parca",
+   "es419": "BON: Juicio de la Parca",
+   "en": "Core: Grim Reaper's Judgment"
+  },
+  "icon": "icons/bdo/04_pc_skill/01_pc_skill/02_phw_skill/phw_skill_1793.webp",
+  "level": 60,
+  "combat": true
+ },
+ {
+  "id": 6082,
+  "name": {
+   "esES": "Primordial: Tajo esquivo",
+   "es419": "BON: Captura de Sombra",
+   "en": "Core: Turn-back Slash"
+  },
+  "icon": "icons/bdo/04_pc_skill/01_pc_skill/02_phw_skill/phw_skill_1780.webp",
+  "level": 60,
+  "combat": true
+ },
+ {
+  "id": 1783,
+  "name": {
+   "esES": "Protección de Cartian",
+   "es419": "Protección de Cartian",
+   "en": "Cartian's Protection"
+  },
+  "icon": "icons/bdo/04_pc_skill/01_pc_skill/02_phw_skill/phw_skill_1783.webp",
+  "level": 56,
+  "combat": true
+ },
+ {
+  "id": 163,
+  "name": {
+   "esES": "Proyección oscura",
+   "es419": "Retroceso Oscuro",
+   "en": "Dark Backstep"
+  },
+  "icon": "icons/bdo/04_pc_skill/01_pc_skill/02_phw_skill/phw_skill_0163.webp",
+  "level": 16,
+  "combat": true
+ },
+ {
+  "id": 1362,
+  "name": {
+   "esES": "Pulso de oscuridad",
+   "es419": "Oscuridad Liberada",
+   "en": "Darkness Released"
+  },
+  "icon": "icons/bdo/04_pc_skill/01_pc_skill/02_phw_skill/phw_skill_1359.webp",
+  "level": 44,
+  "combat": true
+ },
+ {
+  "id": 1804,
+  "name": {
+   "esES": "Quebrantamiento",
+   "es419": "Infracción",
+   "en": "Violation"
+  },
+  "icon": "icons/bdo/04_pc_skill/01_pc_skill/02_phw_skill/phw_skill_1802.webp",
+  "level": 60,
+  "combat": true
+ },
+ {
+  "id": 4604,
+  "name": {
+   "esES": "Renacer - Sublime: Erupción sombría",
+   "es419": "Sucesión: Extremo: Erupción de Sombra",
+   "en": "Succession: Ultimate: Shadow Eruption"
+  },
+  "icon": "icons/bdo/04_pc_skill/01_pc_skill/02_phw_skill/phw_skill_1190.webp",
+  "level": 1,
+  "combat": true
+ },
+ {
+  "id": 4840,
+  "name": {
+   "esES": "Renacer - Sublime: Llama oscura",
+   "es419": "Sucesión : Extremo : Flama Oscura",
+   "en": "Succession: Ultimate: Dark Flame"
+  },
+  "icon": "icons/bdo/04_pc_skill/01_pc_skill/02_phw_skill/phw_skill_1204.webp",
+  "level": 56,
+  "combat": true
+ },
+ {
+  "id": 4563,
+  "name": {
+   "esES": "Renacer: Pacto abismal",
+   "es419": "Sucesión : Contrato del Abismo",
+   "en": "Succession: Abyssal Contract"
+  },
+  "icon": "icons/bdo/04_pc_skill/01_pc_skill/02_phw_skill/phw_skill_4563.webp",
+  "level": 56,
+  "combat": true
+ },
+ {
+  "id": 4859,
+  "name": {
+   "esES": "Renacer: Perdición inminente",
+   "es419": "Sucesión : Final Inminente",
+   "en": "Succession: Imminent Doom"
+  },
+  "icon": "icons/bdo/04_pc_skill/01_pc_skill/02_phw_skill/phw_skill_1209.webp",
+  "level": 56,
+  "combat": true
+ },
+ {
+  "id": 4603,
+  "name": {
+   "esES": "Renacer: Picotazo",
+   "es419": "Sucesión : Patada de Pico",
+   "en": "Succession: Beak Kick"
+  },
+  "icon": "icons/bdo/04_pc_skill/01_pc_skill/02_phw_skill/phw_skill_2883.webp",
+  "level": 1,
+  "combat": true
+ },
+ {
+  "id": 4605,
+  "name": {
+   "esES": "Renacer: Proyección oscura",
+   "es419": "Sucesión : Retroceso Oscuro",
+   "en": "Succession: Dark Backstep"
+  },
+  "icon": "icons/bdo/04_pc_skill/01_pc_skill/02_phw_skill/phw_skill_0163.webp",
+  "level": 1,
+  "combat": true
+ },
+ {
+  "id": 4862,
+  "name": {
+   "esES": "Renacer: Signos de agonía",
+   "es419": "Sucesión : Signos de Agonía",
+   "en": "Succession: Signs of Agony"
+  },
+  "icon": "icons/bdo/04_pc_skill/01_pc_skill/02_phw_skill/phw_skill_2870.webp",
+  "level": 56,
+  "combat": true
+ },
+ {
+  "id": 5326,
+  "name": {
+   "esES": "Renacer: Trueque oscuro",
+   "es419": "Sucesión : Intercambio Oscuro",
+   "en": "Succession: Dark Trade"
+  },
+  "icon": "icons/bdo/04_pc_skill/01_pc_skill/02_phw_skill/phw_skill_1210.webp",
+  "level": 56,
+  "combat": true
+ },
+ {
+  "id": 92,
+  "name": {
+   "esES": "Retirada oscura",
+   "es419": "Escape de Emergencia",
+   "en": "Emergency Escape"
+  },
+  "icon": "icons/bdo/04_pc_skill/01_pc_skill/00_common/common_skill_0092.webp",
+  "level": 1,
+  "combat": true
+ },
+ {
+  "id": 1790,
+  "name": {
+   "esES": "Salto sombrío",
+   "es419": "Salto de Sombra",
+   "en": "Shadow Leap"
+  },
+  "icon": "icons/bdo/04_pc_skill/01_pc_skill/02_phw_skill/phw_skill_1790.webp",
+  "level": 56,
+  "combat": true
+ },
+ {
+  "id": 1796,
+  "name": {
+   "esES": "Sentencia de la Parca",
+   "es419": "Juicio de la Parca",
+   "en": "Grim Reaper's Judgment"
+  },
+  "icon": "icons/bdo/04_pc_skill/01_pc_skill/02_phw_skill/phw_skill_1793.webp",
+  "level": 60,
+  "combat": true
+ },
+ {
+  "id": 1187,
+  "name": {
+   "esES": "Signos de agonía",
+   "es419": "Signos de Agonía",
+   "en": "Signs of Agony"
+  },
+  "icon": "icons/bdo/04_pc_skill/01_pc_skill/02_phw_skill/phw_skill_1049.webp",
+  "level": 41,
+  "combat": true
+ },
+ {
+  "id": 2736,
+  "name": {
+   "esES": "Somniscorvus",
+   "es419": "Calamidad del Cuervo",
+   "en": "Crow Nightmare"
+  },
+  "icon": "icons/bdo/04_pc_skill/01_pc_skill/02_phw_skill/phw_skill_2736.webp",
+  "level": 56,
+  "combat": true
+ },
+ {
+  "id": 378,
+  "name": {
+   "esES": "Sublime: Aguijón de medianoche",
+   "es419": "Extremo: Embestida de la Noche",
+   "en": "Ultimate: Midnight Stinger"
+  },
+  "icon": "icons/bdo/04_pc_skill/01_pc_skill/02_phw_skill/phw_skill_0171.webp",
+  "level": 43,
+  "combat": true
+ },
+ {
+  "id": 1500,
+  "name": {
+   "esES": "Sublime: Erupción sombría",
+   "es419": "Extremo: Erupción de Sombra",
+   "en": "Ultimate: Shadow Eruption"
+  },
+  "icon": "icons/bdo/04_pc_skill/01_pc_skill/02_phw_skill/phw_skill_1190.webp",
+  "level": 50,
+  "combat": true
+ },
+ {
+  "id": 95,
+  "name": {
+   "esES": "Sublime: Estallido de cuervo",
+   "es419": "Extremo: Fuego de Cuervo",
+   "en": "Ultimate: Crow Flare"
+  },
+  "icon": "icons/bdo/04_pc_skill/01_pc_skill/02_phw_skill/phw_skill_0164.webp",
+  "level": 47,
+  "combat": true
+ },
+ {
+  "id": 94,
+  "name": {
+   "esES": "Sublime: Llama oscura",
+   "es419": "Extremo: Flama Oscura",
+   "en": "Ultimate: Dark Flame"
+  },
+  "icon": "icons/bdo/04_pc_skill/01_pc_skill/02_phw_skill/phw_skill_1204.webp",
+  "level": 44,
+  "combat": true
+ },
+ {
+  "id": 1782,
+  "name": {
+   "esES": "Tajo esquivo",
+   "es419": "Captura de Sombra",
+   "en": "Turn-back Slash"
+  },
+  "icon": "icons/bdo/04_pc_skill/01_pc_skill/02_phw_skill/phw_skill_1780.webp",
+  "level": 60,
+  "combat": true
+ },
+ {
+  "id": 2813,
+  "name": {
+   "esES": "Trampa de oscuridad",
+   "es419": "Oscuridad Abrumadora",
+   "en": "Engulfing Shadow"
+  },
+  "icon": "icons/bdo/04_pc_skill/01_pc_skill/02_phw_skill/phw_skill_2813.webp",
+  "level": 57,
+  "combat": true
+ },
+ {
+  "id": 161,
+  "name": {
+   "esES": "Trueque oscuro",
+   "es419": "Intercambio Oscuro",
+   "en": "Dark Trade"
+  },
+  "icon": "icons/bdo/04_pc_skill/01_pc_skill/02_phw_skill/phw_skill_1210.webp",
+  "level": 40,
+  "combat": true
+ },
+ {
+  "id": 3487,
+  "name": {
+   "esES": "[Furia oscura] Quebrantamiento",
+   "es419": "Espíritu Negro: Infracción II (Sin usar)",
+   "en": "(Not in Use) Black Spirit: Violation"
+  },
+  "icon": "icons/bdo/04_pc_skill/01_pc_skill/02_phw_skill/phw_skill_1802.webp",
+  "level": 1,
+  "combat": false
+ },
+ {
+  "id": 3494,
+  "name": {
+   "esES": "[Furia oscura] Sentencia de la Parca",
+   "es419": "Espíritu Negro: Juicio de la Parca III (Sin usar)",
+   "en": "(Not in Use) Black Spirit: Grim Reaper's Judgment"
+  },
+  "icon": "icons/bdo/04_pc_skill/01_pc_skill/02_phw_skill/phw_skill_1793.webp",
+  "level": 1,
+  "combat": false
+ },
+ {
+  "id": 3490,
+  "name": {
+   "esES": "[Furia oscura] Tajo esquivo",
+   "es419": "(Sin usar) Espíritu Negro: Captura de Sombra",
+   "en": "(Not in Use) Black Spirit: Turn-back Slash"
+  },
+  "icon": "icons/bdo/04_pc_skill/01_pc_skill/02_phw_skill/phw_skill_1780.webp",
+  "level": 1,
+  "combat": false
+ },
+ {
+  "id": 3459,
+  "name": {
+   "esES": "Absorción de furia",
+   "es419": "Absorción de Furia",
+   "en": "Rage Absorption"
+  },
+  "icon": "icons/bdo/04_pc_skill/01_pc_skill/00_common/common_skill_0090.webp",
+  "level": 35,
+  "combat": false
+ },
+ {
+  "id": 89,
+  "name": {
+   "esES": "Absorción de furia (latente)",
+   "es419": "Absorción de Furia (Innato)",
+   "en": "Rage Absorption (Innate)"
+  },
+  "icon": "icons/bdo/04_pc_skill/01_pc_skill/00_common/common_skill_0090.webp",
+  "level": 35,
+  "combat": false
+ },
+ {
+  "id": 2076,
+  "name": {
+   "esES": "Cazador hábil",
+   "es419": "Cazador Experto",
+   "en": "Skilled Hunter"
+  },
+  "icon": "icons/bdo/04_pc_skill/01_pc_skill/06_pkm_skill/pkm_skill_2072.webp",
+  "level": 60,
+  "combat": false
+ },
+ {
+  "id": 6136,
+  "name": {
+   "esES": "Elvia: Percepción tardía",
+   "es419": "Elvia: Conciencia Tardía",
+   "en": "Elvia: Belated Awareness"
+  },
+  "icon": "icons/bdo/04_pc_skill/01_pc_skill/02_phw_skill/phw_skill_6136.webp",
+  "level": 60,
+  "combat": false
+ },
+ {
+  "id": 4035,
+  "name": {
+   "esES": "Fuego infernal sombrío",
+   "es419": "Flama de la Sombra",
+   "en": "Shadow Hellfire"
+  },
+  "icon": "icons/bdo/04_pc_skill/01_pc_skill/02_phw_skill/phw_skill_4035.webp",
+  "level": 58,
+  "combat": false
+ },
+ {
+  "id": 4856,
+  "name": {
+   "esES": "Gran poder",
+   "es419": "Gran Poder",
+   "en": "Unyielding Might"
+  },
+  "icon": "icons/bdo/04_pc_skill/01_pc_skill/00_common/common_skill_18705.webp",
+  "level": 62,
+  "combat": false
+ },
+ {
+  "id": 346,
+  "name": {
+   "esES": "Lazo oscuro",
+   "es419": "Conexión Oscura",
+   "en": "Dark Bound"
+  },
+  "icon": "icons/bdo/04_pc_skill/01_pc_skill/02_phw_skill/phw_skill_0346.webp",
+  "level": 20,
+  "combat": false
+ },
+ {
+  "id": 1707,
+  "name": {
+   "esES": "Maestría infinita",
+   "es419": "Maestría Infinita",
+   "en": "Infinite Mastery"
+  },
+  "icon": "icons/bdo/04_pc_skill/01_pc_skill/00_common/common_skill_1702.webp",
+  "level": 55,
+  "combat": false
+ },
+ {
+  "id": 62,
+  "name": {
+   "esES": "Maniobra oscura",
+   "es419": "Pasos de la Oscuridad",
+   "en": "Dark Maneuver"
+  },
+  "icon": "icons/bdo/04_pc_skill/01_pc_skill/02_phw_skill/phw_skill_0044.webp",
+  "level": 60,
+  "combat": false
+ },
+ {
+  "id": 63,
+  "name": {
+   "esES": "Maniobra oscura XXX",
+   "es419": "Pasos de la Oscuridad XXX",
+   "en": "Dark Maneuver XXX"
+  },
+  "icon": "icons/bdo/04_pc_skill/01_pc_skill/02_phw_skill/phw_skill_0063.webp",
+  "level": 60,
+  "combat": false
+ },
+ {
+  "id": 4034,
+  "name": {
+   "esES": "Onda sombría",
+   "es419": "Ola de la Sombra",
+   "en": "Shadow Wave"
+  },
+  "icon": "icons/bdo/04_pc_skill/01_pc_skill/02_phw_skill/phw_skill_4034.webp",
+  "level": 58,
+  "combat": false
+ },
+ {
+  "id": 91,
+  "name": {
+   "esES": "Transfuria",
+   "es419": "Transferencia de Furia",
+   "en": "Rage Transfer"
+  },
+  "icon": "icons/bdo/04_pc_skill/01_pc_skill/00_common/common_skill_0091.webp",
+  "level": 35,
+  "combat": false
+ }
+]

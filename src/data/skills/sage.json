@@ -1,0 +1,1036 @@
+[
+ {
+  "id": 3459,
+  "name": {
+   "esES": "Absorción de furia",
+   "es419": "Absorción de Furia",
+   "en": "Rage Absorption"
+  },
+  "icon": "icons/bdo/04_pc_skill/01_pc_skill/00_common/common_skill_0090.webp",
+  "level": 35,
+  "combat": true
+ },
+ {
+  "id": 89,
+  "name": {
+   "esES": "Absorción de furia (latente)",
+   "es419": "Absorción de Furia (Innato)",
+   "en": "Rage Absorption (Innate)"
+  },
+  "icon": "icons/bdo/04_pc_skill/01_pc_skill/00_common/common_skill_0090.webp",
+  "level": 35,
+  "combat": true
+ },
+ {
+  "id": 6337,
+  "name": {
+   "esES": "Aniquilación fulgurante",
+   "es419": "Aniquilación de la Luz",
+   "en": "Radiant Annihilation"
+  },
+  "icon": "icons/bdo/04_pc_skill/01_pc_skill/23_ppm_skill/ppm_skill_6337.webp",
+  "level": 60,
+  "combat": true
+ },
+ {
+  "id": 6217,
+  "name": {
+   "esES": "Atomagia",
+   "es419": "Atomagia",
+   "en": "Atomagia"
+  },
+  "icon": "icons/bdo/04_pc_skill/01_pc_skill/23_ppm_skill/ppm_skill_6214.webp",
+  "level": 54,
+  "combat": true
+ },
+ {
+  "id": 6332,
+  "name": {
+   "esES": "Carga mortífera",
+   "es419": "Lluvia de Relámpagos",
+   "en": "Lightning Surge"
+  },
+  "icon": "icons/bdo/04_pc_skill/01_pc_skill/23_ppm_skill/ppm_skill_6332.webp",
+  "level": 56,
+  "combat": true
+ },
+ {
+  "id": 6176,
+  "name": {
+   "esES": "Castigo de Ator",
+   "es419": "Castigo de Ator",
+   "en": "Ator's Fist"
+  },
+  "icon": "icons/bdo/04_pc_skill/01_pc_skill/23_ppm_skill/ppm_skill_6173.webp",
+  "level": 47,
+  "combat": true
+ },
+ {
+  "id": 6340,
+  "name": {
+   "esES": "Castigo perpetuo",
+   "es419": "Represalia Recreada",
+   "en": "Ator's Palm"
+  },
+  "icon": "icons/bdo/04_pc_skill/01_pc_skill/23_ppm_skill/ppm_skill_6340.webp",
+  "level": 56,
+  "combat": true
+ },
+ {
+  "id": 6159,
+  "name": {
+   "esES": "Cataclismo celeste",
+   "es419": "Colapso Espacial",
+   "en": "Spatial Collapse"
+  },
+  "icon": "icons/bdo/04_pc_skill/01_pc_skill/23_ppm_skill/ppm_skill_6155.webp",
+  "level": 52,
+  "combat": true
+ },
+ {
+  "id": 6315,
+  "name": {
+   "esES": "Cataclismo tormentoso",
+   "es419": "Relámpago Esférico",
+   "en": "Rift Storm"
+  },
+  "icon": "icons/bdo/04_pc_skill/01_pc_skill/23_ppm_skill/ppm_skill_6313.webp",
+  "level": 60,
+  "combat": true
+ },
+ {
+  "id": 2076,
+  "name": {
+   "esES": "Cazador hábil",
+   "es419": "Cazador Experto",
+   "en": "Skilled Hunter"
+  },
+  "icon": "icons/bdo/04_pc_skill/01_pc_skill/06_pkm_skill/pkm_skill_2072.webp",
+  "level": 60,
+  "combat": true
+ },
+ {
+  "id": 6298,
+  "name": {
+   "esES": "Cénit: Atomagia",
+   "es419": "S: Atomagia",
+   "en": "Prime: Atomagia"
+  },
+  "icon": "icons/bdo/04_pc_skill/01_pc_skill/23_ppm_skill/ppm_skill_6298.webp",
+  "level": 60,
+  "combat": true
+ },
+ {
+  "id": 6277,
+  "name": {
+   "esES": "Cénit: Castigo de Ator",
+   "es419": "S: Castigo de Ator",
+   "en": "Prime: Ator's Fist"
+  },
+  "icon": "icons/bdo/04_pc_skill/01_pc_skill/23_ppm_skill/ppm_skill_6275.webp",
+  "level": 59,
+  "combat": true
+ },
+ {
+  "id": 6295,
+  "name": {
+   "esES": "Cénit: Cataclismo celeste",
+   "es419": "S: Colapso Espacial",
+   "en": "Prime: Spatial Collapse"
+  },
+  "icon": "icons/bdo/04_pc_skill/01_pc_skill/23_ppm_skill/ppm_skill_6292.webp",
+  "level": 60,
+  "combat": true
+ },
+ {
+  "id": 6346,
+  "name": {
+   "esES": "Cénit: Cataclismo tormentoso",
+   "es419": "S: Relámpago Esférico",
+   "en": "Prime: Rift Storm"
+  },
+  "icon": "icons/bdo/04_pc_skill/01_pc_skill/23_ppm_skill/ppm_skill_6346.webp",
+  "level": 58,
+  "combat": true
+ },
+ {
+  "id": 6280,
+  "name": {
+   "esES": "Cénit: Desintegración",
+   "es419": "S: Destrucción Espacial",
+   "en": "Prime: Spatial Fissure"
+  },
+  "icon": "icons/bdo/04_pc_skill/01_pc_skill/23_ppm_skill/ppm_skill_6278.webp",
+  "level": 58,
+  "combat": true
+ },
+ {
+  "id": 6345,
+  "name": {
+   "esES": "Cénit: Empalamiento",
+   "es419": "S: Lanzamiento Mortal​",
+   "en": "Prime: Spear Bolt"
+  },
+  "icon": "icons/bdo/04_pc_skill/01_pc_skill/23_ppm_skill/ppm_skill_6345.webp",
+  "level": 60,
+  "combat": true
+ },
+ {
+  "id": 6291,
+  "name": {
+   "esES": "Cénit: Energía de Ator",
+   "es419": "S: Energía de Ator",
+   "en": "Prime: Ator's Energy"
+  },
+  "icon": "icons/bdo/04_pc_skill/01_pc_skill/23_ppm_skill/ppm_skill_6288.webp",
+  "level": 60,
+  "combat": true
+ },
+ {
+  "id": 6297,
+  "name": {
+   "esES": "Cénit: Expansión dimensional",
+   "es419": "S: Grieta Dimensional",
+   "en": "Prime: Illusion Expansion"
+  },
+  "icon": "icons/bdo/04_pc_skill/01_pc_skill/23_ppm_skill/ppm_skill_6297.webp",
+  "level": 59,
+  "combat": true
+ },
+ {
+  "id": 6271,
+  "name": {
+   "esES": "Cénit: Fisura espaciotemporal",
+   "es419": "S: Enlace de la Grieta",
+   "en": "Prime: Rift Chain"
+  },
+  "icon": "icons/bdo/04_pc_skill/01_pc_skill/23_ppm_skill/ppm_skill_6271.webp",
+  "level": 56,
+  "combat": true
+ },
+ {
+  "id": 6287,
+  "name": {
+   "esES": "Cénit: Hiperespacio",
+   "es419": "S: Carrera Dimensional",
+   "en": "Prime: Form Shift"
+  },
+  "icon": "icons/bdo/04_pc_skill/01_pc_skill/23_ppm_skill/ppm_skill_6284.webp",
+  "level": 59,
+  "combat": true
+ },
+ {
+  "id": 6154,
+  "name": {
+   "esES": "Cénit: Optimización",
+   "es419": "S: Optimización",
+   "en": "Prime: Optimization"
+  },
+  "icon": "icons/bdo/04_pc_skill/01_pc_skill/23_ppm_skill/ppm_skill_6154.webp",
+  "level": 56,
+  "combat": true
+ },
+ {
+  "id": 6274,
+  "name": {
+   "esES": "Cénit: Poder del tiempo",
+   "es419": "S: Aceleración de Frecuencia",
+   "en": "Prime: Overdrive"
+  },
+  "icon": "icons/bdo/04_pc_skill/01_pc_skill/23_ppm_skill/ppm_skill_6274.webp",
+  "level": 56,
+  "combat": true
+ },
+ {
+  "id": 6296,
+  "name": {
+   "esES": "Cénit: Puerta del vacío",
+   "es419": "S: Puertas del Vacío",
+   "en": "Prime: Void Gateways"
+  },
+  "icon": "icons/bdo/04_pc_skill/01_pc_skill/23_ppm_skill/ppm_skill_6296.webp",
+  "level": 57,
+  "combat": true
+ },
+ {
+  "id": 6283,
+  "name": {
+   "esES": "Cénit: Puño de Ator",
+   "es419": "S: Sello de Ator",
+   "en": "Prime: Ator's Mark"
+  },
+  "icon": "icons/bdo/04_pc_skill/01_pc_skill/23_ppm_skill/ppm_skill_6281.webp",
+  "level": 60,
+  "combat": true
+ },
+ {
+  "id": 6268,
+  "name": {
+   "esES": "Cénit: Sabiduría ancestral",
+   "es419": "S: Conocimiento Ancestral",
+   "en": "Prime: Ancients' Wisdom"
+  },
+  "icon": "icons/bdo/04_pc_skill/01_pc_skill/23_ppm_skill/ppm_skill_6264.webp",
+  "level": 60,
+  "combat": true
+ },
+ {
+  "id": 6338,
+  "name": {
+   "esES": "Centella",
+   "es419": "Modo de Destello",
+   "en": "Bolt"
+  },
+  "icon": "icons/bdo/04_pc_skill/01_pc_skill/23_ppm_skill/ppm_skill_6338.webp",
+  "level": 56,
+  "combat": true
+ },
+ {
+  "id": 6197,
+  "name": {
+   "esES": "Claustrofobia",
+   "es419": "Laberinto de la Deshonra",
+   "en": "Realm of Anguish"
+  },
+  "icon": "icons/bdo/04_pc_skill/01_pc_skill/23_ppm_skill/ppm_skill_6194.webp",
+  "level": 50,
+  "combat": true
+ },
+ {
+  "id": 6230,
+  "name": {
+   "esES": "Compresión dimensional",
+   "es419": "Compresión de la Dimensión",
+   "en": "Dimensional Compression"
+  },
+  "icon": "icons/bdo/04_pc_skill/01_pc_skill/23_ppm_skill/ppm_skill_6230.webp",
+  "level": 60,
+  "combat": true
+ },
+ {
+  "id": 6152,
+  "name": {
+   "esES": "Control del kyve",
+   "es419": "Manipulación de Kyve",
+   "en": "Kyve Mastery"
+  },
+  "icon": "icons/bdo/04_pc_skill/01_pc_skill/23_ppm_skill/ppm_skill_6143.webp",
+  "level": 54,
+  "combat": true
+ },
+ {
+  "id": 6331,
+  "name": {
+   "esES": "Daga de Ator",
+   "es419": "Daga de Ator",
+   "en": "Ator's Spear"
+  },
+  "icon": "icons/bdo/04_pc_skill/01_pc_skill/23_ppm_skill/ppm_skill_6331.webp",
+  "level": 57,
+  "combat": true
+ },
+ {
+  "id": 6218,
+  "name": {
+   "esES": "Definitiva: Atomagia",
+   "es419": "Suprema: Atomagia",
+   "en": "Absolute: Atomagia"
+  },
+  "icon": "icons/bdo/04_pc_skill/01_pc_skill/23_ppm_skill/ppm_skill_6218.webp",
+  "level": 60,
+  "combat": true
+ },
+ {
+  "id": 6177,
+  "name": {
+   "esES": "Definitiva: Castigo de Ator",
+   "es419": "Suprema: Castigo de Ator",
+   "en": "Absolute: Ator's Fist"
+  },
+  "icon": "icons/bdo/04_pc_skill/01_pc_skill/23_ppm_skill/ppm_skill_6177.webp",
+  "level": 56,
+  "combat": true
+ },
+ {
+  "id": 6160,
+  "name": {
+   "esES": "Definitiva: Cataclismo celeste",
+   "es419": "Suprema: Colapso Espacial",
+   "en": "Absolute: Spatial Collapse"
+  },
+  "icon": "icons/bdo/04_pc_skill/01_pc_skill/23_ppm_skill/ppm_skill_6160.webp",
+  "level": 60,
+  "combat": true
+ },
+ {
+  "id": 6198,
+  "name": {
+   "esES": "Definitiva: Claustrofobia",
+   "es419": "Suprema: Laberinto de la Deshonra",
+   "en": "Absolute: Realm of Anguish"
+  },
+  "icon": "icons/bdo/04_pc_skill/01_pc_skill/23_ppm_skill/ppm_skill_6198.webp",
+  "level": 60,
+  "combat": true
+ },
+ {
+  "id": 6153,
+  "name": {
+   "esES": "Definitiva: Control del kyve",
+   "es419": "Suprema: Manipulación de Kyve",
+   "en": "Absolute: Kyve Mastery"
+  },
+  "icon": "icons/bdo/04_pc_skill/01_pc_skill/23_ppm_skill/ppm_skill_6153.webp",
+  "level": 56,
+  "combat": true
+ },
+ {
+  "id": 6208,
+  "name": {
+   "esES": "Definitiva: Desintegración",
+   "es419": "Suprema: Destrucción Espacial",
+   "en": "Absolute: Spatial Fissure"
+  },
+  "icon": "icons/bdo/04_pc_skill/01_pc_skill/23_ppm_skill/ppm_skill_6208.webp",
+  "level": 56,
+  "combat": true
+ },
+ {
+  "id": 6213,
+  "name": {
+   "esES": "Definitiva: Energía de Ator",
+   "es419": "Suprema: Energía de Ator",
+   "en": "Absolute: Ator's Energy"
+  },
+  "icon": "icons/bdo/04_pc_skill/01_pc_skill/23_ppm_skill/ppm_skill_6213.webp",
+  "level": 59,
+  "combat": true
+ },
+ {
+  "id": 6166,
+  "name": {
+   "esES": "Definitiva: Expansión dimensional",
+   "es419": "Suprema: Grieta Dimensional",
+   "en": "Absolute: Illusion Expansion"
+  },
+  "icon": "icons/bdo/04_pc_skill/01_pc_skill/23_ppm_skill/ppm_skill_6166.webp",
+  "level": 58,
+  "combat": true
+ },
+ {
+  "id": 6190,
+  "name": {
+   "esES": "Definitiva: Fisura espaciotemporal",
+   "es419": "Suprema: Enlace de la Grieta",
+   "en": "Absolute: Rift Chain"
+  },
+  "icon": "icons/bdo/04_pc_skill/01_pc_skill/23_ppm_skill/ppm_skill_6190.webp",
+  "level": 56,
+  "combat": true
+ },
+ {
+  "id": 6228,
+  "name": {
+   "esES": "Definitiva: Hiperespacio",
+   "es419": "Suprema: Carrera Dimensional",
+   "en": "Absolute: Form Shift"
+  },
+  "icon": "icons/bdo/04_pc_skill/01_pc_skill/23_ppm_skill/ppm_skill_6228.webp",
+  "level": 58,
+  "combat": true
+ },
+ {
+  "id": 6187,
+  "name": {
+   "esES": "Definitiva: Ilusión opresora",
+   "es419": "Suprema: Distorsión del Espacio",
+   "en": "Absolute: Illusion Compression"
+  },
+  "icon": "icons/bdo/04_pc_skill/01_pc_skill/23_ppm_skill/ppm_skill_6187.webp",
+  "level": 59,
+  "combat": true
+ },
+ {
+  "id": 6182,
+  "name": {
+   "esES": "Definitiva: Lanza de Ator",
+   "es419": "Suprema: Espina de Ator",
+   "en": "Absolute: Ator's Thorn"
+  },
+  "icon": "icons/bdo/04_pc_skill/01_pc_skill/23_ppm_skill/ppm_skill_6182.webp",
+  "level": 56,
+  "combat": true
+ },
+ {
+  "id": 6172,
+  "name": {
+   "esES": "Definitiva: Puerta del vacío",
+   "es419": "Suprema: Puertas del Vacío",
+   "en": "Absolute: Void Gateways"
+  },
+  "icon": "icons/bdo/04_pc_skill/01_pc_skill/23_ppm_skill/ppm_skill_6172.webp",
+  "level": 56,
+  "combat": true
+ },
+ {
+  "id": 6203,
+  "name": {
+   "esES": "Definitiva: Puño de Ator",
+   "es419": "Suprema: Sello de Ator",
+   "en": "Absolute: Ator's Mark"
+  },
+  "icon": "icons/bdo/04_pc_skill/01_pc_skill/23_ppm_skill/ppm_skill_6203.webp",
+  "level": 57,
+  "combat": true
+ },
+ {
+  "id": 6223,
+  "name": {
+   "esES": "Definitiva: Trampa de la fisura",
+   "es419": "Suprema: Rueda de la Grieta",
+   "en": "Absolute: Gravity Rift"
+  },
+  "icon": "icons/bdo/04_pc_skill/01_pc_skill/23_ppm_skill/ppm_skill_6223.webp",
+  "level": 56,
+  "combat": true
+ },
+ {
+  "id": 6207,
+  "name": {
+   "esES": "Desintegración",
+   "es419": "Destrucción Espacial",
+   "en": "Spatial Fissure"
+  },
+  "icon": "icons/bdo/04_pc_skill/01_pc_skill/23_ppm_skill/ppm_skill_6204.webp",
+  "level": 41,
+  "combat": true
+ },
+ {
+  "id": 6269,
+  "name": {
+   "esES": "Despertar: Cibelius antigua",
+   "es419": "Despertar: Kibelius Ancestral",
+   "en": "Awakening: Ancient Kibelius"
+  },
+  "icon": "icons/bdo/04_pc_skill/01_pc_skill/23_ppm_skill/ppm_skill_6269.webp",
+  "level": 56,
+  "combat": true
+ },
+ {
+  "id": 6343,
+  "name": {
+   "esES": "Destrucción del vacío",
+   "es419": "Colapso del Vacío",
+   "en": "Void Eruption"
+  },
+  "icon": "icons/bdo/04_pc_skill/01_pc_skill/23_ppm_skill/ppm_skill_6343.webp",
+  "level": 58,
+  "combat": true
+ },
+ {
+  "id": 6352,
+  "name": {
+   "esES": "Dominio de la Cibelius",
+   "es419": "Maestría de Kibelius",
+   "en": "Kibelius Training"
+  },
+  "icon": "icons/bdo/04_pc_skill/01_pc_skill/23_ppm_skill/ppm_skill_6347.webp",
+  "level": 60,
+  "combat": true
+ },
+ {
+  "id": 6360,
+  "name": {
+   "esES": "Elvia: Explosión maligna",
+   "es419": "Elvia : Bombardeo Malicioso",
+   "en": "Elvia: Malignant Charge"
+  },
+  "icon": "icons/bdo/04_pc_skill/01_pc_skill/23_ppm_skill/ppm_skill_6360.webp",
+  "level": 60,
+  "combat": true
+ },
+ {
+  "id": 6344,
+  "name": {
+   "esES": "Emisión del vacío",
+   "es419": "Emisión del Vacío",
+   "en": "Void Blast"
+  },
+  "icon": "icons/bdo/04_pc_skill/01_pc_skill/23_ppm_skill/ppm_skill_6344.webp",
+  "level": 58,
+  "combat": true
+ },
+ {
+  "id": 6309,
+  "name": {
+   "esES": "Empalamiento",
+   "es419": "Lanzamiento Mortal​",
+   "en": "Spear Bolt"
+  },
+  "icon": "icons/bdo/04_pc_skill/01_pc_skill/23_ppm_skill/ppm_skill_6272.webp",
+  "level": 60,
+  "combat": true
+ },
+ {
+  "id": 6212,
+  "name": {
+   "esES": "Energía de Ator",
+   "es419": "Energía de Ator",
+   "en": "Ator's Energy"
+  },
+  "icon": "icons/bdo/04_pc_skill/01_pc_skill/23_ppm_skill/ppm_skill_6209.webp",
+  "level": 54,
+  "combat": true
+ },
+ {
+  "id": 6142,
+  "name": {
+   "esES": "Evasión",
+   "es419": "Evasión",
+   "en": "Evasion"
+  },
+  "icon": "icons/bdo/04_pc_skill/01_pc_skill/23_ppm_skill/ppm_skill_6142.webp",
+  "level": 1,
+  "combat": true
+ },
+ {
+  "id": 6165,
+  "name": {
+   "esES": "Expansión dimensional",
+   "es419": "Grieta Dimensional",
+   "en": "Illusion Expansion"
+  },
+  "icon": "icons/bdo/04_pc_skill/01_pc_skill/23_ppm_skill/ppm_skill_6161.webp",
+  "level": 50,
+  "combat": true
+ },
+ {
+  "id": 6189,
+  "name": {
+   "esES": "Fisura espaciotemporal",
+   "es419": "Enlace de la Grieta",
+   "en": "Rift Chain"
+  },
+  "icon": "icons/bdo/04_pc_skill/01_pc_skill/23_ppm_skill/ppm_skill_6188.webp",
+  "level": 30,
+  "combat": true
+ },
+ {
+  "id": 6323,
+  "name": {
+   "esES": "Fuente de energía",
+   "es419": "Poder Innato",
+   "en": "Upsurge"
+  },
+  "icon": "icons/bdo/04_pc_skill/01_pc_skill/23_ppm_skill/ppm_skill_6320.webp",
+  "level": 60,
+  "combat": true
+ },
+ {
+  "id": 6312,
+  "name": {
+   "esES": "Fulminación",
+   "es419": "Relámpago del Adoctrinamiento",
+   "en": "Enlightening Bolt"
+  },
+  "icon": "icons/bdo/04_pc_skill/01_pc_skill/23_ppm_skill/ppm_skill_6310.webp",
+  "level": 58,
+  "combat": true
+ },
+ {
+  "id": 4856,
+  "name": {
+   "esES": "Gran poder",
+   "es419": "Gran Poder",
+   "en": "Unyielding Might"
+  },
+  "icon": "icons/bdo/04_pc_skill/01_pc_skill/00_common/common_skill_18705.webp",
+  "level": 62,
+  "combat": true
+ },
+ {
+  "id": 6227,
+  "name": {
+   "esES": "Hiperespacio",
+   "es419": "Carrera Dimensional",
+   "en": "Form Shift"
+  },
+  "icon": "icons/bdo/04_pc_skill/01_pc_skill/23_ppm_skill/ppm_skill_6224.webp",
+  "level": 42,
+  "combat": true
+ },
+ {
+  "id": 6339,
+  "name": {
+   "esES": "Ilusión de Ator",
+   "es419": "Ilusión de Ator",
+   "en": "Ator's Illusion"
+  },
+  "icon": "icons/bdo/04_pc_skill/01_pc_skill/23_ppm_skill/ppm_skill_6339.webp",
+  "level": 56,
+  "combat": true
+ },
+ {
+  "id": 6186,
+  "name": {
+   "esES": "Ilusión opresora",
+   "es419": "Distorsión del Espacio",
+   "en": "Illusion Compression"
+  },
+  "icon": "icons/bdo/04_pc_skill/01_pc_skill/23_ppm_skill/ppm_skill_6183.webp",
+  "level": 48,
+  "combat": true
+ },
+ {
+  "id": 6333,
+  "name": {
+   "esES": "Impulso centelleante",
+   "es419": "Colisión del Destello",
+   "en": "Impaling Flash"
+  },
+  "icon": "icons/bdo/04_pc_skill/01_pc_skill/23_ppm_skill/ppm_skill_6333.webp",
+  "level": 56,
+  "combat": true
+ },
+ {
+  "id": 6341,
+  "name": {
+   "esES": "Lanza colérica",
+   "es419": "Espina Frenética",
+   "en": "Energized Thorn"
+  },
+  "icon": "icons/bdo/04_pc_skill/01_pc_skill/23_ppm_skill/ppm_skill_6341.webp",
+  "level": 57,
+  "combat": true
+ },
+ {
+  "id": 6181,
+  "name": {
+   "esES": "Lanza de Ator",
+   "es419": "Espina de Ator",
+   "en": "Ator's Thorn"
+  },
+  "icon": "icons/bdo/04_pc_skill/01_pc_skill/23_ppm_skill/ppm_skill_6178.webp",
+  "level": 46,
+  "combat": true
+ },
+ {
+  "id": 6342,
+  "name": {
+   "esES": "Lanza penetrante",
+   "es419": "Espina Perforadora",
+   "en": "Piercing Thorn"
+  },
+  "icon": "icons/bdo/04_pc_skill/01_pc_skill/23_ppm_skill/ppm_skill_6342.webp",
+  "level": 57,
+  "combat": true
+ },
+ {
+  "id": 1707,
+  "name": {
+   "esES": "Maestría infinita",
+   "es419": "Maestría Infinita",
+   "en": "Infinite Mastery"
+  },
+  "icon": "icons/bdo/04_pc_skill/01_pc_skill/00_common/common_skill_1702.webp",
+  "level": 55,
+  "combat": true
+ },
+ {
+  "id": 6328,
+  "name": {
+   "esES": "Movimiento: Castigo divino",
+   "es419": "Flujo: Represión",
+   "en": "Flow: Judgment"
+  },
+  "icon": "icons/bdo/04_pc_skill/01_pc_skill/23_ppm_skill/ppm_skill_6328.webp",
+  "level": 58,
+  "combat": true
+ },
+ {
+  "id": 6329,
+  "name": {
+   "esES": "Movimiento: Condena eléctrica",
+   "es419": "Flujo: Interrogatorio",
+   "en": "Flow: Interrogate"
+  },
+  "icon": "icons/bdo/04_pc_skill/01_pc_skill/23_ppm_skill/ppm_skill_6329.webp",
+  "level": 59,
+  "combat": true
+ },
+ {
+  "id": 6192,
+  "name": {
+   "esES": "Movimiento: Estallido dimensional",
+   "es419": "Flujo: Golpe de Ilusión",
+   "en": "Flow: Illusion Detonation"
+  },
+  "icon": "icons/bdo/04_pc_skill/01_pc_skill/23_ppm_skill/ppm_skill_6192.webp",
+  "level": 25,
+  "combat": true
+ },
+ {
+  "id": 6229,
+  "name": {
+   "esES": "Movimiento: Memento",
+   "es419": "Flujo: Memoria Ancestral",
+   "en": "Flow: Form Recall"
+  },
+  "icon": "icons/bdo/04_pc_skill/01_pc_skill/23_ppm_skill/ppm_skill_6229.webp",
+  "level": 45,
+  "combat": true
+ },
+ {
+  "id": 6330,
+  "name": {
+   "esES": "Movimiento: Tormento",
+   "es419": "Flujo: Superación",
+   "en": "Flow: Aftershock"
+  },
+  "icon": "icons/bdo/04_pc_skill/01_pc_skill/23_ppm_skill/ppm_skill_6330.webp",
+  "level": 60,
+  "combat": true
+ },
+ {
+  "id": 6191,
+  "name": {
+   "esES": "Movimiento: Últimos momentos",
+   "es419": "Flujo: Última Caricia",
+   "en": "Flow: Finishing Touch"
+  },
+  "icon": "icons/bdo/04_pc_skill/01_pc_skill/23_ppm_skill/ppm_skill_6191.webp",
+  "level": 42,
+  "combat": true
+ },
+ {
+  "id": 6306,
+  "name": {
+   "esES": "Ojo de Ator",
+   "es419": "Ojo de Ator",
+   "en": "Ator's Eye"
+  },
+  "icon": "icons/bdo/04_pc_skill/01_pc_skill/23_ppm_skill/ppm_skill_6306.webp",
+  "level": 60,
+  "combat": true
+ },
+ {
+  "id": 6252,
+  "name": {
+   "esES": "Potencial oculto",
+   "es419": "Incremento de Recurso",
+   "en": "Augmentation"
+  },
+  "icon": "icons/bdo/04_pc_skill/01_pc_skill/23_ppm_skill/ppm_skill_6252.webp",
+  "level": 20,
+  "combat": true
+ },
+ {
+  "id": 6363,
+  "name": {
+   "esES": "Primordial: Cataclismo tormentoso",
+   "es419": "BON: Relámpago Esférico",
+   "en": "Core: Rift Storm"
+  },
+  "icon": "icons/bdo/04_pc_skill/01_pc_skill/23_ppm_skill/ppm_skill_6313.webp",
+  "level": 60,
+  "combat": true
+ },
+ {
+  "id": 6361,
+  "name": {
+   "esES": "Primordial: Empalamiento",
+   "es419": "BON: Lanzamiento Mortal",
+   "en": "Core: Spear Bolt"
+  },
+  "icon": "icons/bdo/04_pc_skill/01_pc_skill/23_ppm_skill/ppm_skill_6272.webp",
+  "level": 60,
+  "combat": true
+ },
+ {
+  "id": 6365,
+  "name": {
+   "esES": "Primordial: Fuente de energía",
+   "es419": "BON: Poder Innato",
+   "en": "Core: Upsurge"
+  },
+  "icon": "icons/bdo/04_pc_skill/01_pc_skill/23_ppm_skill/ppm_skill_6320.webp",
+  "level": 60,
+  "combat": true
+ },
+ {
+  "id": 6362,
+  "name": {
+   "esES": "Primordial: Fulminación",
+   "es419": "BON: Relámpago del Adoctrinamiento",
+   "en": "Core: Enlightening Bolt"
+  },
+  "icon": "icons/bdo/04_pc_skill/01_pc_skill/23_ppm_skill/ppm_skill_6310.webp",
+  "level": 60,
+  "combat": true
+ },
+ {
+  "id": 6366,
+  "name": {
+   "esES": "Primordial: Prisión de rayos",
+   "es419": "BON: Prisión de la Condena",
+   "en": "Core: Lightning Prison"
+  },
+  "icon": "icons/bdo/04_pc_skill/01_pc_skill/23_ppm_skill/ppm_skill_6324.webp",
+  "level": 60,
+  "combat": true
+ },
+ {
+  "id": 6364,
+  "name": {
+   "esES": "Primordial: Verdugo divino",
+   "es419": "BON: Agente del Castigo Divino",
+   "en": "Core: Divine Executioner"
+  },
+  "icon": "icons/bdo/04_pc_skill/01_pc_skill/23_ppm_skill/ppm_skill_6316.webp",
+  "level": 60,
+  "combat": true
+ },
+ {
+  "id": 6327,
+  "name": {
+   "esES": "Prisión de rayos",
+   "es419": "Prisión de la Condena",
+   "en": "Lightning Prison"
+  },
+  "icon": "icons/bdo/04_pc_skill/01_pc_skill/23_ppm_skill/ppm_skill_6324.webp",
+  "level": 60,
+  "combat": true
+ },
+ {
+  "id": 6193,
+  "name": {
+   "esES": "Protección dimensional",
+   "es419": "Barrera Dimensional",
+   "en": "Illusion Barrier"
+  },
+  "icon": "icons/bdo/04_pc_skill/01_pc_skill/23_ppm_skill/ppm_skill_6193.webp",
+  "level": 1,
+  "combat": true
+ },
+ {
+  "id": 6171,
+  "name": {
+   "esES": "Puerta del vacío",
+   "es419": "Puertas del Vacío",
+   "en": "Void Gateways"
+  },
+  "icon": "icons/bdo/04_pc_skill/01_pc_skill/23_ppm_skill/ppm_skill_6167.webp",
+  "level": 46,
+  "combat": true
+ },
+ {
+  "id": 6202,
+  "name": {
+   "esES": "Puño de Ator",
+   "es419": "Sello de Ator",
+   "en": "Ator's Mark"
+  },
+  "icon": "icons/bdo/04_pc_skill/01_pc_skill/23_ppm_skill/ppm_skill_6199.webp",
+  "level": 40,
+  "combat": true
+ },
+ {
+  "id": 6335,
+  "name": {
+   "esES": "Rayo encadenado",
+   "es419": "Cadena de Relámpago",
+   "en": "Chain Lightning"
+  },
+  "icon": "icons/bdo/04_pc_skill/01_pc_skill/23_ppm_skill/ppm_skill_6335.webp",
+  "level": 58,
+  "combat": true
+ },
+ {
+  "id": 6307,
+  "name": {
+   "esES": "Reajustar",
+   "es419": "Reconfigurar",
+   "en": "Reset"
+  },
+  "icon": "icons/bdo/04_pc_skill/01_pc_skill/23_ppm_skill/ppm_skill_6307.webp",
+  "level": 60,
+  "combat": true
+ },
+ {
+  "id": 6336,
+  "name": {
+   "esES": "Relámpago ardiente",
+   "es419": "Residual",
+   "en": "Shock Relay"
+  },
+  "icon": "icons/bdo/04_pc_skill/01_pc_skill/23_ppm_skill/ppm_skill_6336.webp",
+  "level": 56,
+  "combat": true
+ },
+ {
+  "id": 6334,
+  "name": {
+   "esES": "Relámpago inmovilizante",
+   "es419": "Sumisión",
+   "en": "Seize"
+  },
+  "icon": "icons/bdo/04_pc_skill/01_pc_skill/23_ppm_skill/ppm_skill_6334.webp",
+  "level": 56,
+  "combat": true
+ },
+ {
+  "id": 92,
+  "name": {
+   "esES": "Retirada oscura",
+   "es419": "Escape de Emergencia",
+   "en": "Emergency Escape"
+  },
+  "icon": "icons/bdo/04_pc_skill/01_pc_skill/00_common/common_skill_0092.webp",
+  "level": 1,
+  "combat": true
+ },
+ {
+  "id": 6250,
+  "name": {
+   "esES": "Sabiduría ancestral",
+   "es419": "Conocimiento Ancestral",
+   "en": "Ancients' Wisdom"
+  },
+  "icon": "icons/bdo/04_pc_skill/01_pc_skill/23_ppm_skill/ppm_skill_6231.webp",
+  "level": 60,
+  "combat": true
+ },
+ {
+  "id": 6222,
+  "name": {
+   "esES": "Trampa de la fisura",
+   "es419": "Rueda de la Grieta",
+   "en": "Gravity Rift"
+  },
+  "icon": "icons/bdo/04_pc_skill/01_pc_skill/23_ppm_skill/ppm_skill_6219.webp",
+  "level": 42,
+  "combat": true
+ },
+ {
+  "id": 91,
+  "name": {
+   "esES": "Transfuria",
+   "es419": "Transferencia de Furia",
+   "en": "Rage Transfer"
+  },
+  "icon": "icons/bdo/04_pc_skill/01_pc_skill/00_common/common_skill_0091.webp",
+  "level": 35,
+  "combat": true
+ },
+ {
+  "id": 6319,
+  "name": {
+   "esES": "Verdugo divino",
+   "es419": "Agente del Castigo Divino",
+   "en": "Divine Executioner"
+  },
+  "icon": "icons/bdo/04_pc_skill/01_pc_skill/23_ppm_skill/ppm_skill_6316.webp",
+  "level": 59,
+  "combat": true
+ }
+]

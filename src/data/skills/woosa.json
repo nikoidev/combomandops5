@@ -1,0 +1,1223 @@
+[
+ {
+  "id": 3459,
+  "name": {
+   "esES": "Absorción de furia",
+   "es419": "Absorción de Furia",
+   "en": "Rage Absorption"
+  },
+  "icon": "icons/bdo/04_pc_skill/01_pc_skill/00_common/common_skill_0090.webp",
+  "level": 35,
+  "combat": true
+ },
+ {
+  "id": 89,
+  "name": {
+   "esES": "Absorción de furia (latente)",
+   "es419": "Absorción de Furia (Innato)",
+   "en": "Rage Absorption (Innate)"
+  },
+  "icon": "icons/bdo/04_pc_skill/01_pc_skill/00_common/common_skill_0090.webp",
+  "level": 35,
+  "combat": true
+ },
+ {
+  "id": 7588,
+  "name": {
+   "esES": "Andares de noble",
+   "es419": "Andares de Noble",
+   "en": "Yangban Step"
+  },
+  "icon": "icons/bdo/04_pc_skill/01_pc_skill/28_pmyf_skill/pmyf_skill_7587.webp",
+  "level": 20,
+  "combat": true
+ },
+ {
+  "id": 7516,
+  "name": {
+   "esES": "Arte con abanico mariposa",
+   "es419": "Arte con Abanico Mariposa",
+   "en": "Fan Training"
+  },
+  "icon": "icons/bdo/04_pc_skill/01_pc_skill/28_pmyf_skill/pmyf_skill_7507.webp",
+  "level": 54,
+  "combat": true
+ },
+ {
+  "id": 7722,
+  "name": {
+   "esES": "Arte con tomo místico",
+   "es419": "Hechizo de Tomo Místico",
+   "en": "Souldance"
+  },
+  "icon": "icons/bdo/04_pc_skill/01_pc_skill/28_pmyf_skill/pmyf_skill_7718.webp",
+  "level": 60,
+  "combat": true
+ },
+ {
+  "id": 7599,
+  "name": {
+   "esES": "Asalto bambú",
+   "es419": "Asalto Bambú",
+   "en": "Bamboo-zled"
+  },
+  "icon": "icons/bdo/04_pc_skill/01_pc_skill/28_pmyf_skill/pmyf_skill_7598.webp",
+  "level": 55,
+  "combat": true
+ },
+ {
+  "id": 7568,
+  "name": {
+   "esES": "Asalto descendente",
+   "es419": "Asalto Descendente",
+   "en": "Fandown"
+  },
+  "icon": "icons/bdo/04_pc_skill/01_pc_skill/28_pmyf_skill/pmyf_skill_7566.webp",
+  "level": 39,
+  "combat": true
+ },
+ {
+  "id": 7601,
+  "name": {
+   "esES": "Bastonazo",
+   "es419": "Bastonazo",
+   "en": "Flourish"
+  },
+  "icon": "icons/bdo/04_pc_skill/01_pc_skill/28_pmyf_skill/pmyf_skill_7601.webp",
+  "level": 30,
+  "combat": true
+ },
+ {
+  "id": 7586,
+  "name": {
+   "esES": "Cadena: Pasos etéreos",
+   "es419": "Cadena: Pasos Etéreos",
+   "en": "Chain: Flitting Step"
+  },
+  "icon": "icons/bdo/04_pc_skill/01_pc_skill/28_pmyf_skill/pmyf_skill_7586.webp",
+  "level": 40,
+  "combat": true
+ },
+ {
+  "id": 7532,
+  "name": {
+   "esES": "Cadena: Patada implacable",
+   "es419": "Cadena: Patada Implacable",
+   "en": "Chain: Fan Kick"
+  },
+  "icon": "icons/bdo/04_pc_skill/01_pc_skill/28_pmyf_skill/pmyf_skill_7532.webp",
+  "level": 20,
+  "combat": true
+ },
+ {
+  "id": 7712,
+  "name": {
+   "esES": "Canto lunar",
+   "es419": "Canción de la Luna",
+   "en": "Mark of the Moon"
+  },
+  "icon": "icons/bdo/04_pc_skill/01_pc_skill/28_pmyf_skill/pmyf_skill_7710.webp",
+  "level": 60,
+  "combat": true
+ },
+ {
+  "id": 2076,
+  "name": {
+   "esES": "Cazador hábil",
+   "es419": "Cazador Experto",
+   "en": "Skilled Hunter"
+  },
+  "icon": "icons/bdo/04_pc_skill/01_pc_skill/06_pkm_skill/pkm_skill_2072.webp",
+  "level": 60,
+  "combat": true
+ },
+ {
+  "id": 7662,
+  "name": {
+   "esES": "Cénit: Benevolencia",
+   "es419": "S: Benevolencia",
+   "en": "Prime: Quiet Waters"
+  },
+  "icon": "icons/bdo/04_pc_skill/01_pc_skill/28_pmyf_skill/pmyf_skill_7662.webp",
+  "level": 56,
+  "combat": true
+ },
+ {
+  "id": 7610,
+  "name": {
+   "esES": "Cénit: Condena tormentosa",
+   "es419": "S: Condena Tormentosa",
+   "en": "Prime: Thunderstroke"
+  },
+  "icon": "icons/bdo/04_pc_skill/01_pc_skill/28_pmyf_skill/pmyf_skill_7610.webp",
+  "level": 58,
+  "combat": true
+ },
+ {
+  "id": 7607,
+  "name": {
+   "esES": "Cénit: Cuatro nobles: bambú",
+   "es419": "S: Cuatro Nobles: Bambú",
+   "en": "Prime: Sagoonja: Bamboo"
+  },
+  "icon": "icons/bdo/04_pc_skill/01_pc_skill/28_pmyf_skill/pmyf_skill_7607.webp",
+  "level": 56,
+  "combat": true
+ },
+ {
+  "id": 7608,
+  "name": {
+   "esES": "Cénit: Cuatro nobles: crisantemo",
+   "es419": "S: Cuatro Nobles: Crisantemo",
+   "en": "Prime: Sagoonja: Chrysanth"
+  },
+  "icon": "icons/bdo/04_pc_skill/01_pc_skill/28_pmyf_skill/pmyf_skill_7608.webp",
+  "level": 56,
+  "combat": true
+ },
+ {
+  "id": 7627,
+  "name": {
+   "esES": "Cénit: Cuatro nobles: maehwa",
+   "es419": "S: Cuatro Nobles: Maehwa",
+   "en": "Prime: Sagoonja: Plum"
+  },
+  "icon": "icons/bdo/04_pc_skill/01_pc_skill/28_pmyf_skill/pmyf_skill_7625.webp",
+  "level": 60,
+  "combat": true
+ },
+ {
+  "id": 7616,
+  "name": {
+   "esES": "Cénit: Cuatro nobles: orquídea",
+   "es419": "S: Cuatro Nobles: Orquídea",
+   "en": "Prime: Sagoonja: Orchid"
+  },
+  "icon": "icons/bdo/04_pc_skill/01_pc_skill/28_pmyf_skill/pmyf_skill_7613.webp",
+  "level": 59,
+  "combat": true
+ },
+ {
+  "id": 7630,
+  "name": {
+   "esES": "Cénit: Embate torrencial",
+   "es419": "S: Embate Torrencial",
+   "en": "Prime: Stormfall"
+  },
+  "icon": "icons/bdo/04_pc_skill/01_pc_skill/28_pmyf_skill/pmyf_skill_7628.webp",
+  "level": 60,
+  "combat": true
+ },
+ {
+  "id": 7676,
+  "name": {
+   "esES": "Cénit: Huésped del Do",
+   "es419": "S: Huésped del Do",
+   "en": "Prime: Rain's Thirst"
+  },
+  "icon": "icons/bdo/04_pc_skill/01_pc_skill/28_pmyf_skill/pmyf_skill_7676.webp",
+  "level": 56,
+  "combat": true
+ },
+ {
+  "id": 7609,
+  "name": {
+   "esES": "Cénit: Mariposa serpentina",
+   "es419": "S: Mariposa Serpentina",
+   "en": "Prime: Cloudcarve"
+  },
+  "icon": "icons/bdo/04_pc_skill/01_pc_skill/28_pmyf_skill/pmyf_skill_7609.webp",
+  "level": 57,
+  "combat": true
+ },
+ {
+  "id": 7633,
+  "name": {
+   "esES": "Cénit: Nubarrón",
+   "es419": "S: Nubarrón",
+   "en": "Prime: Cloudrise"
+  },
+  "icon": "icons/bdo/04_pc_skill/01_pc_skill/28_pmyf_skill/pmyf_skill_7631.webp",
+  "level": 60,
+  "combat": true
+ },
+ {
+  "id": 7679,
+  "name": {
+   "esES": "Cénit: Orden mariposa",
+   "es419": "S: Orden Mariposa",
+   "en": "Prime: Inkwrath"
+  },
+  "icon": "icons/bdo/04_pc_skill/01_pc_skill/28_pmyf_skill/pmyf_skill_7679.webp",
+  "level": 59,
+  "combat": true
+ },
+ {
+  "id": 7624,
+  "name": {
+   "esES": "Cénit: Patada implacable",
+   "es419": "S: Patada Implacable",
+   "en": "Prime: Fan Kick"
+  },
+  "icon": "icons/bdo/04_pc_skill/01_pc_skill/28_pmyf_skill/pmyf_skill_7621.webp",
+  "level": 59,
+  "combat": true
+ },
+ {
+  "id": 7620,
+  "name": {
+   "esES": "Cénit: Puntapié",
+   "es419": "S: Puntapié",
+   "en": "Prime: Flutter Kick"
+  },
+  "icon": "icons/bdo/04_pc_skill/01_pc_skill/28_pmyf_skill/pmyf_skill_7617.webp",
+  "level": 59,
+  "combat": true
+ },
+ {
+  "id": 7661,
+  "name": {
+   "esES": "Cénit: Quietud del alma",
+   "es419": "S: Quietud del Alma",
+   "en": "Prime: Tranquil Mind"
+  },
+  "icon": "icons/bdo/04_pc_skill/01_pc_skill/28_pmyf_skill/pmyf_skill_7657.webp",
+  "level": 60,
+  "combat": true
+ },
+ {
+  "id": 7684,
+  "name": {
+   "esES": "Cénit: Rumbo mariposa",
+   "es419": "S: Rumbo Mariposa",
+   "en": "Prime: Flurry"
+  },
+  "icon": "icons/bdo/04_pc_skill/01_pc_skill/28_pmyf_skill/pmyf_skill_7684.webp",
+  "level": 60,
+  "combat": true
+ },
+ {
+  "id": 7634,
+  "name": {
+   "esES": "Cénit: Sueño de la mariposa",
+   "es419": "S: Sueño de la Mariposa",
+   "en": "Prime: Butterfly Dream"
+  },
+  "icon": "icons/bdo/04_pc_skill/01_pc_skill/28_pmyf_skill/pmyf_skill_7634.webp",
+  "level": 56,
+  "combat": true
+ },
+ {
+  "id": 7611,
+  "name": {
+   "esES": "Cénit: Torbellino mariposa",
+   "es419": "S: Torbellino Mariposa",
+   "en": "Prime: Kaleidoscope Swirl"
+  },
+  "icon": "icons/bdo/04_pc_skill/01_pc_skill/28_pmyf_skill/pmyf_skill_7611.webp",
+  "level": 59,
+  "combat": true
+ },
+ {
+  "id": 7612,
+  "name": {
+   "esES": "Cénit: Vendaval intempestivo",
+   "es419": "S: Vendaval Intempestivo",
+   "en": "Prime: Wingbeat"
+  },
+  "icon": "icons/bdo/04_pc_skill/01_pc_skill/28_pmyf_skill/pmyf_skill_7612.webp",
+  "level": 58,
+  "combat": true
+ },
+ {
+  "id": 7717,
+  "name": {
+   "esES": "Claro de luna",
+   "es419": "Luz de Luna",
+   "en": "Lunar Serenade"
+  },
+  "icon": "icons/bdo/04_pc_skill/01_pc_skill/28_pmyf_skill/pmyf_skill_7717.webp",
+  "level": 56,
+  "combat": true
+ },
+ {
+  "id": 7549,
+  "name": {
+   "esES": "Condena tormentosa",
+   "es419": "Condena Tormentosa",
+   "en": "Thunderstroke"
+  },
+  "icon": "icons/bdo/04_pc_skill/01_pc_skill/28_pmyf_skill/pmyf_skill_7547.webp",
+  "level": 48,
+  "combat": true
+ },
+ {
+  "id": 7584,
+  "name": {
+   "esES": "Coraza mental",
+   "es419": "Muro de Cuerpo y Alma",
+   "en": "Fan Wall"
+  },
+  "icon": "icons/bdo/04_pc_skill/01_pc_skill/28_pmyf_skill/pmyf_skill_7584.webp",
+  "level": 1,
+  "combat": true
+ },
+ {
+  "id": 7686,
+  "name": {
+   "esES": "Cosecha ninfeácea",
+   "es419": "Cosecha",
+   "en": "Life Lure"
+  },
+  "icon": "icons/bdo/04_pc_skill/01_pc_skill/28_pmyf_skill/pmyf_skill_7686.webp",
+  "level": 58,
+  "combat": true
+ },
+ {
+  "id": 7535,
+  "name": {
+   "esES": "Cuatro nobles: bambú",
+   "es419": "Cuatro Nobles: Bambú",
+   "en": "Sagoonja: Bamboo"
+  },
+  "icon": "icons/bdo/04_pc_skill/01_pc_skill/28_pmyf_skill/pmyf_skill_7533.webp",
+  "level": 47,
+  "combat": true
+ },
+ {
+  "id": 7596,
+  "name": {
+   "esES": "Cuatro nobles: crisantemo",
+   "es419": "Cuatro Nobles: Crisantemo",
+   "en": "Sagoonja: Chrysanth"
+  },
+  "icon": "icons/bdo/04_pc_skill/01_pc_skill/28_pmyf_skill/pmyf_skill_7594.webp",
+  "level": 45,
+  "combat": true
+ },
+ {
+  "id": 7525,
+  "name": {
+   "esES": "Cuatro nobles: maehwa",
+   "es419": "Cuatro Nobles: Maehwa",
+   "en": "Sagoonja: Plum"
+  },
+  "icon": "icons/bdo/04_pc_skill/01_pc_skill/28_pmyf_skill/pmyf_skill_7522.webp",
+  "level": 50,
+  "combat": true
+ },
+ {
+  "id": 7605,
+  "name": {
+   "esES": "Cuatro nobles: orquídea",
+   "es419": "Cuatro Nobles: Orquídea",
+   "en": "Sagoonja: Orchid"
+  },
+  "icon": "icons/bdo/04_pc_skill/01_pc_skill/28_pmyf_skill/pmyf_skill_7603.webp",
+  "level": 49,
+  "combat": true
+ },
+ {
+  "id": 7687,
+  "name": {
+   "esES": "Danza de las flores",
+   "es419": "Juego de Flores",
+   "en": "Perilous Waltz"
+  },
+  "icon": "icons/bdo/04_pc_skill/01_pc_skill/28_pmyf_skill/pmyf_skill_7687.webp",
+  "level": 57,
+  "combat": true
+ },
+ {
+  "id": 7517,
+  "name": {
+   "esES": "Definitiva: Arte con abanico mariposa",
+   "es419": "Suprema: Arte con Abanico Mariposa",
+   "en": "Absolute: Fan Training"
+  },
+  "icon": "icons/bdo/04_pc_skill/01_pc_skill/28_pmyf_skill/pmyf_skill_7517.webp",
+  "level": 56,
+  "combat": true
+ },
+ {
+  "id": 7600,
+  "name": {
+   "esES": "Definitiva: Asalto bambú",
+   "es419": "Suprema: Asalto Bambú",
+   "en": "Absolute: Bamboo-zled"
+  },
+  "icon": "icons/bdo/04_pc_skill/01_pc_skill/28_pmyf_skill/pmyf_skill_7600.webp",
+  "level": 58,
+  "combat": true
+ },
+ {
+  "id": 7569,
+  "name": {
+   "esES": "Definitiva: Asalto descendente",
+   "es419": "Suprema: Asalto Descendente",
+   "en": "Absolute: Fandown"
+  },
+  "icon": "icons/bdo/04_pc_skill/01_pc_skill/28_pmyf_skill/pmyf_skill_7569.webp",
+  "level": 56,
+  "combat": true
+ },
+ {
+  "id": 7550,
+  "name": {
+   "esES": "Definitiva: Condena tormentosa",
+   "es419": "Suprema: Condena Tormentosa",
+   "en": "Absolute: Thunderstroke"
+  },
+  "icon": "icons/bdo/04_pc_skill/01_pc_skill/28_pmyf_skill/pmyf_skill_7550.webp",
+  "level": 58,
+  "combat": true
+ },
+ {
+  "id": 7536,
+  "name": {
+   "esES": "Definitiva: Cuatro nobles: bambú",
+   "es419": "Suprema: Cuatro Nobles: Bambú",
+   "en": "Absolute: Sagoonja: Bamboo"
+  },
+  "icon": "icons/bdo/04_pc_skill/01_pc_skill/28_pmyf_skill/pmyf_skill_7536.webp",
+  "level": 57,
+  "combat": true
+ },
+ {
+  "id": 7597,
+  "name": {
+   "esES": "Definitiva: Cuatro nobles: crisantemo",
+   "es419": "Suprema: Cuatro Nobles: Crisantemo",
+   "en": "Absolute: Sagoonja: Chrysanth"
+  },
+  "icon": "icons/bdo/04_pc_skill/01_pc_skill/28_pmyf_skill/pmyf_skill_7597.webp",
+  "level": 57,
+  "combat": true
+ },
+ {
+  "id": 7526,
+  "name": {
+   "esES": "Definitiva: Cuatro nobles: maehwa",
+   "es419": "Suprema: Cuatro Nobles: Maehwa",
+   "en": "Absolute: Sagoonja: Plum"
+  },
+  "icon": "icons/bdo/04_pc_skill/01_pc_skill/28_pmyf_skill/pmyf_skill_7526.webp",
+  "level": 56,
+  "combat": true
+ },
+ {
+  "id": 7606,
+  "name": {
+   "esES": "Definitiva: Cuatro nobles: orquídea",
+   "es419": "Suprema: Cuatro Nobles: Orquídea",
+   "en": "Absolute: Sagoonja: Orchid"
+  },
+  "icon": "icons/bdo/04_pc_skill/01_pc_skill/28_pmyf_skill/pmyf_skill_7606.webp",
+  "level": 59,
+  "combat": true
+ },
+ {
+  "id": 7531,
+  "name": {
+   "esES": "Definitiva: Embate torrencial",
+   "es419": "Suprema: Embate Torrencial",
+   "en": "Absolute: Stormfall"
+  },
+  "icon": "icons/bdo/04_pc_skill/01_pc_skill/28_pmyf_skill/pmyf_skill_7531.webp",
+  "level": 60,
+  "combat": true
+ },
+ {
+  "id": 7554,
+  "name": {
+   "esES": "Definitiva: Envite",
+   "es419": "Suprema: Envite",
+   "en": "Absolute: Stave Strike"
+  },
+  "icon": "icons/bdo/04_pc_skill/01_pc_skill/28_pmyf_skill/pmyf_skill_7554.webp",
+  "level": 56,
+  "combat": true
+ },
+ {
+  "id": 7558,
+  "name": {
+   "esES": "Definitiva: Floranubosa",
+   "es419": "Suprema: Floranubosa",
+   "en": "Absolute: Cloud Flower"
+  },
+  "icon": "icons/bdo/04_pc_skill/01_pc_skill/28_pmyf_skill/pmyf_skill_7558.webp",
+  "level": 58,
+  "combat": true
+ },
+ {
+  "id": 7545,
+  "name": {
+   "esES": "Definitiva: Mariposa serpentina",
+   "es419": "Suprema: Mariposa Serpentina",
+   "en": "Absolute: Cloudcarve"
+  },
+  "icon": "icons/bdo/04_pc_skill/01_pc_skill/28_pmyf_skill/pmyf_skill_7545.webp",
+  "level": 58,
+  "combat": true
+ },
+ {
+  "id": 7591,
+  "name": {
+   "esES": "Definitiva: Nimbo mariposa",
+   "es419": "Suprema: Nimbo Mariposa",
+   "en": "Absolute: Butterfly Step"
+  },
+  "icon": "icons/bdo/04_pc_skill/01_pc_skill/28_pmyf_skill/pmyf_skill_7589.webp",
+  "level": 56,
+  "combat": true
+ },
+ {
+  "id": 7583,
+  "name": {
+   "esES": "Definitiva: Nubarrón",
+   "es419": "Suprema: Nubarrón",
+   "en": "Absolute: Cloudrise"
+  },
+  "icon": "icons/bdo/04_pc_skill/01_pc_skill/28_pmyf_skill/pmyf_skill_7583.webp",
+  "level": 60,
+  "combat": true
+ },
+ {
+  "id": 7577,
+  "name": {
+   "esES": "Definitiva: Patada implacable",
+   "es419": "Suprema: Patada Implacable",
+   "en": "Absolute: Fan Kick"
+  },
+  "icon": "icons/bdo/04_pc_skill/01_pc_skill/28_pmyf_skill/pmyf_skill_7577.webp",
+  "level": 56,
+  "combat": true
+ },
+ {
+  "id": 7573,
+  "name": {
+   "esES": "Definitiva: Puntapié",
+   "es419": "Suprema: Puntapié",
+   "en": "Absolute: Flutter Kick"
+  },
+  "icon": "icons/bdo/04_pc_skill/01_pc_skill/28_pmyf_skill/pmyf_skill_7573.webp",
+  "level": 56,
+  "combat": true
+ },
+ {
+  "id": 7565,
+  "name": {
+   "esES": "Definitiva: Reprimenda",
+   "es419": "Suprema: Reprimenda",
+   "en": "Absolute: Pummel"
+  },
+  "icon": "icons/bdo/04_pc_skill/01_pc_skill/28_pmyf_skill/pmyf_skill_7565.webp",
+  "level": 56,
+  "combat": true
+ },
+ {
+  "id": 7540,
+  "name": {
+   "esES": "Definitiva: Silencio forzado",
+   "es419": "Suprema: Silencio Forzado",
+   "en": "Absolute: Silent Strike"
+  },
+  "icon": "icons/bdo/04_pc_skill/01_pc_skill/28_pmyf_skill/pmyf_skill_7540.webp",
+  "level": 59,
+  "combat": true
+ },
+ {
+  "id": 7521,
+  "name": {
+   "esES": "Definitiva: Torbellino mariposa",
+   "es419": "Suprema: Torbellino Mariposa",
+   "en": "Absolute: Kaleidoscope Swirl"
+  },
+  "icon": "icons/bdo/04_pc_skill/01_pc_skill/28_pmyf_skill/pmyf_skill_7521.webp",
+  "level": 57,
+  "combat": true
+ },
+ {
+  "id": 7561,
+  "name": {
+   "esES": "Definitiva: Vendaval intempestivo",
+   "es419": "Suprema: Vendaval Intempestivo",
+   "en": "Absolute: Wingbeat"
+  },
+  "icon": "icons/bdo/04_pc_skill/01_pc_skill/28_pmyf_skill/pmyf_skill_7561.webp",
+  "level": 57,
+  "combat": true
+ },
+ {
+  "id": 7729,
+  "name": {
+   "esES": "Despertar: Tomo místico de Sahui",
+   "es419": "Despertar : Tomo Místico de la Princesa",
+   "en": "Awakening: Sahee's Soulbinding"
+  },
+  "icon": "icons/bdo/04_pc_skill/01_pc_skill/28_pmyf_skill/pmyf_skill_7729.webp",
+  "level": 56,
+  "combat": true
+ },
+ {
+  "id": 7744,
+  "name": {
+   "esES": "Elvia: Incineración",
+   "es419": "Elvia: Incineración",
+   "en": "Elvia: Purging Flame"
+  },
+  "icon": "icons/bdo/04_pc_skill/01_pc_skill/28_pmyf_skill/pmyf_skill_7744.webp",
+  "level": 60,
+  "combat": true
+ },
+ {
+  "id": 7530,
+  "name": {
+   "esES": "Embate torrencial",
+   "es419": "Embate Torrencial",
+   "en": "Stormfall"
+  },
+  "icon": "icons/bdo/04_pc_skill/01_pc_skill/28_pmyf_skill/pmyf_skill_7527.webp",
+  "level": 55,
+  "combat": true
+ },
+ {
+  "id": 7553,
+  "name": {
+   "esES": "Envite",
+   "es419": "Envite",
+   "en": "Stave Strike"
+  },
+  "icon": "icons/bdo/04_pc_skill/01_pc_skill/28_pmyf_skill/pmyf_skill_7551.webp",
+  "level": 35,
+  "combat": true
+ },
+ {
+  "id": 7701,
+  "name": {
+   "esES": "Espíritu fugaz",
+   "es419": "Alma Pasante",
+   "en": "Nether Blast"
+  },
+  "icon": "icons/bdo/04_pc_skill/01_pc_skill/28_pmyf_skill/pmyf_skill_7698.webp",
+  "level": 59,
+  "combat": true
+ },
+ {
+  "id": 7688,
+  "name": {
+   "esES": "Espíritu pasajero",
+   "es419": "Flores del Cielo",
+   "en": "Soul Cleanse"
+  },
+  "icon": "icons/bdo/04_pc_skill/01_pc_skill/28_pmyf_skill/pmyf_skill_7688.webp",
+  "level": 56,
+  "combat": true
+ },
+ {
+  "id": 7683,
+  "name": {
+   "esES": "Esplendor primaveral",
+   "es419": "Esplendor Primaveral",
+   "en": "Spring Blossom"
+  },
+  "icon": "icons/bdo/04_pc_skill/01_pc_skill/28_pmyf_skill/pmyf_skill_7683.webp",
+  "level": 58,
+  "combat": true
+ },
+ {
+  "id": 7685,
+  "name": {
+   "esES": "Estallido florígero",
+   "es419": "El Florecer",
+   "en": "Bloomburst"
+  },
+  "icon": "icons/bdo/04_pc_skill/01_pc_skill/28_pmyf_skill/pmyf_skill_7685.webp",
+  "level": 57,
+  "combat": true
+ },
+ {
+  "id": 7656,
+  "name": {
+   "esES": "Eterno misterio",
+   "es419": "Eterno Misterio",
+   "en": "Mystery of Mysteries"
+  },
+  "icon": "icons/bdo/04_pc_skill/01_pc_skill/28_pmyf_skill/pmyf_skill_7656.webp",
+  "level": 1,
+  "combat": true
+ },
+ {
+  "id": 7506,
+  "name": {
+   "esES": "Evasión",
+   "es419": "Evasión",
+   "en": "Evasion"
+  },
+  "icon": "icons/bdo/04_pc_skill/01_pc_skill/28_pmyf_skill/pmyf_skill_7506.webp",
+  "level": 1,
+  "combat": true
+ },
+ {
+  "id": 7708,
+  "name": {
+   "esES": "Explosión floral",
+   "es419": "Melodía de la Galaxia",
+   "en": "Soul Shower"
+  },
+  "icon": "icons/bdo/04_pc_skill/01_pc_skill/28_pmyf_skill/pmyf_skill_7706.webp",
+  "level": 60,
+  "combat": true
+ },
+ {
+  "id": 7736,
+  "name": {
+   "esES": "Flor sanguina",
+   "es419": "Flor sanguina",
+   "en": "Bloodsari Flower"
+  },
+  "icon": "icons/bdo/04_pc_skill/01_pc_skill/28_pmyf_skill/pmyf_skill_7736.webp",
+  "level": 60,
+  "combat": true
+ },
+ {
+  "id": 7557,
+  "name": {
+   "esES": "Floranubosa",
+   "es419": "Floranubosa",
+   "en": "Cloud Flower"
+  },
+  "icon": "icons/bdo/04_pc_skill/01_pc_skill/28_pmyf_skill/pmyf_skill_7555.webp",
+  "level": 42,
+  "combat": true
+ },
+ {
+  "id": 7690,
+  "name": {
+   "esES": "Florecer del loto",
+   "es419": "Orden de Flores",
+   "en": "Bloom Deluge"
+  },
+  "icon": "icons/bdo/04_pc_skill/01_pc_skill/28_pmyf_skill/pmyf_skill_7690.webp",
+  "level": 59,
+  "combat": true
+ },
+ {
+  "id": 7696,
+  "name": {
+   "esES": "Flores del inframundo",
+   "es419": "Llamada de las Flores",
+   "en": "Blooming Death"
+  },
+  "icon": "icons/bdo/04_pc_skill/01_pc_skill/28_pmyf_skill/pmyf_skill_7693.webp",
+  "level": 59,
+  "combat": true
+ },
+ {
+  "id": 4856,
+  "name": {
+   "esES": "Gran poder",
+   "es419": "Gran Poder",
+   "en": "Unyielding Might"
+  },
+  "icon": "icons/bdo/04_pc_skill/01_pc_skill/00_common/common_skill_18705.webp",
+  "level": 62,
+  "combat": true
+ },
+ {
+  "id": 7654,
+  "name": {
+   "esES": "Introspección",
+   "es419": "Introspección",
+   "en": "Meditation"
+  },
+  "icon": "icons/bdo/04_pc_skill/01_pc_skill/28_pmyf_skill/pmyf_skill_7635.webp",
+  "level": 60,
+  "combat": true
+ },
+ {
+  "id": 1707,
+  "name": {
+   "esES": "Maestría infinita",
+   "es419": "Maestría Infinita",
+   "en": "Infinite Mastery"
+  },
+  "icon": "icons/bdo/04_pc_skill/01_pc_skill/00_common/common_skill_1702.webp",
+  "level": 55,
+  "combat": true
+ },
+ {
+  "id": 7544,
+  "name": {
+   "esES": "Mariposa serpentina",
+   "es419": "Mariposa Serpentina",
+   "en": "Cloudcarve"
+  },
+  "icon": "icons/bdo/04_pc_skill/01_pc_skill/28_pmyf_skill/pmyf_skill_7541.webp",
+  "level": 53,
+  "combat": true
+ },
+ {
+  "id": 7537,
+  "name": {
+   "esES": "Mariposa tigre",
+   "es419": "Mariposa Tigre",
+   "en": "Tigerfly"
+  },
+  "icon": "icons/bdo/04_pc_skill/01_pc_skill/28_pmyf_skill/pmyf_skill_7537.webp",
+  "level": 8,
+  "combat": true
+ },
+ {
+  "id": 7709,
+  "name": {
+   "esES": "Movimiento: ¡Atrapadlos!",
+   "es419": "Flujo : ¡Detente!",
+   "en": "Flow: Soul Shock"
+  },
+  "icon": "icons/bdo/04_pc_skill/01_pc_skill/28_pmyf_skill/pmyf_skill_7709.webp",
+  "level": 60,
+  "combat": true
+ },
+ {
+  "id": 7697,
+  "name": {
+   "esES": "Movimiento: ¡Largaos!",
+   "es419": "Flujo : ¡Alejate de mí!",
+   "en": "Flow: River's End"
+  },
+  "icon": "icons/bdo/04_pc_skill/01_pc_skill/28_pmyf_skill/pmyf_skill_7697.webp",
+  "level": 59,
+  "combat": true
+ },
+ {
+  "id": 7692,
+  "name": {
+   "esES": "Movimiento: Plena floración",
+   "es419": "Flujo : Plena Floración",
+   "en": "Flow: Bloom"
+  },
+  "icon": "icons/bdo/04_pc_skill/01_pc_skill/28_pmyf_skill/pmyf_skill_7692.webp",
+  "level": 60,
+  "combat": true
+ },
+ {
+  "id": 7546,
+  "name": {
+   "esES": "Movimiento: Rayo",
+   "es419": "Flujo: rayo",
+   "en": "Flow: Stormbolt"
+  },
+  "icon": "icons/bdo/04_pc_skill/01_pc_skill/28_pmyf_skill/pmyf_skill_7546.webp",
+  "level": 28,
+  "combat": true
+ },
+ {
+  "id": 7713,
+  "name": {
+   "esES": "Movimiento: Senda celeste",
+   "es419": "Flujo : Camino Celestial",
+   "en": "Flow: Death's Proclamation"
+  },
+  "icon": "icons/bdo/04_pc_skill/01_pc_skill/28_pmyf_skill/pmyf_skill_7713.webp",
+  "level": 58,
+  "combat": true
+ },
+ {
+  "id": 7689,
+  "name": {
+   "esES": "Movimiento: Siembra ninfeácea",
+   "es419": "Flujo : Siembra",
+   "en": "Flow: Seocheon Field"
+  },
+  "icon": "icons/bdo/04_pc_skill/01_pc_skill/28_pmyf_skill/pmyf_skill_7689.webp",
+  "level": 58,
+  "combat": true
+ },
+ {
+  "id": 7677,
+  "name": {
+   "esES": "Nido de las mariposas",
+   "es419": "Nido de Mariposa",
+   "en": "Kaleidoscope Flower"
+  },
+  "icon": "icons/bdo/04_pc_skill/01_pc_skill/28_pmyf_skill/pmyf_skill_7677.webp",
+  "level": 56,
+  "combat": true
+ },
+ {
+  "id": 7590,
+  "name": {
+   "esES": "Nimbo mariposa",
+   "es419": "Nimbo Mariposa",
+   "en": "Butterfly Step"
+  },
+  "icon": "icons/bdo/04_pc_skill/01_pc_skill/28_pmyf_skill/pmyf_skill_7589.webp",
+  "level": 31,
+  "combat": true
+ },
+ {
+  "id": 7680,
+  "name": {
+   "esES": "Nimbo ondulante",
+   "es419": "Nimbo Ondulante",
+   "en": "Inkstroke"
+  },
+  "icon": "icons/bdo/04_pc_skill/01_pc_skill/28_pmyf_skill/pmyf_skill_7680.webp",
+  "level": 57,
+  "combat": true
+ },
+ {
+  "id": 7582,
+  "name": {
+   "esES": "Nubarrón",
+   "es419": "Nubarrón",
+   "en": "Cloudrise"
+  },
+  "icon": "icons/bdo/04_pc_skill/01_pc_skill/28_pmyf_skill/pmyf_skill_7578.webp",
+  "level": 56,
+  "combat": true
+ },
+ {
+  "id": 7665,
+  "name": {
+   "esES": "Nube tormentosa",
+   "es419": "Viento Meridional",
+   "en": "Thundercall"
+  },
+  "icon": "icons/bdo/04_pc_skill/01_pc_skill/28_pmyf_skill/pmyf_skill_7665.webp",
+  "level": 60,
+  "combat": true
+ },
+ {
+  "id": 7585,
+  "name": {
+   "esES": "Pasos etéreos",
+   "es419": "Pasos Etéreos",
+   "en": "Flitting Step"
+  },
+  "icon": "icons/bdo/04_pc_skill/01_pc_skill/28_pmyf_skill/pmyf_skill_7585.webp",
+  "level": 1,
+  "combat": true
+ },
+ {
+  "id": 7705,
+  "name": {
+   "esES": "Patada celestial",
+   "es419": "Patada Lateral",
+   "en": "Netherstrike"
+  },
+  "icon": "icons/bdo/04_pc_skill/01_pc_skill/28_pmyf_skill/pmyf_skill_7702.webp",
+  "level": 59,
+  "combat": true
+ },
+ {
+  "id": 7576,
+  "name": {
+   "esES": "Patada implacable",
+   "es419": "Patada Implacable",
+   "en": "Fan Kick"
+  },
+  "icon": "icons/bdo/04_pc_skill/01_pc_skill/28_pmyf_skill/pmyf_skill_7574.webp",
+  "level": 37,
+  "combat": true
+ },
+ {
+  "id": 7734,
+  "name": {
+   "esES": "Primordial: Canto lunar",
+   "es419": "Bon : Canción de la Luna",
+   "en": "Core: Mark of the Moon"
+  },
+  "icon": "icons/bdo/04_pc_skill/01_pc_skill/28_pmyf_skill/pmyf_skill_7710.webp",
+  "level": 60,
+  "combat": true
+ },
+ {
+  "id": 7731,
+  "name": {
+   "esES": "Primordial: Espíritu fugaz",
+   "es419": "Bon : Alma Pasante",
+   "en": "Core: Nether Blast"
+  },
+  "icon": "icons/bdo/04_pc_skill/01_pc_skill/28_pmyf_skill/pmyf_skill_7698.webp",
+  "level": 60,
+  "combat": true
+ },
+ {
+  "id": 7733,
+  "name": {
+   "esES": "Primordial: Explosión floral",
+   "es419": "Bon : Melodía de la Galaxia",
+   "en": "Core: Soul Shower"
+  },
+  "icon": "icons/bdo/04_pc_skill/01_pc_skill/28_pmyf_skill/pmyf_skill_7706.webp",
+  "level": 60,
+  "combat": true
+ },
+ {
+  "id": 7732,
+  "name": {
+   "esES": "Primordial: Patada celestial",
+   "es419": "Bon : Patada Lateral",
+   "en": "Core: Netherstrike"
+  },
+  "icon": "icons/bdo/04_pc_skill/01_pc_skill/28_pmyf_skill/pmyf_skill_7702.webp",
+  "level": 60,
+  "combat": true
+ },
+ {
+  "id": 7735,
+  "name": {
+   "esES": "Primordial: Toque de Sahui",
+   "es419": "Bon : Advenimiento de la Princesa",
+   "en": "Core: Sahee's Descent"
+  },
+  "icon": "icons/bdo/04_pc_skill/01_pc_skill/28_pmyf_skill/pmyf_skill_7714.webp",
+  "level": 60,
+  "combat": true
+ },
+ {
+  "id": 7572,
+  "name": {
+   "esES": "Puntapié",
+   "es419": "Puntapié",
+   "en": "Flutter Kick"
+  },
+  "icon": "icons/bdo/04_pc_skill/01_pc_skill/28_pmyf_skill/pmyf_skill_7570.webp",
+  "level": 36,
+  "combat": true
+ },
+ {
+  "id": 7691,
+  "name": {
+   "esES": "Reflejo de la luna",
+   "es419": "Luna Ascendiente",
+   "en": "Moonlit Blast"
+  },
+  "icon": "icons/bdo/04_pc_skill/01_pc_skill/28_pmyf_skill/pmyf_skill_7691.webp",
+  "level": 60,
+  "combat": true
+ },
+ {
+  "id": 7681,
+  "name": {
+   "esES": "Remolino fulgurante",
+   "es419": "Remolino Fulgurante",
+   "en": "Cloudburst"
+  },
+  "icon": "icons/bdo/04_pc_skill/01_pc_skill/28_pmyf_skill/pmyf_skill_7681.webp",
+  "level": 57,
+  "combat": true
+ },
+ {
+  "id": 7564,
+  "name": {
+   "esES": "Reprimenda",
+   "es419": "Reprimenda",
+   "en": "Pummel"
+  },
+  "icon": "icons/bdo/04_pc_skill/01_pc_skill/28_pmyf_skill/pmyf_skill_7562.webp",
+  "level": 38,
+  "combat": true
+ },
+ {
+  "id": 92,
+  "name": {
+   "esES": "Retirada oscura",
+   "es419": "Escape de Emergencia",
+   "en": "Emergency Escape"
+  },
+  "icon": "icons/bdo/04_pc_skill/01_pc_skill/00_common/common_skill_0092.webp",
+  "level": 1,
+  "combat": true
+ },
+ {
+  "id": 7682,
+  "name": {
+   "esES": "Revitalización",
+   "es419": "Revitalización",
+   "en": "Reinvigorate"
+  },
+  "icon": "icons/bdo/04_pc_skill/01_pc_skill/28_pmyf_skill/pmyf_skill_7682.webp",
+  "level": 58,
+  "combat": true
+ },
+ {
+  "id": 7539,
+  "name": {
+   "esES": "Silencio forzado",
+   "es419": "Silencio Forzado",
+   "en": "Silent Strike"
+  },
+  "icon": "icons/bdo/04_pc_skill/01_pc_skill/28_pmyf_skill/pmyf_skill_7538.webp",
+  "level": 48,
+  "combat": true
+ },
+ {
+  "id": 7655,
+  "name": {
+   "esES": "Sosiego",
+   "es419": "Sosiego",
+   "en": "Peace of Mind"
+  },
+  "icon": "icons/bdo/04_pc_skill/01_pc_skill/28_pmyf_skill/pmyf_skill_7655.webp",
+  "level": 20,
+  "combat": true
+ },
+ {
+  "id": 7716,
+  "name": {
+   "esES": "Toque de Sahui",
+   "es419": "Advenimiento de la Princesa",
+   "en": "Sahee's Descent"
+  },
+  "icon": "icons/bdo/04_pc_skill/01_pc_skill/28_pmyf_skill/pmyf_skill_7714.webp",
+  "level": 60,
+  "combat": true
+ },
+ {
+  "id": 7520,
+  "name": {
+   "esES": "Torbellino mariposa",
+   "es419": "Torbellino Mariposa",
+   "en": "Kaleidoscope Swirl"
+  },
+  "icon": "icons/bdo/04_pc_skill/01_pc_skill/28_pmyf_skill/pmyf_skill_7518.webp",
+  "level": 43,
+  "combat": true
+ },
+ {
+  "id": 7678,
+  "name": {
+   "esES": "Tormenta boreal",
+   "es419": "Viento Gélido",
+   "en": "Chrysanth Swirl"
+  },
+  "icon": "icons/bdo/04_pc_skill/01_pc_skill/28_pmyf_skill/pmyf_skill_7678.webp",
+  "level": 56,
+  "combat": true
+ },
+ {
+  "id": 91,
+  "name": {
+   "esES": "Transfuria",
+   "es419": "Transferencia de Furia",
+   "en": "Rage Transfer"
+  },
+  "icon": "icons/bdo/04_pc_skill/01_pc_skill/00_common/common_skill_0091.webp",
+  "level": 35,
+  "combat": true
+ },
+ {
+  "id": 7560,
+  "name": {
+   "esES": "Vendaval intempestivo",
+   "es419": "Vendaval Intempestivo",
+   "en": "Wingbeat"
+  },
+  "icon": "icons/bdo/04_pc_skill/01_pc_skill/28_pmyf_skill/pmyf_skill_7559.webp",
+  "level": 39,
+  "combat": true
+ }
+]

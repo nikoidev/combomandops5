@@ -1,0 +1,728 @@
+[
+ {
+  "id": 3459,
+  "name": {
+   "esES": "Absorción de furia",
+   "es419": "Absorción de Furia",
+   "en": "Rage Absorption"
+  },
+  "icon": "icons/bdo/04_pc_skill/01_pc_skill/00_common/common_skill_0090.webp",
+  "level": 35,
+  "combat": true
+ },
+ {
+  "id": 89,
+  "name": {
+   "esES": "Absorción de furia (latente)",
+   "es419": "Absorción de Furia (Innato)",
+   "en": "Rage Absorption (Innate)"
+  },
+  "icon": "icons/bdo/04_pc_skill/01_pc_skill/00_common/common_skill_0090.webp",
+  "level": 35,
+  "combat": true
+ },
+ {
+  "id": 8988,
+  "name": {
+   "esES": "Al estilo Canary",
+   "es419": "El Método Canary",
+   "en": "The Canary Way"
+  },
+  "icon": "icons/bdo/04_pc_skill/01_pc_skill/32_pwge_skill/pwge_skill_8969.webp",
+  "level": 60,
+  "combat": true
+ },
+ {
+  "id": 9053,
+  "name": {
+   "esES": "Aliento abrasador",
+   "es419": "Aliento Abrasador",
+   "en": "Dragon's Breath"
+  },
+  "icon": "icons/bdo/04_pc_skill/01_pc_skill/32_pwge_skill/pwge_skill_9053.webp",
+  "level": 57,
+  "combat": true
+ },
+ {
+  "id": 9010,
+  "name": {
+   "esES": "Arte de la destrucción",
+   "es419": "Arte de la Destrucción",
+   "en": "Beautiful Demolition"
+  },
+  "icon": "icons/bdo/04_pc_skill/01_pc_skill/32_pwge_skill/pwge_skill_9006.webp",
+  "level": 60,
+  "combat": true
+ },
+ {
+  "id": 8952,
+  "name": {
+   "esES": "Baño de sangre",
+   "es419": "Tempestad Sangrienta",
+   "en": "Bulletstorm"
+  },
+  "icon": "icons/bdo/04_pc_skill/01_pc_skill/32_pwge_skill/pwge_skill_8950.webp",
+  "level": 54,
+  "combat": true
+ },
+ {
+  "id": 2076,
+  "name": {
+   "esES": "Cazador hábil",
+   "es419": "Cazador Experto",
+   "en": "Skilled Hunter"
+  },
+  "icon": "icons/bdo/04_pc_skill/01_pc_skill/06_pkm_skill/pkm_skill_2072.webp",
+  "level": 60,
+  "combat": true
+ },
+ {
+  "id": 8953,
+  "name": {
+   "esES": "Definitiva: Baño de sangre",
+   "es419": "Suprema: Tempestad Sangrienta",
+   "en": "Absolute: Bulletstorm"
+  },
+  "icon": "icons/bdo/04_pc_skill/01_pc_skill/32_pwge_skill/pwge_skill_8953.webp",
+  "level": 60,
+  "combat": true
+ },
+ {
+  "id": 8915,
+  "name": {
+   "esES": "Definitiva: Disparo fugaz",
+   "es419": "Suprema: Disparo Rápido",
+   "en": "Absolute: Quick Draw"
+  },
+  "icon": "icons/bdo/04_pc_skill/01_pc_skill/32_pwge_skill/pwge_skill_8915.webp",
+  "level": 58,
+  "combat": true
+ },
+ {
+  "id": 8927,
+  "name": {
+   "esES": "Definitiva: Dolor supremo",
+   "es419": "Suprema: Dolor Máximo",
+   "en": "Absolute: Max Pain"
+  },
+  "icon": "icons/bdo/04_pc_skill/01_pc_skill/32_pwge_skill/pwge_skill_8927.webp",
+  "level": 56,
+  "combat": true
+ },
+ {
+  "id": 8949,
+  "name": {
+   "esES": "Definitiva: Fatalidad",
+   "es419": "Supremo: Destino Acabado",
+   "en": "Absolute: Doom 'N Gloom"
+  },
+  "icon": "icons/bdo/04_pc_skill/01_pc_skill/32_pwge_skill/pwge_skill_8949.webp",
+  "level": 57,
+  "combat": true
+ },
+ {
+  "id": 8911,
+  "name": {
+   "esES": "Definitiva: Maestría del revólver",
+   "es419": "Suprema: Destreza de los Revólveres",
+   "en": "Absolute: Revolver Mastery"
+  },
+  "icon": "icons/bdo/04_pc_skill/01_pc_skill/32_pwge_skill/pwge_skill_8911.webp",
+  "level": 56,
+  "combat": true
+ },
+ {
+  "id": 8964,
+  "name": {
+   "esES": "Definitiva: Movimiento: Disparo evasivo",
+   "es419": "Supremo: Flujo: Tiro de Evasión",
+   "en": "Absolute: Flow: Evasive Fire"
+  },
+  "icon": "icons/bdo/04_pc_skill/01_pc_skill/32_pwge_skill/pwge_skill_8964.webp",
+  "level": 56,
+  "combat": true
+ },
+ {
+  "id": 8941,
+  "name": {
+   "esES": "Definitiva: Muerte desatada",
+   "es419": "Suprema: Muerte Anunciada",
+   "en": "Absolute: Hell's Spread"
+  },
+  "icon": "icons/bdo/04_pc_skill/01_pc_skill/32_pwge_skill/pwge_skill_8941.webp",
+  "level": 56,
+  "combat": true
+ },
+ {
+  "id": 8931,
+  "name": {
+   "esES": "Definitiva: Ocaso desgarrado",
+   "es419": "Supremo: Perforando el Atardecer",
+   "en": "Absolute: Sunset Piercer"
+  },
+  "icon": "icons/bdo/04_pc_skill/01_pc_skill/32_pwge_skill/pwge_skill_8931.webp",
+  "level": 60,
+  "combat": true
+ },
+ {
+  "id": 8968,
+  "name": {
+   "esES": "Definitiva: Pandemonio",
+   "es419": "Suprema: Caos",
+   "en": "Absolute: Mayhem"
+  },
+  "icon": "icons/bdo/04_pc_skill/01_pc_skill/32_pwge_skill/pwge_skill_8968.webp",
+  "level": 60,
+  "combat": true
+ },
+ {
+  "id": 8919,
+  "name": {
+   "esES": "Definitiva: Paso remolino",
+   "es419": "Suprema: Patada Remolino",
+   "en": "Absolute: Dust Devil"
+  },
+  "icon": "icons/bdo/04_pc_skill/01_pc_skill/32_pwge_skill/pwge_skill_8919.webp",
+  "level": 56,
+  "combat": true
+ },
+ {
+  "id": 8957,
+  "name": {
+   "esES": "Definitiva: Pionera",
+   "es419": "Supremo: Abre Caminos",
+   "en": "Absolute: Trailblaze"
+  },
+  "icon": "icons/bdo/04_pc_skill/01_pc_skill/32_pwge_skill/pwge_skill_8957.webp",
+  "level": 56,
+  "combat": true
+ },
+ {
+  "id": 8922,
+  "name": {
+   "esES": "Definitiva: Pistolera en marcha",
+   "es419": "Suprema: Pistolera en Acción",
+   "en": "Absolute: Gunslinger's Entrance"
+  },
+  "icon": "icons/bdo/04_pc_skill/01_pc_skill/32_pwge_skill/pwge_skill_8922.webp",
+  "level": 57,
+  "combat": true
+ },
+ {
+  "id": 8961,
+  "name": {
+   "esES": "Definitiva: Salva estelar",
+   "es419": "Suprema: Chispas de Estrella",
+   "en": "Absolute: Star-Spangled Barrage"
+  },
+  "icon": "icons/bdo/04_pc_skill/01_pc_skill/32_pwge_skill/pwge_skill_8961.webp",
+  "level": 59,
+  "combat": true
+ },
+ {
+  "id": 8937,
+  "name": {
+   "esES": "Definitiva: Sonrisa falsa",
+   "es419": "Suprema: Sonrisa Engañosa",
+   "en": "Absolute: Ol' Switcheroo"
+  },
+  "icon": "icons/bdo/04_pc_skill/01_pc_skill/32_pwge_skill/pwge_skill_8937.webp",
+  "level": 57,
+  "combat": true
+ },
+ {
+  "id": 8933,
+  "name": {
+   "esES": "Definitiva: Tiro a cubierta",
+   "es419": "Suprema: Tiro Encubierto",
+   "en": "Absolute: Drop Cover"
+  },
+  "icon": "icons/bdo/04_pc_skill/01_pc_skill/32_pwge_skill/pwge_skill_8933.webp",
+  "level": 56,
+  "combat": true
+ },
+ {
+  "id": 8945,
+  "name": {
+   "esES": "Definitiva: Tiro en acción",
+   "es419": "Supremo: Tiro Móvil",
+   "en": "Absolute: Run 'N Gun"
+  },
+  "icon": "icons/bdo/04_pc_skill/01_pc_skill/32_pwge_skill/pwge_skill_8945.webp",
+  "level": 59,
+  "combat": true
+ },
+ {
+  "id": 9020,
+  "name": {
+   "esES": "Disparo aéreo",
+   "es419": "Explosión Aérea",
+   "en": "Bombs Burstin' in Air"
+  },
+  "icon": "icons/bdo/04_pc_skill/01_pc_skill/32_pwge_skill/pwge_skill_9016.webp",
+  "level": 60,
+  "combat": true
+ },
+ {
+  "id": 9051,
+  "name": {
+   "esES": "Disparo de supresión",
+   "es419": "Disparo hostigador",
+   "en": "Suppressing Fire"
+  },
+  "icon": "icons/bdo/04_pc_skill/01_pc_skill/32_pwge_skill/pwge_skill_9051.webp",
+  "level": 56,
+  "combat": true
+ },
+ {
+  "id": 8914,
+  "name": {
+   "esES": "Disparo fugaz",
+   "es419": "Disparo Rápido",
+   "en": "Quick Draw"
+  },
+  "icon": "icons/bdo/04_pc_skill/01_pc_skill/32_pwge_skill/pwge_skill_8912.webp",
+  "level": 50,
+  "combat": true
+ },
+ {
+  "id": 8926,
+  "name": {
+   "esES": "Dolor supremo",
+   "es419": "Dolor Máximo",
+   "en": "Max Pain"
+  },
+  "icon": "icons/bdo/04_pc_skill/01_pc_skill/32_pwge_skill/pwge_skill_8924.webp",
+  "level": 41,
+  "combat": true
+ },
+ {
+  "id": 9043,
+  "name": {
+   "esES": "Duelo de forajidos",
+   "es419": "Duelo de Forajidos",
+   "en": "Gunslinger's Standoff"
+  },
+  "icon": "icons/bdo/04_pc_skill/01_pc_skill/32_pwge_skill/pwge_skill_9043.webp",
+  "level": 56,
+  "combat": true
+ },
+ {
+  "id": 8989,
+  "name": {
+   "esES": "El bueno, el feo y el malo",
+   "es419": "El Bueno, El Malo y El Feo",
+   "en": "The Good, the Bad, the Ugly"
+  },
+  "icon": "icons/bdo/04_pc_skill/01_pc_skill/32_pwge_skill/pwge_skill_8989.webp",
+  "level": 1,
+  "combat": true
+ },
+ {
+  "id": 8923,
+  "name": {
+   "esES": "Encubrimiento",
+   "es419": "A cubierto",
+   "en": "Take Cover"
+  },
+  "icon": "icons/bdo/04_pc_skill/01_pc_skill/32_pwge_skill/pwge_skill_8923.webp",
+  "level": 1,
+  "combat": true
+ },
+ {
+  "id": 8900,
+  "name": {
+   "esES": "Evasión",
+   "es419": "Evasión",
+   "en": "Evasion"
+  },
+  "icon": "icons/bdo/04_pc_skill/01_pc_skill/32_pwge_skill/pwge_skill_8900.webp",
+  "level": 1,
+  "combat": true
+ },
+ {
+  "id": 8948,
+  "name": {
+   "esES": "Fatalidad",
+   "es419": "Destino Acabado",
+   "en": "Doom 'N Gloom"
+  },
+  "icon": "icons/bdo/04_pc_skill/01_pc_skill/32_pwge_skill/pwge_skill_8946.webp",
+  "level": 54,
+  "combat": true
+ },
+ {
+  "id": 8995,
+  "name": {
+   "esES": "Fulgor de cohete",
+   "es419": "Explosión Escarlata",
+   "en": "Rocket's Red Glare"
+  },
+  "icon": "icons/bdo/04_pc_skill/01_pc_skill/32_pwge_skill/pwge_skill_8991.webp",
+  "level": 60,
+  "combat": true
+ },
+ {
+  "id": 4856,
+  "name": {
+   "esES": "Gran poder",
+   "es419": "Gran Poder",
+   "en": "Unyielding Might"
+  },
+  "icon": "icons/bdo/04_pc_skill/01_pc_skill/00_common/common_skill_18705.webp",
+  "level": 62,
+  "combat": true
+ },
+ {
+  "id": 9048,
+  "name": {
+   "esES": "Lanzamiento a retaguardia",
+   "es419": "Maniobra de Retaguardia",
+   "en": "Evasive Maneuver"
+  },
+  "icon": "icons/bdo/04_pc_skill/01_pc_skill/32_pwge_skill/pwge_skill_9044.webp",
+  "level": 59,
+  "combat": true
+ },
+ {
+  "id": 8910,
+  "name": {
+   "esES": "Maestría del revólver",
+   "es419": "Destreza de los Revólveres",
+   "en": "Revolver Mastery"
+  },
+  "icon": "icons/bdo/04_pc_skill/01_pc_skill/32_pwge_skill/pwge_skill_8901.webp",
+  "level": 54,
+  "combat": true
+ },
+ {
+  "id": 1707,
+  "name": {
+   "esES": "Maestría infinita",
+   "es419": "Maestría Infinita",
+   "en": "Infinite Mastery"
+  },
+  "icon": "icons/bdo/04_pc_skill/01_pc_skill/00_common/common_skill_1702.webp",
+  "level": 55,
+  "combat": true
+ },
+ {
+  "id": 9036,
+  "name": {
+   "esES": "Momento culminante",
+   "es419": "Triunfo Esperado",
+   "en": "Had It Coming"
+  },
+  "icon": "icons/bdo/04_pc_skill/01_pc_skill/32_pwge_skill/pwge_skill_9036.webp",
+  "level": 60,
+  "combat": true
+ },
+ {
+  "id": 9033,
+  "name": {
+   "esES": "Movimiento: As en la manga",
+   "es419": "Flujo : As Bajo la Manga",
+   "en": "Flow: Pocket Ace"
+  },
+  "icon": "icons/bdo/04_pc_skill/01_pc_skill/32_pwge_skill/pwge_skill_9033.webp",
+  "level": 12,
+  "combat": true
+ },
+ {
+  "id": 9034,
+  "name": {
+   "esES": "Movimiento: Blanco en la mira",
+   "es419": "Flujo: En la Mira",
+   "en": "Flow: Bullseye"
+  },
+  "icon": "icons/bdo/04_pc_skill/01_pc_skill/32_pwge_skill/pwge_skill_9034.webp",
+  "level": 59,
+  "combat": true
+ },
+ {
+  "id": 8963,
+  "name": {
+   "esES": "Movimiento: Disparo evasivo",
+   "es419": "Flujo: Tiro de Evasión",
+   "en": "Flow: Evasive Fire"
+  },
+  "icon": "icons/bdo/04_pc_skill/01_pc_skill/32_pwge_skill/pwge_skill_8963.webp",
+  "level": 10,
+  "combat": true
+ },
+ {
+  "id": 9037,
+  "name": {
+   "esES": "Movimiento: Sobrepotencia",
+   "es419": "Flujo: Sobrecarga",
+   "en": "Flow: Overcharge"
+  },
+  "icon": "icons/bdo/04_pc_skill/01_pc_skill/32_pwge_skill/pwge_skill_9037.webp",
+  "level": 56,
+  "combat": true
+ },
+ {
+  "id": 8932,
+  "name": {
+   "esES": "Movimiento: Tiro a cubierta",
+   "es419": "Flujo: Tiro Encubierto",
+   "en": "Flow: Drop Cover"
+  },
+  "icon": "icons/bdo/04_pc_skill/01_pc_skill/32_pwge_skill/pwge_skill_8932.webp",
+  "level": 5,
+  "combat": true
+ },
+ {
+  "id": 9035,
+  "name": {
+   "esES": "Movimiento: Tiroteo",
+   "es419": "FLujo: Tiroteo",
+   "en": "Flow: Double Trouble"
+  },
+  "icon": "icons/bdo/04_pc_skill/01_pc_skill/32_pwge_skill/pwge_skill_9035.webp",
+  "level": 14,
+  "combat": true
+ },
+ {
+  "id": 8940,
+  "name": {
+   "esES": "Muerte desatada",
+   "es419": "Muerte Anunciada",
+   "en": "Hell's Spread"
+  },
+  "icon": "icons/bdo/04_pc_skill/01_pc_skill/32_pwge_skill/pwge_skill_8938.webp",
+  "level": 44,
+  "combat": true
+ },
+ {
+  "id": 9052,
+  "name": {
+   "esES": "Muerte precipitada",
+   "es419": "Lluvia de Balas",
+   "en": "Rainin' Bullets"
+  },
+  "icon": "icons/bdo/04_pc_skill/01_pc_skill/32_pwge_skill/pwge_skill_9052.webp",
+  "level": 57,
+  "combat": true
+ },
+ {
+  "id": 8930,
+  "name": {
+   "esES": "Ocaso desgarrado",
+   "es419": "Perforando el Atardecer",
+   "en": "Sunset Piercer"
+  },
+  "icon": "icons/bdo/04_pc_skill/01_pc_skill/32_pwge_skill/pwge_skill_8928.webp",
+  "level": 56,
+  "combat": true
+ },
+ {
+  "id": 9042,
+  "name": {
+   "esES": "Paliza despiadada",
+   "es419": "Empuñadura",
+   "en": "Iron Blackjack"
+  },
+  "icon": "icons/bdo/04_pc_skill/01_pc_skill/32_pwge_skill/pwge_skill_9038.webp",
+  "level": 58,
+  "combat": true
+ },
+ {
+  "id": 8967,
+  "name": {
+   "esES": "Pandemonio",
+   "es419": "Caos",
+   "en": "Mayhem"
+  },
+  "icon": "icons/bdo/04_pc_skill/01_pc_skill/32_pwge_skill/pwge_skill_8965.webp",
+  "level": 53,
+  "combat": true
+ },
+ {
+  "id": 8918,
+  "name": {
+   "esES": "Paso remolino",
+   "es419": "Patada Remolino",
+   "en": "Dust Devil"
+  },
+  "icon": "icons/bdo/04_pc_skill/01_pc_skill/32_pwge_skill/pwge_skill_8916.webp",
+  "level": 39,
+  "combat": true
+ },
+ {
+  "id": 9055,
+  "name": {
+   "esES": "Paso remolino: explosión",
+   "es419": "Patada Remolino: Detonación",
+   "en": "Dust Devil: Kaboom"
+  },
+  "icon": "icons/bdo/04_pc_skill/01_pc_skill/32_pwge_skill/pwge_skill_9055.webp",
+  "level": 58,
+  "combat": true
+ },
+ {
+  "id": 9015,
+  "name": {
+   "esES": "Petardeo celestial",
+   "es419": "Explosión en los Cielos",
+   "en": "Light Up the Sky"
+  },
+  "icon": "icons/bdo/04_pc_skill/01_pc_skill/32_pwge_skill/pwge_skill_9011.webp",
+  "level": 60,
+  "combat": true
+ },
+ {
+  "id": 8956,
+  "name": {
+   "esES": "Pionera",
+   "es419": "Abre Caminos",
+   "en": "Trailblaze"
+  },
+  "icon": "icons/bdo/04_pc_skill/01_pc_skill/32_pwge_skill/pwge_skill_8954.webp",
+  "level": 47,
+  "combat": true
+ },
+ {
+  "id": 8921,
+  "name": {
+   "esES": "Pistolera en marcha",
+   "es419": "Pistolera en Acción",
+   "en": "Gunslinger's Entrance"
+  },
+  "icon": "icons/bdo/04_pc_skill/01_pc_skill/32_pwge_skill/pwge_skill_8920.webp",
+  "level": 29,
+  "combat": true
+ },
+ {
+  "id": 9056,
+  "name": {
+   "esES": "Regalo de Canary",
+   "es419": "Regalo de Canary",
+   "en": "From Canary with Love"
+  },
+  "icon": "icons/bdo/04_pc_skill/01_pc_skill/32_pwge_skill/pwge_skill_9056.webp",
+  "level": 60,
+  "combat": true
+ },
+ {
+  "id": 92,
+  "name": {
+   "esES": "Retirada oscura",
+   "es419": "Escape de Emergencia",
+   "en": "Emergency Escape"
+  },
+  "icon": "icons/bdo/04_pc_skill/01_pc_skill/00_common/common_skill_0092.webp",
+  "level": 1,
+  "combat": true
+ },
+ {
+  "id": 9000,
+  "name": {
+   "esES": "Salto explosivo",
+   "es419": "Salto Explosivo",
+   "en": "Reach for the Sky"
+  },
+  "icon": "icons/bdo/04_pc_skill/01_pc_skill/32_pwge_skill/pwge_skill_8996.webp",
+  "level": 60,
+  "combat": true
+ },
+ {
+  "id": 8960,
+  "name": {
+   "esES": "Salva estelar",
+   "es419": "Chispas de Estrella",
+   "en": "Star-Spangled Barrage"
+  },
+  "icon": "icons/bdo/04_pc_skill/01_pc_skill/32_pwge_skill/pwge_skill_8958.webp",
+  "level": 42,
+  "combat": true
+ },
+ {
+  "id": 8962,
+  "name": {
+   "esES": "Serpenteo",
+   "es419": "Deslizar",
+   "en": "Sidewinder"
+  },
+  "icon": "icons/bdo/04_pc_skill/01_pc_skill/32_pwge_skill/pwge_skill_8962.webp",
+  "level": 1,
+  "combat": true
+ },
+ {
+  "id": 8936,
+  "name": {
+   "esES": "Sonrisa falsa",
+   "es419": "Sonrisa Engañosa",
+   "en": "Ol' Switcheroo"
+  },
+  "icon": "icons/bdo/04_pc_skill/01_pc_skill/32_pwge_skill/pwge_skill_8934.webp",
+  "level": 45,
+  "combat": true
+ },
+ {
+  "id": 9049,
+  "name": {
+   "esES": "Superviviente del páramo",
+   "es419": "Sobreviviente del Páramo",
+   "en": "Frontier Survivor"
+  },
+  "icon": "icons/bdo/04_pc_skill/01_pc_skill/32_pwge_skill/pwge_skill_9049.webp",
+  "level": 20,
+  "combat": true
+ },
+ {
+  "id": 9005,
+  "name": {
+   "esES": "Tiro certero",
+   "es419": "Tiro Preciso",
+   "en": "Dead Eye Shot"
+  },
+  "icon": "icons/bdo/04_pc_skill/01_pc_skill/32_pwge_skill/pwge_skill_9001.webp",
+  "level": 60,
+  "combat": true
+ },
+ {
+  "id": 8944,
+  "name": {
+   "esES": "Tiro en acción",
+   "es419": "Tiro Móvil",
+   "en": "Run 'N Gun"
+  },
+  "icon": "icons/bdo/04_pc_skill/01_pc_skill/32_pwge_skill/pwge_skill_8942.webp",
+  "level": 48,
+  "combat": true
+ },
+ {
+  "id": 9050,
+  "name": {
+   "esES": "Tiros estelares",
+   "es419": "Tiroteo Veloz",
+   "en": "Final Draw"
+  },
+  "icon": "icons/bdo/04_pc_skill/01_pc_skill/32_pwge_skill/pwge_skill_9050.webp",
+  "level": 56,
+  "combat": true
+ },
+ {
+  "id": 9054,
+  "name": {
+   "esES": "Tormenta de balas",
+   "es419": "Tormenta de Balas",
+   "en": "Perfect Storm"
+  },
+  "icon": "icons/bdo/04_pc_skill/01_pc_skill/32_pwge_skill/pwge_skill_9054.webp",
+  "level": 58,
+  "combat": true
+ },
+ {
+  "id": 91,
+  "name": {
+   "esES": "Transfuria",
+   "es419": "Transferencia de Furia",
+   "en": "Rage Transfer"
+  },
+  "icon": "icons/bdo/04_pc_skill/01_pc_skill/00_common/common_skill_0091.webp",
+  "level": 35,
+  "combat": true
+ }
+]

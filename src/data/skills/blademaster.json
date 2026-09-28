@@ -1,0 +1,1421 @@
+[
+ {
+  "id": 1987,
+  "name": {
+   "esES": "Ángel feroz",
+   "es419": "Ángel Ardiente",
+   "en": "Flame Rush"
+  },
+  "icon": "icons/bdo/04_pc_skill/01_pc_skill/06_pkm_skill/pkm_skill_1987.webp",
+  "level": 56,
+  "combat": true
+ },
+ {
+  "id": 2003,
+  "name": {
+   "esES": "Ataque giratorio",
+   "es419": "Aguja Giratoria",
+   "en": "Spinner"
+  },
+  "icon": "icons/bdo/04_pc_skill/01_pc_skill/06_pkm_skill/pkm_skill_2000.webp",
+  "level": 60,
+  "combat": true
+ },
+ {
+  "id": 1273,
+  "name": {
+   "esES": "Barrido",
+   "es419": "Patada Precipitada",
+   "en": "Sweep Kick"
+  },
+  "icon": "icons/bdo/04_pc_skill/01_pc_skill/06_pkm_skill/pkm_skill_1273.webp",
+  "level": 10,
+  "combat": true
+ },
+ {
+  "id": 4768,
+  "name": {
+   "esES": "Cénit: Ángel feroz",
+   "es419": "S: Ángel Ardiente",
+   "en": "Prime: Flame Rush"
+  },
+  "icon": "icons/bdo/04_pc_skill/01_pc_skill/06_pkm_skill/pkm_skill_4768.webp",
+  "level": 58,
+  "combat": true
+ },
+ {
+  "id": 4744,
+  "name": {
+   "esES": "Cénit: División",
+   "es419": "S: Divisor",
+   "en": "Prime: Divider"
+  },
+  "icon": "icons/bdo/04_pc_skill/01_pc_skill/06_pkm_skill/pkm_skill_4741.webp",
+  "level": 59,
+  "combat": true
+ },
+ {
+  "id": 4758,
+  "name": {
+   "esES": "Cénit: Florecimiento",
+   "es419": "S: Florecer",
+   "en": "Prime: Blooming"
+  },
+  "icon": "icons/bdo/04_pc_skill/01_pc_skill/06_pkm_skill/pkm_skill_4758.webp",
+  "level": 59,
+  "combat": true
+ },
+ {
+  "id": 4748,
+  "name": {
+   "esES": "Cénit: Mordisco de dragón",
+   "es419": "S: Mordida del Dragón",
+   "en": "Prime: Dragon Bite"
+  },
+  "icon": "icons/bdo/04_pc_skill/01_pc_skill/06_pkm_skill/pkm_skill_4745.webp",
+  "level": 59,
+  "combat": true
+ },
+ {
+  "id": 4766,
+  "name": {
+   "esES": "Cénit: Ojo de la tormenta",
+   "es419": "S: Ojo de la Tormenta",
+   "en": "Prime: Eye of the Storm"
+  },
+  "icon": "icons/bdo/04_pc_skill/01_pc_skill/06_pkm_skill/pkm_skill_4766.webp",
+  "level": 56,
+  "combat": true
+ },
+ {
+  "id": 4757,
+  "name": {
+   "esES": "Cénit: Retaliación",
+   "es419": "S: Represalia",
+   "en": "Prime: Retaliation"
+  },
+  "icon": "icons/bdo/04_pc_skill/01_pc_skill/06_pkm_skill/pkm_skill_4757.webp",
+  "level": 57,
+  "combat": true
+ },
+ {
+  "id": 4739,
+  "name": {
+   "esES": "Cénit: Sable errante",
+   "es419": "S: Espada del Vagabundo",
+   "en": "Prime: Wanderer's Blade"
+  },
+  "icon": "icons/bdo/04_pc_skill/01_pc_skill/06_pkm_skill/pkm_skill_4735.webp",
+  "level": 60,
+  "combat": true
+ },
+ {
+  "id": 4767,
+  "name": {
+   "esES": "Cénit: Seísmo",
+   "es419": "S: Triturador",
+   "en": "Prime: Crust Crusher"
+  },
+  "icon": "icons/bdo/04_pc_skill/01_pc_skill/06_pkm_skill/pkm_skill_4767.webp",
+  "level": 60,
+  "combat": true
+ },
+ {
+  "id": 4740,
+  "name": {
+   "esES": "Cénit: Serenidad",
+   "es419": "S: Mente Serena",
+   "en": "Prime: Serene Mind"
+  },
+  "icon": "icons/bdo/04_pc_skill/01_pc_skill/06_pkm_skill/pkm_skill_4740.webp",
+  "level": 56,
+  "combat": true
+ },
+ {
+  "id": 4759,
+  "name": {
+   "esES": "Cénit: Tajo a ciegas",
+   "es419": "S : Corte de Ciego",
+   "en": "Prime: Blind Slash"
+  },
+  "icon": "icons/bdo/04_pc_skill/01_pc_skill/06_pkm_skill/pkm_skill_4759.webp",
+  "level": 56,
+  "combat": true
+ },
+ {
+  "id": 4762,
+  "name": {
+   "esES": "Cénit: Tajo ciclónico",
+   "es419": "S: Corte Ciclón",
+   "en": "Prime: Cyclone Slash"
+  },
+  "icon": "icons/bdo/04_pc_skill/01_pc_skill/06_pkm_skill/pkm_skill_4760.webp",
+  "level": 60,
+  "combat": true
+ },
+ {
+  "id": 4765,
+  "name": {
+   "esES": "Cénit: Tajo evasivo",
+   "es419": "S: Corte de Retroceso",
+   "en": "Prime: Backstep Slash"
+  },
+  "icon": "icons/bdo/04_pc_skill/01_pc_skill/06_pkm_skill/pkm_skill_4763.webp",
+  "level": 58,
+  "combat": true
+ },
+ {
+  "id": 4752,
+  "name": {
+   "esES": "Cénit: Tormenta creciente",
+   "es419": "S: Ascenso del Dragón",
+   "en": "Prime: Rising Storm"
+  },
+  "icon": "icons/bdo/04_pc_skill/01_pc_skill/06_pkm_skill/pkm_skill_4749.webp",
+  "level": 60,
+  "combat": true
+ },
+ {
+  "id": 4756,
+  "name": {
+   "esES": "Cénit: Tormenta de espadas",
+   "es419": "S: Tallista",
+   "en": "Prime: Carver"
+  },
+  "icon": "icons/bdo/04_pc_skill/01_pc_skill/06_pkm_skill/pkm_skill_4756.webp",
+  "level": 58,
+  "combat": true
+ },
+ {
+  "id": 4755,
+  "name": {
+   "esES": "Cénit: Vendaval",
+   "es419": "S: Ráfaga",
+   "en": "Prime: Gale"
+  },
+  "icon": "icons/bdo/04_pc_skill/01_pc_skill/06_pkm_skill/pkm_skill_4753.webp",
+  "level": 60,
+  "combat": true
+ },
+ {
+  "id": 2020,
+  "name": {
+   "esES": "Cinturabajo",
+   "es419": "Tornado de Fuego",
+   "en": "Pyrostorm"
+  },
+  "icon": "icons/bdo/04_pc_skill/01_pc_skill/06_pkm_skill/pkm_skill_2018.webp",
+  "level": 60,
+  "combat": true
+ },
+ {
+  "id": 1989,
+  "name": {
+   "esES": "Contraataque homicida",
+   "es419": "Contraataque por Asesinato",
+   "en": "Counter Assassination"
+  },
+  "icon": "icons/bdo/04_pc_skill/01_pc_skill/06_pkm_skill/pkm_skill_1989.webp",
+  "level": 56,
+  "combat": true
+ },
+ {
+  "id": 2007,
+  "name": {
+   "esES": "Corte cruzado",
+   "es419": "Corte Cruzado",
+   "en": "Crosscut"
+  },
+  "icon": "icons/bdo/04_pc_skill/01_pc_skill/06_pkm_skill/pkm_skill_2004.webp",
+  "level": 60,
+  "combat": true
+ },
+ {
+  "id": 3158,
+  "name": {
+   "esES": "Definitiva: Barrido",
+   "es419": "Suprema : Patada Precipitada",
+   "en": "Absolute: Sweep Kick"
+  },
+  "icon": "icons/bdo/04_pc_skill/01_pc_skill/06_pkm_skill/pkm_skill_3158.webp",
+  "level": 57,
+  "combat": true
+ },
+ {
+  "id": 3162,
+  "name": {
+   "esES": "Definitiva: División",
+   "es419": "Suprema : Divisor",
+   "en": "Absolute: Divider"
+  },
+  "icon": "icons/bdo/04_pc_skill/01_pc_skill/06_pkm_skill/pkm_skill_3162.webp",
+  "level": 58,
+  "combat": true
+ },
+ {
+  "id": 3165,
+  "name": {
+   "esES": "Definitiva: Estocada ciega",
+   "es419": "Suprema : Estocada Ciega",
+   "en": "Absolute: Blind Thrust"
+  },
+  "icon": "icons/bdo/04_pc_skill/01_pc_skill/06_pkm_skill/pkm_skill_3165.webp",
+  "level": 56,
+  "combat": true
+ },
+ {
+  "id": 3167,
+  "name": {
+   "esES": "Definitiva: Florecimiento",
+   "es419": "Suprema : Florecer",
+   "en": "Absolute: Blooming"
+  },
+  "icon": "icons/bdo/04_pc_skill/01_pc_skill/06_pkm_skill/pkm_skill_3167.webp",
+  "level": 56,
+  "combat": true
+ },
+ {
+  "id": 3164,
+  "name": {
+   "esES": "Definitiva: Garra de dragón",
+   "es419": "Suprema : Garras del Dragón",
+   "en": "Absolute: Dragon Claw"
+  },
+  "icon": "icons/bdo/04_pc_skill/01_pc_skill/06_pkm_skill/pkm_skill_3164.webp",
+  "level": 58,
+  "combat": true
+ },
+ {
+  "id": 3153,
+  "name": {
+   "esES": "Definitiva: Incisión",
+   "es419": "Suprema : Corte",
+   "en": "Absolute: Slice"
+  },
+  "icon": "icons/bdo/04_pc_skill/01_pc_skill/06_pkm_skill/pkm_skill_3153.webp",
+  "level": 56,
+  "combat": true
+ },
+ {
+  "id": 3163,
+  "name": {
+   "esES": "Definitiva: Mordisco de dragón",
+   "es419": "Suprema : Mordida del Dragón",
+   "en": "Absolute: Dragon Bite"
+  },
+  "icon": "icons/bdo/04_pc_skill/01_pc_skill/06_pkm_skill/pkm_skill_3163.webp",
+  "level": 58,
+  "combat": true
+ },
+ {
+  "id": 3166,
+  "name": {
+   "esES": "Definitiva: Némesis",
+   "es419": "Suprema : Corte de Justicia",
+   "en": "Absolute: Nemesis Slash"
+  },
+  "icon": "icons/bdo/04_pc_skill/01_pc_skill/06_pkm_skill/pkm_skill_3166.webp",
+  "level": 58,
+  "combat": true
+ },
+ {
+  "id": 3156,
+  "name": {
+   "esES": "Definitiva: Patada alta",
+   "es419": "Suprema : Patada Superior",
+   "en": "Absolute: Upper Kick"
+  },
+  "icon": "icons/bdo/04_pc_skill/01_pc_skill/06_pkm_skill/pkm_skill_3156.webp",
+  "level": 56,
+  "combat": true
+ },
+ {
+  "id": 3159,
+  "name": {
+   "esES": "Definitiva: Patada lateral",
+   "es419": "Suprema : Patada Giratoria",
+   "en": "Absolute: Roundhouse Kick"
+  },
+  "icon": "icons/bdo/04_pc_skill/01_pc_skill/06_pkm_skill/pkm_skill_3159.webp",
+  "level": 57,
+  "combat": true
+ },
+ {
+  "id": 3157,
+  "name": {
+   "esES": "Definitiva: Patadón",
+   "es419": "Suprema : Patada Obtusa",
+   "en": "Absolute: Blunt Kick"
+  },
+  "icon": "icons/bdo/04_pc_skill/01_pc_skill/06_pkm_skill/pkm_skill_3157.webp",
+  "level": 56,
+  "combat": true
+ },
+ {
+  "id": 3155,
+  "name": {
+   "esES": "Definitiva: Retaliación",
+   "es419": "Suprema : Represalía",
+   "en": "Absolute: Retaliation"
+  },
+  "icon": "icons/bdo/04_pc_skill/01_pc_skill/06_pkm_skill/pkm_skill_3155.webp",
+  "level": 56,
+  "combat": true
+ },
+ {
+  "id": 3161,
+  "name": {
+   "esES": "Definitiva: Saeta",
+   "es419": "Suprema: Flecha Corta",
+   "en": "Absolute: Stub Arrow"
+  },
+  "icon": "icons/bdo/04_pc_skill/01_pc_skill/06_pkm_skill/pkm_skill_3161.webp",
+  "level": 56,
+  "combat": true
+ },
+ {
+  "id": 3230,
+  "name": {
+   "esES": "Definitiva: Saeta cargada",
+   "es419": "Suprema: Flecha Corta Cargada",
+   "en": "Absolute: Charged Stub Arrow"
+  },
+  "icon": "icons/bdo/04_pc_skill/01_pc_skill/06_pkm_skill/pkm_skill_3230.webp",
+  "level": 58,
+  "combat": true
+ },
+ {
+  "id": 3171,
+  "name": {
+   "esES": "Definitiva: Tajo a ciegas",
+   "es419": "Suprema : Corte de Ciego",
+   "en": "Absolute: Blind Slash"
+  },
+  "icon": "icons/bdo/04_pc_skill/01_pc_skill/06_pkm_skill/pkm_skill_3171.webp",
+  "level": 58,
+  "combat": true
+ },
+ {
+  "id": 3170,
+  "name": {
+   "esES": "Definitiva: Tajo ciclónico",
+   "es419": "Suprema : Corte Ciclón",
+   "en": "Absolute: Cyclone Slash"
+  },
+  "icon": "icons/bdo/04_pc_skill/01_pc_skill/06_pkm_skill/pkm_skill_3170.webp",
+  "level": 58,
+  "combat": true
+ },
+ {
+  "id": 3174,
+  "name": {
+   "esES": "Definitiva: Tajo evasivo",
+   "es419": "Suprema : Corte de Retroceso",
+   "en": "Absolute: Backstep Slash"
+  },
+  "icon": "icons/bdo/04_pc_skill/01_pc_skill/06_pkm_skill/pkm_skill_3174.webp",
+  "level": 56,
+  "combat": true
+ },
+ {
+  "id": 3168,
+  "name": {
+   "esES": "Definitiva: Tajo lunar",
+   "es419": "Suprema: Luna Cortada",
+   "en": "Absolute: Lunar Slash"
+  },
+  "icon": "icons/bdo/04_pc_skill/01_pc_skill/06_pkm_skill/pkm_skill_3168.webp",
+  "level": 56,
+  "combat": true
+ },
+ {
+  "id": 3154,
+  "name": {
+   "esES": "Definitiva: Torbellino de acero",
+   "es419": "Suprema : Corte de Torbellino",
+   "en": "Absolute: Whirlwind Cut"
+  },
+  "icon": "icons/bdo/04_pc_skill/01_pc_skill/06_pkm_skill/pkm_skill_3154.webp",
+  "level": 57,
+  "combat": true
+ },
+ {
+  "id": 3169,
+  "name": {
+   "esES": "Definitiva: Tormenta creciente",
+   "es419": "Suprema : Ascenso del Dragón",
+   "en": "Absolute: Rising Storm"
+  },
+  "icon": "icons/bdo/04_pc_skill/01_pc_skill/06_pkm_skill/pkm_skill_3169.webp",
+  "level": 60,
+  "combat": true
+ },
+ {
+  "id": 3160,
+  "name": {
+   "esES": "Definitiva: Tormenta de espadas",
+   "es419": "Suprema : Tallista",
+   "en": "Absolute: Carver"
+  },
+  "icon": "icons/bdo/04_pc_skill/01_pc_skill/06_pkm_skill/pkm_skill_3160.webp",
+  "level": 58,
+  "combat": true
+ },
+ {
+  "id": 3172,
+  "name": {
+   "esES": "Definitiva: Vendaval",
+   "es419": "Suprema : Ráfaga",
+   "en": "Absolute: Gale"
+  },
+  "icon": "icons/bdo/04_pc_skill/01_pc_skill/06_pkm_skill/pkm_skill_3172.webp",
+  "level": 57,
+  "combat": true
+ },
+ {
+  "id": 3173,
+  "name": {
+   "esES": "Definitiva: Voluntad de musa",
+   "es419": "Suprema : Voluntad de Musa",
+   "en": "Absolute: Musa Spirit"
+  },
+  "icon": "icons/bdo/04_pc_skill/01_pc_skill/06_pkm_skill/pkm_skill_3173.webp",
+  "level": 56,
+  "combat": true
+ },
+ {
+  "id": 2028,
+  "name": {
+   "esES": "Determinación",
+   "es419": "Vigor del Musa",
+   "en": "Musa's Resolve"
+  },
+  "icon": "icons/bdo/04_pc_skill/01_pc_skill/06_pkm_skill/pkm_skill_2028.webp",
+  "level": 57,
+  "combat": true
+ },
+ {
+  "id": 2818,
+  "name": {
+   "esES": "Disparo rápido",
+   "es419": "Torbellino Sanguinario",
+   "en": "Quick Shot"
+  },
+  "icon": "icons/bdo/04_pc_skill/01_pc_skill/06_pkm_skill/pkm_skill_2818.webp",
+  "level": 57,
+  "combat": true
+ },
+ {
+  "id": 425,
+  "name": {
+   "esES": "División",
+   "es419": "Divisor",
+   "en": "Divider"
+  },
+  "icon": "icons/bdo/04_pc_skill/01_pc_skill/06_pkm_skill/pkm_skill_1285.webp",
+  "level": 54,
+  "combat": true
+ },
+ {
+  "id": 1999,
+  "name": {
+   "esES": "Entrenamiento de woldo",
+   "es419": "Maestría de la Espada del Dios Guerrero",
+   "en": "Crescent Blade Training"
+  },
+  "icon": "icons/bdo/04_pc_skill/01_pc_skill/06_pkm_skill/pkm_skill_1990.webp",
+  "level": 60,
+  "combat": true
+ },
+ {
+  "id": 1321,
+  "name": {
+   "esES": "Estocada ciega",
+   "es419": "Estocada Ciega",
+   "en": "Blind Thrust"
+  },
+  "icon": "icons/bdo/04_pc_skill/01_pc_skill/06_pkm_skill/pkm_skill_1319.webp",
+  "level": 20,
+  "combat": true
+ },
+ {
+  "id": 1258,
+  "name": {
+   "esES": "Evasión",
+   "es419": "Voltereta",
+   "en": "Forward Roll"
+  },
+  "icon": "icons/bdo/04_pc_skill/01_pc_skill/01_phm_skill/phm_skill_1017.webp",
+  "level": 1,
+  "combat": true
+ },
+ {
+  "id": 1454,
+  "name": {
+   "esES": "Flecha de agarre",
+   "es419": "Flecha Atrapada",
+   "en": "Arrow Grapple"
+  },
+  "icon": "icons/bdo/04_pc_skill/01_pc_skill/06_pkm_skill/pkm_skill_1325.webp",
+  "level": 49,
+  "combat": true
+ },
+ {
+  "id": 1314,
+  "name": {
+   "esES": "Florecimiento",
+   "es419": "Florecer",
+   "en": "Blooming"
+  },
+  "icon": "icons/bdo/04_pc_skill/01_pc_skill/06_pkm_skill/pkm_skill_1314.webp",
+  "level": 22,
+  "combat": true
+ },
+ {
+  "id": 1323,
+  "name": {
+   "esES": "Florecimiento: Fantasma",
+   "es419": "Florecer: Fantasma",
+   "en": "Blooming: Phantom"
+  },
+  "icon": "icons/bdo/04_pc_skill/01_pc_skill/06_pkm_skill/pkm_skill_1323.webp",
+  "level": 38,
+  "combat": true
+ },
+ {
+  "id": 1299,
+  "name": {
+   "esES": "Garra de dragón",
+   "es419": "Garra de Dragón",
+   "en": "Dragon Claw"
+  },
+  "icon": "icons/bdo/04_pc_skill/01_pc_skill/06_pkm_skill/pkm_skill_1299.webp",
+  "level": 15,
+  "combat": true
+ },
+ {
+  "id": 2014,
+  "name": {
+   "esES": "Impacto feroz",
+   "es419": "Corte Ardiente",
+   "en": "Searing Slam"
+  },
+  "icon": "icons/bdo/04_pc_skill/01_pc_skill/06_pkm_skill/pkm_skill_2012.webp",
+  "level": 60,
+  "combat": true
+ },
+ {
+  "id": 414,
+  "name": {
+   "esES": "Incisión",
+   "es419": "Corte",
+   "en": "Slice"
+  },
+  "icon": "icons/bdo/04_pc_skill/01_pc_skill/06_pkm_skill/pkm_skill_1259.webp",
+  "level": 54,
+  "combat": true
+ },
+ {
+  "id": 1461,
+  "name": {
+   "esES": "Incisión profunda",
+   "es419": "Corte Profundo",
+   "en": "Deep Slice"
+  },
+  "icon": "icons/bdo/04_pc_skill/01_pc_skill/06_pkm_skill/pkm_skill_1262.webp",
+  "level": 52,
+  "combat": true
+ },
+ {
+  "id": 2026,
+  "name": {
+   "esES": "Llama infernal",
+   "es419": "Corte Infernal",
+   "en": "Inferno Slash"
+  },
+  "icon": "icons/bdo/04_pc_skill/01_pc_skill/06_pkm_skill/pkm_skill_2026_re.webp",
+  "level": 56,
+  "combat": true
+ },
+ {
+  "id": 1298,
+  "name": {
+   "esES": "Mordisco de dragón",
+   "es419": "Mordida del Dragón",
+   "en": "Dragon Bite"
+  },
+  "icon": "icons/bdo/04_pc_skill/01_pc_skill/06_pkm_skill/pkm_skill_1298.webp",
+  "level": 32,
+  "combat": true
+ },
+ {
+  "id": 2025,
+  "name": {
+   "esES": "Movimiento: Depurador",
+   "es419": "Flujo: Retroceso",
+   "en": "Flow: Backflow"
+  },
+  "icon": "icons/bdo/04_pc_skill/01_pc_skill/06_pkm_skill/pkm_skill_2025.webp",
+  "level": 58,
+  "combat": true
+ },
+ {
+  "id": 2024,
+  "name": {
+   "esES": "Movimiento: Golpe extra",
+   "es419": "Flujo: Crédito Extra",
+   "en": "Flow: Double Down"
+  },
+  "icon": "icons/bdo/04_pc_skill/01_pc_skill/06_pkm_skill/pkm_skill_2024.webp",
+  "level": 58,
+  "combat": true
+ },
+ {
+  "id": 2027,
+  "name": {
+   "esES": "Movimiento: Juego sucio",
+   "es419": "Flujo: Juego Sucio",
+   "en": "Flow: Low Blow"
+  },
+  "icon": "icons/bdo/04_pc_skill/01_pc_skill/06_pkm_skill/pkm_skill_2027.webp",
+  "level": 59,
+  "combat": true
+ },
+ {
+  "id": 2021,
+  "name": {
+   "esES": "Movimiento: Tajo rápido",
+   "es419": "Flujo: Mutilación",
+   "en": "Flow: Dash Slash"
+  },
+  "icon": "icons/bdo/04_pc_skill/01_pc_skill/06_pkm_skill/pkm_skill_2021.webp",
+  "level": 57,
+  "combat": true
+ },
+ {
+  "id": 1450,
+  "name": {
+   "esES": "Némesis",
+   "es419": "Corte de Justicia",
+   "en": "Nemesis Slash"
+  },
+  "icon": "icons/bdo/04_pc_skill/01_pc_skill/06_pkm_skill/pkm_skill_1322.webp",
+  "level": 20,
+  "combat": true
+ },
+ {
+  "id": 2023,
+  "name": {
+   "esES": "Paso atrás",
+   "es419": "Un Paso Atrás",
+   "en": "One Step Back"
+  },
+  "icon": "icons/bdo/04_pc_skill/01_pc_skill/06_pkm_skill/pkm_skill_2023.webp",
+  "level": 57,
+  "combat": true
+ },
+ {
+  "id": 1271,
+  "name": {
+   "esES": "Patada alta",
+   "es419": "Patada Superior",
+   "en": "Upper Kick"
+  },
+  "icon": "icons/bdo/04_pc_skill/01_pc_skill/06_pkm_skill/pkm_skill_1271.webp",
+  "level": 1,
+  "combat": true
+ },
+ {
+  "id": 1274,
+  "name": {
+   "esES": "Patada lateral",
+   "es419": "Patada Giratoria",
+   "en": "Roundhouse Kick"
+  },
+  "icon": "icons/bdo/04_pc_skill/01_pc_skill/06_pkm_skill/pkm_skill_1274.webp",
+  "level": 12,
+  "combat": true
+ },
+ {
+  "id": 1272,
+  "name": {
+   "esES": "Patadón",
+   "es419": "Patada Obtusa",
+   "en": "Blunt Kick"
+  },
+  "icon": "icons/bdo/04_pc_skill/01_pc_skill/06_pkm_skill/pkm_skill_1272.webp",
+  "level": 8,
+  "combat": true
+ },
+ {
+  "id": 1456,
+  "name": {
+   "esES": "Persecución",
+   "es419": "Persecución",
+   "en": "Chase"
+  },
+  "icon": "icons/bdo/04_pc_skill/01_pc_skill/06_pkm_skill/pkm_skill_1455.webp",
+  "level": 22,
+  "combat": true
+ },
+ {
+  "id": 1267,
+  "name": {
+   "esES": "Postura de Retaliación",
+   "es419": "Posición de Represalia",
+   "en": "Retaliation Stance"
+  },
+  "icon": "icons/bdo/04_pc_skill/01_pc_skill/06_pkm_skill/pkm_skill_1267.webp",
+  "level": 1,
+  "combat": true
+ },
+ {
+  "id": 6010,
+  "name": {
+   "esES": "Primordial: Ataque giratorio",
+   "es419": "BON: Aguja Giratoria",
+   "en": "Core: Spinner"
+  },
+  "icon": "icons/bdo/04_pc_skill/01_pc_skill/06_pkm_skill/pkm_skill_2000.webp",
+  "level": 60,
+  "combat": true
+ },
+ {
+  "id": 6009,
+  "name": {
+   "esES": "Primordial: Cinturabajo",
+   "es419": "BON: Tornado de Fuego",
+   "en": "Core: Pyrostorm"
+  },
+  "icon": "icons/bdo/04_pc_skill/01_pc_skill/06_pkm_skill/pkm_skill_2018.webp",
+  "level": 60,
+  "combat": true
+ },
+ {
+  "id": 6011,
+  "name": {
+   "esES": "Primordial: Corte cruzado",
+   "es419": "BON: Corte Cruzado",
+   "en": "Core: Crosscut"
+  },
+  "icon": "icons/bdo/04_pc_skill/01_pc_skill/06_pkm_skill/pkm_skill_2004.webp",
+  "level": 60,
+  "combat": true
+ },
+ {
+  "id": 6007,
+  "name": {
+   "esES": "Primordial: Impacto feroz",
+   "es419": "BON: Corte Ardiente",
+   "en": "Core: Searing Slam"
+  },
+  "icon": "icons/bdo/04_pc_skill/01_pc_skill/06_pkm_skill/pkm_skill_2012.webp",
+  "level": 60,
+  "combat": true
+ },
+ {
+  "id": 6008,
+  "name": {
+   "esES": "Primordial: Proyección",
+   "es419": "BON: Proyección",
+   "en": "Core: Projection"
+  },
+  "icon": "icons/bdo/04_pc_skill/01_pc_skill/06_pkm_skill/pkm_skill_2015.webp",
+  "level": 60,
+  "combat": true
+ },
+ {
+  "id": 6012,
+  "name": {
+   "esES": "Primordial: Seísmo",
+   "es419": "BON: Triturador",
+   "en": "Core: Crust Crusher"
+  },
+  "icon": "icons/bdo/04_pc_skill/01_pc_skill/06_pkm_skill/pkm_skill_2008.webp",
+  "level": 60,
+  "combat": true
+ },
+ {
+  "id": 2017,
+  "name": {
+   "esES": "Proyección",
+   "es419": "Proyección",
+   "en": "Projection"
+  },
+  "icon": "icons/bdo/04_pc_skill/01_pc_skill/06_pkm_skill/pkm_skill_2015.webp",
+  "level": 60,
+  "combat": true
+ },
+ {
+  "id": 2022,
+  "name": {
+   "esES": "Remolino",
+   "es419": "Tornado",
+   "en": "Twister"
+  },
+  "icon": "icons/bdo/04_pc_skill/01_pc_skill/06_pkm_skill/pkm_skill_2022.webp",
+  "level": 56,
+  "combat": true
+ },
+ {
+  "id": 6121,
+  "name": {
+   "esES": "Renacer - Tormenta creciente: Llamarada",
+   "es419": "Sucesión: Ascenso del Dragón: Fuego",
+   "en": "Succession: Rising Storm: Blaze"
+  },
+  "icon": "icons/bdo/04_pc_skill/01_pc_skill/06_pkm_skill/pkm_skill_1465.webp",
+  "level": 56,
+  "combat": true
+ },
+ {
+  "id": 4734,
+  "name": {
+   "esES": "Renacer: Determinación",
+   "es419": "Sucesión: Franqueza de Musa",
+   "en": "Succession: Musa's Resolve"
+  },
+  "icon": "icons/bdo/04_pc_skill/01_pc_skill/06_pkm_skill/pkm_skill_4734.webp",
+  "level": 56,
+  "combat": true
+ },
+ {
+  "id": 159,
+  "name": {
+   "esES": "Retaliación",
+   "es419": "Represalia",
+   "en": "Retaliation"
+  },
+  "icon": "icons/bdo/04_pc_skill/01_pc_skill/06_pkm_skill/pkm_skill_0159.webp",
+  "level": 26,
+  "combat": true
+ },
+ {
+  "id": 1270,
+  "name": {
+   "esES": "Retaliación: Decapitación",
+   "es419": "Represalia : Decapitación",
+   "en": "Retaliation: Decapitation"
+  },
+  "icon": "icons/bdo/04_pc_skill/01_pc_skill/06_pkm_skill/pkm_skill_1270.webp",
+  "level": 38,
+  "combat": true
+ },
+ {
+  "id": 92,
+  "name": {
+   "esES": "Retirada oscura",
+   "es419": "Escape de Emergencia",
+   "en": "Emergency Escape"
+  },
+  "icon": "icons/bdo/04_pc_skill/01_pc_skill/00_common/common_skill_0092.webp",
+  "level": 1,
+  "combat": true
+ },
+ {
+  "id": 1289,
+  "name": {
+   "esES": "Sable del tigre",
+   "es419": "Espada de Tigre",
+   "en": "Tiger Blade"
+  },
+  "icon": "icons/bdo/04_pc_skill/01_pc_skill/06_pkm_skill/pkm_skill_1289.webp",
+  "level": 30,
+  "combat": true
+ },
+ {
+  "id": 1280,
+  "name": {
+   "esES": "Saeta",
+   "es419": "Flecha Corta",
+   "en": "Stub Arrow"
+  },
+  "icon": "icons/bdo/04_pc_skill/01_pc_skill/06_pkm_skill/pkm_skill_1279.webp",
+  "level": 10,
+  "combat": true
+ },
+ {
+  "id": 1283,
+  "name": {
+   "esES": "Saeta cargada",
+   "es419": "Flecha Corta Cargada",
+   "en": "Charged Stub Arrow"
+  },
+  "icon": "icons/bdo/04_pc_skill/01_pc_skill/06_pkm_skill/pkm_skill_1283.webp",
+  "level": 16,
+  "combat": true
+ },
+ {
+  "id": 1284,
+  "name": {
+   "esES": "Saeta cargada mejorada",
+   "es419": "Flecha Corta Cargada: Aumentado",
+   "en": "Charged Stub Arrow: Enhanced"
+  },
+  "icon": "icons/bdo/04_pc_skill/01_pc_skill/06_pkm_skill/pkm_skill_1284.webp",
+  "level": 42,
+  "combat": true
+ },
+ {
+  "id": 1281,
+  "name": {
+   "esES": "Saeta: Tiro doble",
+   "es419": "Flecha Corta: Disparo Doble",
+   "en": "Stub Arrow: Double Shot"
+  },
+  "icon": "icons/bdo/04_pc_skill/01_pc_skill/06_pkm_skill/pkm_skill_1281.webp",
+  "level": 20,
+  "combat": true
+ },
+ {
+  "id": 1462,
+  "name": {
+   "esES": "Saeta: Tiro evasivo",
+   "es419": "Flecha Corta : Disparo Evasivo",
+   "en": "Stub Arrow: Evasive Shot"
+  },
+  "icon": "icons/bdo/04_pc_skill/01_pc_skill/06_pkm_skill/pkm_skill_1462.webp",
+  "level": 45,
+  "combat": true
+ },
+ {
+  "id": 2011,
+  "name": {
+   "esES": "Seísmo",
+   "es419": "Triturador",
+   "en": "Crust Crusher"
+  },
+  "icon": "icons/bdo/04_pc_skill/01_pc_skill/06_pkm_skill/pkm_skill_2008.webp",
+  "level": 60,
+  "combat": true
+ },
+ {
+  "id": 394,
+  "name": {
+   "esES": "Sublime: Barrido",
+   "es419": "Extremo: Patada Precipitada",
+   "en": "Ultimate: Sweep Kick"
+  },
+  "icon": "icons/bdo/04_pc_skill/01_pc_skill/06_pkm_skill/pkm_skill_0394.webp",
+  "level": 28,
+  "combat": true
+ },
+ {
+  "id": 1300,
+  "name": {
+   "esES": "Sublime: Garra de dragón",
+   "es419": "Garras de Dragón",
+   "en": "Ultimate: Dragon Claw"
+  },
+  "icon": "icons/bdo/04_pc_skill/01_pc_skill/06_pkm_skill/pkm_skill_1300.webp",
+  "level": 36,
+  "combat": true
+ },
+ {
+  "id": 1451,
+  "name": {
+   "esES": "Sublime: Némesis",
+   "es419": "Extremo: Corte de Justicia",
+   "en": "Ultimate: Nemesis Slash"
+  },
+  "icon": "icons/bdo/04_pc_skill/01_pc_skill/06_pkm_skill/pkm_skill_1451.webp",
+  "level": 24,
+  "combat": true
+ },
+ {
+  "id": 392,
+  "name": {
+   "esES": "Sublime: Patada alta",
+   "es419": "Extremo: Patada Superior",
+   "en": "Ultimate: Upper Kick"
+  },
+  "icon": "icons/bdo/04_pc_skill/01_pc_skill/06_pkm_skill/pkm_skill_0392.webp",
+  "level": 22,
+  "combat": true
+ },
+ {
+  "id": 395,
+  "name": {
+   "esES": "Sublime: Patada lateral",
+   "es419": "Extremo: Patada Giratoria",
+   "en": "Ultimate: Roundhouse Kick"
+  },
+  "icon": "icons/bdo/04_pc_skill/01_pc_skill/06_pkm_skill/pkm_skill_0395.webp",
+  "level": 30,
+  "combat": true
+ },
+ {
+  "id": 393,
+  "name": {
+   "esES": "Sublime: Patadón",
+   "es419": "Extremo: Patada Obtusa",
+   "en": "Ultimate: Blunt Kick"
+  },
+  "icon": "icons/bdo/04_pc_skill/01_pc_skill/06_pkm_skill/pkm_skill_0393.webp",
+  "level": 25,
+  "combat": true
+ },
+ {
+  "id": 1459,
+  "name": {
+   "esES": "Sublime: Tajo a ciegas",
+   "es419": "Extremo: Corte de Ciego",
+   "en": "Ultimate: Blind Slash"
+  },
+  "icon": "icons/bdo/04_pc_skill/01_pc_skill/06_pkm_skill/pkm_skill_1459.webp",
+  "level": 50,
+  "combat": true
+ },
+ {
+  "id": 201,
+  "name": {
+   "esES": "Sublime: Torbellino de acero",
+   "es419": "Extremo: Corte de Torbellino",
+   "en": "Ultimate: Whirlwind Cut"
+  },
+  "icon": "icons/bdo/04_pc_skill/01_pc_skill/06_pkm_skill/pkm_skill_0201.webp",
+  "level": 49,
+  "combat": true
+ },
+ {
+  "id": 423,
+  "name": {
+   "esES": "Sublime: Vendaval",
+   "es419": "Extremo: Ráfaga",
+   "en": "Ultimate: Gale"
+  },
+  "icon": "icons/bdo/04_pc_skill/01_pc_skill/06_pkm_skill/pkm_skill_0423.webp",
+  "level": 53,
+  "combat": true
+ },
+ {
+  "id": 2743,
+  "name": {
+   "esES": "Sublime: Voluntad de musa",
+   "es419": "Extremo : Voluntad de Musa",
+   "en": "Ultimate: Musa Spirit"
+  },
+  "icon": "icons/bdo/04_pc_skill/01_pc_skill/06_pkm_skill/pkm_skill_2743.webp",
+  "level": 56,
+  "combat": true
+ },
+ {
+  "id": 400,
+  "name": {
+   "esES": "Tajo a ciegas",
+   "es419": "Corte de Ciego",
+   "en": "Blind Slash"
+  },
+  "icon": "icons/bdo/04_pc_skill/01_pc_skill/06_pkm_skill/pkm_skill_0399.webp",
+  "level": 28,
+  "combat": true
+ },
+ {
+  "id": 398,
+  "name": {
+   "esES": "Tajo ciclónico",
+   "es419": "Corte Ciclón",
+   "en": "Cyclone Slash"
+  },
+  "icon": "icons/bdo/04_pc_skill/01_pc_skill/06_pkm_skill/pkm_skill_0397.webp",
+  "level": 38,
+  "combat": true
+ },
+ {
+  "id": 421,
+  "name": {
+   "esES": "Tajo evasivo",
+   "es419": "Corte de Retroceso",
+   "en": "Backstep Slash"
+  },
+  "icon": "icons/bdo/04_pc_skill/01_pc_skill/06_pkm_skill/pkm_skill_0419.webp",
+  "level": 41,
+  "combat": true
+ },
+ {
+  "id": 1324,
+  "name": {
+   "esES": "Tajo lunar",
+   "es419": "Luna Cortada",
+   "en": "Lunar Slash"
+  },
+  "icon": "icons/bdo/04_pc_skill/01_pc_skill/06_pkm_skill/pkm_skill_1324.webp",
+  "level": 30,
+  "combat": true
+ },
+ {
+  "id": 2744,
+  "name": {
+   "esES": "Tifón de acero",
+   "es419": "Viento de la Espada",
+   "en": "Steel Gale"
+  },
+  "icon": "icons/bdo/04_pc_skill/01_pc_skill/06_pkm_skill/pkm_skill_2744.webp",
+  "level": 56,
+  "combat": true
+ },
+ {
+  "id": 418,
+  "name": {
+   "esES": "Torbellino de acero",
+   "es419": "Corte de Torbellino",
+   "en": "Whirlwind Cut"
+  },
+  "icon": "icons/bdo/04_pc_skill/01_pc_skill/06_pkm_skill/pkm_skill_1263.webp",
+  "level": 41,
+  "combat": true
+ },
+ {
+  "id": 202,
+  "name": {
+   "esES": "Torbellino de acero: Ciclón",
+   "es419": "Corte de Torbellino: Ciclón",
+   "en": "Whirlwind Cut: Cyclone"
+  },
+  "icon": "icons/bdo/04_pc_skill/01_pc_skill/06_pkm_skill/pkm_skill_0202.webp",
+  "level": 32,
+  "combat": true
+ },
+ {
+  "id": 1447,
+  "name": {
+   "esES": "Tormenta creciente",
+   "es419": "Ascenso del Dragón",
+   "en": "Rising Storm"
+  },
+  "icon": "icons/bdo/04_pc_skill/01_pc_skill/06_pkm_skill/pkm_skill_1445.webp",
+  "level": 40,
+  "combat": true
+ },
+ {
+  "id": 1465,
+  "name": {
+   "esES": "Tormenta creciente: Llamarada",
+   "es419": "Ascenso del Dragón : Fuego",
+   "en": "Rising Storm: Blaze"
+  },
+  "icon": "icons/bdo/04_pc_skill/01_pc_skill/06_pkm_skill/pkm_skill_1465.webp",
+  "level": 55,
+  "combat": true
+ },
+ {
+  "id": 1277,
+  "name": {
+   "esES": "Tormenta de espadas",
+   "es419": "Tallista",
+   "en": "Carver"
+  },
+  "icon": "icons/bdo/04_pc_skill/01_pc_skill/06_pkm_skill/pkm_skill_1275.webp",
+  "level": 20,
+  "combat": true
+ },
+ {
+  "id": 1278,
+  "name": {
+   "esES": "Tormenta de espadas: Tifón",
+   "es419": "Tallista: Tifón",
+   "en": "Carver: Typhoon"
+  },
+  "icon": "icons/bdo/04_pc_skill/01_pc_skill/06_pkm_skill/pkm_skill_1278.webp",
+  "level": 38,
+  "combat": true
+ },
+ {
+  "id": 416,
+  "name": {
+   "esES": "Vendaval",
+   "es419": "Ráfaga",
+   "en": "Gale"
+  },
+  "icon": "icons/bdo/04_pc_skill/01_pc_skill/06_pkm_skill/pkm_skill_0401.webp",
+  "level": 50,
+  "combat": true
+ },
+ {
+  "id": 406,
+  "name": {
+   "esES": "Voluntad de musa",
+   "es419": "Voluntad de Musa",
+   "en": "Musa Spirit"
+  },
+  "icon": "icons/bdo/04_pc_skill/01_pc_skill/06_pkm_skill/pkm_skill_0404.webp",
+  "level": 45,
+  "combat": true
+ },
+ {
+  "id": 2817,
+  "name": {
+   "esES": "Vuelo de dragón",
+   "es419": "Viento Torcido",
+   "en": "Pouncing Dragon"
+  },
+  "icon": "icons/bdo/04_pc_skill/01_pc_skill/06_pkm_skill/pkm_skill_2817.webp",
+  "level": 57,
+  "combat": true
+ },
+ {
+  "id": 3459,
+  "name": {
+   "esES": "Absorción de furia",
+   "es419": "Absorción de Furia",
+   "en": "Rage Absorption"
+  },
+  "icon": "icons/bdo/04_pc_skill/01_pc_skill/00_common/common_skill_0090.webp",
+  "level": 35,
+  "combat": false
+ },
+ {
+  "id": 89,
+  "name": {
+   "esES": "Absorción de furia (latente)",
+   "es419": "Absorción de Furia (Innato)",
+   "en": "Rage Absorption (Innate)"
+  },
+  "icon": "icons/bdo/04_pc_skill/01_pc_skill/00_common/common_skill_0090.webp",
+  "level": 35,
+  "combat": false
+ },
+ {
+  "id": 1327,
+  "name": {
+   "esES": "Artes marciales precisas",
+   "es419": "Artes Marciales Precisas",
+   "en": "Precise Martial Arts"
+  },
+  "icon": "icons/bdo/04_pc_skill/01_pc_skill/06_pkm_skill/pkm_skill_1327.webp",
+  "level": 40,
+  "combat": false
+ },
+ {
+  "id": 2076,
+  "name": {
+   "esES": "Cazador hábil",
+   "es419": "Cazador Experto",
+   "en": "Skilled Hunter"
+  },
+  "icon": "icons/bdo/04_pc_skill/01_pc_skill/06_pkm_skill/pkm_skill_2072.webp",
+  "level": 60,
+  "combat": false
+ },
+ {
+  "id": 424,
+  "name": {
+   "esES": "Dividemontañas",
+   "es419": "Parte Montañas",
+   "en": "Mountain Divide"
+  },
+  "icon": "icons/bdo/04_pc_skill/01_pc_skill/06_pkm_skill/pkm_skill_0424.webp",
+  "level": 60,
+  "combat": false
+ },
+ {
+  "id": 6122,
+  "name": {
+   "esES": "Elvia: Camino inamovible",
+   "es419": "Elvia: Trayectoria Inmóvil",
+   "en": "Elvia: Immovable Path"
+  },
+  "icon": "icons/bdo/04_pc_skill/01_pc_skill/06_pkm_skill/pkm_skill_6122.webp",
+  "level": 60,
+  "combat": false
+ },
+ {
+  "id": 29,
+  "name": {
+   "esES": "Esgrima con sable",
+   "es419": "Maestría de Espada",
+   "en": "Sword Training"
+  },
+  "icon": "icons/bdo/04_pc_skill/01_pc_skill/06_pkm_skill/pkm_skill_0001.webp",
+  "level": 60,
+  "combat": false
+ },
+ {
+  "id": 407,
+  "name": {
+   "esES": "Fuerza de espada",
+   "es419": "Energía de la Espada",
+   "en": "Force of the Sword"
+  },
+  "icon": "icons/bdo/04_pc_skill/01_pc_skill/06_pkm_skill/pkm_skill_0407.webp",
+  "level": 20,
+  "combat": false
+ },
+ {
+  "id": 4856,
+  "name": {
+   "esES": "Gran poder",
+   "es419": "Gran Poder",
+   "en": "Unyielding Might"
+  },
+  "icon": "icons/bdo/04_pc_skill/01_pc_skill/00_common/common_skill_18705.webp",
+  "level": 62,
+  "combat": false
+ },
+ {
+  "id": 1707,
+  "name": {
+   "esES": "Maestría infinita",
+   "es419": "Maestría Infinita",
+   "en": "Infinite Mastery"
+  },
+  "icon": "icons/bdo/04_pc_skill/01_pc_skill/00_common/common_skill_1702.webp",
+  "level": 55,
+  "combat": false
+ },
+ {
+  "id": 6468,
+  "name": {
+   "esES": "Purgar",
+   "es419": "Presa Débil",
+   "en": "Eradicate"
+  },
+  "icon": "icons/bdo/04_pc_skill/01_pc_skill/06_pkm_skill/pkm_skill_6468.webp",
+  "level": 59,
+  "combat": false
+ },
+ {
+  "id": 30,
+  "name": {
+   "esES": "Reflejos relámpago",
+   "es419": "Entrenamiento de Postura",
+   "en": "Maneuver Training"
+  },
+  "icon": "icons/bdo/04_pc_skill/01_pc_skill/06_pkm_skill/pkm_skill_0030.webp",
+  "level": 1,
+  "combat": false
+ },
+ {
+  "id": 4029,
+  "name": {
+   "esES": "Tajo tormentoso",
+   "es419": "Ciclón del Dragón",
+   "en": "Storm Slash"
+  },
+  "icon": "icons/bdo/04_pc_skill/01_pc_skill/06_pkm_skill/pkm_skill_4029.webp",
+  "level": 58,
+  "combat": false
+ },
+ {
+  "id": 4028,
+  "name": {
+   "esES": "Tajo vendaval",
+   "es419": "Corte de Ráfaga",
+   "en": "Gale Slash"
+  },
+  "icon": "icons/bdo/04_pc_skill/01_pc_skill/06_pkm_skill/pkm_skill_4028.webp",
+  "level": 58,
+  "combat": false
+ },
+ {
+  "id": 91,
+  "name": {
+   "esES": "Transfuria",
+   "es419": "Transferencia de Furia",
+   "en": "Rage Transfer"
+  },
+  "icon": "icons/bdo/04_pc_skill/01_pc_skill/00_common/common_skill_0091.webp",
+  "level": 35,
+  "combat": false
+ }
+]

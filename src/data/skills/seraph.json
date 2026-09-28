@@ -1,0 +1,959 @@
+[
+ {
+  "id": 9848,
+  "name": {
+   "esES": "Absorción de furia",
+   "es419": "Absorción de Furia",
+   "en": "Rage Absorption"
+  },
+  "icon": "icons/bdo/04_pc_skill/01_pc_skill/00_common/common_skill_0090.webp",
+  "level": 35,
+  "combat": true
+ },
+ {
+  "id": 89,
+  "name": {
+   "esES": "Absorción de furia (latente)",
+   "es419": "Absorción de Furia (Innato)",
+   "en": "Rage Absorption (Innate)"
+  },
+  "icon": "icons/bdo/04_pc_skill/01_pc_skill/00_common/common_skill_0090.webp",
+  "level": 35,
+  "combat": true
+ },
+ {
+  "id": 9676,
+  "name": {
+   "esES": "Arte del espadón de Goyen",
+   "es419": "Suprema: Esgrima de Goyen",
+   "en": "Absolute: Goyen's Greatsword Arts"
+  },
+  "icon": "icons/bdo/04_pc_skill/01_pc_skill/33_pdkl_skill/pdkl_skill_9676.webp",
+  "level": 56,
+  "combat": true
+ },
+ {
+  "id": 9675,
+  "name": {
+   "esES": "Arte del espadón de Goyen",
+   "es419": "Esgrima de Goyen",
+   "en": "Goyen's Greatsword Arts"
+  },
+  "icon": "icons/bdo/04_pc_skill/01_pc_skill/33_pdkl_skill/pdkl_skill_9666.webp",
+  "level": 54,
+  "combat": true
+ },
+ {
+  "id": 2076,
+  "name": {
+   "esES": "Cazador hábil",
+   "es419": "Cazador Experto",
+   "en": "Skilled Hunter"
+  },
+  "icon": "icons/bdo/04_pc_skill/01_pc_skill/06_pkm_skill/pkm_skill_2072.webp",
+  "level": 60,
+  "combat": true
+ },
+ {
+  "id": 9855,
+  "name": {
+   "esES": "Combo: Arranque en espiral",
+   "es419": "Combo: Giro Destructor",
+   "en": "Combo: Wrenching Impale"
+  },
+  "icon": "icons/bdo/04_pc_skill/01_pc_skill/33_pdkl_skill/pdkl_skill_9855.webp",
+  "level": 58,
+  "combat": true
+ },
+ {
+  "id": 9706,
+  "name": {
+   "esES": "Combo: Descenso aplastante",
+   "es419": "Combo: Golpe Aplastante",
+   "en": "Combo: Crushing Descent"
+  },
+  "icon": "icons/bdo/04_pc_skill/01_pc_skill/33_pdkl_skill/pdkl_skill_9704.webp",
+  "level": 52,
+  "combat": true
+ },
+ {
+  "id": 9708,
+  "name": {
+   "esES": "Combo: Trituradora",
+   "es419": "Combo: Rompe-huesos",
+   "en": "Combo: Bone Breaker"
+  },
+  "icon": "icons/bdo/04_pc_skill/01_pc_skill/33_pdkl_skill/pdkl_skill_9708.webp",
+  "level": 48,
+  "combat": true
+ },
+ {
+  "id": 9854,
+  "name": {
+   "esES": "Concentración: Tajo cruzado",
+   "es419": "Concentración: Cortes Cruzados",
+   "en": "Focus: Crossing Slash"
+  },
+  "icon": "icons/bdo/04_pc_skill/01_pc_skill/33_pdkl_skill/pdkl_skill_9854.webp",
+  "level": 58,
+  "combat": true
+ },
+ {
+  "id": 9796,
+  "name": {
+   "esES": "Condena inexorable",
+   "es419": "Purgatum",
+   "en": "Purgatum"
+  },
+  "icon": "icons/bdo/04_pc_skill/01_pc_skill/33_pdkl_skill/pdkl_skill_9796.webp",
+  "level": 56,
+  "combat": true
+ },
+ {
+  "id": 9767,
+  "name": {
+   "esES": "Corazón devoto",
+   "es419": "Alma Consagrada",
+   "en": "Devout Heart"
+  },
+  "icon": "icons/bdo/04_pc_skill/01_pc_skill/33_pdkl_skill/pdkl_skill_9748.webp",
+  "level": 60,
+  "combat": true
+ },
+ {
+  "id": 9684,
+  "name": {
+   "esES": "Corte ascendente",
+   "es419": "Tajo Ascendente",
+   "en": "Rising Slash"
+  },
+  "icon": "icons/bdo/04_pc_skill/01_pc_skill/33_pdkl_skill/pdkl_skill_9683.webp",
+  "level": 30,
+  "combat": true
+ },
+ {
+  "id": 9730,
+  "name": {
+   "esES": "Corte ascendente impetuoso",
+   "es419": "Ascenso Penetrante",
+   "en": "Impelling Surge"
+  },
+  "icon": "icons/bdo/04_pc_skill/01_pc_skill/33_pdkl_skill/pdkl_skill_9728.webp",
+  "level": 45,
+  "combat": true
+ },
+ {
+  "id": 9687,
+  "name": {
+   "esES": "Corte ascendente oblicuo",
+   "es419": "Tajo Ascendente Diagonal",
+   "en": "Oblique Rising Slash"
+  },
+  "icon": "icons/bdo/04_pc_skill/01_pc_skill/33_pdkl_skill/pdkl_skill_9686.webp",
+  "level": 32,
+  "combat": true
+ },
+ {
+  "id": 9850,
+  "name": {
+   "esES": "Corte del horizonte",
+   "es419": "Cortadura del Horizonte",
+   "en": "Horizon Whirl"
+  },
+  "icon": "icons/bdo/04_pc_skill/01_pc_skill/33_pdkl_skill/pdkl_skill_9850.webp",
+  "level": 56,
+  "combat": true
+ },
+ {
+  "id": 9707,
+  "name": {
+   "esES": "Definitiva: Combo: Descenso aplastante",
+   "es419": "Suprema: Combo: Golpe Aplastante",
+   "en": "Absolute: Combo: Crushing Descent"
+  },
+  "icon": "icons/bdo/04_pc_skill/01_pc_skill/33_pdkl_skill/pdkl_skill_9707.webp",
+  "level": 58,
+  "combat": true
+ },
+ {
+  "id": 9685,
+  "name": {
+   "esES": "Definitiva: Corte ascendente",
+   "es419": "Suprema: Tajo Ascendente",
+   "en": "Absolute: Rising Slash"
+  },
+  "icon": "icons/bdo/04_pc_skill/01_pc_skill/33_pdkl_skill/pdkl_skill_9685.webp",
+  "level": 56,
+  "combat": true
+ },
+ {
+  "id": 9731,
+  "name": {
+   "esES": "Definitiva: Corte ascendente impetuoso",
+   "es419": "Supremo: Ascenso Penetrante",
+   "en": "Absolute: Impelling Surge"
+  },
+  "icon": "icons/bdo/04_pc_skill/01_pc_skill/33_pdkl_skill/pdkl_skill_9731.webp",
+  "level": 58,
+  "combat": true
+ },
+ {
+  "id": 9688,
+  "name": {
+   "esES": "Definitiva: Corte ascendente oblicuo",
+   "es419": "Suprema: Tajo Ascendente Diagonal",
+   "en": "Absolute: Oblique Rising Slash"
+  },
+  "icon": "icons/bdo/04_pc_skill/01_pc_skill/33_pdkl_skill/pdkl_skill_9688.webp",
+  "level": 56,
+  "combat": true
+ },
+ {
+  "id": 9695,
+  "name": {
+   "esES": "Definitiva: Doble corte ascendente",
+   "es419": "Suprema: Doble Tajo Ascendente",
+   "en": "Absolute: Twin Rising Slash"
+  },
+  "icon": "icons/bdo/04_pc_skill/01_pc_skill/33_pdkl_skill/pdkl_skill_9695.webp",
+  "level": 57,
+  "combat": true
+ },
+ {
+  "id": 9735,
+  "name": {
+   "esES": "Definitiva: Estocada impetuosa",
+   "es419": "Suprema: Estocada Penetrante",
+   "en": "Absolute: Impelling Thrust"
+  },
+  "icon": "icons/bdo/04_pc_skill/01_pc_skill/33_pdkl_skill/pdkl_skill_9735.webp",
+  "level": 58,
+  "combat": true
+ },
+ {
+  "id": 9699,
+  "name": {
+   "esES": "Definitiva: Marca del juicio",
+   "es419": "Suprema: Marca del Juicio",
+   "en": "Absolute: Mark of Judgment"
+  },
+  "icon": "icons/bdo/04_pc_skill/01_pc_skill/33_pdkl_skill/pdkl_skill_9699.webp",
+  "level": 57,
+  "combat": true
+ },
+ {
+  "id": 9719,
+  "name": {
+   "esES": "Definitiva: Movimiento: Castigo letal",
+   "es419": "Supremo: Flujo: Apertura Divina",
+   "en": "Absolute: Flow: Divine Opening"
+  },
+  "icon": "icons/bdo/04_pc_skill/01_pc_skill/33_pdkl_skill/pdkl_skill_9719.webp",
+  "level": 57,
+  "combat": true
+ },
+ {
+  "id": 9703,
+  "name": {
+   "esES": "Definitiva: Movimiento: Corte impetuoso",
+   "es419": "Suprema: Flujo: Corte Penetrante",
+   "en": "Absolute: Flow: Impelling Slash"
+  },
+  "icon": "icons/bdo/04_pc_skill/01_pc_skill/33_pdkl_skill/pdkl_skill_9703.webp",
+  "level": 57,
+  "combat": true
+ },
+ {
+  "id": 9712,
+  "name": {
+   "esES": "Definitiva: Movimiento: Golpe de hombro",
+   "es419": "Suprema: Flujo: Golpe de Hombro",
+   "en": "Absolute: Flow: Shouldersmite"
+  },
+  "icon": "icons/bdo/04_pc_skill/01_pc_skill/33_pdkl_skill/pdkl_skill_9712.webp",
+  "level": 57,
+  "combat": true
+ },
+ {
+  "id": 9691,
+  "name": {
+   "esES": "Definitiva: Patada al cuello",
+   "es419": "Suprema: Patada de Empuje",
+   "en": "Absolute: Fling Kick"
+  },
+  "icon": "icons/bdo/04_pc_skill/01_pc_skill/33_pdkl_skill/pdkl_skill_9691.webp",
+  "level": 56,
+  "combat": true
+ },
+ {
+  "id": 9723,
+  "name": {
+   "esES": "Definitiva: Poena divina",
+   "es419": "Suprema: Pena Divina",
+   "en": "Absolute: Poena Divina"
+  },
+  "icon": "icons/bdo/04_pc_skill/01_pc_skill/33_pdkl_skill/pdkl_skill_9723.webp",
+  "level": 60,
+  "combat": true
+ },
+ {
+  "id": 9716,
+  "name": {
+   "esES": "Definitiva: Quebrantacorazas",
+   "es419": "Suprema: Aplastar Armaduras",
+   "en": "Absolute: Armor Crush"
+  },
+  "icon": "icons/bdo/04_pc_skill/01_pc_skill/33_pdkl_skill/pdkl_skill_9716.webp",
+  "level": 58,
+  "combat": true
+ },
+ {
+  "id": 9682,
+  "name": {
+   "esES": "Definitiva: Rompefilas",
+   "es419": "Suprema: Ruptura de formación",
+   "en": "Absolute: Line Breaker"
+  },
+  "icon": "icons/bdo/04_pc_skill/01_pc_skill/33_pdkl_skill/pdkl_skill_9682.webp",
+  "level": 56,
+  "combat": true
+ },
+ {
+  "id": 9747,
+  "name": {
+   "esES": "Definitiva: Ruptura de sepulcro",
+   "es419": "Suprema: Cava Mausoleos",
+   "en": "Absolute: Grave Sundering"
+  },
+  "icon": "icons/bdo/04_pc_skill/01_pc_skill/33_pdkl_skill/pdkl_skill_9747.webp",
+  "level": 60,
+  "combat": true
+ },
+ {
+  "id": 9739,
+  "name": {
+   "esES": "Definitiva: Segadora de almas",
+   "es419": "Supremo: Deceso Espectral",
+   "en": "Absolute: Culling the Dead"
+  },
+  "icon": "icons/bdo/04_pc_skill/01_pc_skill/33_pdkl_skill/pdkl_skill_9739.webp",
+  "level": 60,
+  "combat": true
+ },
+ {
+  "id": 9727,
+  "name": {
+   "esES": "Definitiva: Tajo cruzado",
+   "es419": "Supremo: Cortes Cruzados",
+   "en": "Absolute: Crossing Slash"
+  },
+  "icon": "icons/bdo/04_pc_skill/01_pc_skill/33_pdkl_skill/pdkl_skill_9727.webp",
+  "level": 59,
+  "combat": true
+ },
+ {
+  "id": 9743,
+  "name": {
+   "esES": "Definitiva: Tajo horizontal",
+   "es419": "Suprema: Corte del Horizonte",
+   "en": "Absolute: Horizon Slash"
+  },
+  "icon": "icons/bdo/04_pc_skill/01_pc_skill/33_pdkl_skill/pdkl_skill_9743.webp",
+  "level": 59,
+  "combat": true
+ },
+ {
+  "id": 9694,
+  "name": {
+   "esES": "Doble corte ascendente",
+   "es419": "Doble Tajo Ascendente",
+   "en": "Twin Rising Slash"
+  },
+  "icon": "icons/bdo/04_pc_skill/01_pc_skill/33_pdkl_skill/pdkl_skill_9692.webp",
+  "level": 38,
+  "combat": true
+ },
+ {
+  "id": 9853,
+  "name": {
+   "esES": "Empujón impetuoso",
+   "es419": "Empujón Penetrante",
+   "en": "Impelling Crush"
+  },
+  "icon": "icons/bdo/04_pc_skill/01_pc_skill/33_pdkl_skill/pdkl_skill_9853.webp",
+  "level": 57,
+  "combat": true
+ },
+ {
+  "id": 9734,
+  "name": {
+   "esES": "Estocada impetuosa",
+   "es419": "Estocada Penetrante",
+   "en": "Impelling Thrust"
+  },
+  "icon": "icons/bdo/04_pc_skill/01_pc_skill/33_pdkl_skill/pdkl_skill_9732.webp",
+  "level": 44,
+  "combat": true
+ },
+ {
+  "id": 9665,
+  "name": {
+   "esES": "Evasión",
+   "es419": "Evasión",
+   "en": "Evasion"
+  },
+  "icon": "icons/bdo/04_pc_skill/01_pc_skill/33_pdkl_skill/pdkl_skill_9665.webp",
+  "level": 1,
+  "combat": true
+ },
+ {
+  "id": 9768,
+  "name": {
+   "esES": "Fervor sanctus",
+   "es419": "Fervor Sanctus",
+   "en": "Fervor Sanctus"
+  },
+  "icon": "icons/bdo/04_pc_skill/01_pc_skill/33_pdkl_skill/pdkl_skill_9768.webp",
+  "level": 7,
+  "combat": true
+ },
+ {
+  "id": 9679,
+  "name": {
+   "esES": "Garra del cadalso",
+   "es419": "Puño de la Horca",
+   "en": "Gallows Grip"
+  },
+  "icon": "icons/bdo/04_pc_skill/01_pc_skill/33_pdkl_skill/pdkl_skill_9679.webp",
+  "level": 50,
+  "combat": true
+ },
+ {
+  "id": 4856,
+  "name": {
+   "esES": "Gran poder",
+   "es419": "Gran Poder",
+   "en": "Unyielding Might"
+  },
+  "icon": "icons/bdo/04_pc_skill/01_pc_skill/00_common/common_skill_18705.webp",
+  "level": 62,
+  "combat": true
+ },
+ {
+  "id": 9852,
+  "name": {
+   "esES": "Iudicium",
+   "es419": "Juicio Final",
+   "en": "Iudicium"
+  },
+  "icon": "icons/bdo/04_pc_skill/01_pc_skill/33_pdkl_skill/pdkl_skill_9852.webp",
+  "level": 57,
+  "combat": true
+ },
+ {
+  "id": 9769,
+  "name": {
+   "esES": "Juramento sagrado",
+   "es419": "Sacramentum",
+   "en": "Sacramentum"
+  },
+  "icon": "icons/bdo/04_pc_skill/01_pc_skill/33_pdkl_skill/pdkl_skill_9769.webp",
+  "level": 56,
+  "combat": true
+ },
+ {
+  "id": 1707,
+  "name": {
+   "esES": "Maestría infinita",
+   "es419": "Maestría Infinita",
+   "en": "Infinite Mastery"
+  },
+  "icon": "icons/bdo/04_pc_skill/01_pc_skill/00_common/common_skill_1702.webp",
+  "level": 55,
+  "combat": true
+ },
+ {
+  "id": 9698,
+  "name": {
+   "esES": "Marca del juicio",
+   "es419": "Marca del Juicio",
+   "en": "Mark of Judgment"
+  },
+  "icon": "icons/bdo/04_pc_skill/01_pc_skill/33_pdkl_skill/pdkl_skill_9696.webp",
+  "level": 40,
+  "combat": true
+ },
+ {
+  "id": 9718,
+  "name": {
+   "esES": "Movimiento: Castigo letal",
+   "es419": "Flujo: Apertura Divina",
+   "en": "Flow: Divine Opening"
+  },
+  "icon": "icons/bdo/04_pc_skill/01_pc_skill/33_pdkl_skill/pdkl_skill_9717.webp",
+  "level": 40,
+  "combat": true
+ },
+ {
+  "id": 9702,
+  "name": {
+   "esES": "Movimiento: Corte impetuoso",
+   "es419": "Flujo: Corte Penetrante",
+   "en": "Flow: Impelling Slash"
+  },
+  "icon": "icons/bdo/04_pc_skill/01_pc_skill/33_pdkl_skill/pdkl_skill_9700.webp",
+  "level": 47,
+  "combat": true
+ },
+ {
+  "id": 9711,
+  "name": {
+   "esES": "Movimiento: Golpe de hombro",
+   "es419": "Flujo: Golpe de Hombro",
+   "en": "Flow: Shouldersmite"
+  },
+  "icon": "icons/bdo/04_pc_skill/01_pc_skill/33_pdkl_skill/pdkl_skill_9709.webp",
+  "level": 51,
+  "combat": true
+ },
+ {
+  "id": 9677,
+  "name": {
+   "esES": "Muro de acero",
+   "es419": "Guardia Vertical",
+   "en": "Bladewall"
+  },
+  "icon": "icons/bdo/04_pc_skill/01_pc_skill/33_pdkl_skill/pdkl_skill_9677.webp",
+  "level": 1,
+  "combat": true
+ },
+ {
+  "id": 9809,
+  "name": {
+   "esES": "P: Acoso sempiterno",
+   "es419": "PRG: Persecución Perpetua",
+   "en": "Purga: Perpetual Persecution"
+  },
+  "icon": "icons/bdo/04_pc_skill/01_pc_skill/33_pdkl_skill/pdkl_skill_9807.webp",
+  "level": 60,
+  "combat": true
+ },
+ {
+  "id": 9825,
+  "name": {
+   "esES": "P: Agonía penetrante",
+   "es419": "PRG: Desesperación Perforante",
+   "en": "Purga: Piercing Despair"
+  },
+  "icon": "icons/bdo/04_pc_skill/01_pc_skill/33_pdkl_skill/pdkl_skill_9822.webp",
+  "level": 59,
+  "combat": true
+ },
+ {
+  "id": 9800,
+  "name": {
+   "esES": "P: Arte del espadón de Enslar",
+   "es419": "PRG: Esgrima de Enslar",
+   "en": "Purga: Enslar's Greatsword Arts"
+  },
+  "icon": "icons/bdo/04_pc_skill/01_pc_skill/33_pdkl_skill/pdkl_skill_9798.webp",
+  "level": 60,
+  "combat": true
+ },
+ {
+  "id": 9837,
+  "name": {
+   "esES": "P: Corazón sangriento",
+   "es419": "PRG: Corazón Sangriento",
+   "en": "Purga: Sanguine Heart"
+  },
+  "icon": "icons/bdo/04_pc_skill/01_pc_skill/33_pdkl_skill/pdkl_skill_9837.webp",
+  "level": 60,
+  "combat": true
+ },
+ {
+  "id": 9813,
+  "name": {
+   "esES": "P: Enemistad manifiesta",
+   "es419": "PRG: Hostilidad Escondida",
+   "en": "Purga: Unveiled Enmity"
+  },
+  "icon": "icons/bdo/04_pc_skill/01_pc_skill/33_pdkl_skill/pdkl_skill_9810.webp",
+  "level": 59,
+  "combat": true
+ },
+ {
+  "id": 9806,
+  "name": {
+   "esES": "P: Furia indómita",
+   "es419": "PRG: Furia Creciente",
+   "en": "Purga: Surging Fury"
+  },
+  "icon": "icons/bdo/04_pc_skill/01_pc_skill/33_pdkl_skill/pdkl_skill_9804.webp",
+  "level": 60,
+  "combat": true
+ },
+ {
+  "id": 9817,
+  "name": {
+   "esES": "P: Ira devastadora",
+   "es419": "PRG: Tormenta de Ira",
+   "en": "Purga: Whirling Wrath"
+  },
+  "icon": "icons/bdo/04_pc_skill/01_pc_skill/33_pdkl_skill/pdkl_skill_9814.webp",
+  "level": 60,
+  "combat": true
+ },
+ {
+  "id": 9833,
+  "name": {
+   "esES": "P: Lluvia de maldiciones",
+   "es419": "PRG: Lluvia de la Maldición",
+   "en": "Purga: Raining Curses"
+  },
+  "icon": "icons/bdo/04_pc_skill/01_pc_skill/33_pdkl_skill/pdkl_skill_9830.webp",
+  "level": 60,
+  "combat": true
+ },
+ {
+  "id": 9857,
+  "name": {
+   "esES": "P: Marca de purificación",
+   "es419": "Purgatum: Marca de Purificación",
+   "en": "Purga: Mark of Purification"
+  },
+  "icon": "icons/bdo/04_pc_skill/01_pc_skill/33_pdkl_skill/pdkl_skill_9850.webp",
+  "level": 56,
+  "combat": true
+ },
+ {
+  "id": 9821,
+  "name": {
+   "esES": "P: Odio ardiente",
+   "es419": "PRG: Manifestación del Odio",
+   "en": "Purga: Seething Hatred"
+  },
+  "icon": "icons/bdo/04_pc_skill/01_pc_skill/33_pdkl_skill/pdkl_skill_9818.webp",
+  "level": 60,
+  "combat": true
+ },
+ {
+  "id": 9797,
+  "name": {
+   "esES": "P: Persecución sombría",
+   "es419": "PRG: Cacería Oscura",
+   "en": "Purga: Dark Pursuit"
+  },
+  "icon": "icons/bdo/04_pc_skill/01_pc_skill/33_pdkl_skill/pdkl_skill_9797.webp",
+  "level": 56,
+  "combat": true
+ },
+ {
+  "id": 9829,
+  "name": {
+   "esES": "P: Rencor estallante",
+   "es419": "PRG: Resentimiento Maligno",
+   "en": "Purga: Bursting Rancor"
+  },
+  "icon": "icons/bdo/04_pc_skill/01_pc_skill/33_pdkl_skill/pdkl_skill_9826.webp",
+  "level": 60,
+  "combat": true
+ },
+ {
+  "id": 9859,
+  "name": {
+   "esES": "P: Sentencia justa",
+   "es419": "Purgatum: Justicia",
+   "en": "Purga: Judgment of Justice"
+  },
+  "icon": "icons/bdo/04_pc_skill/01_pc_skill/33_pdkl_skill/pdkl_skill_9852.webp",
+  "level": 57,
+  "combat": true
+ },
+ {
+  "id": 9803,
+  "name": {
+   "esES": "P: Violencia desatada",
+   "es419": "PRG: Violencia Dispersa",
+   "en": "Purga: Spreading Violence"
+  },
+  "icon": "icons/bdo/04_pc_skill/01_pc_skill/33_pdkl_skill/pdkl_skill_9801.webp",
+  "level": 60,
+  "combat": true
+ },
+ {
+  "id": 9690,
+  "name": {
+   "esES": "Patada al cuello",
+   "es419": "Patada de Empuje",
+   "en": "Fling Kick"
+  },
+  "icon": "icons/bdo/04_pc_skill/01_pc_skill/33_pdkl_skill/pdkl_skill_9689.webp",
+  "level": 29,
+  "combat": true
+ },
+ {
+  "id": 9678,
+  "name": {
+   "esES": "Persecución de vanguardia",
+   "es419": "Persecución de Vanguardia",
+   "en": "Vanguard Chase"
+  },
+  "icon": "icons/bdo/04_pc_skill/01_pc_skill/33_pdkl_skill/pdkl_skill_9678.webp",
+  "level": 1,
+  "combat": true
+ },
+ {
+  "id": 9722,
+  "name": {
+   "esES": "Poena divina",
+   "es419": "Pena Divina",
+   "en": "Poena Divina"
+  },
+  "icon": "icons/bdo/04_pc_skill/01_pc_skill/33_pdkl_skill/pdkl_skill_9720.webp",
+  "level": 53,
+  "combat": true
+ },
+ {
+  "id": 9836,
+  "name": {
+   "esES": "Pulverización diagonal",
+   "es419": "Pulverización diagonal",
+   "en": "Feinting Cleave"
+  },
+  "icon": "icons/bdo/04_pc_skill/01_pc_skill/33_pdkl_skill/pdkl_skill_9836.webp",
+  "level": 60,
+  "combat": true
+ },
+ {
+  "id": 9715,
+  "name": {
+   "esES": "Quebrantacorazas",
+   "es419": "Aplastar Armaduras",
+   "en": "Armor Crush"
+  },
+  "icon": "icons/bdo/04_pc_skill/01_pc_skill/33_pdkl_skill/pdkl_skill_9714.webp",
+  "level": 33,
+  "combat": true
+ },
+ {
+  "id": 9851,
+  "name": {
+   "esES": "Remate del horizonte",
+   "es419": "Golpe del Horizonte",
+   "en": "Horizon Cleave"
+  },
+  "icon": "icons/bdo/04_pc_skill/01_pc_skill/33_pdkl_skill/pdkl_skill_9851.webp",
+  "level": 56,
+  "combat": true
+ },
+ {
+  "id": 92,
+  "name": {
+   "esES": "Retirada oscura",
+   "es419": "Escape de Emergencia",
+   "en": "Emergency Escape"
+  },
+  "icon": "icons/bdo/04_pc_skill/01_pc_skill/00_common/common_skill_0092.webp",
+  "level": 1,
+  "combat": true
+ },
+ {
+  "id": 9681,
+  "name": {
+   "esES": "Rompefilas",
+   "es419": "Ruptura de formación",
+   "en": "Line Breaker"
+  },
+  "icon": "icons/bdo/04_pc_skill/01_pc_skill/33_pdkl_skill/pdkl_skill_9680.webp",
+  "level": 28,
+  "combat": true
+ },
+ {
+  "id": 9746,
+  "name": {
+   "esES": "Ruptura de sepulcro",
+   "es419": "Cava Mausoleos",
+   "en": "Grave Sundering"
+  },
+  "icon": "icons/bdo/04_pc_skill/01_pc_skill/33_pdkl_skill/pdkl_skill_9744.webp",
+  "level": 55,
+  "combat": true
+ },
+ {
+  "id": 9780,
+  "name": {
+   "esES": "S: Corte ascendente impetuoso",
+   "es419": "SCR: Ascenso Penetrante",
+   "en": "Sacra: Impelling Surge"
+  },
+  "icon": "icons/bdo/04_pc_skill/01_pc_skill/33_pdkl_skill/pdkl_skill_9777.webp",
+  "level": 58,
+  "combat": true
+ },
+ {
+  "id": 9783,
+  "name": {
+   "esES": "S: Estocada impetuosa",
+   "es419": "SCR: Estocada Penetrante",
+   "en": "Sacra: Impelling Thrust"
+  },
+  "icon": "icons/bdo/04_pc_skill/01_pc_skill/33_pdkl_skill/pdkl_skill_9781.webp",
+  "level": 56,
+  "combat": true
+ },
+ {
+  "id": 9856,
+  "name": {
+   "esES": "S: Marca de purificación",
+   "es419": "Sacramentum: Marca de Purificación",
+   "en": "Sacra: Mark of Purification"
+  },
+  "icon": "icons/bdo/04_pc_skill/01_pc_skill/33_pdkl_skill/pdkl_skill_9850.webp",
+  "level": 56,
+  "combat": true
+ },
+ {
+  "id": 9773,
+  "name": {
+   "esES": "S: Poena divina",
+   "es419": "SCR: Pena Divina",
+   "en": "Sacra: Poena Divina"
+  },
+  "icon": "icons/bdo/04_pc_skill/01_pc_skill/33_pdkl_skill/pdkl_skill_9770.webp",
+  "level": 60,
+  "combat": true
+ },
+ {
+  "id": 9847,
+  "name": {
+   "esES": "S: Proclamatio",
+   "es419": "SCR: Proclamatio",
+   "en": "Sacra: Proclamatio"
+  },
+  "icon": "icons/bdo/04_pc_skill/01_pc_skill/33_pdkl_skill/pdkl_skill_9847.webp",
+  "level": 56,
+  "combat": true
+ },
+ {
+  "id": 9795,
+  "name": {
+   "esES": "S: Ruptura de sepulcro",
+   "es419": "SCR: Cava Mausoleos",
+   "en": "Sacra: Grave Sundering"
+  },
+  "icon": "icons/bdo/04_pc_skill/01_pc_skill/33_pdkl_skill/pdkl_skill_9792.webp",
+  "level": 60,
+  "combat": true
+ },
+ {
+  "id": 9787,
+  "name": {
+   "esES": "S: Segadora de almas",
+   "es419": "SCR: Deceso Espectral",
+   "en": "Sacra: Culling the Dead"
+  },
+  "icon": "icons/bdo/04_pc_skill/01_pc_skill/33_pdkl_skill/pdkl_skill_9784.webp",
+  "level": 60,
+  "combat": true
+ },
+ {
+  "id": 9858,
+  "name": {
+   "esES": "S: Sentencia justa",
+   "es419": "Sacramentum: Justicia",
+   "en": "Sacra: Judgment of Justice"
+  },
+  "icon": "icons/bdo/04_pc_skill/01_pc_skill/33_pdkl_skill/pdkl_skill_9852.webp",
+  "level": 57,
+  "combat": true
+ },
+ {
+  "id": 9776,
+  "name": {
+   "esES": "S: Tajo cruzado",
+   "es419": "SCR: Cortes Cruzados",
+   "en": "Sacra: Crossing Slash"
+  },
+  "icon": "icons/bdo/04_pc_skill/01_pc_skill/33_pdkl_skill/pdkl_skill_9774.webp",
+  "level": 57,
+  "combat": true
+ },
+ {
+  "id": 9791,
+  "name": {
+   "esES": "S: Tajo horizontal",
+   "es419": "SCR: Corte del Horizonte",
+   "en": "Sacra: Horizon Slash"
+  },
+  "icon": "icons/bdo/04_pc_skill/01_pc_skill/33_pdkl_skill/pdkl_skill_9788.webp",
+  "level": 58,
+  "combat": true
+ },
+ {
+  "id": 9738,
+  "name": {
+   "esES": "Segadora de almas",
+   "es419": "Deceso Espectral",
+   "en": "Culling the Dead"
+  },
+  "icon": "icons/bdo/04_pc_skill/01_pc_skill/33_pdkl_skill/pdkl_skill_9736.webp",
+  "level": 54,
+  "combat": true
+ },
+ {
+  "id": 9726,
+  "name": {
+   "esES": "Tajo cruzado",
+   "es419": "Cortes Cruzados",
+   "en": "Crossing Slash"
+  },
+  "icon": "icons/bdo/04_pc_skill/01_pc_skill/33_pdkl_skill/pdkl_skill_9724.webp",
+  "level": 52,
+  "combat": true
+ },
+ {
+  "id": 9742,
+  "name": {
+   "esES": "Tajo horizontal",
+   "es419": "Corte del Horizonte",
+   "en": "Horizon Slash"
+  },
+  "icon": "icons/bdo/04_pc_skill/01_pc_skill/33_pdkl_skill/pdkl_skill_9740.webp",
+  "level": 52,
+  "combat": true
+ },
+ {
+  "id": 91,
+  "name": {
+   "esES": "Transfuria",
+   "es419": "Transferencia de Furia",
+   "en": "Rage Transfer"
+  },
+  "icon": "icons/bdo/04_pc_skill/01_pc_skill/00_common/common_skill_0091.webp",
+  "level": 35,
+  "combat": true
+ },
+ {
+  "id": 9849,
+  "name": {
+   "esES": "Voluntad inquebrantable",
+   "es419": "Voluntad Inquebrantable",
+   "en": "Unshakable Will"
+  },
+  "icon": "icons/bdo/04_pc_skill/01_pc_skill/33_pdkl_skill/pdkl_skill_9713.webp",
+  "level": 48,
+  "combat": true
+ },
+ {
+  "id": 9835,
+  "name": {
+   "esES": "Voluntad intrépida",
+   "es419": "Voluntad Indomable",
+   "en": "Dauntless Will"
+  },
+  "icon": "icons/bdo/04_pc_skill/01_pc_skill/33_pdkl_skill/pdkl_skill_9834.webp",
+  "level": 35,
+  "combat": true
+ }
+]

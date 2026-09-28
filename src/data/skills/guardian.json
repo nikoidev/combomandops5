@@ -1,0 +1,1212 @@
+[
+ {
+  "id": 5157,
+  "name": {
+   "esES": "Acometida gloriosa",
+   "es419": "Ejecución Gloriosa",
+   "en": "Glorious Advance"
+  },
+  "icon": "icons/bdo/04_pc_skill/01_pc_skill/11_pgw_skill/pgw_skill_5154.webp",
+  "level": 59,
+  "combat": true
+ },
+ {
+  "id": 5177,
+  "name": {
+   "esES": "Aliento de dragón",
+   "es419": "Colmillo del Dragón",
+   "en": "Dragon's Maw"
+  },
+  "icon": "icons/bdo/04_pc_skill/01_pc_skill/11_pgw_skill/pgw_skill_5175.webp",
+  "level": 60,
+  "combat": true
+ },
+ {
+  "id": 5141,
+  "name": {
+   "esES": "Alud",
+   "es419": "Rugido de la Montaña",
+   "en": "Rockslide"
+  },
+  "icon": "icons/bdo/04_pc_skill/01_pc_skill/11_pgw_skill/pgw_skill_5139.webp",
+  "level": 48,
+  "combat": true
+ },
+ {
+  "id": 5058,
+  "name": {
+   "esES": "Amonestación de Omua",
+   "es419": "Sermón de Omua",
+   "en": "Omua's Objurgation"
+  },
+  "icon": "icons/bdo/04_pc_skill/01_pc_skill/11_pgw_skill/pgw_skill_5054.webp",
+  "level": 50,
+  "combat": true
+ },
+ {
+  "id": 5179,
+  "name": {
+   "esES": "Asalto ígneo",
+   "es419": "Dios del Invierno",
+   "en": "Fireborne Rupture"
+  },
+  "icon": "icons/bdo/04_pc_skill/01_pc_skill/11_pgw_skill/pgw_skill_5179.webp",
+  "level": 56,
+  "combat": true
+ },
+ {
+  "id": 5239,
+  "name": {
+   "esES": "Aura de Omua",
+   "es419": "Área de Omua",
+   "en": "Omua's Circle"
+  },
+  "icon": "icons/bdo/04_pc_skill/01_pc_skill/11_pgw_skill/pgw_skill_5239.webp",
+  "level": 57,
+  "combat": true
+ },
+ {
+  "id": 5090,
+  "name": {
+   "esES": "Aura sangrenegra",
+   "es419": "Área de Sangre Negra",
+   "en": "Black Blood Circle"
+  },
+  "icon": "icons/bdo/04_pc_skill/01_pc_skill/11_pgw_skill/pgw_skill_5134.webp",
+  "level": 49,
+  "combat": true
+ },
+ {
+  "id": 5043,
+  "name": {
+   "esES": "Batimiento incesante",
+   "es419": "Furia Explosiva",
+   "en": "Fervor"
+  },
+  "icon": "icons/bdo/04_pc_skill/01_pc_skill/11_pgw_skill/pgw_skill_5041.webp",
+  "level": 41,
+  "combat": true
+ },
+ {
+  "id": 5153,
+  "name": {
+   "esES": "Bendición de Omua",
+   "es419": "Caricia de Omua",
+   "en": "Omua's Blessing"
+  },
+  "icon": "icons/bdo/04_pc_skill/01_pc_skill/11_pgw_skill/pgw_skill_5153.webp",
+  "level": 56,
+  "combat": true
+ },
+ {
+  "id": 5080,
+  "name": {
+   "esES": "Bestia arrolladora",
+   "es419": "Caza de Bestia",
+   "en": "Beast Demolisher"
+  },
+  "icon": "icons/bdo/04_pc_skill/01_pc_skill/11_pgw_skill/pgw_skill_5078.webp",
+  "level": 46,
+  "combat": true
+ },
+ {
+  "id": 5103,
+  "name": {
+   "esES": "Brillo de Omua",
+   "es419": "Mirada de Omua",
+   "en": "Omua's Glare"
+  },
+  "icon": "icons/bdo/04_pc_skill/01_pc_skill/11_pgw_skill/pgw_skill_5103.webp",
+  "level": 45,
+  "combat": true
+ },
+ {
+  "id": 5213,
+  "name": {
+   "esES": "Cénit: Abrazo de Omua",
+   "es419": "S: Energía de Omua",
+   "en": "Prime: Omua's Aura"
+  },
+  "icon": "icons/bdo/04_pc_skill/01_pc_skill/11_pgw_skill/pgw_skill_5213.webp",
+  "level": 56,
+  "combat": true
+ },
+ {
+  "id": 5204,
+  "name": {
+   "esES": "Cénit: Aura sangrenegra",
+   "es419": "S: Área de Sangre Negra",
+   "en": "Prime: Black Blood Circle"
+  },
+  "icon": "icons/bdo/04_pc_skill/01_pc_skill/11_pgw_skill/pgw_skill_5201.webp",
+  "level": 60,
+  "combat": true
+ },
+ {
+  "id": 5221,
+  "name": {
+   "esES": "Cénit: Bendición sangrenegra",
+   "es419": "S: Protección de Sangre Negra",
+   "en": "Prime: Black Blood Blessing"
+  },
+  "icon": "icons/bdo/04_pc_skill/01_pc_skill/11_pgw_skill/pgw_skill_5221.webp",
+  "level": 12,
+  "combat": true
+ },
+ {
+  "id": 5209,
+  "name": {
+   "esES": "Cénit: Bestia arrolladora",
+   "es419": "S: Caza de Bestia",
+   "en": "Prime: Beast Demolisher"
+  },
+  "icon": "icons/bdo/04_pc_skill/01_pc_skill/11_pgw_skill/pgw_skill_5209.webp",
+  "level": 58,
+  "combat": true
+ },
+ {
+  "id": 5200,
+  "name": {
+   "esES": "Cénit: Descuartizar",
+   "es419": "S: Amputación",
+   "en": "Prime: Mutilation"
+  },
+  "icon": "icons/bdo/04_pc_skill/01_pc_skill/11_pgw_skill/pgw_skill_5198.webp",
+  "level": 58,
+  "combat": true
+ },
+ {
+  "id": 5210,
+  "name": {
+   "esES": "Cénit: Exterminio",
+   "es419": "S: Corte de Sangre Negra",
+   "en": "Prime: Black Blood Slaughter"
+  },
+  "icon": "icons/bdo/04_pc_skill/01_pc_skill/11_pgw_skill/pgw_skill_5210.webp",
+  "level": 58,
+  "combat": true
+ },
+ {
+  "id": 5211,
+  "name": {
+   "esES": "Cénit: Filo etesio",
+   "es419": "S: Lanzamiento de Hacha",
+   "en": "Prime: Axe Throw"
+  },
+  "icon": "icons/bdo/04_pc_skill/01_pc_skill/11_pgw_skill/pgw_skill_5211.webp",
+  "level": 60,
+  "combat": true
+ },
+ {
+  "id": 5212,
+  "name": {
+   "esES": "Cénit: Garra de gea",
+   "es419": "S: Garras de Bestia",
+   "en": "Prime: Claw Reveal"
+  },
+  "icon": "icons/bdo/04_pc_skill/01_pc_skill/11_pgw_skill/pgw_skill_5212.webp",
+  "level": 56,
+  "combat": true
+ },
+ {
+  "id": 5190,
+  "name": {
+   "esES": "Cénit: Golpe menhir",
+   "es419": "S: Divisor de Montañas",
+   "en": "Prime: Avalanche Strike"
+  },
+  "icon": "icons/bdo/04_pc_skill/01_pc_skill/11_pgw_skill/pgw_skill_5188.webp",
+  "level": 60,
+  "combat": true
+ },
+ {
+  "id": 5220,
+  "name": {
+   "esES": "Cénit: Hacha gélida",
+   "es419": "S: Hacha Helada",
+   "en": "Prime: Frostbitten Axe"
+  },
+  "icon": "icons/bdo/04_pc_skill/01_pc_skill/11_pgw_skill/pgw_skill_5216.webp",
+  "level": 60,
+  "combat": true
+ },
+ {
+  "id": 5193,
+  "name": {
+   "esES": "Cénit: Hachazos salvajes",
+   "es419": "S: Descuartizar",
+   "en": "Prime: Savage Hack"
+  },
+  "icon": "icons/bdo/04_pc_skill/01_pc_skill/11_pgw_skill/pgw_skill_5191.webp",
+  "level": 59,
+  "combat": true
+ },
+ {
+  "id": 5215,
+  "name": {
+   "esES": "Cénit: Llama vindicadora",
+   "es419": "S: Retribución Divina",
+   "en": "Prime: Infernal Nemesis"
+  },
+  "icon": "icons/bdo/04_pc_skill/01_pc_skill/11_pgw_skill/pgw_skill_5215.webp",
+  "level": 60,
+  "combat": true
+ },
+ {
+  "id": 5208,
+  "name": {
+   "esES": "Cénit: Pulverizar",
+   "es419": "S: Corte de Roca",
+   "en": "Prime: Boulder Crush"
+  },
+  "icon": "icons/bdo/04_pc_skill/01_pc_skill/11_pgw_skill/pgw_skill_5205.webp",
+  "level": 59,
+  "combat": true
+ },
+ {
+  "id": 5197,
+  "name": {
+   "esES": "Cénit: Segur sísmico",
+   "es419": "S: Golpe de la Tierra",
+   "en": "Prime: Mountain Slam"
+  },
+  "icon": "icons/bdo/04_pc_skill/01_pc_skill/11_pgw_skill/pgw_skill_5194.webp",
+  "level": 60,
+  "combat": true
+ },
+ {
+  "id": 5214,
+  "name": {
+   "esES": "Cénit: Viento gélido",
+   "es419": "S: Viento de Nieve",
+   "en": "Prime: Frigid Wind"
+  },
+  "icon": "icons/bdo/04_pc_skill/01_pc_skill/11_pgw_skill/pgw_skill_5214.webp",
+  "level": 60,
+  "combat": true
+ },
+ {
+  "id": 5161,
+  "name": {
+   "esES": "Cisura altiva",
+   "es419": "Desprecio",
+   "en": "Scornful Slash"
+  },
+  "icon": "icons/bdo/04_pc_skill/01_pc_skill/11_pgw_skill/pgw_skill_5158.webp",
+  "level": 60,
+  "combat": true
+ },
+ {
+  "id": 5102,
+  "name": {
+   "esES": "Definitiva - Fuerza de la naturaleza: Aniquilación",
+   "es419": "Suprema: Colisión: Ejecutado",
+   "en": "Absolute: Juggernaut: Smite"
+  },
+  "icon": "icons/bdo/04_pc_skill/01_pc_skill/11_pgw_skill/pgw_skill_5102.webp",
+  "level": 58,
+  "combat": true
+ },
+ {
+  "id": 5059,
+  "name": {
+   "esES": "Definitiva: Amonestación de Omua",
+   "es419": "Suprema: Sermón de Omua",
+   "en": "Absolute: Omua's Objurgation"
+  },
+  "icon": "icons/bdo/04_pc_skill/01_pc_skill/11_pgw_skill/pgw_skill_5059.webp",
+  "level": 59,
+  "combat": true
+ },
+ {
+  "id": 5091,
+  "name": {
+   "esES": "Definitiva: Aura sangrenegra",
+   "es419": "Suprema: Área de Sangre Negra",
+   "en": "Absolute: Black Blood Circle"
+  },
+  "icon": "icons/bdo/04_pc_skill/01_pc_skill/11_pgw_skill/pgw_skill_5138.webp",
+  "level": 58,
+  "combat": true
+ },
+ {
+  "id": 5044,
+  "name": {
+   "esES": "Definitiva: Batimiento incesante",
+   "es419": "Suprema: Furia Explosiva",
+   "en": "Absolute: Fervor"
+  },
+  "icon": "icons/bdo/04_pc_skill/01_pc_skill/11_pgw_skill/pgw_skill_5044.webp",
+  "level": 57,
+  "combat": true
+ },
+ {
+  "id": 5081,
+  "name": {
+   "esES": "Definitiva: Bestia arrolladora",
+   "es419": "Suprema: Caza de Bestia",
+   "en": "Absolute: Beast Demolisher"
+  },
+  "icon": "icons/bdo/04_pc_skill/01_pc_skill/11_pgw_skill/pgw_skill_5081.webp",
+  "level": 59,
+  "combat": true
+ },
+ {
+  "id": 5014,
+  "name": {
+   "esES": "Definitiva: Desaire",
+   "es419": "Suprema: Usurpación",
+   "en": "Absolute: Fierce Disdain"
+  },
+  "icon": "icons/bdo/04_pc_skill/01_pc_skill/11_pgw_skill/pgw_skill_5014.webp",
+  "level": 56,
+  "combat": true
+ },
+ {
+  "id": 5086,
+  "name": {
+   "esES": "Definitiva: Descuartizar",
+   "es419": "Suprema: Amputación",
+   "en": "Absolute: Mutilation"
+  },
+  "icon": "icons/bdo/04_pc_skill/01_pc_skill/11_pgw_skill/pgw_skill_5086.webp",
+  "level": 58,
+  "combat": true
+ },
+ {
+  "id": 5130,
+  "name": {
+   "esES": "Definitiva: Exterminio",
+   "es419": "Suprema: Corte de Sangre Negra",
+   "en": "Absolute: Black Blood Slaughter"
+  },
+  "icon": "icons/bdo/04_pc_skill/01_pc_skill/11_pgw_skill/pgw_skill_5127.webp",
+  "level": 60,
+  "combat": true
+ },
+ {
+  "id": 5123,
+  "name": {
+   "esES": "Definitiva: Filo etesio",
+   "es419": "Suprema: Lanzamiento de Hacha",
+   "en": "Absolute: Axe Throw"
+  },
+  "icon": "icons/bdo/04_pc_skill/01_pc_skill/11_pgw_skill/pgw_skill_5123.webp",
+  "level": 57,
+  "combat": true
+ },
+ {
+  "id": 5040,
+  "name": {
+   "esES": "Definitiva: Frenesí",
+   "es419": "Suprema: Frenesí",
+   "en": "Absolute: Frenzy"
+  },
+  "icon": "icons/bdo/04_pc_skill/01_pc_skill/11_pgw_skill/pgw_skill_5040.webp",
+  "level": 56,
+  "combat": true
+ },
+ {
+  "id": 5067,
+  "name": {
+   "esES": "Definitiva: Garra de gea",
+   "es419": "Suprema: Garras de Bestia",
+   "en": "Absolute: Claw Reveal"
+  },
+  "icon": "icons/bdo/04_pc_skill/01_pc_skill/11_pgw_skill/pgw_skill_5133.webp",
+  "level": 56,
+  "combat": true
+ },
+ {
+  "id": 5010,
+  "name": {
+   "esES": "Definitiva: Golpe escarcha",
+   "es419": "Suprema: Incisión Helada",
+   "en": "Absolute: Frost Strike"
+  },
+  "icon": "icons/bdo/04_pc_skill/01_pc_skill/11_pgw_skill/pgw_skill_5010.webp",
+  "level": 56,
+  "combat": true
+ },
+ {
+  "id": 5050,
+  "name": {
+   "esES": "Definitiva: Golpe menhir",
+   "es419": "Suprema: Divisor de Montañas",
+   "en": "Absolute: Avalanche Strike"
+  },
+  "icon": "icons/bdo/04_pc_skill/01_pc_skill/11_pgw_skill/pgw_skill_5050.webp",
+  "level": 60,
+  "combat": true
+ },
+ {
+  "id": 5113,
+  "name": {
+   "esES": "Definitiva: Hachazos salvajes",
+   "es419": "Suprema: Descuartizar",
+   "en": "Absolute: Savage Hack"
+  },
+  "icon": "icons/bdo/04_pc_skill/01_pc_skill/11_pgw_skill/pgw_skill_5113.webp",
+  "level": 57,
+  "combat": true
+ },
+ {
+  "id": 5077,
+  "name": {
+   "esES": "Definitiva: Laceración",
+   "es419": "Suprema: Destruir Corazón",
+   "en": "Absolute: Torso Ripper"
+  },
+  "icon": "icons/bdo/04_pc_skill/01_pc_skill/11_pgw_skill/pgw_skill_5077.webp",
+  "level": 58,
+  "combat": true
+ },
+ {
+  "id": 5145,
+  "name": {
+   "esES": "Definitiva: Peñasco veloz",
+   "es419": "Suprema: Advenimiento de Sangre Negra",
+   "en": "Absolute: Black Blood's Descent"
+  },
+  "icon": "icons/bdo/04_pc_skill/01_pc_skill/11_pgw_skill/pgw_skill_5126.webp",
+  "level": 59,
+  "combat": true
+ },
+ {
+  "id": 5117,
+  "name": {
+   "esES": "Definitiva: Pulverizar",
+   "es419": "Suprema: Corte de Roca",
+   "en": "Absolute: Boulder Crush"
+  },
+  "icon": "icons/bdo/04_pc_skill/01_pc_skill/11_pgw_skill/pgw_skill_5117.webp",
+  "level": 56,
+  "combat": true
+ },
+ {
+  "id": 5062,
+  "name": {
+   "esES": "Definitiva: Quebrantabiques",
+   "es419": "Suprema: ¡Hora de Pelear!",
+   "en": "Absolute: Chokeslam"
+  },
+  "icon": "icons/bdo/04_pc_skill/01_pc_skill/11_pgw_skill/pgw_skill_5062.webp",
+  "level": 58,
+  "combat": true
+ },
+ {
+  "id": 5072,
+  "name": {
+   "esES": "Definitiva: Segur sísmico",
+   "es419": "Suprema: Golpe de la Tierra",
+   "en": "Absolute: Mountain Slam"
+  },
+  "icon": "icons/bdo/04_pc_skill/01_pc_skill/11_pgw_skill/pgw_skill_5072.webp",
+  "level": 58,
+  "combat": true
+ },
+ {
+  "id": 5108,
+  "name": {
+   "esES": "Definitiva: Vapulear",
+   "es419": "Suprema: Tajadura",
+   "en": "Absolute: Strike Down"
+  },
+  "icon": "icons/bdo/04_pc_skill/01_pc_skill/11_pgw_skill/pgw_skill_5108.webp",
+  "level": 56,
+  "combat": true
+ },
+ {
+  "id": 5164,
+  "name": {
+   "esES": "Dentellada abrasadora",
+   "es419": "Colmillos de Luto",
+   "en": "Searing Fang"
+  },
+  "icon": "icons/bdo/04_pc_skill/01_pc_skill/11_pgw_skill/pgw_skill_5162.webp",
+  "level": 60,
+  "combat": true
+ },
+ {
+  "id": 5013,
+  "name": {
+   "esES": "Desaire",
+   "es419": "Usurpación",
+   "en": "Fierce Disdain"
+  },
+  "icon": "icons/bdo/04_pc_skill/01_pc_skill/11_pgw_skill/pgw_skill_5011.webp",
+  "level": 47,
+  "combat": true
+ },
+ {
+  "id": 5085,
+  "name": {
+   "esES": "Descuartizar",
+   "es419": "Amputación",
+   "en": "Mutilation"
+  },
+  "icon": "icons/bdo/04_pc_skill/01_pc_skill/11_pgw_skill/pgw_skill_5082.webp",
+  "level": 51,
+  "combat": true
+ },
+ {
+  "id": 5173,
+  "name": {
+   "esES": "Despertar: Fuerza de la naturaleza",
+   "es419": "Despertar: Colisión",
+   "en": "Awakening: Juggernaut"
+  },
+  "icon": "icons/bdo/04_pc_skill/01_pc_skill/11_pgw_skill/pgw_skill_5173.webp",
+  "level": 56,
+  "combat": true
+ },
+ {
+  "id": 5178,
+  "name": {
+   "esES": "Empalamiento",
+   "es419": "Degollamiento",
+   "en": "Neck Impaler"
+  },
+  "icon": "icons/bdo/04_pc_skill/01_pc_skill/11_pgw_skill/pgw_skill_5178.webp",
+  "level": 60,
+  "combat": true
+ },
+ {
+  "id": 5125,
+  "name": {
+   "esES": "Encuentro vaticinado",
+   "es419": "Colisión de Montaña",
+   "en": "Foretold Encounter"
+  },
+  "icon": "icons/bdo/04_pc_skill/01_pc_skill/11_pgw_skill/pgw_skill_5125.webp",
+  "level": 55,
+  "combat": true
+ },
+ {
+  "id": 5151,
+  "name": {
+   "esES": "Entrenamiento con jordun",
+   "es419": "Maestría de Yoldun",
+   "en": "Jordun Training"
+  },
+  "icon": "icons/bdo/04_pc_skill/01_pc_skill/11_pgw_skill/pgw_skill_5147.webp",
+  "level": 60,
+  "combat": true
+ },
+ {
+  "id": 5052,
+  "name": {
+   "esES": "Evasión",
+   "es419": "Evasión",
+   "en": "Evasion"
+  },
+  "icon": "icons/bdo/04_pc_skill/01_pc_skill/11_pgw_skill/pgw_skill_5052.webp",
+  "level": 1,
+  "combat": true
+ },
+ {
+  "id": 5129,
+  "name": {
+   "esES": "Exterminio",
+   "es419": "Corte de Sangre Negra",
+   "en": "Black Blood Slaughter"
+  },
+  "icon": "icons/bdo/04_pc_skill/01_pc_skill/11_pgw_skill/pgw_skill_5130.webp",
+  "level": 54,
+  "combat": true
+ },
+ {
+  "id": 5122,
+  "name": {
+   "esES": "Filo etesio",
+   "es419": "Lanzamiento de Hacha",
+   "en": "Axe Throw"
+  },
+  "icon": "icons/bdo/04_pc_skill/01_pc_skill/11_pgw_skill/pgw_skill_5120.webp",
+  "level": 47,
+  "combat": true
+ },
+ {
+  "id": 5039,
+  "name": {
+   "esES": "Frenesí",
+   "es419": "Frenesí",
+   "en": "Frenzy"
+  },
+  "icon": "icons/bdo/04_pc_skill/01_pc_skill/11_pgw_skill/pgw_skill_5037.webp",
+  "level": 53,
+  "combat": true
+ },
+ {
+  "id": 5099,
+  "name": {
+   "esES": "Fuerza de la naturaleza",
+   "es419": "Colisión",
+   "en": "Juggernaut"
+  },
+  "icon": "icons/bdo/04_pc_skill/01_pc_skill/11_pgw_skill/pgw_skill_5097.webp",
+  "level": 49,
+  "combat": true
+ },
+ {
+  "id": 5101,
+  "name": {
+   "esES": "Fuerza de la naturaleza: Aniquilación",
+   "es419": "Colisión: Ejecutado",
+   "en": "Juggernaut: Smite"
+  },
+  "icon": "icons/bdo/04_pc_skill/01_pc_skill/11_pgw_skill/pgw_skill_5100.webp",
+  "level": 32,
+  "combat": true
+ },
+ {
+  "id": 5066,
+  "name": {
+   "esES": "Garra de gea",
+   "es419": "Garras de Bestia",
+   "en": "Claw Reveal"
+  },
+  "icon": "icons/bdo/04_pc_skill/01_pc_skill/11_pgw_skill/pgw_skill_5131.webp",
+  "level": 33,
+  "combat": true
+ },
+ {
+  "id": 5009,
+  "name": {
+   "esES": "Golpe escarcha",
+   "es419": "Incisión Helada",
+   "en": "Frost Strike"
+  },
+  "icon": "icons/bdo/04_pc_skill/01_pc_skill/11_pgw_skill/pgw_skill_5000.webp",
+  "level": 54,
+  "combat": true
+ },
+ {
+  "id": 5236,
+  "name": {
+   "esES": "Golpe fracturante",
+   "es419": "Golpe Despiadado",
+   "en": "Merciless Smash"
+  },
+  "icon": "icons/bdo/04_pc_skill/01_pc_skill/11_pgw_skill/pgw_skill_5236.webp",
+  "level": 56,
+  "combat": true
+ },
+ {
+  "id": 5049,
+  "name": {
+   "esES": "Golpe menhir",
+   "es419": "Divisor de Montañas",
+   "en": "Avalanche Strike"
+  },
+  "icon": "icons/bdo/04_pc_skill/01_pc_skill/11_pgw_skill/pgw_skill_5045.webp",
+  "level": 55,
+  "combat": true
+ },
+ {
+  "id": 5051,
+  "name": {
+   "esES": "Guardia",
+   "es419": "Defensa",
+   "en": "Guard"
+  },
+  "icon": "icons/bdo/04_pc_skill/01_pc_skill/11_pgw_skill/pgw_skill_5051.webp",
+  "level": 1,
+  "combat": true
+ },
+ {
+  "id": 5112,
+  "name": {
+   "esES": "Hachazos salvajes",
+   "es419": "Descuartizar",
+   "en": "Savage Hack"
+  },
+  "icon": "icons/bdo/04_pc_skill/01_pc_skill/11_pgw_skill/pgw_skill_5110.webp",
+  "level": 42,
+  "combat": true
+ },
+ {
+  "id": 5076,
+  "name": {
+   "esES": "Laceración",
+   "es419": "Destruir Corazón",
+   "en": "Torso Ripper"
+  },
+  "icon": "icons/bdo/04_pc_skill/01_pc_skill/11_pgw_skill/pgw_skill_5073.webp",
+  "level": 53,
+  "combat": true
+ },
+ {
+  "id": 5238,
+  "name": {
+   "esES": "Llama de Omua",
+   "es419": "Fuego de Omua",
+   "en": "Omua's Flame"
+  },
+  "icon": "icons/bdo/04_pc_skill/01_pc_skill/11_pgw_skill/pgw_skill_5238.webp",
+  "level": 57,
+  "combat": true
+ },
+ {
+  "id": 5181,
+  "name": {
+   "esES": "Llama vindicadora",
+   "es419": "Retribución Divina",
+   "en": "Infernal Nemesis"
+  },
+  "icon": "icons/bdo/04_pc_skill/01_pc_skill/11_pgw_skill/pgw_skill_5181.webp",
+  "level": 58,
+  "combat": true
+ },
+ {
+  "id": 5168,
+  "name": {
+   "esES": "Marcha infernal",
+   "es419": "Pasos del Dios de Fuego",
+   "en": "Infernal Steps"
+  },
+  "icon": "icons/bdo/04_pc_skill/01_pc_skill/11_pgw_skill/pgw_skill_5168.webp",
+  "level": 56,
+  "combat": true
+ },
+ {
+  "id": 5063,
+  "name": {
+   "esES": "Movimiento: Erupción",
+   "es419": "Flujo: Derrame de Sangre Negra",
+   "en": "Flow: Black Blood Eruption"
+  },
+  "icon": "icons/bdo/04_pc_skill/01_pc_skill/11_pgw_skill/pgw_skill_5063.webp",
+  "level": 12,
+  "combat": true
+ },
+ {
+  "id": 5182,
+  "name": {
+   "esES": "Movimiento: Estallido ígneo",
+   "es419": "Flujo: Luz Agonizante",
+   "en": "Flow: Howling Light"
+  },
+  "icon": "icons/bdo/04_pc_skill/01_pc_skill/11_pgw_skill/pgw_skill_5182.webp",
+  "level": 60,
+  "combat": true
+ },
+ {
+  "id": 6457,
+  "name": {
+   "esES": "Movimiento: Extenuación",
+   "es419": "Flujo: Incineración",
+   "en": "Flow: To Ashes"
+  },
+  "icon": "icons/bdo/04_pc_skill/01_pc_skill/11_pgw_skill/pgw_skill_6457.webp",
+  "level": 59,
+  "combat": true
+ },
+ {
+  "id": 5174,
+  "name": {
+   "esES": "Movimiento: Incendio",
+   "es419": "Flujo: Omisión",
+   "en": "Flow: Suppress"
+  },
+  "icon": "icons/bdo/04_pc_skill/01_pc_skill/11_pgw_skill/pgw_skill_5174.webp",
+  "level": 57,
+  "combat": true
+ },
+ {
+  "id": 5109,
+  "name": {
+   "esES": "Movimiento: Rodillazo",
+   "es419": "Flujo: Avalancha",
+   "en": "Flow: Low Blow"
+  },
+  "icon": "icons/bdo/04_pc_skill/01_pc_skill/11_pgw_skill/pgw_skill_5109.webp",
+  "level": 32,
+  "combat": true
+ },
+ {
+  "id": 5180,
+  "name": {
+   "esES": "Ofensiva ardiente",
+   "es419": "Espina de Fuego",
+   "en": "Scalding Thorn"
+  },
+  "icon": "icons/bdo/04_pc_skill/01_pc_skill/11_pgw_skill/pgw_skill_5235.webp",
+  "level": 57,
+  "combat": true
+ },
+ {
+  "id": 5096,
+  "name": {
+   "esES": "Paso firme",
+   "es419": "Pasos Sólidos",
+   "en": "Sturdy Step"
+  },
+  "icon": "icons/bdo/04_pc_skill/01_pc_skill/11_pgw_skill/pgw_skill_5094.webp",
+  "level": 48,
+  "combat": true
+ },
+ {
+  "id": 5015,
+  "name": {
+   "esES": "Patada desdeñosa",
+   "es419": "Patada Despiadada",
+   "en": "Merciless Kick"
+  },
+  "icon": "icons/bdo/04_pc_skill/01_pc_skill/11_pgw_skill/pgw_skill_5015.webp",
+  "level": 14,
+  "combat": true
+ },
+ {
+  "id": 5144,
+  "name": {
+   "esES": "Peñasco veloz",
+   "es419": "Advenimiento de Sangre Negra",
+   "en": "Black Blood's Descent"
+  },
+  "icon": "icons/bdo/04_pc_skill/01_pc_skill/11_pgw_skill/pgw_skill_5126.webp",
+  "level": 48,
+  "combat": true
+ },
+ {
+  "id": 6055,
+  "name": {
+   "esES": "Primordial: Acometida gloriosa",
+   "es419": "BON: Ejecución Gloriosa",
+   "en": "Core: Glorious Advance"
+  },
+  "icon": "icons/bdo/04_pc_skill/01_pc_skill/11_pgw_skill/pgw_skill_5154.webp",
+  "level": 60,
+  "combat": true
+ },
+ {
+  "id": 6060,
+  "name": {
+   "esES": "Primordial: Aliento de dragón",
+   "es419": "BON: Colmillo del Dragón",
+   "en": "Core: Dragon's Maw"
+  },
+  "icon": "icons/bdo/04_pc_skill/01_pc_skill/11_pgw_skill/pgw_skill_5175.webp",
+  "level": 60,
+  "combat": true
+ },
+ {
+  "id": 6056,
+  "name": {
+   "esES": "Primordial: Cisura altiva",
+   "es419": "BON: Desprecio",
+   "en": "Core: Scornful Slash"
+  },
+  "icon": "icons/bdo/04_pc_skill/01_pc_skill/11_pgw_skill/pgw_skill_5158.webp",
+  "level": 60,
+  "combat": true
+ },
+ {
+  "id": 6058,
+  "name": {
+   "esES": "Primordial: Dentellada abrasadora",
+   "es419": "BON: Colmillos de Luto",
+   "en": "Core: Searing Fang"
+  },
+  "icon": "icons/bdo/04_pc_skill/01_pc_skill/11_pgw_skill/pgw_skill_5162.webp",
+  "level": 60,
+  "combat": true
+ },
+ {
+  "id": 6059,
+  "name": {
+   "esES": "Primordial: Tefra piroclástica",
+   "es419": "BON: Llamas de Destrucción",
+   "en": "Core: God Incinerator"
+  },
+  "icon": "icons/bdo/04_pc_skill/01_pc_skill/11_pgw_skill/pgw_skill_5232.webp",
+  "level": 60,
+  "combat": true
+ },
+ {
+  "id": 6057,
+  "name": {
+   "esES": "Primordial: Vórtice purificador",
+   "es419": "BON: Fuego de Purificación",
+   "en": "Core: Cleansing Flame"
+  },
+  "icon": "icons/bdo/04_pc_skill/01_pc_skill/11_pgw_skill/pgw_skill_5228.webp",
+  "level": 60,
+  "combat": true
+ },
+ {
+  "id": 5237,
+  "name": {
+   "esES": "Pulverización",
+   "es419": "Mutilación",
+   "en": "Pulverization"
+  },
+  "icon": "icons/bdo/04_pc_skill/01_pc_skill/11_pgw_skill/pgw_skill_5237.webp",
+  "level": 56,
+  "combat": true
+ },
+ {
+  "id": 5116,
+  "name": {
+   "esES": "Pulverizar",
+   "es419": "Corte de Roca",
+   "en": "Boulder Crush"
+  },
+  "icon": "icons/bdo/04_pc_skill/01_pc_skill/11_pgw_skill/pgw_skill_5114.webp",
+  "level": 41,
+  "combat": true
+ },
+ {
+  "id": 5061,
+  "name": {
+   "esES": "Quebrantabiques",
+   "es419": "¡Hora de Pelear!",
+   "en": "Chokeslam"
+  },
+  "icon": "icons/bdo/04_pc_skill/01_pc_skill/11_pgw_skill/pgw_skill_5060.webp",
+  "level": 49,
+  "combat": true
+ },
+ {
+  "id": 5240,
+  "name": {
+   "esES": "Renacer: Fuerza de la naturaleza",
+   "es419": "Sucesión: Colisión",
+   "en": "Succession: Juggernaut"
+  },
+  "icon": "icons/bdo/04_pc_skill/01_pc_skill/11_pgw_skill/pgw_skill_5097.webp",
+  "level": 56,
+  "combat": true
+ },
+ {
+  "id": 5187,
+  "name": {
+   "esES": "Renacer: Gloria de guardiana",
+   "es419": "Sucesión: Gloria de la Guardiana",
+   "en": "Succession: Guardian's Glory"
+  },
+  "icon": "icons/bdo/04_pc_skill/01_pc_skill/11_pgw_skill/pgw_skill_5146.webp",
+  "level": 56,
+  "combat": true
+ },
+ {
+  "id": 5227,
+  "name": {
+   "esES": "Renacer: Sangre de dragón",
+   "es419": "Sucesión: Deber del Dragón",
+   "en": "Succession: Dragon's Calling"
+  },
+  "icon": "icons/bdo/04_pc_skill/01_pc_skill/11_pgw_skill/pgw_skill_5227.webp",
+  "level": 20,
+  "combat": true
+ },
+ {
+  "id": 92,
+  "name": {
+   "esES": "Retirada oscura",
+   "es419": "Escape de Emergencia",
+   "en": "Emergency Escape"
+  },
+  "icon": "icons/bdo/04_pc_skill/01_pc_skill/00_common/common_skill_0092.webp",
+  "level": 1,
+  "combat": true
+ },
+ {
+  "id": 5071,
+  "name": {
+   "esES": "Segur sísmico",
+   "es419": "Golpe de la Tierra",
+   "en": "Mountain Slam"
+  },
+  "icon": "icons/bdo/04_pc_skill/01_pc_skill/11_pgw_skill/pgw_skill_5068.webp",
+  "level": 47,
+  "combat": true
+ },
+ {
+  "id": 5167,
+  "name": {
+   "esES": "Tefra piroclástica",
+   "es419": "Llamas de Destrucción",
+   "en": "God Incinerator"
+  },
+  "icon": "icons/bdo/04_pc_skill/01_pc_skill/11_pgw_skill/pgw_skill_5232.webp",
+  "level": 59,
+  "combat": true
+ },
+ {
+  "id": 5107,
+  "name": {
+   "esES": "Vapulear",
+   "es419": "Tajadura",
+   "en": "Strike Down"
+  },
+  "icon": "icons/bdo/04_pc_skill/01_pc_skill/11_pgw_skill/pgw_skill_5105.webp",
+  "level": 43,
+  "combat": true
+ },
+ {
+  "id": 5183,
+  "name": {
+   "esES": "Viento gélido",
+   "es419": "Viento de Nieve",
+   "en": "Frigid Wind"
+  },
+  "icon": "icons/bdo/04_pc_skill/01_pc_skill/11_pgw_skill/pgw_skill_5183.webp",
+  "level": 59,
+  "combat": true
+ },
+ {
+  "id": 5172,
+  "name": {
+   "esES": "Vórtice purificador",
+   "es419": "Fuego de Purificación",
+   "en": "Cleansing Flame"
+  },
+  "icon": "icons/bdo/04_pc_skill/01_pc_skill/11_pgw_skill/pgw_skill_5228.webp",
+  "level": 60,
+  "combat": true
+ },
+ {
+  "id": 3459,
+  "name": {
+   "esES": "Absorción de furia",
+   "es419": "Absorción de Furia",
+   "en": "Rage Absorption"
+  },
+  "icon": "icons/bdo/04_pc_skill/01_pc_skill/00_common/common_skill_0090.webp",
+  "level": 35,
+  "combat": false
+ },
+ {
+  "id": 89,
+  "name": {
+   "esES": "Absorción de furia (latente)",
+   "es419": "Absorción de Furia (Innato)",
+   "en": "Rage Absorption (Innate)"
+  },
+  "icon": "icons/bdo/04_pc_skill/01_pc_skill/00_common/common_skill_0090.webp",
+  "level": 35,
+  "combat": false
+ },
+ {
+  "id": 2076,
+  "name": {
+   "esES": "Cazador hábil",
+   "es419": "Cazador Experto",
+   "en": "Skilled Hunter"
+  },
+  "icon": "icons/bdo/04_pc_skill/01_pc_skill/06_pkm_skill/pkm_skill_2072.webp",
+  "level": 60,
+  "combat": false
+ },
+ {
+  "id": 5124,
+  "name": {
+   "esES": "Derribapuertas",
+   "es419": "Destrozador de Puertas",
+   "en": "Gate Crasher"
+  },
+  "icon": "icons/bdo/04_pc_skill/01_pc_skill/11_pgw_skill/pgw_skill_5124.webp",
+  "level": 60,
+  "combat": false
+ },
+ {
+  "id": 6131,
+  "name": {
+   "esES": "Elvia: Martillo corruptor",
+   "es419": "Elvia: Fuerte Negación",
+   "en": "Elvia: Steadfast Corruption"
+  },
+  "icon": "icons/bdo/04_pc_skill/01_pc_skill/11_pgw_skill/pgw_skill_6131.webp",
+  "level": 60,
+  "combat": false
+ },
+ {
+  "id": 6115,
+  "name": {
+   "esES": "Golpe firme",
+   "es419": "Ejecución Sólida",
+   "en": "Sturdy Smite"
+  },
+  "icon": "icons/bdo/04_pc_skill/01_pc_skill/11_pgw_skill/pgw_skill_6115.webp",
+  "level": 58,
+  "combat": false
+ },
+ {
+  "id": 4856,
+  "name": {
+   "esES": "Gran poder",
+   "es419": "Gran Poder",
+   "en": "Unyielding Might"
+  },
+  "icon": "icons/bdo/04_pc_skill/01_pc_skill/00_common/common_skill_18705.webp",
+  "level": 62,
+  "combat": false
+ },
+ {
+  "id": 1707,
+  "name": {
+   "esES": "Maestría infinita",
+   "es419": "Maestría Infinita",
+   "en": "Infinite Mastery"
+  },
+  "icon": "icons/bdo/04_pc_skill/01_pc_skill/00_common/common_skill_1702.webp",
+  "level": 55,
+  "combat": false
+ },
+ {
+  "id": 5053,
+  "name": {
+   "esES": "Sangre de dragón",
+   "es419": "Deber del Dragón",
+   "en": "Dragon's Calling"
+  },
+  "icon": "icons/bdo/04_pc_skill/01_pc_skill/11_pgw_skill/pgw_skill_5053.webp",
+  "level": 20,
+  "combat": false
+ },
+ {
+  "id": 6116,
+  "name": {
+   "esES": "Temblor montañoso",
+   "es419": "Rugido de Montaña",
+   "en": "Mountain's Echo"
+  },
+  "icon": "icons/bdo/04_pc_skill/01_pc_skill/11_pgw_skill/pgw_skill_6116.webp",
+  "level": 58,
+  "combat": false
+ },
+ {
+  "id": 91,
+  "name": {
+   "esES": "Transfuria",
+   "es419": "Transferencia de Furia",
+   "en": "Rage Transfer"
+  },
+  "icon": "icons/bdo/04_pc_skill/01_pc_skill/00_common/common_skill_0091.webp",
+  "level": 35,
+  "combat": false
+ },
+ {
+  "id": 5035,
+  "name": {
+   "esES": "Viento helado",
+   "es419": "Vientos Helados",
+   "en": "Bone Freezing Wind"
+  },
+  "icon": "icons/bdo/04_pc_skill/01_pc_skill/11_pgw_skill/pgw_skill_5016.webp",
+  "level": 60,
+  "combat": false
+ },
+ {
+  "id": 5036,
+  "name": {
+   "esES": "Viento helado XXI",
+   "es419": "Vientos Helados XXI",
+   "en": "Bone Freezing Wind XXI"
+  },
+  "icon": "icons/bdo/04_pc_skill/01_pc_skill/11_pgw_skill/pgw_skill_5036.webp",
+  "level": 60,
+  "combat": false
+ }
+]

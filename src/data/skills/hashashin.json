@@ -1,0 +1,1190 @@
+[
+ {
+  "id": 3459,
+  "name": {
+   "esES": "Absorción de furia",
+   "es419": "Absorción de Furia",
+   "en": "Rage Absorption"
+  },
+  "icon": "icons/bdo/04_pc_skill/01_pc_skill/00_common/common_skill_0090.webp",
+  "level": 35,
+  "combat": true
+ },
+ {
+  "id": 89,
+  "name": {
+   "esES": "Absorción de furia (latente)",
+   "es419": "Absorción de Furia (Innato)",
+   "en": "Rage Absorption (Innate)"
+  },
+  "icon": "icons/bdo/04_pc_skill/01_pc_skill/00_common/common_skill_0090.webp",
+  "level": 35,
+  "combat": true
+ },
+ {
+  "id": 5604,
+  "name": {
+   "esES": "Acometida árida",
+   "es419": "Asalto Seco",
+   "en": "Arid Assault"
+  },
+  "icon": "icons/bdo/04_pc_skill/01_pc_skill/18_pam_skill/pam_skill_5604.webp",
+  "level": 30,
+  "combat": true
+ },
+ {
+  "id": 5588,
+  "name": {
+   "esES": "Advenimiento",
+   "es419": "Advenimiento del Apóstol",
+   "en": "Descent"
+  },
+  "icon": "icons/bdo/04_pc_skill/01_pc_skill/18_pam_skill/pam_skill_5580.webp",
+  "level": 54,
+  "combat": true
+ },
+ {
+  "id": 5597,
+  "name": {
+   "esES": "Aliento de Aal",
+   "es419": "Aliento de Aal",
+   "en": "Aal's Breath"
+  },
+  "icon": "icons/bdo/04_pc_skill/01_pc_skill/18_pam_skill/pam_skill_5518.webp",
+  "level": 50,
+  "combat": true
+ },
+ {
+  "id": 5500,
+  "name": {
+   "esES": "Amparo de Aal",
+   "es419": "Protección de Aal",
+   "en": "Aal's Protection"
+  },
+  "icon": "icons/bdo/04_pc_skill/01_pc_skill/18_pam_skill/pam_skill_5500.webp",
+  "level": 1,
+  "combat": true
+ },
+ {
+  "id": 5567,
+  "name": {
+   "esES": "Arenas de la perdición",
+   "es419": "Arenas Movedizas",
+   "en": "Quicksand"
+  },
+  "icon": "icons/bdo/04_pc_skill/01_pc_skill/18_pam_skill/pam_skill_5540.webp",
+  "level": 52,
+  "combat": true
+ },
+ {
+  "id": 5579,
+  "name": {
+   "esES": "Augur de las arenas",
+   "es419": "Revelador de la Arena",
+   "en": "Seer of the Sands"
+  },
+  "icon": "icons/bdo/04_pc_skill/01_pc_skill/18_pam_skill/pam_skill_5579.webp",
+  "level": 20,
+  "combat": true
+ },
+ {
+  "id": 5701,
+  "name": {
+   "esES": "Camino de Aal",
+   "es419": "Mesías",
+   "en": "Way of Aal"
+  },
+  "icon": "icons/bdo/04_pc_skill/01_pc_skill/18_pam_skill/pam_skill_5701.webp",
+  "level": 60,
+  "combat": true
+ },
+ {
+  "id": 5515,
+  "name": {
+   "esES": "Caricia con haladie",
+   "es419": "Lanzamiento de Haladie",
+   "en": "Haladie Throw"
+  },
+  "icon": "icons/bdo/04_pc_skill/01_pc_skill/18_pam_skill/pam_skill_5512.webp",
+  "level": 43,
+  "combat": true
+ },
+ {
+  "id": 5628,
+  "name": {
+   "esES": "Castigainfieles",
+   "es419": "Espada Interrogante",
+   "en": "Inquisition"
+  },
+  "icon": "icons/bdo/04_pc_skill/01_pc_skill/18_pam_skill/pam_skill_5625.webp",
+  "level": 59,
+  "combat": true
+ },
+ {
+  "id": 5510,
+  "name": {
+   "esES": "Catarsis",
+   "es419": "Muerte Violenta",
+   "en": "Purge"
+  },
+  "icon": "icons/bdo/04_pc_skill/01_pc_skill/18_pam_skill/pam_skill_5505.webp",
+  "level": 54,
+  "combat": true
+ },
+ {
+  "id": 2076,
+  "name": {
+   "esES": "Cazador hábil",
+   "es419": "Cazador Experto",
+   "en": "Skilled Hunter"
+  },
+  "icon": "icons/bdo/04_pc_skill/01_pc_skill/06_pkm_skill/pkm_skill_2072.webp",
+  "level": 60,
+  "combat": true
+ },
+ {
+  "id": 5691,
+  "name": {
+   "esES": "Cénit: Advenimiento",
+   "es419": "S: Advenimiento del Apóstol",
+   "en": "Prime: Descent"
+  },
+  "icon": "icons/bdo/04_pc_skill/01_pc_skill/18_pam_skill/pam_skill_5697.webp",
+  "level": 60,
+  "combat": true
+ },
+ {
+  "id": 5667,
+  "name": {
+   "esES": "Cénit: Aliento de Aal",
+   "es419": "S: Aliento de Aal",
+   "en": "Prime: Aal's Breath"
+  },
+  "icon": "icons/bdo/04_pc_skill/01_pc_skill/18_pam_skill/pam_skill_5667.webp",
+  "level": 59,
+  "combat": true
+ },
+ {
+  "id": 5687,
+  "name": {
+   "esES": "Cénit: Arenas de la perdición",
+   "es419": "S: Arena Movediza",
+   "en": "Prime: Quicksand"
+  },
+  "icon": "icons/bdo/04_pc_skill/01_pc_skill/18_pam_skill/pam_skill_5693.webp",
+  "level": 59,
+  "combat": true
+ },
+ {
+  "id": 5659,
+  "name": {
+   "esES": "Cénit: Augur de las arenas",
+   "es419": "S: Profeta de las Arenas",
+   "en": "Prime: Seer of the Sands"
+  },
+  "icon": "icons/bdo/04_pc_skill/01_pc_skill/18_pam_skill/pam_skill_5659.webp",
+  "level": 56,
+  "combat": true
+ },
+ {
+  "id": 5673,
+  "name": {
+   "esES": "Cénit: Catarsis",
+   "es419": "S: Muerte Violenta",
+   "en": "Prime: Purge"
+  },
+  "icon": "icons/bdo/04_pc_skill/01_pc_skill/18_pam_skill/pam_skill_5671.webp",
+  "level": 60,
+  "combat": true
+ },
+ {
+  "id": 5676,
+  "name": {
+   "esES": "Cénit: Clepsamos",
+   "es419": "S: Trazo de Arena",
+   "en": "Prime: Sand Slicer"
+  },
+  "icon": "icons/bdo/04_pc_skill/01_pc_skill/18_pam_skill/pam_skill_5674.webp",
+  "level": 60,
+  "combat": true
+ },
+ {
+  "id": 5669,
+  "name": {
+   "esES": "Cénit: Cortes áridos",
+   "es419": "S: Corte de Duna",
+   "en": "Prime: Dune Slash"
+  },
+  "icon": "icons/bdo/04_pc_skill/01_pc_skill/18_pam_skill/pam_skill_5669.webp",
+  "level": 56,
+  "combat": true
+ },
+ {
+  "id": 5683,
+  "name": {
+   "esES": "Cénit: Haladie divina",
+   "es419": "S: Filo de la Vocación",
+   "en": "Prime: Chosen Blade"
+  },
+  "icon": "icons/bdo/04_pc_skill/01_pc_skill/18_pam_skill/pam_skill_5680.webp",
+  "level": 60,
+  "combat": true
+ },
+ {
+  "id": 5668,
+  "name": {
+   "esES": "Cénit: Ilusión mortífera",
+   "es419": "S: Paso Arenal",
+   "en": "Prime: Sand Warp"
+  },
+  "icon": "icons/bdo/04_pc_skill/01_pc_skill/18_pam_skill/pam_skill_5668.webp",
+  "level": 56,
+  "combat": true
+ },
+ {
+  "id": 5658,
+  "name": {
+   "esES": "Cénit: Pacto de acero",
+   "es419": "S: Contrato Apostólico",
+   "en": "Prime: Blade's Pact"
+  },
+  "icon": "icons/bdo/04_pc_skill/01_pc_skill/18_pam_skill/pam_skill_5658.webp",
+  "level": 56,
+  "combat": true
+ },
+ {
+  "id": 5679,
+  "name": {
+   "esES": "Cénit: Perfiladunas",
+   "es419": "S: Corte de Cresta",
+   "en": "Prime: Ridge Reaver"
+  },
+  "icon": "icons/bdo/04_pc_skill/01_pc_skill/18_pam_skill/pam_skill_5677.webp",
+  "level": 60,
+  "combat": true
+ },
+ {
+  "id": 5666,
+  "name": {
+   "esES": "Cénit: Reino de Aal",
+   "es419": "S: Territorio de Aal",
+   "en": "Prime: Aal's Dominion"
+  },
+  "icon": "icons/bdo/04_pc_skill/01_pc_skill/18_pam_skill/pam_skill_5666.webp",
+  "level": 58,
+  "combat": true
+ },
+ {
+  "id": 5670,
+  "name": {
+   "esES": "Cénit: Remolinos letales",
+   "es419": "S: Grillete Espiral",
+   "en": "Prime: Binding Spirals"
+  },
+  "icon": "icons/bdo/04_pc_skill/01_pc_skill/18_pam_skill/pam_skill_5670.webp",
+  "level": 58,
+  "combat": true
+ },
+ {
+  "id": 5664,
+  "name": {
+   "esES": "Cénit: Salvador de las arenas",
+   "es419": "S: Salvador de las Arenas",
+   "en": "Prime: Savior of the Sands"
+  },
+  "icon": "icons/bdo/04_pc_skill/01_pc_skill/18_pam_skill/pam_skill_5660.webp",
+  "level": 60,
+  "combat": true
+ },
+ {
+  "id": 5665,
+  "name": {
+   "esES": "Cénit: Tormenta incesante",
+   "es419": "S: Torbellino de Cuchilla Perforadora",
+   "en": "Prime: Piercing Tornado"
+  },
+  "icon": "icons/bdo/04_pc_skill/01_pc_skill/18_pam_skill/pam_skill_5665_re.webp",
+  "level": 56,
+  "combat": true
+ },
+ {
+  "id": 5503,
+  "name": {
+   "esES": "Clepsamos",
+   "es419": "Trazo de Arena",
+   "en": "Sand Slicer"
+  },
+  "icon": "icons/bdo/04_pc_skill/01_pc_skill/18_pam_skill/pam_skill_5501.webp",
+  "level": 40,
+  "combat": true
+ },
+ {
+  "id": 5644,
+  "name": {
+   "esES": "Colapso bífido",
+   "es419": "Colapso",
+   "en": "Collapse"
+  },
+  "icon": "icons/bdo/04_pc_skill/01_pc_skill/18_pam_skill/pam_skill_5715.webp",
+  "level": 60,
+  "combat": true
+ },
+ {
+  "id": 5650,
+  "name": {
+   "esES": "Colmillo agudo",
+   "es419": "Mordedura",
+   "en": "Piercing Fang"
+  },
+  "icon": "icons/bdo/04_pc_skill/01_pc_skill/18_pam_skill/pam_skill_5650.webp",
+  "level": 56,
+  "combat": true
+ },
+ {
+  "id": 5618,
+  "name": {
+   "esES": "Constricción",
+   "es419": "Trampa de Víbora",
+   "en": "Constriction"
+  },
+  "icon": "icons/bdo/04_pc_skill/01_pc_skill/18_pam_skill/pam_skill_5618.webp",
+  "level": 56,
+  "combat": true
+ },
+ {
+  "id": 5640,
+  "name": {
+   "esES": "Cortes áridos",
+   "es419": "Corte de Duna",
+   "en": "Dune Slash"
+  },
+  "icon": "icons/bdo/04_pc_skill/01_pc_skill/18_pam_skill/pam_skill_5718.webp",
+  "level": 58,
+  "combat": true
+ },
+ {
+  "id": 5531,
+  "name": {
+   "esES": "Danza oscura",
+   "es419": "Corte de Cola",
+   "en": "Tail Cutter"
+  },
+  "icon": "icons/bdo/04_pc_skill/01_pc_skill/18_pam_skill/pam_skill_5529.webp",
+  "level": 49,
+  "combat": true
+ },
+ {
+  "id": 5589,
+  "name": {
+   "esES": "Definitiva: Advenimiento",
+   "es419": "Suprema : Advenimiento del Apóstol",
+   "en": "Absolute: Descent"
+  },
+  "icon": "icons/bdo/04_pc_skill/01_pc_skill/18_pam_skill/pam_skill_5589.webp",
+  "level": 60,
+  "combat": true
+ },
+ {
+  "id": 5598,
+  "name": {
+   "esES": "Definitiva: Aliento de Aal",
+   "es419": "Suprema : Aliento de Aal",
+   "en": "Absolute: Aal's Breath"
+  },
+  "icon": "icons/bdo/04_pc_skill/01_pc_skill/18_pam_skill/pam_skill_5598.webp",
+  "level": 59,
+  "combat": true
+ },
+ {
+  "id": 5568,
+  "name": {
+   "esES": "Definitiva: Arenas de la perdición",
+   "es419": "Suprema : Arenas Movedizas",
+   "en": "Absolute: Quicksand"
+  },
+  "icon": "icons/bdo/04_pc_skill/01_pc_skill/18_pam_skill/pam_skill_5568.webp",
+  "level": 60,
+  "combat": true
+ },
+ {
+  "id": 5516,
+  "name": {
+   "esES": "Definitiva: Caricia con haladie",
+   "es419": "Suprema : Lanzamiento de Haladie",
+   "en": "Absolute: Haladie Throw"
+  },
+  "icon": "icons/bdo/04_pc_skill/01_pc_skill/18_pam_skill/pam_skill_5516.webp",
+  "level": 56,
+  "combat": true
+ },
+ {
+  "id": 5511,
+  "name": {
+   "esES": "Definitiva: Catarsis",
+   "es419": "Suprema : Muerte Violenta",
+   "en": "Absolute: Purge"
+  },
+  "icon": "icons/bdo/04_pc_skill/01_pc_skill/18_pam_skill/pam_skill_5511.webp",
+  "level": 59,
+  "combat": true
+ },
+ {
+  "id": 5504,
+  "name": {
+   "esES": "Definitiva: Clepsamos",
+   "es419": "Suprema : Trazo de Arena",
+   "en": "Absolute: Sand Slicer"
+  },
+  "icon": "icons/bdo/04_pc_skill/01_pc_skill/18_pam_skill/pam_skill_5504.webp",
+  "level": 56,
+  "combat": true
+ },
+ {
+  "id": 5532,
+  "name": {
+   "esES": "Definitiva: Danza oscura",
+   "es419": "Suprema : Corte de Cola",
+   "en": "Absolute: Tail Cutter"
+  },
+  "icon": "icons/bdo/04_pc_skill/01_pc_skill/18_pam_skill/pam_skill_5532.webp",
+  "level": 57,
+  "combat": true
+ },
+ {
+  "id": 5548,
+  "name": {
+   "esES": "Definitiva: Haladie divina",
+   "es419": "Suprema: Filo de la Vocación",
+   "en": "Absolute: Chosen Blade"
+  },
+  "icon": "icons/bdo/04_pc_skill/01_pc_skill/18_pam_skill/pam_skill_5548.webp",
+  "level": 60,
+  "combat": true
+ },
+ {
+  "id": 5523,
+  "name": {
+   "esES": "Definitiva: Incisión despiadada",
+   "es419": "Suprema : Amputación de Sombra",
+   "en": "Absolute: Shadow Splitter"
+  },
+  "icon": "icons/bdo/04_pc_skill/01_pc_skill/18_pam_skill/pam_skill_5523.webp",
+  "level": 57,
+  "combat": true
+ },
+ {
+  "id": 5478,
+  "name": {
+   "esES": "Definitiva: Maestría con shamsir",
+   "es419": "Suprema : Maestría de Shamsir",
+   "en": "Absolute: Shamshir Training"
+  },
+  "icon": "icons/bdo/04_pc_skill/01_pc_skill/18_pam_skill/pam_skill_5478.webp",
+  "level": 56,
+  "combat": true
+ },
+ {
+  "id": 5539,
+  "name": {
+   "esES": "Definitiva: Patada áurea",
+   "es419": "Suprema : Corte de Polvo de Oro",
+   "en": "Absolute: Sand Divider"
+  },
+  "icon": "icons/bdo/04_pc_skill/01_pc_skill/18_pam_skill/pam_skill_5539.webp",
+  "level": 56,
+  "combat": true
+ },
+ {
+  "id": 5528,
+  "name": {
+   "esES": "Definitiva: Perfiladunas",
+   "es419": "Suprema : Corte de Cresta",
+   "en": "Absolute: Ridge Reaver"
+  },
+  "icon": "icons/bdo/04_pc_skill/01_pc_skill/18_pam_skill/pam_skill_5528.webp",
+  "level": 56,
+  "combat": true
+ },
+ {
+  "id": 5609,
+  "name": {
+   "esES": "Definitiva: Reino de Aal",
+   "es419": "Suprema : Territorio de Aal",
+   "en": "Absolute: Aal's Dominion"
+  },
+  "icon": "icons/bdo/04_pc_skill/01_pc_skill/18_pam_skill/pam_skill_5609.webp",
+  "level": 56,
+  "combat": true
+ },
+ {
+  "id": 5615,
+  "name": {
+   "esES": "Definitiva: Sablón oscuro",
+   "es419": "Suprema : Corte Divisor",
+   "en": "Absolute: Rupture"
+  },
+  "icon": "icons/bdo/04_pc_skill/01_pc_skill/18_pam_skill/pam_skill_5615.webp",
+  "level": 58,
+  "combat": true
+ },
+ {
+  "id": 5493,
+  "name": {
+   "esES": "Definitiva: Sentencia del tiempo",
+   "es419": "Suprema : Reloj de Arena de la Deshonra",
+   "en": "Absolute: Hourglass of Death"
+  },
+  "icon": "icons/bdo/04_pc_skill/01_pc_skill/18_pam_skill/pam_skill_5493.webp",
+  "level": 58,
+  "combat": true
+ },
+ {
+  "id": 5499,
+  "name": {
+   "esES": "Definitiva: Tormenta incesante",
+   "es419": "Suprema : Torbellino de Cuchilla Perforadora",
+   "en": "Absolute: Piercing Tornado"
+  },
+  "icon": "icons/bdo/04_pc_skill/01_pc_skill/18_pam_skill/pam_skill_5499.webp",
+  "level": 58,
+  "combat": true
+ },
+ {
+  "id": 5603,
+  "name": {
+   "esES": "Definitiva: Voltereta vertiginosa",
+   "es419": "Suprema : Asalto de Haladie",
+   "en": "Absolute: Haladie Assault"
+  },
+  "icon": "icons/bdo/04_pc_skill/01_pc_skill/18_pam_skill/pam_skill_5603.webp",
+  "level": 57,
+  "combat": true
+ },
+ {
+  "id": 6137,
+  "name": {
+   "esES": "Elvia: Supremacía enajenada",
+   "es419": "Elvia: Autoridad Retorcida",
+   "en": "Elvia: Twisted Authority"
+  },
+  "icon": "icons/bdo/04_pc_skill/01_pc_skill/18_pam_skill/pam_skill_6137.webp",
+  "level": 60,
+  "combat": true
+ },
+ {
+  "id": 5624,
+  "name": {
+   "esES": "Entrenamiento con ceraste",
+   "es419": "Maestría del Jusaldo",
+   "en": "Dual Glaives Training"
+  },
+  "icon": "icons/bdo/04_pc_skill/01_pc_skill/18_pam_skill/pam_skill_5620.webp",
+  "level": 60,
+  "combat": true
+ },
+ {
+  "id": 5533,
+  "name": {
+   "esES": "Espejismo",
+   "es419": "Trampa de Arena",
+   "en": "Mirage"
+  },
+  "icon": "icons/bdo/04_pc_skill/01_pc_skill/18_pam_skill/pam_skill_5533.webp",
+  "level": 45,
+  "combat": true
+ },
+ {
+  "id": 5712,
+  "name": {
+   "esES": "Espejismo de Aal",
+   "es419": "Trampa de Aal",
+   "en": "Aal's Mirage"
+  },
+  "icon": "icons/bdo/04_pc_skill/01_pc_skill/18_pam_skill/pam_skill_5712.webp",
+  "level": 57,
+  "combat": true
+ },
+ {
+  "id": 5647,
+  "name": {
+   "esES": "Espiral vipérea",
+   "es419": "Nido de Víboras",
+   "en": "Serpent's Coil"
+  },
+  "icon": "icons/bdo/04_pc_skill/01_pc_skill/18_pam_skill/pam_skill_5655.webp",
+  "level": 60,
+  "combat": true
+ },
+ {
+  "id": 5583,
+  "name": {
+   "esES": "Evasión",
+   "es419": "Evasión",
+   "en": "Evasion"
+  },
+  "icon": "icons/bdo/04_pc_skill/01_pc_skill/18_pam_skill/pam_skill_5583.webp",
+  "level": 1,
+  "combat": true
+ },
+ {
+  "id": 5619,
+  "name": {
+   "esES": "Gracia de Aal",
+   "es419": "Bendición de Aal",
+   "en": "Aal's Grace"
+  },
+  "icon": "icons/bdo/04_pc_skill/01_pc_skill/18_pam_skill/pam_skill_5619.webp",
+  "level": 56,
+  "combat": true
+ },
+ {
+  "id": 4856,
+  "name": {
+   "esES": "Gran poder",
+   "es419": "Gran Poder",
+   "en": "Unyielding Might"
+  },
+  "icon": "icons/bdo/04_pc_skill/01_pc_skill/00_common/common_skill_18705.webp",
+  "level": 62,
+  "combat": true
+ },
+ {
+  "id": 6470,
+  "name": {
+   "esES": "Grieta silente",
+   "es419": "Fisura Serena",
+   "en": "Silent Breach"
+  },
+  "icon": "icons/bdo/04_pc_skill/01_pc_skill/18_pam_skill/pam_skill_6470.webp",
+  "level": 59,
+  "combat": true
+ },
+ {
+  "id": 5547,
+  "name": {
+   "esES": "Haladie divina",
+   "es419": "Filo de la Vocación",
+   "en": "Chosen Blade"
+  },
+  "icon": "icons/bdo/04_pc_skill/01_pc_skill/18_pam_skill/pam_skill_5543.webp",
+  "level": 50,
+  "combat": true
+ },
+ {
+  "id": 5710,
+  "name": {
+   "esES": "Hoja profética",
+   "es419": "Filo de la Revelación",
+   "en": "Prophecy Blade"
+  },
+  "icon": "icons/bdo/04_pc_skill/01_pc_skill/18_pam_skill/pam_skill_5710.webp",
+  "level": 56,
+  "combat": true
+ },
+ {
+  "id": 5479,
+  "name": {
+   "esES": "Ilusión mortífera",
+   "es419": "Paso Arenal",
+   "en": "Sand Warp"
+  },
+  "icon": "icons/bdo/04_pc_skill/01_pc_skill/18_pam_skill/pam_skill_5479.webp",
+  "level": 20,
+  "combat": true
+ },
+ {
+  "id": 5711,
+  "name": {
+   "esES": "Incisión avasalladora",
+   "es419": "Divisor de Territorio",
+   "en": "Dominion Slash"
+  },
+  "icon": "icons/bdo/04_pc_skill/01_pc_skill/18_pam_skill/pam_skill_5711.webp",
+  "level": 56,
+  "combat": true
+ },
+ {
+  "id": 5522,
+  "name": {
+   "esES": "Incisión despiadada",
+   "es419": "Amputación de Sombra",
+   "en": "Shadow Splitter"
+  },
+  "icon": "icons/bdo/04_pc_skill/01_pc_skill/18_pam_skill/pam_skill_5519.webp",
+  "level": 41,
+  "combat": true
+ },
+ {
+  "id": 6117,
+  "name": {
+   "esES": "Incisión sombría",
+   "es419": "Tajadura de Sombra",
+   "en": "Shadow Slicer"
+  },
+  "icon": "icons/bdo/04_pc_skill/01_pc_skill/18_pam_skill/pam_skill_6117.webp",
+  "level": 58,
+  "combat": true
+ },
+ {
+  "id": 5477,
+  "name": {
+   "esES": "Maestría con shamsir",
+   "es419": "Maestría de Shamsir",
+   "en": "Shamshir Training"
+  },
+  "icon": "icons/bdo/04_pc_skill/01_pc_skill/18_pam_skill/pam_skill_5468.webp",
+  "level": 54,
+  "combat": true
+ },
+ {
+  "id": 1707,
+  "name": {
+   "esES": "Maestría infinita",
+   "es419": "Maestría Infinita",
+   "en": "Infinite Mastery"
+  },
+  "icon": "icons/bdo/04_pc_skill/01_pc_skill/00_common/common_skill_1702.webp",
+  "level": 55,
+  "combat": true
+ },
+ {
+  "id": 5648,
+  "name": {
+   "esES": "Movimiento: Arenas del tiempo",
+   "es419": "Flujo: Reloj de Arena del Inframundo",
+   "en": "Flow: Hourglass of Recall"
+  },
+  "icon": "icons/bdo/04_pc_skill/01_pc_skill/18_pam_skill/pam_skill_5648.webp",
+  "level": 58,
+  "combat": true
+ },
+ {
+  "id": 5653,
+  "name": {
+   "esES": "Movimiento: Áspides voraces",
+   "es419": "Flujo: Gula",
+   "en": "Flow: Voracity"
+  },
+  "icon": "icons/bdo/04_pc_skill/01_pc_skill/18_pam_skill/pam_skill_5653.webp",
+  "level": 60,
+  "combat": true
+ },
+ {
+  "id": 5637,
+  "name": {
+   "esES": "Movimiento: Condenación",
+   "es419": "Flujo: Castigo",
+   "en": "Flow: Condemnation"
+  },
+  "icon": "icons/bdo/04_pc_skill/01_pc_skill/18_pam_skill/pam_skill_5637.webp",
+  "level": 58,
+  "combat": true
+ },
+ {
+  "id": 5641,
+  "name": {
+   "esES": "Movimiento: Danza de las dunas",
+   "es419": "Flujo: Caída en la Duna",
+   "en": "Flow: Dune Strike"
+  },
+  "icon": "icons/bdo/04_pc_skill/01_pc_skill/18_pam_skill/pam_skill_5641.webp",
+  "level": 57,
+  "combat": true
+ },
+ {
+  "id": 5617,
+  "name": {
+   "esES": "Movimiento: Ilusión mortífera",
+   "es419": "Flujo: Paso Arenal",
+   "en": "Flow: Sand Warp"
+  },
+  "icon": "icons/bdo/04_pc_skill/01_pc_skill/18_pam_skill/pam_skill_5617.webp",
+  "level": 56,
+  "combat": true
+ },
+ {
+  "id": 5582,
+  "name": {
+   "esES": "Movimiento: Viento árido",
+   "es419": "Flujo : Prisión de Arena",
+   "en": "Flow: Sand Prison"
+  },
+  "icon": "icons/bdo/04_pc_skill/01_pc_skill/18_pam_skill/pam_skill_5582.webp",
+  "level": 53,
+  "combat": true
+ },
+ {
+  "id": 5487,
+  "name": {
+   "esES": "Orden de Aal",
+   "es419": "Orden de Aal",
+   "en": "Aal's Command"
+  },
+  "icon": "icons/bdo/04_pc_skill/01_pc_skill/18_pam_skill/pam_skill_5487.webp",
+  "level": 60,
+  "combat": true
+ },
+ {
+  "id": 5652,
+  "name": {
+   "esES": "Paraíso perdido",
+   "es419": "Camino al Paraíso",
+   "en": "Paradise Surge"
+  },
+  "icon": "icons/bdo/04_pc_skill/01_pc_skill/18_pam_skill/pam_skill_5654.webp",
+  "level": 58,
+  "combat": true
+ },
+ {
+  "id": 5538,
+  "name": {
+   "esES": "Patada áurea",
+   "es419": "Corte de Anubis",
+   "en": "Sand Divider"
+  },
+  "icon": "icons/bdo/04_pc_skill/01_pc_skill/18_pam_skill/pam_skill_5534.webp",
+  "level": 45,
+  "combat": true
+ },
+ {
+  "id": 5632,
+  "name": {
+   "esES": "Penitencia",
+   "es419": "Cuchilla del Castigo",
+   "en": "Sin Splitter"
+  },
+  "icon": "icons/bdo/04_pc_skill/01_pc_skill/18_pam_skill/pam_skill_5629.webp",
+  "level": 59,
+  "combat": true
+ },
+ {
+  "id": 5527,
+  "name": {
+   "esES": "Perfiladunas",
+   "es419": "Corte de Cresta",
+   "en": "Ridge Reaver"
+  },
+  "icon": "icons/bdo/04_pc_skill/01_pc_skill/18_pam_skill/pam_skill_5524.webp",
+  "level": 42,
+  "combat": true
+ },
+ {
+  "id": 6085,
+  "name": {
+   "esES": "Primordial: Castigainfieles",
+   "es419": "BON: Espada Interrogante",
+   "en": "Core: Inquisition"
+  },
+  "icon": "icons/bdo/04_pc_skill/01_pc_skill/18_pam_skill/pam_skill_5625.webp",
+  "level": 60,
+  "combat": true
+ },
+ {
+  "id": 6089,
+  "name": {
+   "esES": "Primordial: Colapso bífido",
+   "es419": "BON: Colapso",
+   "en": "Core: Collapse"
+  },
+  "icon": "icons/bdo/04_pc_skill/01_pc_skill/18_pam_skill/pam_skill_5715.webp",
+  "level": 60,
+  "combat": true
+ },
+ {
+  "id": 6088,
+  "name": {
+   "esES": "Primordial: Cortes áridos",
+   "es419": "BON: Corte de Duna",
+   "en": "Core: Dune Slash"
+  },
+  "icon": "icons/bdo/04_pc_skill/01_pc_skill/18_pam_skill/pam_skill_5718.webp",
+  "level": 60,
+  "combat": true
+ },
+ {
+  "id": 6090,
+  "name": {
+   "esES": "Primordial: Espiral vipérea",
+   "es419": "BON: Nido de Víboras",
+   "en": "Core: Serpent's Coil"
+  },
+  "icon": "icons/bdo/04_pc_skill/01_pc_skill/18_pam_skill/pam_skill_5655.webp",
+  "level": 60,
+  "combat": true
+ },
+ {
+  "id": 6086,
+  "name": {
+   "esES": "Primordial: Penitencia",
+   "es419": "BON: Cuchilla del Castigo",
+   "en": "Core: Sin Splitter"
+  },
+  "icon": "icons/bdo/04_pc_skill/01_pc_skill/18_pam_skill/pam_skill_5629.webp",
+  "level": 60,
+  "combat": true
+ },
+ {
+  "id": 6087,
+  "name": {
+   "esES": "Primordial: Víboras de arena",
+   "es419": "BON: Pantano de Arena",
+   "en": "Core: Ensnaring Sands"
+  },
+  "icon": "icons/bdo/04_pc_skill/01_pc_skill/18_pam_skill/pam_skill_5633.webp",
+  "level": 60,
+  "combat": true
+ },
+ {
+  "id": 5608,
+  "name": {
+   "esES": "Reino de Aal",
+   "es419": "Territorio de Aal",
+   "en": "Aal's Dominion"
+  },
+  "icon": "icons/bdo/04_pc_skill/01_pc_skill/18_pam_skill/pam_skill_5605.webp",
+  "level": 45,
+  "combat": true
+ },
+ {
+  "id": 5702,
+  "name": {
+   "esES": "Renacer: Acometida árida",
+   "es419": "Sucesión: Asalto Seco",
+   "en": "Succession: Arid Assault"
+  },
+  "icon": "icons/bdo/04_pc_skill/01_pc_skill/18_pam_skill/pam_skill_5604.webp",
+  "level": 1,
+  "combat": true
+ },
+ {
+  "id": 5704,
+  "name": {
+   "esES": "Renacer: Ilusión mortífera",
+   "es419": "Sucesión: Paso Arenal",
+   "en": "Succession: Sand Warp"
+  },
+  "icon": "icons/bdo/04_pc_skill/01_pc_skill/18_pam_skill/pam_skill_5479.webp",
+  "level": 1,
+  "combat": true
+ },
+ {
+  "id": 7152,
+  "name": {
+   "esES": "Renacer: Sentencia del tiempo",
+   "es419": "Sucesión: Reloj de Arena de la Deshonra",
+   "en": "Succession: Hourglass of Death"
+  },
+  "icon": "icons/bdo/04_pc_skill/01_pc_skill/18_pam_skill/pam_skill_5493.webp",
+  "level": 1,
+  "combat": true
+ },
+ {
+  "id": 7151,
+  "name": {
+   "esES": "Renacer: Torbellino de arena",
+   "es419": "Sucesión: Reloj de Arena del Disentimiento",
+   "en": "Succession: Hourglass of Defiance"
+  },
+  "icon": "icons/bdo/04_pc_skill/01_pc_skill/18_pam_skill/pam_skill_5517.webp",
+  "level": 1,
+  "combat": true
+ },
+ {
+  "id": 5616,
+  "name": {
+   "esES": "Renacer: Tornado oscuro",
+   "es419": "Sucesión: Torbellino Negro",
+   "en": "Succession: Dark Tornado"
+  },
+  "icon": "icons/bdo/04_pc_skill/01_pc_skill/18_pam_skill/pam_skill_5616.webp",
+  "level": 56,
+  "combat": true
+ },
+ {
+  "id": 5703,
+  "name": {
+   "esES": "Renacer: Voltereta vertiginosa",
+   "es419": "Sucesión: Asalto de Haladie",
+   "en": "Succession: Haladie Assault"
+  },
+  "icon": "icons/bdo/04_pc_skill/01_pc_skill/18_pam_skill/pam_skill_5603.webp",
+  "level": 1,
+  "combat": true
+ },
+ {
+  "id": 5651,
+  "name": {
+   "esES": "Represalia",
+   "es419": "Adoctrinamiento",
+   "en": "Retribution"
+  },
+  "icon": "icons/bdo/04_pc_skill/01_pc_skill/18_pam_skill/pam_skill_5651.webp",
+  "level": 57,
+  "combat": true
+ },
+ {
+  "id": 92,
+  "name": {
+   "esES": "Retirada oscura",
+   "es419": "Escape de Emergencia",
+   "en": "Emergency Escape"
+  },
+  "icon": "icons/bdo/04_pc_skill/01_pc_skill/00_common/common_skill_0092.webp",
+  "level": 1,
+  "combat": true
+ },
+ {
+  "id": 5558,
+  "name": {
+   "esES": "Sabio de las arenas",
+   "es419": "Asceta de la Arena",
+   "en": "Pilgrim of the Sands"
+  },
+  "icon": "icons/bdo/04_pc_skill/01_pc_skill/18_pam_skill/pam_skill_5569.webp",
+  "level": 60,
+  "combat": true
+ },
+ {
+  "id": 5614,
+  "name": {
+   "esES": "Sablón oscuro",
+   "es419": "Corte Divisor",
+   "en": "Rupture"
+  },
+  "icon": "icons/bdo/04_pc_skill/01_pc_skill/18_pam_skill/pam_skill_5612.webp",
+  "level": 43,
+  "combat": true
+ },
+ {
+  "id": 5492,
+  "name": {
+   "esES": "Sentencia del tiempo",
+   "es419": "Reloj de Arena de la Deshonra",
+   "en": "Hourglass of Death"
+  },
+  "icon": "icons/bdo/04_pc_skill/01_pc_skill/18_pam_skill/pam_skill_5488.webp",
+  "level": 52,
+  "combat": true
+ },
+ {
+  "id": 5581,
+  "name": {
+   "esES": "Señor de las arenas",
+   "es419": "Soberano de la Arena",
+   "en": "Ruler of the Sands"
+  },
+  "icon": "icons/bdo/04_pc_skill/01_pc_skill/18_pam_skill/pam_skill_5581.webp",
+  "level": 1,
+  "combat": true
+ },
+ {
+  "id": 5480,
+  "name": {
+   "esES": "Sublime: Ilusión mortífera",
+   "es419": "Extremo : Paso Arenal",
+   "en": "Ultimate: Sand Warp"
+  },
+  "icon": "icons/bdo/04_pc_skill/01_pc_skill/18_pam_skill/pam_skill_5480.webp",
+  "level": 40,
+  "combat": true
+ },
+ {
+  "id": 5611,
+  "name": {
+   "esES": "Torbellino de arena",
+   "es419": "Reloj de Arena del Disentimiento",
+   "en": "Hourglass of Defiance"
+  },
+  "icon": "icons/bdo/04_pc_skill/01_pc_skill/18_pam_skill/pam_skill_5517.webp",
+  "level": 60,
+  "combat": true
+ },
+ {
+  "id": 5498,
+  "name": {
+   "esES": "Tormenta incesante",
+   "es419": "Torbellino de Cuchilla Perforadora",
+   "en": "Piercing Tornado"
+  },
+  "icon": "icons/bdo/04_pc_skill/01_pc_skill/18_pam_skill/pam_skill_5494.webp",
+  "level": 54,
+  "combat": true
+ },
+ {
+  "id": 6118,
+  "name": {
+   "esES": "Tornado agónico",
+   "es419": "Torbellino de Arena",
+   "en": "Sand Tornado"
+  },
+  "icon": "icons/bdo/04_pc_skill/01_pc_skill/18_pam_skill/pam_skill_6118.webp",
+  "level": 58,
+  "combat": true
+ },
+ {
+  "id": 91,
+  "name": {
+   "esES": "Transfuria",
+   "es419": "Transferencia de Furia",
+   "en": "Rage Transfer"
+  },
+  "icon": "icons/bdo/04_pc_skill/01_pc_skill/00_common/common_skill_0091.webp",
+  "level": 35,
+  "combat": true
+ },
+ {
+  "id": 5649,
+  "name": {
+   "esES": "Traumatismo",
+   "es419": "Patada al Cráneo",
+   "en": "Crown Kick"
+  },
+  "icon": "icons/bdo/04_pc_skill/01_pc_skill/18_pam_skill/pam_skill_5714.webp",
+  "level": 56,
+  "combat": true
+ },
+ {
+  "id": 5486,
+  "name": {
+   "esES": "Últimas palabras",
+   "es419": "Llamada del Paraíso",
+   "en": "Paradise Beckons"
+  },
+  "icon": "icons/bdo/04_pc_skill/01_pc_skill/18_pam_skill/pam_skill_5481.webp",
+  "level": 56,
+  "combat": true
+ },
+ {
+  "id": 5636,
+  "name": {
+   "esES": "Víboras de arena",
+   "es419": "Pantano de Arena",
+   "en": "Ensnaring Sands"
+  },
+  "icon": "icons/bdo/04_pc_skill/01_pc_skill/18_pam_skill/pam_skill_5633.webp",
+  "level": 60,
+  "combat": true
+ },
+ {
+  "id": 5713,
+  "name": {
+   "esES": "Voltereta espejismo",
+   "es419": "Asalto del Apóstol",
+   "en": "Mirage Assault"
+  },
+  "icon": "icons/bdo/04_pc_skill/01_pc_skill/18_pam_skill/pam_skill_5713.webp",
+  "level": 57,
+  "combat": true
+ },
+ {
+  "id": 5602,
+  "name": {
+   "esES": "Voltereta vertiginosa",
+   "es419": "Asalto de Haladie",
+   "en": "Haladie Assault"
+  },
+  "icon": "icons/bdo/04_pc_skill/01_pc_skill/18_pam_skill/pam_skill_5599.webp",
+  "level": 46,
+  "combat": true
+ }
+]

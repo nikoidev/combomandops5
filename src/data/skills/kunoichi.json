@@ -1,0 +1,1355 @@
+[
+ {
+  "id": 2142,
+  "name": {
+   "esES": "Ataque lunar",
+   "es419": "Embestida Lunar",
+   "en": "Lunar Dash"
+  },
+  "icon": "icons/bdo/04_pc_skill/01_pc_skill/13_pnw_skill/pnw_skill_2140.webp",
+  "level": 60,
+  "combat": true
+ },
+ {
+  "id": 971,
+  "name": {
+   "esES": "Bloqueo kunai",
+   "es419": "Bloqueo de Kunai",
+   "en": "Kunai Block"
+  },
+  "icon": "icons/bdo/04_pc_skill/01_pc_skill/13_pnw_skill/pnw_skill_0971.webp",
+  "level": 1,
+  "combat": true
+ },
+ {
+  "id": 948,
+  "name": {
+   "esES": "Caída suicida",
+   "es419": "Caída Mortal",
+   "en": "Death's Descent"
+  },
+  "icon": "icons/bdo/04_pc_skill/01_pc_skill/13_pnw_skill/pnw_skill_0946.webp",
+  "level": 36,
+  "combat": true
+ },
+ {
+  "id": 4637,
+  "name": {
+   "esES": "Cénit: Abrazo crepuscular",
+   "es419": "S: Meditación Oscura",
+   "en": "Prime: Shadow Embrace"
+  },
+  "icon": "icons/bdo/04_pc_skill/01_pc_skill/13_pnw_skill/pnw_skill_4633.webp",
+  "level": 60,
+  "combat": true
+ },
+ {
+  "id": 4654,
+  "name": {
+   "esES": "Cénit: Clones sombríos",
+   "es419": "S: Clon de Sombra",
+   "en": "Prime: Shadow Clone"
+  },
+  "icon": "icons/bdo/04_pc_skill/01_pc_skill/13_pnw_skill/pnw_skill_4651.webp",
+  "level": 60,
+  "combat": true
+ },
+ {
+  "id": 4630,
+  "name": {
+   "esES": "Cénit: Concentración",
+   "es419": "S: Ejecución de Ninjutsu",
+   "en": "Prime: Ninjutsu Commence"
+  },
+  "icon": "icons/bdo/04_pc_skill/01_pc_skill/13_pnw_skill/pnw_skill_4630.webp",
+  "level": 56,
+  "combat": true
+ },
+ {
+  "id": 4663,
+  "name": {
+   "esES": "Cénit: Danza letal",
+   "es419": "S: Danza Mortal",
+   "en": "Prime: Danse Macabre"
+  },
+  "icon": "icons/bdo/04_pc_skill/01_pc_skill/13_pnw_skill/pnw_skill_4663.webp",
+  "level": 58,
+  "combat": true
+ },
+ {
+  "id": 4662,
+  "name": {
+   "esES": "Cénit: Explosión sombría",
+   "es419": "S: Explosión de Sombra",
+   "en": "Prime: Shadow Explosion"
+  },
+  "icon": "icons/bdo/04_pc_skill/01_pc_skill/13_pnw_skill/pnw_skill_4662.webp",
+  "level": 58,
+  "combat": true
+ },
+ {
+  "id": 4640,
+  "name": {
+   "esES": "Cénit: Garra de zorro",
+   "es419": "S: Garra de Zorro",
+   "en": "Prime: Fox Claw"
+  },
+  "icon": "icons/bdo/04_pc_skill/01_pc_skill/13_pnw_skill/pnw_skill_4638.webp",
+  "level": 58,
+  "combat": true
+ },
+ {
+  "id": 4643,
+  "name": {
+   "esES": "Cénit: Golpe fatal",
+   "es419": "S: Golpe Fatal",
+   "en": "Prime: Fatal Blow"
+  },
+  "icon": "icons/bdo/04_pc_skill/01_pc_skill/13_pnw_skill/pnw_skill_4641.webp",
+  "level": 58,
+  "combat": true
+ },
+ {
+  "id": 4659,
+  "name": {
+   "esES": "Cénit: Grilletes",
+   "es419": "S: Grillete",
+   "en": "Prime: Shackles"
+  },
+  "icon": "icons/bdo/04_pc_skill/01_pc_skill/13_pnw_skill/pnw_skill_4659.webp",
+  "level": 57,
+  "combat": true
+ },
+ {
+  "id": 4632,
+  "name": {
+   "esES": "Cénit: Marca del crepúsculo",
+   "es419": "S: Estigma de Sombra",
+   "en": "Prime: Shadow Brand"
+  },
+  "icon": "icons/bdo/04_pc_skill/01_pc_skill/13_pnw_skill/pnw_skill_4632.webp",
+  "level": 56,
+  "combat": true
+ },
+ {
+  "id": 4976,
+  "name": {
+   "esES": "Cénit: Paso fantasma",
+   "es419": "S: Paso Fantasmal",
+   "en": "Prime: Ghost Step"
+  },
+  "icon": "icons/bdo/04_pc_skill/01_pc_skill/13_pnw_skill/pnw_skill_4976.webp",
+  "level": 1,
+  "combat": true
+ },
+ {
+  "id": 4650,
+  "name": {
+   "esES": "Cénit: Pisotón sombrío",
+   "es419": "S: Pisar Sombra",
+   "en": "Prime: Shadow Stomp"
+  },
+  "icon": "icons/bdo/04_pc_skill/01_pc_skill/13_pnw_skill/pnw_skill_4647.webp",
+  "level": 59,
+  "combat": true
+ },
+ {
+  "id": 4646,
+  "name": {
+   "esES": "Cénit: Rajatendones",
+   "es419": "S: Cortar Tendón",
+   "en": "Prime: Tendon Cutter"
+  },
+  "icon": "icons/bdo/04_pc_skill/01_pc_skill/13_pnw_skill/pnw_skill_4644.webp",
+  "level": 60,
+  "combat": true
+ },
+ {
+  "id": 4661,
+  "name": {
+   "esES": "Cénit: Rajatobillos",
+   "es419": "S: Cortar Tobillo",
+   "en": "Prime: Ankle Cutter"
+  },
+  "icon": "icons/bdo/04_pc_skill/01_pc_skill/13_pnw_skill/pnw_skill_4661.webp",
+  "level": 56,
+  "combat": true
+ },
+ {
+  "id": 4664,
+  "name": {
+   "esES": "Cénit: Rueda de cólera",
+   "es419": "S: Rueda de la Ira",
+   "en": "Prime: Wheel of Wrath"
+  },
+  "icon": "icons/bdo/04_pc_skill/01_pc_skill/13_pnw_skill/pnw_skill_4664.webp",
+  "level": 60,
+  "combat": true
+ },
+ {
+  "id": 4660,
+  "name": {
+   "esES": "Cénit: Tajo de media luna",
+   "es419": "S: Corte Lunar",
+   "en": "Prime: Crescent Slash"
+  },
+  "icon": "icons/bdo/04_pc_skill/01_pc_skill/13_pnw_skill/pnw_skill_4660.webp",
+  "level": 56,
+  "combat": true
+ },
+ {
+  "id": 4658,
+  "name": {
+   "esES": "Cénit: Tajo súbito",
+   "es419": "S: Centelleo",
+   "en": "Prime: Flash Slash"
+  },
+  "icon": "icons/bdo/04_pc_skill/01_pc_skill/13_pnw_skill/pnw_skill_4655.webp",
+  "level": 60,
+  "combat": true
+ },
+ {
+  "id": 1661,
+  "name": {
+   "esES": "Concentración",
+   "es419": "Mente Fría",
+   "en": "Brace"
+  },
+  "icon": "icons/bdo/04_pc_skill/01_pc_skill/13_pnw_skill/pnw_skill_1659.webp",
+  "level": 38,
+  "combat": true
+ },
+ {
+  "id": 984,
+  "name": {
+   "esES": "Cortina de humo",
+   "es419": "Cortina de Humo",
+   "en": "Smokescreen"
+  },
+  "icon": "icons/bdo/04_pc_skill/01_pc_skill/13_pnw_skill/pnw_skill_0980.webp",
+  "level": 54,
+  "combat": true
+ },
+ {
+  "id": 2079,
+  "name": {
+   "esES": "Daga de ninjutsu",
+   "es419": "Ninjutsu Daga Escondida",
+   "en": "Hidden Dagger Jutsu"
+  },
+  "icon": "icons/bdo/04_pc_skill/01_pc_skill/13_pnw_skill/pnw_skill_2079.webp",
+  "level": 60,
+  "combat": true
+ },
+ {
+  "id": 2124,
+  "name": {
+   "esES": "Danza chakram de Sonan",
+   "es419": "Baile de Chakram",
+   "en": "Sah Spree of Sonan"
+  },
+  "icon": "icons/bdo/04_pc_skill/01_pc_skill/13_pnw_skill/pnw_skill_2121.webp",
+  "level": 60,
+  "combat": true
+ },
+ {
+  "id": 2144,
+  "name": {
+   "esES": "Danza letal",
+   "es419": "Danza Mortal",
+   "en": "Danse Macabre"
+  },
+  "icon": "icons/bdo/04_pc_skill/01_pc_skill/13_pnw_skill/pnw_skill_2144.webp",
+  "level": 56,
+  "combat": true
+ },
+ {
+  "id": 3107,
+  "name": {
+   "esES": "Definitiva: Caída suicida",
+   "es419": "Suprema : Caída Mortal",
+   "en": "Absolute: Death's Descent"
+  },
+  "icon": "icons/bdo/04_pc_skill/01_pc_skill/13_pnw_skill/pnw_skill_3107.webp",
+  "level": 57,
+  "combat": true
+ },
+ {
+  "id": 3116,
+  "name": {
+   "esES": "Definitiva: Clones sombríos",
+   "es419": "Suprema : Clon de Sombra",
+   "en": "Absolute: Shadow Clone"
+  },
+  "icon": "icons/bdo/04_pc_skill/01_pc_skill/13_pnw_skill/pnw_skill_3116.webp",
+  "level": 60,
+  "combat": true
+ },
+ {
+  "id": 3122,
+  "name": {
+   "esES": "Definitiva: Concentración",
+   "es419": "Suprema : Mente Fría",
+   "en": "Absolute: Brace"
+  },
+  "icon": "icons/bdo/04_pc_skill/01_pc_skill/13_pnw_skill/pnw_skill_3122.webp",
+  "level": 56,
+  "combat": true
+ },
+ {
+  "id": 3114,
+  "name": {
+   "esES": "Definitiva: Directo al corazón",
+   "es419": "Suprema : Apuntar al Corazón",
+   "en": "Absolute: Heart Aiming"
+  },
+  "icon": "icons/bdo/04_pc_skill/01_pc_skill/13_pnw_skill/pnw_skill_3114.webp",
+  "level": 58,
+  "combat": true
+ },
+ {
+  "id": 3109,
+  "name": {
+   "esES": "Definitiva: Explosión sombría",
+   "es419": "Suprema : Explosión de Sombra",
+   "en": "Absolute: Shadow Explosion"
+  },
+  "icon": "icons/bdo/04_pc_skill/01_pc_skill/13_pnw_skill/pnw_skill_3109.webp",
+  "level": 57,
+  "combat": true
+ },
+ {
+  "id": 3120,
+  "name": {
+   "esES": "Definitiva: Finta",
+   "es419": "Suprema : Espada Trágica",
+   "en": "Absolute: Tragic Blade"
+  },
+  "icon": "icons/bdo/04_pc_skill/01_pc_skill/13_pnw_skill/pnw_skill_3120.webp",
+  "level": 56,
+  "combat": true
+ },
+ {
+  "id": 3121,
+  "name": {
+   "esES": "Definitiva: Fulgor de lunaoscura",
+   "es419": "Suprema : Luna Negra",
+   "en": "Absolute: Black Moonlight"
+  },
+  "icon": "icons/bdo/04_pc_skill/01_pc_skill/13_pnw_skill/pnw_skill_3121.webp",
+  "level": 60,
+  "combat": true
+ },
+ {
+  "id": 3110,
+  "name": {
+   "esES": "Definitiva: Garra de zorro",
+   "es419": "Suprema : Garra de Zorro",
+   "en": "Absolute: Fox Claw"
+  },
+  "icon": "icons/bdo/04_pc_skill/01_pc_skill/13_pnw_skill/pnw_skill_3110.webp",
+  "level": 56,
+  "combat": true
+ },
+ {
+  "id": 3108,
+  "name": {
+   "esES": "Definitiva: Golpe fatal",
+   "es419": "Suprema : Golpe Fatal",
+   "en": "Absolute: Fatal Blow"
+  },
+  "icon": "icons/bdo/04_pc_skill/01_pc_skill/13_pnw_skill/pnw_skill_3108.webp",
+  "level": 57,
+  "combat": true
+ },
+ {
+  "id": 3119,
+  "name": {
+   "esES": "Definitiva: Grilletes",
+   "es419": "Suprema : Grillete",
+   "en": "Absolute: Shackles"
+  },
+  "icon": "icons/bdo/04_pc_skill/01_pc_skill/13_pnw_skill/pnw_skill_3119.webp",
+  "level": 57,
+  "combat": true
+ },
+ {
+  "id": 3103,
+  "name": {
+   "esES": "Definitiva: Lanzamiento de kunai",
+   "es419": "Suprema : Lanzar Kunai",
+   "en": "Absolute: Kunai Throw"
+  },
+  "icon": "icons/bdo/04_pc_skill/01_pc_skill/13_pnw_skill/pnw_skill_3103.webp",
+  "level": 56,
+  "combat": true
+ },
+ {
+  "id": 3104,
+  "name": {
+   "esES": "Definitiva: Lanzamiento de shuriken",
+   "es419": "Suprema : Lanzar Shuriken",
+   "en": "Absolute: Shuriken Throw"
+  },
+  "icon": "icons/bdo/04_pc_skill/01_pc_skill/13_pnw_skill/pnw_skill_3104.webp",
+  "level": 56,
+  "combat": true
+ },
+ {
+  "id": 3106,
+  "name": {
+   "esES": "Definitiva: Patada rompetobillos",
+   "es419": "Suprema : Barrer el Suelo",
+   "en": "Absolute: Floor Sweeping"
+  },
+  "icon": "icons/bdo/04_pc_skill/01_pc_skill/13_pnw_skill/pnw_skill_3106.webp",
+  "level": 56,
+  "combat": true
+ },
+ {
+  "id": 3105,
+  "name": {
+   "esES": "Definitiva: Patadón",
+   "es419": "Suprema : Patada Lanzada",
+   "en": "Absolute: Throwing Kick"
+  },
+  "icon": "icons/bdo/04_pc_skill/01_pc_skill/13_pnw_skill/pnw_skill_3105.webp",
+  "level": 56,
+  "combat": true
+ },
+ {
+  "id": 3111,
+  "name": {
+   "esES": "Definitiva: Pisotón sombrío",
+   "es419": "Suprema : Pisar Sombra",
+   "en": "Absolute: Shadow Stomp"
+  },
+  "icon": "icons/bdo/04_pc_skill/01_pc_skill/13_pnw_skill/pnw_skill_3111.webp",
+  "level": 56,
+  "combat": true
+ },
+ {
+  "id": 3118,
+  "name": {
+   "esES": "Definitiva: Porrazo aplastante",
+   "es419": "Suprema : Estocada al Suelo",
+   "en": "Absolute: Ground Thrust"
+  },
+  "icon": "icons/bdo/04_pc_skill/01_pc_skill/13_pnw_skill/pnw_skill_3118.webp",
+  "level": 58,
+  "combat": true
+ },
+ {
+  "id": 3127,
+  "name": {
+   "esES": "Definitiva: Rajatendones",
+   "es419": "Suprema : Cortar Tendón",
+   "en": "Absolute: Tendon Cutter"
+  },
+  "icon": "icons/bdo/04_pc_skill/01_pc_skill/13_pnw_skill/pnw_skill_3127.webp",
+  "level": 58,
+  "combat": true
+ },
+ {
+  "id": 3112,
+  "name": {
+   "esES": "Definitiva: Rajatobillos",
+   "es419": "Suprema : Cortar Tobillo",
+   "en": "Absolute: Ankle Cutter"
+  },
+  "icon": "icons/bdo/04_pc_skill/01_pc_skill/13_pnw_skill/pnw_skill_3112.webp",
+  "level": 56,
+  "combat": true
+ },
+ {
+  "id": 3117,
+  "name": {
+   "esES": "Definitiva: Saludo fantasma",
+   "es419": "Suprema : Saludo Fantasmal",
+   "en": "Absolute: Ghost Greeting"
+  },
+  "icon": "icons/bdo/04_pc_skill/01_pc_skill/13_pnw_skill/pnw_skill_3117.webp",
+  "level": 59,
+  "combat": true
+ },
+ {
+  "id": 3113,
+  "name": {
+   "esES": "Definitiva: Tajo de media luna",
+   "es419": "Suprema : Corte Lunar",
+   "en": "Absolute: Crescent Slash"
+  },
+  "icon": "icons/bdo/04_pc_skill/01_pc_skill/13_pnw_skill/pnw_skill_3113.webp",
+  "level": 58,
+  "combat": true
+ },
+ {
+  "id": 3101,
+  "name": {
+   "esES": "Definitiva: Tajo de viento",
+   "es419": "Suprema : Corte de Viento",
+   "en": "Absolute: Wind Slash"
+  },
+  "icon": "icons/bdo/04_pc_skill/01_pc_skill/13_pnw_skill/pnw_skill_3101.webp",
+  "level": 56,
+  "combat": true
+ },
+ {
+  "id": 3123,
+  "name": {
+   "esES": "Definitiva: Tajo sombrío",
+   "es419": "Suprema : Corte de Sombra",
+   "en": "Absolute: Shadow Slash"
+  },
+  "icon": "icons/bdo/04_pc_skill/01_pc_skill/13_pnw_skill/pnw_skill_3123.webp",
+  "level": 56,
+  "combat": true
+ },
+ {
+  "id": 3115,
+  "name": {
+   "esES": "Definitiva: Tajo súbito",
+   "es419": "Suprema : Centelleo",
+   "en": "Absolute: Flash Slash"
+  },
+  "icon": "icons/bdo/04_pc_skill/01_pc_skill/13_pnw_skill/pnw_skill_3115.webp",
+  "level": 60,
+  "combat": true
+ },
+ {
+  "id": 979,
+  "name": {
+   "esES": "Directo al corazón",
+   "es419": "Apuntar al Corazón",
+   "en": "Heart Aiming"
+  },
+  "icon": "icons/bdo/04_pc_skill/01_pc_skill/13_pnw_skill/pnw_skill_0977.webp",
+  "level": 46,
+  "combat": true
+ },
+ {
+  "id": 2158,
+  "name": {
+   "esES": "Disco destructor",
+   "es419": "Disco Lunar",
+   "en": "Lunatic Discus"
+  },
+  "icon": "icons/bdo/04_pc_skill/01_pc_skill/13_pnw_skill/pnw_skill_2158.webp",
+  "level": 56,
+  "combat": true
+ },
+ {
+  "id": 2139,
+  "name": {
+   "esES": "Entrenamiento de chakram",
+   "es419": "Maestría de Chakram",
+   "en": "Sah Chakram Training"
+  },
+  "icon": "icons/bdo/04_pc_skill/01_pc_skill/13_pnw_skill/pnw_skill_2130.webp",
+  "level": 60,
+  "combat": true
+ },
+ {
+  "id": 917,
+  "name": {
+   "esES": "Evasión ninja",
+   "es419": "Evasión de Ninja",
+   "en": "Ninja Evasion"
+  },
+  "icon": "icons/bdo/04_pc_skill/01_pc_skill/13_pnw_skill/pnw_skill_0915.webp",
+  "level": 39,
+  "combat": true
+ },
+ {
+  "id": 2162,
+  "name": {
+   "esES": "Explosión enérgica",
+   "es419": "Explosión de Chakram",
+   "en": "Delighted Blast"
+  },
+  "icon": "icons/bdo/04_pc_skill/01_pc_skill/13_pnw_skill/pnw_skill_2160.webp",
+  "level": 60,
+  "combat": true
+ },
+ {
+  "id": 961,
+  "name": {
+   "esES": "Garra de zorro",
+   "es419": "Garra de Zorro",
+   "en": "Fox Claw"
+  },
+  "icon": "icons/bdo/04_pc_skill/01_pc_skill/13_pnw_skill/pnw_skill_0958.webp",
+  "level": 48,
+  "combat": true
+ },
+ {
+  "id": 2148,
+  "name": {
+   "esES": "Giro letal",
+   "es419": "Giro Letal",
+   "en": "Lethal Spin Spree"
+  },
+  "icon": "icons/bdo/04_pc_skill/01_pc_skill/13_pnw_skill/pnw_skill_2145.webp",
+  "level": 60,
+  "combat": true
+ },
+ {
+  "id": 1625,
+  "name": {
+   "esES": "Golpe fatal",
+   "es419": "Golpe Fatal",
+   "en": "Fatal Blow"
+  },
+  "icon": "icons/bdo/04_pc_skill/01_pc_skill/13_pnw_skill/pnw_skill_0949.webp",
+  "level": 44,
+  "combat": true
+ },
+ {
+  "id": 2128,
+  "name": {
+   "esES": "Halo",
+   "es419": "Halo",
+   "en": "Halo"
+  },
+  "icon": "icons/bdo/04_pc_skill/01_pc_skill/13_pnw_skill/pnw_skill_2128.webp",
+  "level": 56,
+  "combat": true
+ },
+ {
+  "id": 699,
+  "name": {
+   "esES": "Impulso de tierra",
+   "es419": "Estocada al Suelo",
+   "en": "Ground Thrust"
+  },
+  "icon": "icons/bdo/04_pc_skill/01_pc_skill/13_pnw_skill/pnw_skill_0696.webp",
+  "level": 50,
+  "combat": true
+ },
+ {
+  "id": 1628,
+  "name": {
+   "esES": "Katana mentirosa",
+   "es419": "Espada Trágica",
+   "en": "Tragic Blade"
+  },
+  "icon": "icons/bdo/04_pc_skill/01_pc_skill/13_pnw_skill/pnw_skill_1626.webp",
+  "level": 48,
+  "combat": true
+ },
+ {
+  "id": 936,
+  "name": {
+   "esES": "Kunai: Lanzamiento evasivo",
+   "es419": "Kunai: Lanzamiento Evasivo",
+   "en": "Kunai: Evasive Throw"
+  },
+  "icon": "icons/bdo/04_pc_skill/01_pc_skill/13_pnw_skill/pnw_skill_0936.webp",
+  "level": 1,
+  "combat": true
+ },
+ {
+  "id": 695,
+  "name": {
+   "esES": "Kunai: Parálisis",
+   "es419": "Kunai: Parálisis",
+   "en": "Kunai: Paralysis"
+  },
+  "icon": "icons/bdo/04_pc_skill/01_pc_skill/13_pnw_skill/pnw_skill_0693.webp",
+  "level": 45,
+  "combat": true
+ },
+ {
+  "id": 935,
+  "name": {
+   "esES": "Lanzamiento de kunai",
+   "es419": "Lanzar Kunai",
+   "en": "Kunai Throw"
+  },
+  "icon": "icons/bdo/04_pc_skill/01_pc_skill/13_pnw_skill/pnw_skill_0933.webp",
+  "level": 37,
+  "combat": true
+ },
+ {
+  "id": 939,
+  "name": {
+   "esES": "Lanzamiento de shuriken",
+   "es419": "Lanzar Shuriken",
+   "en": "Shuriken Throw"
+  },
+  "icon": "icons/bdo/04_pc_skill/01_pc_skill/13_pnw_skill/pnw_skill_0937.webp",
+  "level": 36,
+  "combat": true
+ },
+ {
+  "id": 2809,
+  "name": {
+   "esES": "Marca del asesino",
+   "es419": "Rastro del Asesino",
+   "en": "Assassin's Trail"
+  },
+  "icon": "icons/bdo/04_pc_skill/01_pc_skill/13_pnw_skill/pnw_skill_2809.webp",
+  "level": 57,
+  "combat": true
+ },
+ {
+  "id": 952,
+  "name": {
+   "esES": "Movimiento: Combo de golpe fatal",
+   "es419": "Flujo: Combo de Golpe Fatal",
+   "en": "Flow: Fatal Blow Combo"
+  },
+  "icon": "icons/bdo/04_pc_skill/01_pc_skill/13_pnw_skill/pnw_skill_0952.webp",
+  "level": 21,
+  "combat": true
+ },
+ {
+  "id": 2143,
+  "name": {
+   "esES": "Movimiento: Crecimiento chakram",
+   "es419": "Flujo: Corte Rápido",
+   "en": "Flow: Chakram Rise"
+  },
+  "icon": "icons/bdo/04_pc_skill/01_pc_skill/13_pnw_skill/pnw_skill_2143.webp",
+  "level": 57,
+  "combat": true
+ },
+ {
+  "id": 945,
+  "name": {
+   "esES": "Movimiento: Derribar",
+   "es419": "Flujo: Patada de Hacha",
+   "en": "Flow: Kick Down"
+  },
+  "icon": "icons/bdo/04_pc_skill/01_pc_skill/13_pnw_skill/pnw_skill_0945.webp",
+  "level": 35,
+  "combat": true
+ },
+ {
+  "id": 2149,
+  "name": {
+   "esES": "Movimiento: Indignación",
+   "es419": "Flujo : Indignación",
+   "en": "Flow: Indignation"
+  },
+  "icon": "icons/bdo/04_pc_skill/01_pc_skill/13_pnw_skill/pnw_skill_2149.webp",
+  "level": 60,
+  "combat": true
+ },
+ {
+  "id": 921,
+  "name": {
+   "esES": "Movimiento: Pisotón celestial",
+   "es419": "Flujo: Paso al Cielo",
+   "en": "Flow: Sky Stepping"
+  },
+  "icon": "icons/bdo/04_pc_skill/01_pc_skill/13_pnw_skill/pnw_skill_0921.webp",
+  "level": 1,
+  "combat": true
+ },
+ {
+  "id": 2153,
+  "name": {
+   "esES": "Movimiento: Reemplazo",
+   "es419": "Flujo: Escape",
+   "en": "Flow: Block Jump"
+  },
+  "icon": "icons/bdo/04_pc_skill/01_pc_skill/13_pnw_skill/pnw_skill_2153.webp",
+  "level": 56,
+  "combat": true
+ },
+ {
+  "id": 2159,
+  "name": {
+   "esES": "Movimiento: Remolino de furia",
+   "es419": "Flujo : Baile Vals",
+   "en": "Flow: Pinwheel Fury"
+  },
+  "icon": "icons/bdo/04_pc_skill/01_pc_skill/13_pnw_skill/pnw_skill_2159.webp",
+  "level": 59,
+  "combat": true
+ },
+ {
+  "id": 2152,
+  "name": {
+   "esES": "Neblina lunar",
+   "es419": "Manto de Sombra Lunar",
+   "en": "Penumbral Blade"
+  },
+  "icon": "icons/bdo/04_pc_skill/01_pc_skill/13_pnw_skill/pnw_skill_2152_re.webp",
+  "level": 56,
+  "combat": true
+ },
+ {
+  "id": 990,
+  "name": {
+   "esES": "Ninjutsu: Clones sombríos",
+   "es419": "Ninjutsu: Clon de Sombra",
+   "en": "Ninjutsu: Shadow Clone"
+  },
+  "icon": "icons/bdo/04_pc_skill/01_pc_skill/13_pnw_skill/pnw_skill_0988.webp",
+  "level": 51,
+  "combat": true
+ },
+ {
+  "id": 2754,
+  "name": {
+   "esES": "Ninjutsu: Enervar",
+   "es419": "Ninjutsu : Cortar Tendón",
+   "en": "Ninjutsu: Sinew Cut"
+  },
+  "icon": "icons/bdo/04_pc_skill/01_pc_skill/13_pnw_skill/pnw_skill_2754.webp",
+  "level": 56,
+  "combat": true
+ },
+ {
+  "id": 957,
+  "name": {
+   "esES": "Ninjutsu: Explosión sombría",
+   "es419": "Ninjutsu: Explosión de Sombra",
+   "en": "Ninjutsu: Shadow Explosion"
+  },
+  "icon": "icons/bdo/04_pc_skill/01_pc_skill/13_pnw_skill/pnw_skill_0953.webp",
+  "level": 54,
+  "combat": true
+ },
+ {
+  "id": 1658,
+  "name": {
+   "esES": "Ninjutsu: Fulgor de lunaoscura",
+   "es419": "Ninjustsu: Luna Negra",
+   "en": "Ninjutsu: Black Moonlight"
+  },
+  "icon": "icons/bdo/04_pc_skill/01_pc_skill/13_pnw_skill/pnw_skill_1654.webp",
+  "level": 51,
+  "combat": true
+ },
+ {
+  "id": 704,
+  "name": {
+   "esES": "Ninjutsu: Grilletes",
+   "es419": "Ninjutsu: Grillete",
+   "en": "Ninjutsu: Shackles"
+  },
+  "icon": "icons/bdo/04_pc_skill/01_pc_skill/13_pnw_skill/pnw_skill_0701.webp",
+  "level": 44,
+  "combat": true
+ },
+ {
+  "id": 2810,
+  "name": {
+   "esES": "Ninjutsu: Latido final",
+   "es419": "Ninjutsu : Corazón Lunar",
+   "en": "Ninjutsu: Heart Snatch"
+  },
+  "icon": "icons/bdo/04_pc_skill/01_pc_skill/13_pnw_skill/pnw_skill_2810.webp",
+  "level": 57,
+  "combat": true
+ },
+ {
+  "id": 922,
+  "name": {
+   "esES": "Ninjutsu: Ocultación",
+   "es419": "Ninjutsu: Invisible",
+   "en": "Ninjutsu: Concealment"
+  },
+  "icon": "icons/bdo/04_pc_skill/01_pc_skill/13_pnw_skill/pnw_skill_0922.webp",
+  "level": 8,
+  "combat": true
+ },
+ {
+  "id": 965,
+  "name": {
+   "esES": "Ninjutsu: Pisotón sombrío",
+   "es419": "Ninjutsu: Pisar Sombra",
+   "en": "Ninjutsu: Shadow Stomp"
+  },
+  "icon": "icons/bdo/04_pc_skill/01_pc_skill/13_pnw_skill/pnw_skill_0962.webp",
+  "level": 43,
+  "combat": true
+ },
+ {
+  "id": 700,
+  "name": {
+   "esES": "Ninjutsu: Reemplazo",
+   "es419": "Ninjutsu: Escape",
+   "en": "Ninjutsu: Block Jump"
+  },
+  "icon": "icons/bdo/04_pc_skill/01_pc_skill/13_pnw_skill/pnw_skill_0700.webp",
+  "level": 17,
+  "combat": true
+ },
+ {
+  "id": 2753,
+  "name": {
+   "esES": "Ninjutsu: Sombra de los oni",
+   "es419": "Ninjutsu : Sombra Letal",
+   "en": "Ninjutsu: Oni Shadow"
+  },
+  "icon": "icons/bdo/04_pc_skill/01_pc_skill/13_pnw_skill/pnw_skill_2753.webp",
+  "level": 56,
+  "combat": true
+ },
+ {
+  "id": 920,
+  "name": {
+   "esES": "Paso fantasma",
+   "es419": "Paso Fantasmal",
+   "en": "Ghost Step"
+  },
+  "icon": "icons/bdo/04_pc_skill/01_pc_skill/13_pnw_skill/pnw_skill_0918.webp",
+  "level": 40,
+  "combat": true
+ },
+ {
+  "id": 944,
+  "name": {
+   "esES": "Patada rompetobillos",
+   "es419": "Barrer el suelo",
+   "en": "Floor Sweeping"
+  },
+  "icon": "icons/bdo/04_pc_skill/01_pc_skill/13_pnw_skill/pnw_skill_0943.webp",
+  "level": 28,
+  "combat": true
+ },
+ {
+  "id": 942,
+  "name": {
+   "esES": "Patadón",
+   "es419": "Patada Lanzada",
+   "en": "Throwing Kick"
+  },
+  "icon": "icons/bdo/04_pc_skill/01_pc_skill/13_pnw_skill/pnw_skill_0941.webp",
+  "level": 25,
+  "combat": true
+ },
+ {
+  "id": 1670,
+  "name": {
+   "esES": "Persecución de objetivo",
+   "es419": "Persecución al Objetivo",
+   "en": "Target Chase"
+  },
+  "icon": "icons/bdo/04_pc_skill/01_pc_skill/13_pnw_skill/pnw_skill_1668.webp",
+  "level": 45,
+  "combat": true
+ },
+ {
+  "id": 6071,
+  "name": {
+   "esES": "Primordial: Ataque lunar",
+   "es419": "BON: Embestida Lunar",
+   "en": "Core: Lunar Dash"
+  },
+  "icon": "icons/bdo/04_pc_skill/01_pc_skill/13_pnw_skill/pnw_skill_2140.webp",
+  "level": 60,
+  "combat": true
+ },
+ {
+  "id": 6067,
+  "name": {
+   "esES": "Primordial: Danza chakram de Sonan",
+   "es419": "BON: Baile de Chakram",
+   "en": "Core: Sah Spree of Sonan"
+  },
+  "icon": "icons/bdo/04_pc_skill/01_pc_skill/13_pnw_skill/pnw_skill_2121.webp",
+  "level": 60,
+  "combat": true
+ },
+ {
+  "id": 6072,
+  "name": {
+   "esES": "Primordial: Explosión enérgica",
+   "es419": "BON: Explosión de Chakram",
+   "en": "Core: Delighted Blast"
+  },
+  "icon": "icons/bdo/04_pc_skill/01_pc_skill/13_pnw_skill/pnw_skill_2160.webp",
+  "level": 60,
+  "combat": true
+ },
+ {
+  "id": 6068,
+  "name": {
+   "esES": "Primordial: Giro letal",
+   "es419": "BON: Giro Letal",
+   "en": "Core: Lethal Spin Spree"
+  },
+  "icon": "icons/bdo/04_pc_skill/01_pc_skill/13_pnw_skill/pnw_skill_2145.webp",
+  "level": 60,
+  "combat": true
+ },
+ {
+  "id": 6070,
+  "name": {
+   "esES": "Primordial: Rueda de cólera",
+   "es419": "BON: Rueda de la Ira",
+   "en": "Core: Wheel of Wrath"
+  },
+  "icon": "icons/bdo/04_pc_skill/01_pc_skill/13_pnw_skill/pnw_skill_2125.webp",
+  "level": 60,
+  "combat": true
+ },
+ {
+  "id": 6069,
+  "name": {
+   "esES": "Primordial: Tajo mediolunero",
+   "es419": "BON: Corte de Media Luna",
+   "en": "Core: Half Moon Slash"
+  },
+  "icon": "icons/bdo/04_pc_skill/01_pc_skill/13_pnw_skill/pnw_skill_2154.webp",
+  "level": 60,
+  "combat": true
+ },
+ {
+  "id": 976,
+  "name": {
+   "esES": "Puñalada kunai",
+   "es419": "Estocada de Kunai",
+   "en": "Kunai Stab"
+  },
+  "icon": "icons/bdo/04_pc_skill/01_pc_skill/13_pnw_skill/pnw_skill_0975.webp",
+  "level": 41,
+  "combat": true
+ },
+ {
+  "id": 999,
+  "name": {
+   "esES": "Rajatendones",
+   "es419": "Cortar Tendón",
+   "en": "Tendon Cutter"
+  },
+  "icon": "icons/bdo/04_pc_skill/01_pc_skill/13_pnw_skill/pnw_skill_0999.webp",
+  "level": 30,
+  "combat": true
+ },
+ {
+  "id": 970,
+  "name": {
+   "esES": "Rajatobillos",
+   "es419": "Cortar Tobillo",
+   "en": "Ankle Cutter"
+  },
+  "icon": "icons/bdo/04_pc_skill/01_pc_skill/13_pnw_skill/pnw_skill_0966.webp",
+  "level": 53,
+  "combat": true
+ },
+ {
+  "id": 2151,
+  "name": {
+   "esES": "Rastro de sangre: chakram",
+   "es419": "Caos : Chakram",
+   "en": "Chain Crash: Sah Chakram"
+  },
+  "icon": "icons/bdo/04_pc_skill/01_pc_skill/13_pnw_skill/pnw_skill_2151.webp",
+  "level": 58,
+  "combat": true
+ },
+ {
+  "id": 4861,
+  "name": {
+   "esES": "Renacer: Lanzamiento de kunai",
+   "es419": "Sucesión: Lanzar Kunai",
+   "en": "Succession: Kunai Throw"
+  },
+  "icon": "icons/bdo/04_pc_skill/01_pc_skill/13_pnw_skill/pnw_skill_3103.webp",
+  "level": 1,
+  "combat": true
+ },
+ {
+  "id": 5409,
+  "name": {
+   "esES": "Renacer: Paso fantasma",
+   "es419": "Sucesión: Paso Fantasmal",
+   "en": "Succession: Ghost Step"
+  },
+  "icon": "icons/bdo/04_pc_skill/01_pc_skill/13_pnw_skill/pnw_skill_0918.webp",
+  "level": 1,
+  "combat": true
+ },
+ {
+  "id": 4860,
+  "name": {
+   "esES": "Renacer: Reemplazo",
+   "es419": "Sucesión: Escape",
+   "en": "Succession: Block Jump"
+  },
+  "icon": "icons/bdo/04_pc_skill/01_pc_skill/13_pnw_skill/pnw_skill_0700.webp",
+  "level": 1,
+  "combat": true
+ },
+ {
+  "id": 4629,
+  "name": {
+   "esES": "Renacer: Silencio desolador",
+   "es419": "Sucesión: Lamento del Silencio",
+   "en": "Succession: Lament of Silence"
+  },
+  "icon": "icons/bdo/04_pc_skill/01_pc_skill/13_pnw_skill/pnw_skill_4629.webp",
+  "level": 56,
+  "combat": true
+ },
+ {
+  "id": 92,
+  "name": {
+   "esES": "Retirada oscura",
+   "es419": "Escape de Emergencia",
+   "en": "Emergency Escape"
+  },
+  "icon": "icons/bdo/04_pc_skill/01_pc_skill/00_common/common_skill_0092.webp",
+  "level": 1,
+  "combat": true
+ },
+ {
+  "id": 2127,
+  "name": {
+   "esES": "Rueda de cólera",
+   "es419": "Rueda de la Ira",
+   "en": "Wheel of Wrath"
+  },
+  "icon": "icons/bdo/04_pc_skill/01_pc_skill/13_pnw_skill/pnw_skill_2125.webp",
+  "level": 60,
+  "combat": true
+ },
+ {
+  "id": 998,
+  "name": {
+   "esES": "Saludo fantasma",
+   "es419": "Saludo Fantasmal",
+   "en": "Ghost Greeting"
+  },
+  "icon": "icons/bdo/04_pc_skill/01_pc_skill/13_pnw_skill/pnw_skill_0991.webp",
+  "level": 36,
+  "combat": true
+ },
+ {
+  "id": 940,
+  "name": {
+   "esES": "Shuriken: Lanzamiento en movimiento",
+   "es419": "Shuriken: Lanzamiento en Movimiento",
+   "en": "Shuriken: Moving Throw"
+  },
+  "icon": "icons/bdo/04_pc_skill/01_pc_skill/13_pnw_skill/pnw_skill_0940.webp",
+  "level": 1,
+  "combat": true
+ },
+ {
+  "id": 692,
+  "name": {
+   "esES": "Shuriken: Tóxico",
+   "es419": "Shuriken: Veneno",
+   "en": "Shuriken: Toxic"
+  },
+  "icon": "icons/bdo/04_pc_skill/01_pc_skill/13_pnw_skill/pnw_skill_0690.webp",
+  "level": 45,
+  "combat": true
+ },
+ {
+  "id": 974,
+  "name": {
+   "esES": "Tajo de media luna",
+   "es419": "Corte Lunar",
+   "en": "Crescent Slash"
+  },
+  "icon": "icons/bdo/04_pc_skill/01_pc_skill/13_pnw_skill/pnw_skill_0972.webp",
+  "level": 47,
+  "combat": true
+ },
+ {
+  "id": 932,
+  "name": {
+   "esES": "Tajo de viento",
+   "es419": "Corte de Viento",
+   "en": "Wind Slash"
+  },
+  "icon": "icons/bdo/04_pc_skill/01_pc_skill/13_pnw_skill/pnw_skill_0923.webp",
+  "level": 54,
+  "combat": true
+ },
+ {
+  "id": 2157,
+  "name": {
+   "esES": "Tajo mediolunero",
+   "es419": "Corte de Media Luna",
+   "en": "Half Moon Slash"
+  },
+  "icon": "icons/bdo/04_pc_skill/01_pc_skill/13_pnw_skill/pnw_skill_2154.webp",
+  "level": 59,
+  "combat": true
+ },
+ {
+  "id": 1666,
+  "name": {
+   "esES": "Tajo sombrío",
+   "es419": "Corte de Sombra",
+   "en": "Shadow Slash"
+  },
+  "icon": "icons/bdo/04_pc_skill/01_pc_skill/13_pnw_skill/pnw_skill_1662.webp",
+  "level": 36,
+  "combat": true
+ },
+ {
+  "id": 987,
+  "name": {
+   "esES": "Tajo súbito",
+   "es419": "Centelleo",
+   "en": "Flash Slash"
+  },
+  "icon": "icons/bdo/04_pc_skill/01_pc_skill/13_pnw_skill/pnw_skill_0985.webp",
+  "level": 52,
+  "combat": true
+ },
+ {
+  "id": 2129,
+  "name": {
+   "esES": "Velo lunar",
+   "es419": "Velo Lunar",
+   "en": "Lunar Veil"
+  },
+  "icon": "icons/bdo/04_pc_skill/01_pc_skill/13_pnw_skill/pnw_skill_2129.webp",
+  "level": 56,
+  "combat": true
+ },
+ {
+  "id": 3459,
+  "name": {
+   "esES": "Absorción de furia",
+   "es419": "Absorción de Furia",
+   "en": "Rage Absorption"
+  },
+  "icon": "icons/bdo/04_pc_skill/01_pc_skill/00_common/common_skill_0090.webp",
+  "level": 35,
+  "combat": false
+ },
+ {
+  "id": 89,
+  "name": {
+   "esES": "Absorción de furia (latente)",
+   "es419": "Absorción de Furia (Innato)",
+   "en": "Rage Absorption (Innate)"
+  },
+  "icon": "icons/bdo/04_pc_skill/01_pc_skill/00_common/common_skill_0090.webp",
+  "level": 35,
+  "combat": false
+ },
+ {
+  "id": 1648,
+  "name": {
+   "esES": "Artes asesinas",
+   "es419": "Maestría de Asesinato",
+   "en": "Killer Training"
+  },
+  "icon": "icons/bdo/04_pc_skill/01_pc_skill/13_pnw_skill/pnw_skill_1629.webp",
+  "level": 60,
+  "combat": false
+ },
+ {
+  "id": 4853,
+  "name": {
+   "esES": "Artes asesinas XXI",
+   "es419": "Maestría de Asesinato XXI",
+   "en": "Killer Training XXI"
+  },
+  "icon": "icons/bdo/04_pc_skill/01_pc_skill/13_pnw_skill/pnw_skill_4853.webp",
+  "level": 1,
+  "combat": false
+ },
+ {
+  "id": 2076,
+  "name": {
+   "esES": "Cazador hábil",
+   "es419": "Cazador Experto",
+   "en": "Skilled Hunter"
+  },
+  "icon": "icons/bdo/04_pc_skill/01_pc_skill/06_pkm_skill/pkm_skill_2072.webp",
+  "level": 60,
+  "combat": false
+ },
+ {
+  "id": 6453,
+  "name": {
+   "esES": "Chakram mortífero",
+   "es419": "Halo de Luz Lunar",
+   "en": "Moon Storm"
+  },
+  "icon": "icons/bdo/04_pc_skill/01_pc_skill/13_pnw_skill/pnw_skill_6453.webp",
+  "level": 59,
+  "combat": false
+ },
+ {
+  "id": 6132,
+  "name": {
+   "esES": "Elvia: Luna fundida",
+   "es419": "Elvia: Luna que se derrite",
+   "en": "Elvia: Melting Moon"
+  },
+  "icon": "icons/bdo/04_pc_skill/01_pc_skill/13_pnw_skill/pnw_skill_6132.webp",
+  "level": 60,
+  "combat": false
+ },
+ {
+  "id": 4030,
+  "name": {
+   "esES": "Encadenamiento",
+   "es419": "Grilletes de Persecución",
+   "en": "Shackle Target"
+  },
+  "icon": "icons/bdo/04_pc_skill/01_pc_skill/13_pnw_skill/pnw_skill_4030.webp",
+  "level": 58,
+  "combat": false
+ },
+ {
+  "id": 4856,
+  "name": {
+   "esES": "Gran poder",
+   "es419": "Gran Poder",
+   "en": "Unyielding Might"
+  },
+  "icon": "icons/bdo/04_pc_skill/01_pc_skill/00_common/common_skill_18705.webp",
+  "level": 62,
+  "combat": false
+ },
+ {
+  "id": 1707,
+  "name": {
+   "esES": "Maestría infinita",
+   "es419": "Maestría Infinita",
+   "en": "Infinite Mastery"
+  },
+  "icon": "icons/bdo/04_pc_skill/01_pc_skill/00_common/common_skill_1702.webp",
+  "level": 55,
+  "combat": false
+ },
+ {
+  "id": 4031,
+  "name": {
+   "esES": "Ninjutsu: Cercenatobillos",
+   "es419": "Ninjutsu: Corte de Tobillo",
+   "en": "Ninjutsu: Ankle Splitter"
+  },
+  "icon": "icons/bdo/04_pc_skill/01_pc_skill/13_pnw_skill/pnw_skill_4031.webp",
+  "level": 58,
+  "combat": false
+ },
+ {
+  "id": 1649,
+  "name": {
+   "esES": "Resplandor de acero",
+   "es419": "Espada Brillante",
+   "en": "Shining Blade"
+  },
+  "icon": "icons/bdo/04_pc_skill/01_pc_skill/13_pnw_skill/pnw_skill_1649.webp",
+  "level": 20,
+  "combat": false
+ },
+ {
+  "id": 91,
+  "name": {
+   "esES": "Transfuria",
+   "es419": "Transferencia de Furia",
+   "en": "Rage Transfer"
+  },
+  "icon": "icons/bdo/04_pc_skill/01_pc_skill/00_common/common_skill_0091.webp",
+  "level": 35,
+  "combat": false
+ }
+]

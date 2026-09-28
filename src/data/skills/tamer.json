@@ -1,0 +1,1443 @@
+[
+ {
+  "id": 228,
+  "name": {
+   "esES": "Agua fluyente",
+   "es419": "Flujo de Agua",
+   "en": "Flowing Water"
+  },
+  "icon": "icons/bdo/04_pc_skill/01_pc_skill/05_pbw_skill/pbw_skill_0084.webp",
+  "level": 40,
+  "combat": true
+ },
+ {
+  "id": 1221,
+  "name": {
+   "esES": "Ataque evasivo",
+   "es419": "Ataque Evasivo",
+   "en": "Evasive Attack"
+  },
+  "icon": "icons/bdo/04_pc_skill/01_pc_skill/05_pbw_skill/pbw_skill_1065.webp",
+  "level": 27,
+  "combat": true
+ },
+ {
+  "id": 1921,
+  "name": {
+   "esES": "Ataque giratorio completo",
+   "es419": "Aguja giratoria completa",
+   "en": "Allround Spinner"
+  },
+  "icon": "icons/bdo/04_pc_skill/01_pc_skill/05_pbw_skill/pbw_skill_1918.webp",
+  "level": 60,
+  "combat": true
+ },
+ {
+  "id": 1936,
+  "name": {
+   "esES": "Caída otoñal",
+   "es419": "Hojas del Otoño",
+   "en": "Leafweave"
+  },
+  "icon": "icons/bdo/04_pc_skill/01_pc_skill/05_pbw_skill/pbw_skill_1936.webp",
+  "level": 56,
+  "combat": true
+ },
+ {
+  "id": 4779,
+  "name": {
+   "esES": "Cénit: Ataque giratorio completo",
+   "es419": "S : Aguja Giratoria Completa",
+   "en": "Prime: Allround Spinner"
+  },
+  "icon": "icons/bdo/04_pc_skill/01_pc_skill/05_pbw_skill/pbw_skill_4779.webp",
+  "level": 59,
+  "combat": true
+ },
+ {
+  "id": 4476,
+  "name": {
+   "esES": "Cénit: Aura de Heuklang",
+   "es419": "S : Unión Divina",
+   "en": "Prime: Heuklang's Aura"
+  },
+  "icon": "icons/bdo/04_pc_skill/01_pc_skill/05_pbw_skill/pbw_skill_4476.webp",
+  "level": 56,
+  "combat": true
+ },
+ {
+  "id": 4482,
+  "name": {
+   "esES": "Cénit: Bendición de fortuna",
+   "es419": "S : Bendición de la Bestia",
+   "en": "Prime: Fortune's Blessing"
+  },
+  "icon": "icons/bdo/04_pc_skill/01_pc_skill/05_pbw_skill/pbw_skill_4478.webp",
+  "level": 60,
+  "combat": true
+ },
+ {
+  "id": 4497,
+  "name": {
+   "esES": "Cénit: Esfera relámpago",
+   "es419": "S : Relámpago del Vacío",
+   "en": "Prime: Void Lightning"
+  },
+  "icon": "icons/bdo/04_pc_skill/01_pc_skill/05_pbw_skill/pbw_skill_4495.webp",
+  "level": 58,
+  "combat": true
+ },
+ {
+  "id": 4494,
+  "name": {
+   "esES": "Cénit: Garra alta",
+   "es419": "S : Gancho con Garras",
+   "en": "Prime: Upward Claw"
+  },
+  "icon": "icons/bdo/04_pc_skill/01_pc_skill/05_pbw_skill/pbw_skill_4491.webp",
+  "level": 59,
+  "combat": true
+ },
+ {
+  "id": 4503,
+  "name": {
+   "esES": "Cénit: Golpe de marea",
+   "es419": "S : Tsunami",
+   "en": "Prime: Surging Tide"
+  },
+  "icon": "icons/bdo/04_pc_skill/01_pc_skill/05_pbw_skill/pbw_skill_4501.webp",
+  "level": 60,
+  "combat": true
+ },
+ {
+  "id": 4477,
+  "name": {
+   "esES": "Cénit: Invocar a Heuklang",
+   "es419": "S : Invocar a Heuklang",
+   "en": "Prime: Summon Heuklang"
+  },
+  "icon": "icons/bdo/04_pc_skill/01_pc_skill/05_pbw_skill/pbw_skill_4477.webp",
+  "level": 56,
+  "combat": true
+ },
+ {
+  "id": 4778,
+  "name": {
+   "esES": "Cénit: Luz de luna",
+   "es419": "S : Golpe de la Luna",
+   "en": "Prime: Moonlight Strike"
+  },
+  "icon": "icons/bdo/04_pc_skill/01_pc_skill/05_pbw_skill/pbw_skill_4778.webp",
+  "level": 58,
+  "combat": true
+ },
+ {
+  "id": 4505,
+  "name": {
+   "esES": "Cénit: Onda de impacto",
+   "es419": "S : Onda de Tumbo",
+   "en": "Prime: Jolt Wave"
+  },
+  "icon": "icons/bdo/04_pc_skill/01_pc_skill/05_pbw_skill/pbw_skill_4505.webp",
+  "level": 56,
+  "combat": true
+ },
+ {
+  "id": 4486,
+  "name": {
+   "esES": "Cénit: Onda relámpago",
+   "es419": "S : Onda de Rayo",
+   "en": "Prime: Bolt Wave"
+  },
+  "icon": "icons/bdo/04_pc_skill/01_pc_skill/05_pbw_skill/pbw_skill_4483.webp",
+  "level": 59,
+  "combat": true
+ },
+ {
+  "id": 4500,
+  "name": {
+   "esES": "Cénit: Pisotear",
+   "es419": "S : Pisoteo",
+   "en": "Prime: Trample"
+  },
+  "icon": "icons/bdo/04_pc_skill/01_pc_skill/05_pbw_skill/pbw_skill_4498.webp",
+  "level": 59,
+  "combat": true
+ },
+ {
+  "id": 4504,
+  "name": {
+   "esES": "Cénit: Rebanacuellos",
+   "es419": "S : Quemadura de Garganta",
+   "en": "Prime: Throat-Burn"
+  },
+  "icon": "icons/bdo/04_pc_skill/01_pc_skill/05_pbw_skill/pbw_skill_4504.webp",
+  "level": 57,
+  "combat": true
+ },
+ {
+  "id": 4507,
+  "name": {
+   "esES": "Cénit: Relámpago negro",
+   "es419": "S : Relámpago de la Tierra",
+   "en": "Prime: Lightning of Earth"
+  },
+  "icon": "icons/bdo/04_pc_skill/01_pc_skill/05_pbw_skill/pbw_skill_4507.webp",
+  "level": 58,
+  "combat": true
+ },
+ {
+  "id": 4490,
+  "name": {
+   "esES": "Cénit: Rugido",
+   "es419": "S : Rugido",
+   "en": "Prime: Roaring"
+  },
+  "icon": "icons/bdo/04_pc_skill/01_pc_skill/05_pbw_skill/pbw_skill_4487.webp",
+  "level": 60,
+  "combat": true
+ },
+ {
+  "id": 4506,
+  "name": {
+   "esES": "Cénit: Rugido estremecedor",
+   "es419": "S : Temblor de Miedo",
+   "en": "Prime: Fearful Trembling"
+  },
+  "icon": "icons/bdo/04_pc_skill/01_pc_skill/05_pbw_skill/pbw_skill_4506_re.webp",
+  "level": 60,
+  "combat": true
+ },
+ {
+  "id": 4841,
+  "name": {
+   "esES": "Cénit: Salto bestial",
+   "es419": "S : Salto Divino",
+   "en": "Prime: Legendary Leap"
+  },
+  "icon": "icons/bdo/04_pc_skill/01_pc_skill/05_pbw_skill/pbw_skill_4841.webp",
+  "level": 56,
+  "combat": true
+ },
+ {
+  "id": 128,
+  "name": {
+   "esES": "Cien hojas",
+   "es419": "Corte de Hoja",
+   "en": "Leaf Slash"
+  },
+  "icon": "icons/bdo/04_pc_skill/01_pc_skill/05_pbw_skill/pbw_skill_0122.webp",
+  "level": 54,
+  "combat": true
+ },
+ {
+  "id": 1917,
+  "name": {
+   "esES": "Cortina lluviosa",
+   "es419": "Cortina de Lluvia",
+   "en": "Rain Curtain"
+  },
+  "icon": "icons/bdo/04_pc_skill/01_pc_skill/05_pbw_skill/pbw_skill_1917.webp",
+  "level": 56,
+  "combat": true
+ },
+ {
+  "id": 1926,
+  "name": {
+   "esES": "Danza de bestia legendaria",
+   "es419": "Baile de la Bestia Legendaria",
+   "en": "Legendary Beast Dance"
+  },
+  "icon": "icons/bdo/04_pc_skill/01_pc_skill/05_pbw_skill/pbw_skill_1923.webp",
+  "level": 60,
+  "combat": true
+ },
+ {
+  "id": 1942,
+  "name": {
+   "esES": "Danza de bestia legendaria: Integración",
+   "es419": "Baile de la Bestia Legendaria: Asimilar",
+   "en": "Legendary Beast Dance: Assimilate"
+  },
+  "icon": "icons/bdo/04_pc_skill/01_pc_skill/05_pbw_skill/pbw_skill_1942_re.webp",
+  "level": 1,
+  "combat": true
+ },
+ {
+  "id": 2555,
+  "name": {
+   "esES": "Danza de bestia legendaria: Resonancia",
+   "es419": "Baile de la Bestia Legendaria: Resonancia",
+   "en": "Legendary Beast Dance: Echo"
+  },
+  "icon": "icons/bdo/04_pc_skill/01_pc_skill/05_pbw_skill/pbw_skill_2555_re.webp",
+  "level": 58,
+  "combat": true
+ },
+ {
+  "id": 2918,
+  "name": {
+   "esES": "Definitiva: Ataque evasivo",
+   "es419": "Suprema : Ataque Evasivo",
+   "en": "Absolute: Evasive Attack"
+  },
+  "icon": "icons/bdo/04_pc_skill/01_pc_skill/05_pbw_skill/pbw_skill_2918.webp",
+  "level": 56,
+  "combat": true
+ },
+ {
+  "id": 2914,
+  "name": {
+   "esES": "Definitiva: Cien hojas",
+   "es419": "Suprema : Corte de Hoja",
+   "en": "Absolute: Leaf Slash"
+  },
+  "icon": "icons/bdo/04_pc_skill/01_pc_skill/05_pbw_skill/pbw_skill_2914.webp",
+  "level": 56,
+  "combat": true
+ },
+ {
+  "id": 2921,
+  "name": {
+   "esES": "Definitiva: Destello",
+   "es419": "Suprema : Destello",
+   "en": "Absolute: Flash"
+  },
+  "icon": "icons/bdo/04_pc_skill/01_pc_skill/05_pbw_skill/pbw_skill_2921.webp",
+  "level": 56,
+  "combat": true
+ },
+ {
+  "id": 2924,
+  "name": {
+   "esES": "Definitiva: Esfera relámpago",
+   "es419": "Suprema : Relámpago del Vacío",
+   "en": "Absolute: Void Lightning"
+  },
+  "icon": "icons/bdo/04_pc_skill/01_pc_skill/05_pbw_skill/pbw_skill_2924.webp",
+  "level": 57,
+  "combat": true
+ },
+ {
+  "id": 2922,
+  "name": {
+   "esES": "Definitiva: Estocada relámpago",
+   "es419": "Suprema : Destello Estocada",
+   "en": "Absolute: Flash Pole Thrust"
+  },
+  "icon": "icons/bdo/04_pc_skill/01_pc_skill/05_pbw_skill/pbw_skill_2922.webp",
+  "level": 57,
+  "combat": true
+ },
+ {
+  "id": 2931,
+  "name": {
+   "esES": "Definitiva: Garra alta",
+   "es419": "Suprema : Gancho con Garras",
+   "en": "Absolute: Upward Claw"
+  },
+  "icon": "icons/bdo/04_pc_skill/01_pc_skill/05_pbw_skill/pbw_skill_2931.webp",
+  "level": 57,
+  "combat": true
+ },
+ {
+  "id": 2929,
+  "name": {
+   "esES": "Definitiva: Golpe de marea",
+   "es419": "Suprema : Tsunami",
+   "en": "Absolute: Surging Tide"
+  },
+  "icon": "icons/bdo/04_pc_skill/01_pc_skill/05_pbw_skill/pbw_skill_2929.webp",
+  "level": 59,
+  "combat": true
+ },
+ {
+  "id": 2930,
+  "name": {
+   "esES": "Definitiva: Latigazo",
+   "es419": "Suprema : Latigazo",
+   "en": "Absolute: Whiplash"
+  },
+  "icon": "icons/bdo/04_pc_skill/01_pc_skill/05_pbw_skill/pbw_skill_2930.webp",
+  "level": 56,
+  "combat": true
+ },
+ {
+  "id": 2917,
+  "name": {
+   "esES": "Definitiva: Lluvia de patadas",
+   "es419": "Suprema : Patadas Sucesivas",
+   "en": "Absolute: Flurry of Kicks"
+  },
+  "icon": "icons/bdo/04_pc_skill/01_pc_skill/05_pbw_skill/pbw_skill_2917.webp",
+  "level": 56,
+  "combat": true
+ },
+ {
+  "id": 2916,
+  "name": {
+   "esES": "Definitiva: Onda de impacto",
+   "es419": "Suprema : Onda de Tumbo",
+   "en": "Absolute: Jolt Wave"
+  },
+  "icon": "icons/bdo/04_pc_skill/01_pc_skill/05_pbw_skill/pbw_skill_2916.webp",
+  "level": 57,
+  "combat": true
+ },
+ {
+  "id": 2915,
+  "name": {
+   "esES": "Definitiva: Onda relámpago",
+   "es419": "Suprema : Onda de Rayo",
+   "en": "Absolute: Bolt Wave"
+  },
+  "icon": "icons/bdo/04_pc_skill/01_pc_skill/05_pbw_skill/pbw_skill_2915.webp",
+  "level": 56,
+  "combat": true
+ },
+ {
+  "id": 2920,
+  "name": {
+   "esES": "Definitiva: Patada alta",
+   "es419": "Suprema : Patada al Cielo",
+   "en": "Absolute: Soaring Kick"
+  },
+  "icon": "icons/bdo/04_pc_skill/01_pc_skill/05_pbw_skill/pbw_skill_2920.webp",
+  "level": 56,
+  "combat": true
+ },
+ {
+  "id": 2934,
+  "name": {
+   "esES": "Definitiva: Patada de gacela",
+   "es419": "Suprema : Patada Estirada",
+   "en": "Absolute: Stretch Kick"
+  },
+  "icon": "icons/bdo/04_pc_skill/01_pc_skill/05_pbw_skill/pbw_skill_2934.webp",
+  "level": 56,
+  "combat": true
+ },
+ {
+  "id": 2919,
+  "name": {
+   "esES": "Definitiva: Pequeño saltamones",
+   "es419": "Suprema : Trepar Árboles",
+   "en": "Absolute: Tree Climb"
+  },
+  "icon": "icons/bdo/04_pc_skill/01_pc_skill/05_pbw_skill/pbw_skill_2919.webp",
+  "level": 57,
+  "combat": true
+ },
+ {
+  "id": 2925,
+  "name": {
+   "esES": "Definitiva: Pisotear",
+   "es419": "Suprema : Pisoteo",
+   "en": "Absolute: Trample"
+  },
+  "icon": "icons/bdo/04_pc_skill/01_pc_skill/05_pbw_skill/pbw_skill_2925.webp",
+  "level": 56,
+  "combat": true
+ },
+ {
+  "id": 2923,
+  "name": {
+   "esES": "Definitiva: Posición de movimiento",
+   "es419": "Suprema : Destello Cambio de Postura",
+   "en": "Absolute: Flash Stance Shift"
+  },
+  "icon": "icons/bdo/04_pc_skill/01_pc_skill/05_pbw_skill/pbw_skill_2923.webp",
+  "level": 58,
+  "combat": true
+ },
+ {
+  "id": 2927,
+  "name": {
+   "esES": "Definitiva: Rebanacuellos",
+   "es419": "Suprema : Quemadura de Garganta",
+   "en": "Absolute: Throat-Burn"
+  },
+  "icon": "icons/bdo/04_pc_skill/01_pc_skill/05_pbw_skill/pbw_skill_2927.webp",
+  "level": 57,
+  "combat": true
+ },
+ {
+  "id": 2932,
+  "name": {
+   "esES": "Definitiva: Relámpago negro",
+   "es419": "Suprema : Relámpago de Tierra",
+   "en": "Absolute: Lightning of Earth"
+  },
+  "icon": "icons/bdo/04_pc_skill/01_pc_skill/05_pbw_skill/pbw_skill_2932.webp",
+  "level": 56,
+  "combat": true
+ },
+ {
+  "id": 2928,
+  "name": {
+   "esES": "Definitiva: Rugido",
+   "es419": "Suprema : Rugido",
+   "en": "Absolute: Roaring"
+  },
+  "icon": "icons/bdo/04_pc_skill/01_pc_skill/05_pbw_skill/pbw_skill_2928.webp",
+  "level": 60,
+  "combat": true
+ },
+ {
+  "id": 2933,
+  "name": {
+   "esES": "Definitiva: Rugido estremecedor",
+   "es419": "Suprema : Temblor de Miedo",
+   "en": "Absolute: Fearful Trembling"
+  },
+  "icon": "icons/bdo/04_pc_skill/01_pc_skill/05_pbw_skill/pbw_skill_2933.webp",
+  "level": 59,
+  "combat": true
+ },
+ {
+  "id": 2926,
+  "name": {
+   "esES": "Definitiva: Zarpazo veloz",
+   "es419": "Suprema : Rasguño",
+   "en": "Absolute: Scratch"
+  },
+  "icon": "icons/bdo/04_pc_skill/01_pc_skill/05_pbw_skill/pbw_skill_2926.webp",
+  "level": 57,
+  "combat": true
+ },
+ {
+  "id": 1226,
+  "name": {
+   "esES": "Destello",
+   "es419": "Destello",
+   "en": "Flash"
+  },
+  "icon": "icons/bdo/04_pc_skill/01_pc_skill/05_pbw_skill/pbw_skill_1067.webp",
+  "level": 36,
+  "combat": true
+ },
+ {
+  "id": 1929,
+  "name": {
+   "esES": "Eco perforador",
+   "es419": "Eco Penetrante",
+   "en": "Echo Pierce"
+  },
+  "icon": "icons/bdo/04_pc_skill/01_pc_skill/05_pbw_skill/pbw_skill_1922.webp",
+  "level": 60,
+  "combat": true
+ },
+ {
+  "id": 1909,
+  "name": {
+   "esES": "Entrenamiento de bō",
+   "es419": "Maestría de Bo Celestial",
+   "en": "Celestial Bo Staff Training"
+  },
+  "icon": "icons/bdo/04_pc_skill/01_pc_skill/05_pbw_skill/pbw_skill_1900.webp",
+  "level": 60,
+  "combat": true
+ },
+ {
+  "id": 1229,
+  "name": {
+   "esES": "Esfera relámpago",
+   "es419": "Relámpago del Vacío",
+   "en": "Void Lightning"
+  },
+  "icon": "icons/bdo/04_pc_skill/01_pc_skill/05_pbw_skill/pbw_skill_1227.webp",
+  "level": 48,
+  "combat": true
+ },
+ {
+  "id": 2829,
+  "name": {
+   "esES": "Estocada electrizante",
+   "es419": "Embestida de Tumbo",
+   "en": "Jolt Stab"
+  },
+  "icon": "icons/bdo/04_pc_skill/01_pc_skill/05_pbw_skill/pbw_skill_2829.webp",
+  "level": 57,
+  "combat": true
+ },
+ {
+  "id": 87,
+  "name": {
+   "esES": "Estocada relámpago",
+   "es419": "Destello: Estocada",
+   "en": "Flash: Pole Thrust"
+  },
+  "icon": "icons/bdo/04_pc_skill/01_pc_skill/05_pbw_skill/pbw_skill_0085.webp",
+  "level": 37,
+  "combat": true
+ },
+ {
+  "id": 363,
+  "name": {
+   "esES": "Evasión",
+   "es419": "Evasión",
+   "en": "Evasion"
+  },
+  "icon": "icons/bdo/04_pc_skill/01_pc_skill/05_pbw_skill/pbw_skill_0362.webp",
+  "level": 32,
+  "combat": true
+ },
+ {
+  "id": 212,
+  "name": {
+   "esES": "Garra alta",
+   "es419": "Gancho con Garras",
+   "en": "Upward Claw"
+  },
+  "icon": "icons/bdo/04_pc_skill/01_pc_skill/05_pbw_skill/pbw_skill_0208.webp",
+  "level": 40,
+  "combat": true
+ },
+ {
+  "id": 361,
+  "name": {
+   "esES": "Garras afiladas",
+   "es419": "Garras Afiladas",
+   "en": "Sharpening Claws"
+  },
+  "icon": "icons/bdo/04_pc_skill/01_pc_skill/05_pbw_skill/pbw_skill_0358.webp",
+  "level": 34,
+  "combat": true
+ },
+ {
+  "id": 2830,
+  "name": {
+   "esES": "Garras de Heuklang",
+   "es419": "Garras de la Bestia",
+   "en": "Legendary Beast's Claw"
+  },
+  "icon": "icons/bdo/04_pc_skill/01_pc_skill/05_pbw_skill/pbw_skill_2830.webp",
+  "level": 57,
+  "combat": true
+ },
+ {
+  "id": 1912,
+  "name": {
+   "esES": "Garuda",
+   "es419": "Garuda",
+   "en": "Skybound Stab"
+  },
+  "icon": "icons/bdo/04_pc_skill/01_pc_skill/05_pbw_skill/pbw_skill_1910.webp",
+  "level": 60,
+  "combat": true
+ },
+ {
+  "id": 1295,
+  "name": {
+   "esES": "Golpe de marea",
+   "es419": "Tsunami",
+   "en": "Surging Tide"
+  },
+  "icon": "icons/bdo/04_pc_skill/01_pc_skill/05_pbw_skill/pbw_skill_1246.webp",
+  "level": 55,
+  "combat": true
+ },
+ {
+  "id": 1935,
+  "name": {
+   "esES": "Heuklang: Aullido",
+   "es419": "Heuklang: Aullido",
+   "en": "Heuklang: Howling"
+  },
+  "icon": "icons/bdo/04_pc_skill/01_pc_skill/05_pbw_skill/pbw_skill_1935.webp",
+  "level": 58,
+  "combat": true
+ },
+ {
+  "id": 1347,
+  "name": {
+   "esES": "Invocar a Heuklang",
+   "es419": "Invocar a Heuklang",
+   "en": "Summon Heuklang"
+  },
+  "icon": "icons/bdo/04_pc_skill/01_pc_skill/05_pbw_skill/pbw_skill_1338.webp",
+  "level": 54,
+  "combat": true
+ },
+ {
+  "id": 205,
+  "name": {
+   "esES": "Latigazo",
+   "es419": "Latigazo",
+   "en": "Whiplash"
+  },
+  "icon": "icons/bdo/04_pc_skill/01_pc_skill/05_pbw_skill/pbw_skill_1232.webp",
+  "level": 53,
+  "combat": true
+ },
+ {
+  "id": 1219,
+  "name": {
+   "esES": "Lluvia de patadas",
+   "es419": "Patadas Sucesivas",
+   "en": "Flurry of Kicks"
+  },
+  "icon": "icons/bdo/04_pc_skill/01_pc_skill/05_pbw_skill/pbw_skill_1217.webp",
+  "level": 23,
+  "combat": true
+ },
+ {
+  "id": 1916,
+  "name": {
+   "esES": "Locura de bestia",
+   "es419": "Destrucción de la Bestia",
+   "en": "Beast Rampage"
+  },
+  "icon": "icons/bdo/04_pc_skill/01_pc_skill/05_pbw_skill/pbw_skill_1913.webp",
+  "level": 59,
+  "combat": true
+ },
+ {
+  "id": 1932,
+  "name": {
+   "esES": "Luz de luna",
+   "es419": "Golpe de la Luna",
+   "en": "Moonlight Strike"
+  },
+  "icon": "icons/bdo/04_pc_skill/01_pc_skill/05_pbw_skill/pbw_skill_1930.webp",
+  "level": 59,
+  "combat": true
+ },
+ {
+  "id": 1934,
+  "name": {
+   "esES": "Movimiento: Ascensión",
+   "es419": "Flujo: Ascenso",
+   "en": "Flow: Ascension"
+  },
+  "icon": "icons/bdo/04_pc_skill/01_pc_skill/05_pbw_skill/pbw_skill_1934.webp",
+  "level": 57,
+  "combat": true
+ },
+ {
+  "id": 1939,
+  "name": {
+   "esES": "Movimiento: Golpe elevado",
+   "es419": "Flujo: Golpe Inmenso",
+   "en": "Flow: Soaring Strike"
+  },
+  "icon": "icons/bdo/04_pc_skill/01_pc_skill/05_pbw_skill/pbw_skill_1939.webp",
+  "level": 60,
+  "combat": true
+ },
+ {
+  "id": 1937,
+  "name": {
+   "esES": "Movimiento: Intimidación",
+   "es419": "Flujo: Intimidación",
+   "en": "Flow: Intimidation"
+  },
+  "icon": "icons/bdo/04_pc_skill/01_pc_skill/05_pbw_skill/pbw_skill_1937.webp",
+  "level": 57,
+  "combat": true
+ },
+ {
+  "id": 1940,
+  "name": {
+   "esES": "Movimiento: Luna llena",
+   "es419": "Flujo: Luna Llena",
+   "en": "Flow: Full Moon"
+  },
+  "icon": "icons/bdo/04_pc_skill/01_pc_skill/05_pbw_skill/pbw_skill_1940.webp",
+  "level": 59,
+  "combat": true
+ },
+ {
+  "id": 1933,
+  "name": {
+   "esES": "Movimiento: Ráfaga",
+   "es419": "Flujo: Ráfaga",
+   "en": "Flow: Gust"
+  },
+  "icon": "icons/bdo/04_pc_skill/01_pc_skill/05_pbw_skill/pbw_skill_1933.webp",
+  "level": 57,
+  "combat": true
+ },
+ {
+  "id": 38,
+  "name": {
+   "esES": "Movimiento: Salto",
+   "es419": "Flujo: Salto",
+   "en": "Flow: Leap"
+  },
+  "icon": "icons/bdo/04_pc_skill/01_pc_skill/05_pbw_skill/pbw_skill_0038.webp",
+  "level": 25,
+  "combat": true
+ },
+ {
+  "id": 17,
+  "name": {
+   "esES": "Onda de impacto",
+   "es419": "Onda de Tumbo",
+   "en": "Jolt Wave"
+  },
+  "icon": "icons/bdo/04_pc_skill/01_pc_skill/05_pbw_skill/pbw_skill_0015.webp",
+  "level": 50,
+  "combat": true
+ },
+ {
+  "id": 14,
+  "name": {
+   "esES": "Onda relámpago",
+   "es419": "Onda de Rayo",
+   "en": "Bolt Wave"
+  },
+  "icon": "icons/bdo/04_pc_skill/01_pc_skill/05_pbw_skill/pbw_skill_0011.webp",
+  "level": 47,
+  "combat": true
+ },
+ {
+  "id": 242,
+  "name": {
+   "esES": "Orden: Ataca",
+   "es419": "Mandato : Ataca",
+   "en": "Command: Attack"
+  },
+  "icon": "icons/bdo/04_pc_skill/01_pc_skill/05_pbw_skill/pbw_skill_0004.webp",
+  "level": 20,
+  "combat": true
+ },
+ {
+  "id": 234,
+  "name": {
+   "esES": "Orden: Ayúdame",
+   "es419": "Mandato: Ayuda",
+   "en": "Command: Help"
+  },
+  "icon": "icons/bdo/04_pc_skill/01_pc_skill/05_pbw_skill/pbw_skill_0001.webp",
+  "level": 20,
+  "combat": true
+ },
+ {
+  "id": 232,
+  "name": {
+   "esES": "Orden: Protégeme",
+   "es419": "Mandato: Protege",
+   "en": "Command: Guard"
+  },
+  "icon": "icons/bdo/04_pc_skill/01_pc_skill/05_pbw_skill/pbw_skill_0002.webp",
+  "level": 20,
+  "combat": true
+ },
+ {
+  "id": 233,
+  "name": {
+   "esES": "Orden: Sígueme",
+   "es419": "Mandato: Ven",
+   "en": "Command: Follow"
+  },
+  "icon": "icons/bdo/04_pc_skill/01_pc_skill/05_pbw_skill/pbw_skill_0003.webp",
+  "level": 20,
+  "combat": true
+ },
+ {
+  "id": 135,
+  "name": {
+   "esES": "Patada alta",
+   "es419": "Patada al Cielo",
+   "en": "Soaring Kick"
+  },
+  "icon": "icons/bdo/04_pc_skill/01_pc_skill/05_pbw_skill/pbw_skill_0133.webp",
+  "level": 20,
+  "combat": true
+ },
+ {
+  "id": 241,
+  "name": {
+   "esES": "Patada de gacela",
+   "es419": "Patada Estirada",
+   "en": "Stretch Kick"
+  },
+  "icon": "icons/bdo/04_pc_skill/01_pc_skill/05_pbw_skill/pbw_skill_0240.webp",
+  "level": 20,
+  "combat": true
+ },
+ {
+  "id": 1223,
+  "name": {
+   "esES": "Pequeño saltamontes",
+   "es419": "Trepar Árboles",
+   "en": "Tree Climb"
+  },
+  "icon": "icons/bdo/04_pc_skill/01_pc_skill/05_pbw_skill/pbw_skill_1222.webp",
+  "level": 24,
+  "combat": true
+ },
+ {
+  "id": 1231,
+  "name": {
+   "esES": "Pisotear",
+   "es419": "Pisoteo",
+   "en": "Trample"
+  },
+  "icon": "icons/bdo/04_pc_skill/01_pc_skill/05_pbw_skill/pbw_skill_1230.webp",
+  "level": 35,
+  "combat": true
+ },
+ {
+  "id": 1927,
+  "name": {
+   "esES": "Pisoteo nuboso",
+   "es419": "Pisar la Nube",
+   "en": "Cloud Stomping"
+  },
+  "icon": "icons/bdo/04_pc_skill/01_pc_skill/05_pbw_skill/pbw_skill_1927.webp",
+  "level": 56,
+  "combat": true
+ },
+ {
+  "id": 1941,
+  "name": {
+   "esES": "Poder de bestia legendaria",
+   "es419": "Poder Legendario del Depredador",
+   "en": "Legendary Beast's Power"
+  },
+  "icon": "icons/bdo/04_pc_skill/01_pc_skill/05_pbw_skill/pbw_skill_1941.webp",
+  "level": 1,
+  "combat": true
+ },
+ {
+  "id": 6005,
+  "name": {
+   "esES": "Primordial: Ataque giratorio completo",
+   "es419": "BON: Aguja Giratoria Completa",
+   "en": "Core: Allround Spinner"
+  },
+  "icon": "icons/bdo/04_pc_skill/01_pc_skill/05_pbw_skill/pbw_skill_1918.webp",
+  "level": 60,
+  "combat": true
+ },
+ {
+  "id": 6006,
+  "name": {
+   "esES": "Primordial: Danza de bestia legendaria",
+   "es419": "BON: Baile de la Bestia Legendaria",
+   "en": "Core: Legendary Beast Dance"
+  },
+  "icon": "icons/bdo/04_pc_skill/01_pc_skill/05_pbw_skill/pbw_skill_1923.webp",
+  "level": 60,
+  "combat": true
+ },
+ {
+  "id": 6002,
+  "name": {
+   "esES": "Primordial: Eco perforador",
+   "es419": "BON: Eco Penetrante",
+   "en": "Core: Echo Pierce"
+  },
+  "icon": "icons/bdo/04_pc_skill/01_pc_skill/05_pbw_skill/pbw_skill_1922.webp",
+  "level": 60,
+  "combat": true
+ },
+ {
+  "id": 6001,
+  "name": {
+   "esES": "Primordial: Garuda",
+   "es419": "BON: Garuda",
+   "en": "Core: Skybound Stab"
+  },
+  "icon": "icons/bdo/04_pc_skill/01_pc_skill/05_pbw_skill/pbw_skill_1910.webp",
+  "level": 60,
+  "combat": true
+ },
+ {
+  "id": 6004,
+  "name": {
+   "esES": "Primordial: Locura de bestia",
+   "es419": "BON: Destrucción de la Bestia",
+   "en": "Core: Beast Rampage"
+  },
+  "icon": "icons/bdo/04_pc_skill/01_pc_skill/05_pbw_skill/pbw_skill_1913.webp",
+  "level": 60,
+  "combat": true
+ },
+ {
+  "id": 6003,
+  "name": {
+   "esES": "Primordial: Luz de luna",
+   "es419": "BON: Golpe de la Luna",
+   "en": "Core: Moonlight Strike"
+  },
+  "icon": "icons/bdo/04_pc_skill/01_pc_skill/05_pbw_skill/pbw_skill_1930.webp",
+  "level": 60,
+  "combat": true
+ },
+ {
+  "id": 204,
+  "name": {
+   "esES": "Rayo aéreo",
+   "es419": "Relámpago del Aire",
+   "en": "Air Lightning"
+  },
+  "icon": "icons/bdo/04_pc_skill/01_pc_skill/05_pbw_skill/pbw_skill_0204.webp",
+  "level": 27,
+  "combat": true
+ },
+ {
+  "id": 1236,
+  "name": {
+   "esES": "Rebanacuellos",
+   "es419": "Quemadura de Garganta",
+   "en": "Throat-Burn"
+  },
+  "icon": "icons/bdo/04_pc_skill/01_pc_skill/05_pbw_skill/pbw_skill_1235.webp",
+  "level": 34,
+  "combat": true
+ },
+ {
+  "id": 1311,
+  "name": {
+   "esES": "Relámpago negro",
+   "es419": "Relámpago de Tierra",
+   "en": "Lightning of Earth"
+  },
+  "icon": "icons/bdo/04_pc_skill/01_pc_skill/05_pbw_skill/pbw_skill_1308.webp",
+  "level": 34,
+  "combat": true
+ },
+ {
+  "id": 4843,
+  "name": {
+   "esES": "Renacer: Pequeño saltamontes",
+   "es419": "Sucesión : Trepar Árbol",
+   "en": "Succession: Tree Climb"
+  },
+  "icon": "icons/bdo/04_pc_skill/01_pc_skill/05_pbw_skill/pbw_skill_2919.webp",
+  "level": 56,
+  "combat": true
+ },
+ {
+  "id": 4475,
+  "name": {
+   "esES": "Renacer: Poder de la bestia",
+   "es419": "Sucesión : Poder de la Bestia Divina",
+   "en": "Succession: Power of the Beast"
+  },
+  "icon": "icons/bdo/04_pc_skill/01_pc_skill/05_pbw_skill/pbw_skill_4475.webp",
+  "level": 56,
+  "combat": true
+ },
+ {
+  "id": 1307,
+  "name": {
+   "esES": "Renacer: Rayo aéreo",
+   "es419": "Sucesión: Relámpago del Aire",
+   "en": "Succession: Air Lightning"
+  },
+  "icon": "icons/bdo/04_pc_skill/01_pc_skill/05_pbw_skill/pbw_skill_0204.webp",
+  "level": 56,
+  "combat": true
+ },
+ {
+  "id": 4842,
+  "name": {
+   "esES": "Renacer: Zarpazo veloz",
+   "es419": "Sucesión : Arañazo",
+   "en": "Succession: Scratch"
+  },
+  "icon": "icons/bdo/04_pc_skill/01_pc_skill/05_pbw_skill/pbw_skill_2926.webp",
+  "level": 56,
+  "combat": true
+ },
+ {
+  "id": 92,
+  "name": {
+   "esES": "Retirada oscura",
+   "es419": "Escape de Emergencia",
+   "en": "Emergency Escape"
+  },
+  "icon": "icons/bdo/04_pc_skill/01_pc_skill/00_common/common_skill_0092.webp",
+  "level": 1,
+  "combat": true
+ },
+ {
+  "id": 1245,
+  "name": {
+   "esES": "Rugido",
+   "es419": "Rugido",
+   "en": "Roaring"
+  },
+  "icon": "icons/bdo/04_pc_skill/01_pc_skill/05_pbw_skill/pbw_skill_1241.webp",
+  "level": 50,
+  "combat": true
+ },
+ {
+  "id": 1076,
+  "name": {
+   "esES": "Rugido estremecedor",
+   "es419": "Temblor de Miedo",
+   "en": "Fearful Trembling"
+  },
+  "icon": "icons/bdo/04_pc_skill/01_pc_skill/05_pbw_skill/pbw_skill_0235.webp",
+  "level": 54,
+  "combat": true
+ },
+ {
+  "id": 1938,
+  "name": {
+   "esES": "Surcacielos",
+   "es419": "Toque celestial",
+   "en": "Skyreach"
+  },
+  "icon": "icons/bdo/04_pc_skill/01_pc_skill/05_pbw_skill/pbw_skill_1938.webp",
+  "level": 58,
+  "combat": true
+ },
+ {
+  "id": 2742,
+  "name": {
+   "esES": "Temblor",
+   "es419": "Temblor del Vacío",
+   "en": "Resonance"
+  },
+  "icon": "icons/bdo/04_pc_skill/01_pc_skill/05_pbw_skill/pbw_skill_2742.webp",
+  "level": 56,
+  "combat": true
+ },
+ {
+  "id": 42,
+  "name": {
+   "esES": "Transición fugaz",
+   "es419": "Destello : Cambio de Postura",
+   "en": "Flash: Stance Shift"
+  },
+  "icon": "icons/bdo/04_pc_skill/01_pc_skill/05_pbw_skill/pbw_skill_0041.webp",
+  "level": 32,
+  "combat": true
+ },
+ {
+  "id": 2741,
+  "name": {
+   "esES": "Vórtice del pavor",
+   "es419": "Tragedia Inminente",
+   "en": "Horror Slam"
+  },
+  "icon": "icons/bdo/04_pc_skill/01_pc_skill/05_pbw_skill/pbw_skill_2741.webp",
+  "level": 56,
+  "combat": true
+ },
+ {
+  "id": 1234,
+  "name": {
+   "esES": "Zarpazo veloz",
+   "es419": "Rasguño",
+   "en": "Scratch"
+  },
+  "icon": "icons/bdo/04_pc_skill/01_pc_skill/05_pbw_skill/pbw_skill_0129.webp",
+  "level": 47,
+  "combat": true
+ },
+ {
+  "id": 3459,
+  "name": {
+   "esES": "Absorción de furia",
+   "es419": "Absorción de Furia",
+   "en": "Rage Absorption"
+  },
+  "icon": "icons/bdo/04_pc_skill/01_pc_skill/00_common/common_skill_0090.webp",
+  "level": 35,
+  "combat": false
+ },
+ {
+  "id": 89,
+  "name": {
+   "esES": "Absorción de furia (latente)",
+   "es419": "Absorción de Furia (Innato)",
+   "en": "Rage Absorption (Innate)"
+  },
+  "icon": "icons/bdo/04_pc_skill/01_pc_skill/00_common/common_skill_0090.webp",
+  "level": 35,
+  "combat": false
+ },
+ {
+  "id": 4040,
+  "name": {
+   "esES": "Arrancalientos",
+   "es419": "Estocada de Garganta",
+   "en": "Breath Spike"
+  },
+  "icon": "icons/bdo/04_pc_skill/01_pc_skill/05_pbw_skill/pbw_skill_4040.webp",
+  "level": 58,
+  "combat": false
+ },
+ {
+  "id": 244,
+  "name": {
+   "esES": "Bendición de fortuna",
+   "es419": "Bendición de la Bestia",
+   "en": "Fortune's Blessing"
+  },
+  "icon": "icons/bdo/04_pc_skill/01_pc_skill/05_pbw_skill/pbw_skill_0244.webp",
+  "level": 20,
+  "combat": false
+ },
+ {
+  "id": 2076,
+  "name": {
+   "esES": "Cazador hábil",
+   "es419": "Cazador Experto",
+   "en": "Skilled Hunter"
+  },
+  "icon": "icons/bdo/04_pc_skill/01_pc_skill/06_pkm_skill/pkm_skill_2072.webp",
+  "level": 60,
+  "combat": false
+ },
+ {
+  "id": 6454,
+  "name": {
+   "esES": "Cortanubes",
+   "es419": "Nube Destrozada",
+   "en": "Celestial Slam"
+  },
+  "icon": "icons/bdo/04_pc_skill/01_pc_skill/05_pbw_skill/pbw_skill_6454.webp",
+  "level": 59,
+  "combat": false
+ },
+ {
+  "id": 4041,
+  "name": {
+   "esES": "Cremación relámpago",
+   "es419": "Quemadura de Relámpago",
+   "en": "Lightning Burn"
+  },
+  "icon": "icons/bdo/04_pc_skill/01_pc_skill/05_pbw_skill/pbw_skill_4041.webp",
+  "level": 58,
+  "combat": false
+ },
+ {
+  "id": 6123,
+  "name": {
+   "esES": "Elvia: Vahído frenético",
+   "es419": "Elvia: Carrera Vertiginosa",
+   "en": "Elvia: Dizzying Frenzy"
+  },
+  "icon": "icons/bdo/04_pc_skill/01_pc_skill/05_pbw_skill/pbw_skill_6123.webp",
+  "level": 60,
+  "combat": false
+ },
+ {
+  "id": 4856,
+  "name": {
+   "esES": "Gran poder",
+   "es419": "Gran Poder",
+   "en": "Unyielding Might"
+  },
+  "icon": "icons/bdo/04_pc_skill/01_pc_skill/00_common/common_skill_18705.webp",
+  "level": 62,
+  "combat": false
+ },
+ {
+  "id": 31,
+  "name": {
+   "esES": "Heuklang: Cien hojas",
+   "es419": "Heuklang: Corte de Hoja",
+   "en": "Heuklang: Leaf Slash"
+  },
+  "icon": "icons/bdo/04_pc_skill/01_pc_skill/05_pbw_skill/pbw_skill_0122_re.webp",
+  "level": 20,
+  "combat": false
+ },
+ {
+  "id": 32,
+  "name": {
+   "esES": "Heuklang: Esfera relámpago",
+   "es419": "Heuklang: Relámpago del Vacío",
+   "en": "Heuklang: Void Lightning"
+  },
+  "icon": "icons/bdo/04_pc_skill/01_pc_skill/05_pbw_skill/pbw_skill_1227_re.webp",
+  "level": 36,
+  "combat": false
+ },
+ {
+  "id": 1304,
+  "name": {
+   "esES": "Heuklang: Evasión",
+   "es419": "Heuklang: Evasión",
+   "en": "Heuklang: Evasion"
+  },
+  "icon": "icons/bdo/04_pc_skill/01_pc_skill/05_pbw_skill/pbw_skill_0362_re.webp",
+  "level": 20,
+  "combat": false
+ },
+ {
+  "id": 1305,
+  "name": {
+   "esES": "Heuklang: Garra alta",
+   "es419": "Heuklang: Gancho con Garras",
+   "en": "Heuklang: Upward Claw"
+  },
+  "icon": "icons/bdo/04_pc_skill/01_pc_skill/05_pbw_skill/pbw_skill_0208_re.webp",
+  "level": 20,
+  "combat": false
+ },
+ {
+  "id": 1239,
+  "name": {
+   "esES": "Heuklang: Golpe de marea",
+   "es419": "Heuklang: Tsunami",
+   "en": "Heuklang: Surging Tide"
+  },
+  "icon": "icons/bdo/04_pc_skill/01_pc_skill/05_pbw_skill/pbw_skill_1246_re.webp",
+  "level": 45,
+  "combat": false
+ },
+ {
+  "id": 1072,
+  "name": {
+   "esES": "Heuklang: Latigazo",
+   "es419": "Heuklang: Latigazo",
+   "en": "Heuklang: Whiplash"
+  },
+  "icon": "icons/bdo/04_pc_skill/01_pc_skill/05_pbw_skill/pbw_skill_1232_re.webp",
+  "level": 20,
+  "combat": false
+ },
+ {
+  "id": 1303,
+  "name": {
+   "esES": "Heuklang: Pisotear",
+   "es419": "Heuklang: Pisoteo",
+   "en": "Heuklang: Trample"
+  },
+  "icon": "icons/bdo/04_pc_skill/01_pc_skill/05_pbw_skill/pbw_skill_1230_re.webp",
+  "level": 36,
+  "combat": false
+ },
+ {
+  "id": 1301,
+  "name": {
+   "esES": "Heuklang: Poder de bestia legendaria",
+   "es419": "Heuklang: Poder Legendario del Depredador",
+   "en": "Heuklang: Legendary Beast's Power"
+  },
+  "icon": "icons/bdo/04_pc_skill/01_pc_skill/05_pbw_skill/pbw_skill_1941_re.webp",
+  "level": 20,
+  "combat": false
+ },
+ {
+  "id": 1237,
+  "name": {
+   "esES": "Heuklang: Rebanacuellos",
+   "es419": "Heuklang: Quemadura de Garganta",
+   "en": "Heuklang: Throat-Burn"
+  },
+  "icon": "icons/bdo/04_pc_skill/01_pc_skill/05_pbw_skill/pbw_skill_1235_re.webp",
+  "level": 36,
+  "combat": false
+ },
+ {
+  "id": 1238,
+  "name": {
+   "esES": "Heuklang: Relámpago negro",
+   "es419": "Heuklang: Relámpago de Tierra",
+   "en": "Heuklang: Lightning of Earth"
+  },
+  "icon": "icons/bdo/04_pc_skill/01_pc_skill/05_pbw_skill/pbw_skill_1308_re.webp",
+  "level": 36,
+  "combat": false
+ },
+ {
+  "id": 1240,
+  "name": {
+   "esES": "Heuklang: Rugido",
+   "es419": "Heuklang: Rugido",
+   "en": "Heuklang: Roaring"
+  },
+  "icon": "icons/bdo/04_pc_skill/01_pc_skill/05_pbw_skill/pbw_skill_1241_re.webp",
+  "level": 55,
+  "combat": false
+ },
+ {
+  "id": 1302,
+  "name": {
+   "esES": "Heuklang: Rugido estremecedor",
+   "es419": "Heuklang: Temblor de Miedo",
+   "en": "Heuklang: Fearful Trembling"
+  },
+  "icon": "icons/bdo/04_pc_skill/01_pc_skill/05_pbw_skill/pbw_skill_0235_re.webp",
+  "level": 55,
+  "combat": false
+ },
+ {
+  "id": 33,
+  "name": {
+   "esES": "Heuklang: Zarpazo veloz",
+   "es419": "Heuklang: Rasguño",
+   "en": "Heuklang: Scratch"
+  },
+  "icon": "icons/bdo/04_pc_skill/01_pc_skill/05_pbw_skill/pbw_skill_0129_re.webp",
+  "level": 20,
+  "combat": false
+ },
+ {
+  "id": 4882,
+  "name": {
+   "esES": "Instintos ferales",
+   "es419": "Instinto de la Bestia Divina",
+   "en": "Bestial Instincts"
+  },
+  "icon": "icons/bdo/04_pc_skill/01_pc_skill/05_pbw_skill/pbw_skill_4863.webp",
+  "level": 60,
+  "combat": false
+ },
+ {
+  "id": 4883,
+  "name": {
+   "esES": "Instintos ferales XXI",
+   "es419": "Instinto de la Bestia Divina XXI",
+   "en": "Bestial Instincts XXI"
+  },
+  "icon": "icons/bdo/04_pc_skill/01_pc_skill/05_pbw_skill/pbw_skill_4883.webp",
+  "level": 1,
+  "combat": false
+ },
+ {
+  "id": 1707,
+  "name": {
+   "esES": "Maestría infinita",
+   "es419": "Maestría Infinita",
+   "en": "Infinite Mastery"
+  },
+  "icon": "icons/bdo/04_pc_skill/01_pc_skill/00_common/common_skill_1702.webp",
+  "level": 55,
+  "combat": false
+ },
+ {
+  "id": 1306,
+  "name": {
+   "esES": "Prisión oscura",
+   "es419": "Guardiacárcel Negro",
+   "en": "Dark Gaoler"
+  },
+  "icon": "icons/bdo/04_pc_skill/01_pc_skill/05_pbw_skill/pbw_skill_1306.webp",
+  "level": 60,
+  "combat": false
+ },
+ {
+  "id": 91,
+  "name": {
+   "esES": "Transfuria",
+   "es419": "Transferencia de Furia",
+   "en": "Rage Transfer"
+  },
+  "icon": "icons/bdo/04_pc_skill/01_pc_skill/00_common/common_skill_0091.webp",
+  "level": 35,
+  "combat": false
+ },
+ {
+  "id": 231,
+  "name": {
+   "esES": "Vigor de Heuklang",
+   "es419": "Absorción de Heuklang",
+   "en": "Absorb Heuklang"
+  },
+  "icon": "icons/bdo/04_pc_skill/01_pc_skill/05_pbw_skill/pbw_skill_0034.webp",
+  "level": 52,
+  "combat": false
+ }
+]

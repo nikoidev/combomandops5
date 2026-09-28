@@ -1,0 +1,322 @@
+[
+ {
+  "slug": "darkelf",
+  "name": {
+   "esES": "Adalid oscura",
+   "es419": "Dark Knight",
+   "en": "Dark Knight"
+  },
+  "icon": "icons/bdo/04_pc_skill/01_pc_skill/15_pdew_skill/pdew_skill_6798.webp",
+  "skillCount": 106
+ },
+ {
+  "slug": "agent",
+  "name": {
+   "esES": "Agente",
+   "es419": "Agent",
+   "en": "Agent"
+  },
+  "icon": "icons/bdo/04_pc_skill/01_pc_skill/34_pgms_skill/pgms_skill_9984.webp",
+  "skillCount": 72
+ },
+ {
+  "slug": "giant",
+  "name": {
+   "esES": "Berserker",
+   "es419": "Gigante",
+   "en": "Berserker"
+  },
+  "icon": "icons/bdo/04_pc_skill/01_pc_skill/04_pgm_skill/pgm_skill_1841.webp",
+  "skillCount": 96
+ },
+ {
+  "slug": "corsair",
+  "name": {
+   "esES": "Corsaria",
+   "es419": "Corsair",
+   "en": "Corsair"
+  },
+  "icon": "icons/bdo/04_pc_skill/01_pc_skill/24_pfw_skill/pfw_skill_6736.webp",
+  "skillCount": 115
+ },
+ {
+  "slug": "deadeye",
+  "name": {
+   "esES": "Deadeye",
+   "es419": "Deadeye",
+   "en": "Deadeye"
+  },
+  "icon": "icons/bdo/04_pc_skill/01_pc_skill/32_pwge_skill/pwge_skill_9056.webp",
+  "skillCount": 66
+ },
+ {
+  "slug": "tamer",
+  "name": {
+   "esES": "Domadora",
+   "es419": "Domadora",
+   "en": "Tamer"
+  },
+  "icon": "icons/bdo/04_pc_skill/01_pc_skill/05_pbw_skill/pbw_skill_1923.webp",
+  "skillCount": 103
+ },
+ {
+  "slug": "dosa",
+  "name": {
+   "esES": "Dosa",
+   "es419": "Dosa",
+   "en": "Dosa"
+  },
+  "icon": "icons/bdo/04_pc_skill/01_pc_skill/31_prsa_skill/prsa_skill_8779.webp",
+  "skillCount": 113
+ },
+ {
+  "slug": "drakania",
+  "name": {
+   "esES": "Drakania",
+   "es419": "Drakania",
+   "en": "Drakania"
+  },
+  "icon": "icons/bdo/04_pc_skill/01_pc_skill/25_pqw_skill/pqw_skill_7064.webp",
+  "skillCount": 108
+ },
+ {
+  "slug": "scholar",
+  "name": {
+   "esES": "Erudita",
+   "es419": "Erudita",
+   "en": "Scholar"
+  },
+  "icon": "icons/bdo/04_pc_skill/01_pc_skill/29_pnyw_skill/pnyw_skill_8215.webp",
+  "skillCount": 74
+ },
+ {
+  "slug": "ranger",
+  "name": {
+   "esES": "Exploradora",
+   "es419": "Ranger",
+   "en": "Ranger"
+  },
+  "icon": "icons/bdo/04_pc_skill/01_pc_skill/03_pew_skill/pew_skill_1890.webp",
+  "skillCount": 91
+ },
+ {
+  "slug": "guardian",
+  "name": {
+   "esES": "Guardiana",
+   "es419": "Guardiana",
+   "en": "Guardian"
+  },
+  "icon": "icons/bdo/04_pc_skill/01_pc_skill/11_pgw_skill/pgw_skill_5175.webp",
+  "skillCount": 97
+ },
+ {
+  "slug": "warrior",
+  "name": {
+   "esES": "Guerrero",
+   "es419": "Guerrero",
+   "en": "Warrior"
+  },
+  "icon": "icons/bdo/04_pc_skill/01_pc_skill/01_phm_skill/phm_skill_1751.webp",
+  "skillCount": 105
+ },
+ {
+  "slug": "hashashin",
+  "name": {
+   "esES": "Hashashin",
+   "es419": "Hashashin",
+   "en": "Hashashin"
+  },
+  "icon": "icons/bdo/04_pc_skill/01_pc_skill/18_pam_skill/pam_skill_6137.webp",
+  "skillCount": 108
+ },
+ {
+  "slug": "sorcerer",
+  "name": {
+   "esES": "Hechicera",
+   "es419": "Hechicera",
+   "en": "Sorceress"
+  },
+  "icon": "icons/bdo/04_pc_skill/01_pc_skill/02_phw_skill/phw_skill_1802.webp",
+  "skillCount": 108
+ },
+ {
+  "slug": "kunoichi",
+  "name": {
+   "esES": "Kunoichi",
+   "es419": "Kunoichi",
+   "en": "Kunoichi"
+  },
+  "icon": "icons/bdo/04_pc_skill/01_pc_skill/13_pnw_skill/pnw_skill_2160.webp",
+  "skillCount": 110
+ },
+ {
+  "slug": "lahn",
+  "name": {
+   "esES": "Lahn",
+   "es419": "Lahn",
+   "en": "Lahn"
+  },
+  "icon": "icons/bdo/04_pc_skill/01_pc_skill/17_psw_skill/psw_skill_3287.webp",
+  "skillCount": 105
+ },
+ {
+  "slug": "striker",
+  "name": {
+   "esES": "Luchador",
+   "es419": "Striker",
+   "en": "Striker"
+  },
+  "icon": "icons/bdo/04_pc_skill/01_pc_skill/16_pcm_skill/pcm_skill_2580.webp",
+  "skillCount": 118
+ },
+ {
+  "slug": "maegu",
+  "name": {
+   "esES": "Maegu",
+   "es419": "Maegu",
+   "en": "Maegu"
+  },
+  "icon": "icons/bdo/04_pc_skill/01_pc_skill/27_pkow_skill/pkow_skill_7388.webp",
+  "skillCount": 102
+ },
+ {
+  "slug": "blademasterwomen",
+  "name": {
+   "esES": "Maehwa",
+   "es419": "Maehwa",
+   "en": "Maehwa"
+  },
+  "icon": "icons/bdo/04_pc_skill/01_pc_skill/06_pkm_skill/pkm_skill_2050.webp",
+  "skillCount": 120
+ },
+ {
+  "slug": "wizardwomen",
+  "name": {
+   "esES": "Maga",
+   "es419": "Bruja",
+   "en": "Witch"
+  },
+  "icon": "icons/bdo/04_pc_skill/01_pc_skill/08_pwm_skill/pwm_skill_2197.webp",
+  "skillCount": 112
+ },
+ {
+  "slug": "wizard",
+  "name": {
+   "esES": "Mago",
+   "es419": "Mago",
+   "en": "Wizard"
+  },
+  "icon": "icons/bdo/04_pc_skill/01_pc_skill/08_pwm_skill/pwm_skill_2243.webp",
+  "skillCount": 111
+ },
+ {
+  "slug": "mystic",
+  "name": {
+   "esES": "Mística",
+   "es419": "Mystic",
+   "en": "Mystic"
+  },
+  "icon": "icons/bdo/04_pc_skill/01_pc_skill/16_pcw_skill/pcw_skill_2793.webp",
+  "skillCount": 111
+ },
+ {
+  "slug": "archer",
+  "name": {
+   "esES": "Montaraz",
+   "es419": "Arquero",
+   "en": "Archer"
+  },
+  "icon": "icons/bdo/04_pc_skill/01_pc_skill/09_pem_skill/pem_skill_3939.webp",
+  "skillCount": 72
+ },
+ {
+  "slug": "blademaster",
+  "name": {
+   "esES": "Musa",
+   "es419": "Musa",
+   "en": "Musa"
+  },
+  "icon": "icons/bdo/04_pc_skill/01_pc_skill/06_pkm_skill/pkm_skill_2008.webp",
+  "skillCount": 114
+ },
+ {
+  "slug": "ninja",
+  "name": {
+   "esES": "Ninja",
+   "es419": "Ninja",
+   "en": "Ninja"
+  },
+  "icon": "icons/bdo/04_pc_skill/01_pc_skill/13_pnw_skill/pnw_skill_2117.webp",
+  "skillCount": 111
+ },
+ {
+  "slug": "nova",
+  "name": {
+   "esES": "Nova",
+   "es419": "Nova",
+   "en": "Nova"
+  },
+  "icon": "icons/bdo/04_pc_skill/01_pc_skill/21_ppw_skill/ppw_skill_5998.webp",
+  "skillCount": 124
+ },
+ {
+  "slug": "sage",
+  "name": {
+   "esES": "Sabio",
+   "es419": "Sage",
+   "en": "Sage"
+  },
+  "icon": "icons/bdo/04_pc_skill/01_pc_skill/23_ppm_skill/ppm_skill_6324.webp",
+  "skillCount": 94
+ },
+ {
+  "slug": "seraph",
+  "name": {
+   "esES": "Seraph",
+   "es419": "Serafín",
+   "en": "Seraph"
+  },
+  "icon": "icons/bdo/04_pc_skill/01_pc_skill/33_pdkl_skill/pdkl_skill_9837.webp",
+  "skillCount": 87
+ },
+ {
+  "slug": "shai",
+  "name": {
+   "esES": "Shai",
+   "es419": "Shai",
+   "en": "Shai"
+  },
+  "icon": "icons/bdo/04_pc_skill/01_pc_skill/14_plw_skill/plw_skill_4232.webp",
+  "skillCount": 36
+ },
+ {
+  "slug": "valkyrie",
+  "name": {
+   "esES": "Valquiria",
+   "es419": "Valquiria",
+   "en": "Valkyrie"
+  },
+  "icon": "icons/bdo/04_pc_skill/01_pc_skill/07_pvw_skill/pvw_skill_1975.webp",
+  "skillCount": 114
+ },
+ {
+  "slug": "wukong",
+  "name": {
+   "esES": "Wukong",
+   "es419": "Wukong",
+   "en": "Wukong"
+  },
+  "icon": "icons/bdo/04_pc_skill/01_pc_skill/20_pjkd_skill/pjkd_skill_9645.webp",
+  "skillCount": 70
+ },
+ {
+  "slug": "woosa",
+  "name": {
+   "esES": "Wusa",
+   "es419": "Wusa",
+   "en": "Woosa"
+  },
+  "icon": "icons/bdo/04_pc_skill/01_pc_skill/28_pmyf_skill/pmyf_skill_7744.webp",
+  "skillCount": 111
+ }
+]

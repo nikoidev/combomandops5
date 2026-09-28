@@ -1,0 +1,1278 @@
+[
+ {
+  "id": 1763,
+  "name": {
+   "esES": "Arrojo ardiente",
+   "es419": "Entusiasmo Impetuoso",
+   "en": "Burning Moxie"
+  },
+  "icon": "icons/bdo/04_pc_skill/01_pc_skill/01_phm_skill/phm_skill_1763.webp",
+  "level": 56,
+  "combat": true
+ },
+ {
+  "id": 1744,
+  "name": {
+   "esES": "Bloqueo con espadón",
+   "es419": "Defensa Espada Gigante",
+   "en": "Greatsword Defense"
+  },
+  "icon": "icons/bdo/04_pc_skill/01_pc_skill/01_phm_skill/phm_skill_1744.webp",
+  "level": 56,
+  "combat": true
+ },
+ {
+  "id": 6463,
+  "name": {
+   "esES": "Cadena: Bóveda celeste",
+   "es419": "Cadena: Divisor de Cielo",
+   "en": "Chain: Heaven's Cleave"
+  },
+  "icon": "icons/bdo/04_pc_skill/01_pc_skill/01_phm_skill/phm_skill_6463.webp",
+  "level": 59,
+  "combat": true
+ },
+ {
+  "id": 4069,
+  "name": {
+   "esES": "Cénit: Contraataque",
+   "es419": "S : Contraataque",
+   "en": "Prime: Counter"
+  },
+  "icon": "icons/bdo/04_pc_skill/01_pc_skill/01_phm_skill/phm_skill_4069.webp",
+  "level": 58,
+  "combat": true
+ },
+ {
+  "id": 4081,
+  "name": {
+   "esES": "Cénit: Evasión",
+   "es419": "S : Evasión",
+   "en": "Prime: Evasion"
+  },
+  "icon": "icons/bdo/04_pc_skill/01_pc_skill/01_phm_skill/phm_skill_1017.webp",
+  "level": 56,
+  "combat": true
+ },
+ {
+  "id": 4078,
+  "name": {
+   "esES": "Cénit: Fogonazo",
+   "es419": "S : Bengala Solar",
+   "en": "Prime: Solar Flare"
+  },
+  "icon": "icons/bdo/04_pc_skill/01_pc_skill/01_phm_skill/phm_skill_4078.webp",
+  "level": 58,
+  "combat": true
+ },
+ {
+  "id": 4066,
+  "name": {
+   "esES": "Cénit: Fortalecer espíritu",
+   "es419": "S : Amplificación de Voluntad",
+   "en": "Prime: Enhanced Spirit"
+  },
+  "icon": "icons/bdo/04_pc_skill/01_pc_skill/01_phm_skill/phm_skill_4066.webp",
+  "level": 56,
+  "combat": true
+ },
+ {
+  "id": 4091,
+  "name": {
+   "esES": "Cénit: Golpe aplastante",
+   "es419": "S : Golpe al Suelo",
+   "en": "Prime: Ground Smash"
+  },
+  "icon": "icons/bdo/04_pc_skill/01_pc_skill/01_phm_skill/phm_skill_4067.webp",
+  "level": 60,
+  "combat": true
+ },
+ {
+  "id": 4077,
+  "name": {
+   "esES": "Cénit: Golpe de escudo",
+   "es419": "S : Golpe de Escudo",
+   "en": "Prime: Shield Strike"
+  },
+  "icon": "icons/bdo/04_pc_skill/01_pc_skill/01_phm_skill/phm_skill_4077.webp",
+  "level": 57,
+  "combat": true
+ },
+ {
+  "id": 4128,
+  "name": {
+   "esES": "Cénit: Golpe poderoso",
+   "es419": "S : Golpe Pesado",
+   "en": "Prime: Heavy Strike"
+  },
+  "icon": "icons/bdo/04_pc_skill/01_pc_skill/01_phm_skill/phm_skill_4063.webp",
+  "level": 58,
+  "combat": true
+ },
+ {
+  "id": 4093,
+  "name": {
+   "esES": "Cénit: Matanza crepuscular",
+   "es419": "S : Cicatriz del Anochecer",
+   "en": "Prime: Scars of Dusk"
+  },
+  "icon": "icons/bdo/04_pc_skill/01_pc_skill/01_phm_skill/phm_skill_4065.webp",
+  "level": 60,
+  "combat": true
+ },
+ {
+  "id": 4070,
+  "name": {
+   "esES": "Cénit: Muerdepolvos",
+   "es419": "S : Derribo",
+   "en": "Prime: Take Down"
+  },
+  "icon": "icons/bdo/04_pc_skill/01_pc_skill/01_phm_skill/phm_skill_4070.webp",
+  "level": 58,
+  "combat": true
+ },
+ {
+  "id": 4079,
+  "name": {
+   "esES": "Cénit: Pulverización",
+   "es419": "S : Pulverizar",
+   "en": "Prime: Pulverize"
+  },
+  "icon": "icons/bdo/04_pc_skill/01_pc_skill/01_phm_skill/phm_skill_4079.webp",
+  "level": 59,
+  "combat": true
+ },
+ {
+  "id": 4088,
+  "name": {
+   "esES": "Cénit: Tajo diagonal",
+   "es419": "S : Corte al Suelo",
+   "en": "Prime: Ground Slash"
+  },
+  "icon": "icons/bdo/04_pc_skill/01_pc_skill/01_phm_skill/phm_skill_4080.webp",
+  "level": 59,
+  "combat": true
+ },
+ {
+  "id": 4126,
+  "name": {
+   "esES": "Cénit: Tajo frontal",
+   "es419": "S : Corte Avanzado",
+   "en": "Prime: Forward Slash"
+  },
+  "icon": "icons/bdo/04_pc_skill/01_pc_skill/01_phm_skill/phm_skill_4124.webp",
+  "level": 59,
+  "combat": true
+ },
+ {
+  "id": 4084,
+  "name": {
+   "esES": "Cénit: Tajo giratorio",
+   "es419": "S : Corte Giratorio",
+   "en": "Prime: Spinning Slash"
+  },
+  "icon": "icons/bdo/04_pc_skill/01_pc_skill/01_phm_skill/phm_skill_4064.webp",
+  "level": 59,
+  "combat": true
+ },
+ {
+  "id": 4068,
+  "name": {
+   "esES": "Cénit: Temblor absoluto",
+   "es419": "S : Destrucción del Suelo",
+   "en": "Prime: Earth Tremor"
+  },
+  "icon": "icons/bdo/04_pc_skill/01_pc_skill/01_phm_skill/phm_skill_4068.webp",
+  "level": 57,
+  "combat": true
+ },
+ {
+  "id": 353,
+  "name": {
+   "esES": "Contraataque",
+   "es419": "Contraataque",
+   "en": "Counter"
+  },
+  "icon": "icons/bdo/04_pc_skill/01_pc_skill/01_phm_skill/phm_skill_0293.webp",
+  "level": 34,
+  "combat": true
+ },
+ {
+  "id": 1148,
+  "name": {
+   "esES": "Contraataque contundente",
+   "es419": "Contraataque de Carga",
+   "en": "Charge Counter"
+  },
+  "icon": "icons/bdo/04_pc_skill/01_pc_skill/01_phm_skill/phm_skill_1148.webp",
+  "level": 14,
+  "combat": true
+ },
+ {
+  "id": 1141,
+  "name": {
+   "esES": "Corte lateral",
+   "es419": "Corte Lateral",
+   "en": "Sideways Cut"
+  },
+  "icon": "icons/bdo/04_pc_skill/01_pc_skill/01_phm_skill/phm_skill_1141.webp",
+  "level": 31,
+  "combat": true
+ },
+ {
+  "id": 2843,
+  "name": {
+   "esES": "Definitiva: Contraataque",
+   "es419": "Suprema : Contraataque",
+   "en": "Absolute: Counter"
+  },
+  "icon": "icons/bdo/04_pc_skill/01_pc_skill/01_phm_skill/phm_skill_2843.webp",
+  "level": 57,
+  "combat": true
+ },
+ {
+  "id": 2832,
+  "name": {
+   "esES": "Definitiva: Contraataque contundente",
+   "es419": "Suprema : Contraataque de Carga",
+   "en": "Absolute: Charge Counter"
+  },
+  "icon": "icons/bdo/04_pc_skill/01_pc_skill/01_phm_skill/phm_skill_2832.webp",
+  "level": 56,
+  "combat": true
+ },
+ {
+  "id": 2838,
+  "name": {
+   "esES": "Definitiva: Corte lateral",
+   "es419": "Suprema : Corte Lateral",
+   "en": "Absolute: Sideways Cut"
+  },
+  "icon": "icons/bdo/04_pc_skill/01_pc_skill/01_phm_skill/phm_skill_2838.webp",
+  "level": 56,
+  "combat": true
+ },
+ {
+  "id": 2844,
+  "name": {
+   "esES": "Definitiva: Embate con escudo",
+   "es419": "Suprema : Carga de Escudo",
+   "en": "Absolute: Shield Charge"
+  },
+  "icon": "icons/bdo/04_pc_skill/01_pc_skill/01_phm_skill/phm_skill_2844.webp",
+  "level": 58,
+  "combat": true
+ },
+ {
+  "id": 2835,
+  "name": {
+   "esES": "Definitiva: Embestida con patada",
+   "es419": "Suprema : Estocada Cargada",
+   "en": "Absolute: Charging Thrust"
+  },
+  "icon": "icons/bdo/04_pc_skill/01_pc_skill/01_phm_skill/phm_skill_2835.webp",
+  "level": 56,
+  "combat": true
+ },
+ {
+  "id": 2846,
+  "name": {
+   "esES": "Definitiva: Embestida exterminadora",
+   "es419": "Suprema : Embestida Frenética",
+   "en": "Absolute: Frenzied Dash"
+  },
+  "icon": "icons/bdo/04_pc_skill/01_pc_skill/01_phm_skill/phm_skill_2846.webp",
+  "level": 59,
+  "combat": true
+ },
+ {
+  "id": 2839,
+  "name": {
+   "esES": "Definitiva: Espadazo en carrera",
+   "es419": "Suprema : Corte de Embestida",
+   "en": "Absolute: Charging Slash"
+  },
+  "icon": "icons/bdo/04_pc_skill/01_pc_skill/01_phm_skill/phm_skill_2839.webp",
+  "level": 56,
+  "combat": true
+ },
+ {
+  "id": 2837,
+  "name": {
+   "esES": "Definitiva: Estocada penetrante",
+   "es419": "Suprema : Estocada Profunda",
+   "en": "Absolute: Deep Thrust"
+  },
+  "icon": "icons/bdo/04_pc_skill/01_pc_skill/01_phm_skill/phm_skill_2837.webp",
+  "level": 57,
+  "combat": true
+ },
+ {
+  "id": 2836,
+  "name": {
+   "esES": "Definitiva: Golpe aplastante",
+   "es419": "Suprema : Golpe al Suelo",
+   "en": "Absolute: Ground Smash"
+  },
+  "icon": "icons/bdo/04_pc_skill/01_pc_skill/01_phm_skill/phm_skill_2836.webp",
+  "level": 58,
+  "combat": true
+ },
+ {
+  "id": 2840,
+  "name": {
+   "esES": "Definitiva: Golpe de escudo",
+   "es419": "Suprema : Golpe de Escudo",
+   "en": "Absolute: Shield Strike"
+  },
+  "icon": "icons/bdo/04_pc_skill/01_pc_skill/01_phm_skill/phm_skill_2840.webp",
+  "level": 56,
+  "combat": true
+ },
+ {
+  "id": 2833,
+  "name": {
+   "esES": "Definitiva: Golpe poderoso",
+   "es419": "Suprema : Golpe Pesado",
+   "en": "Absolute: Heavy Strike"
+  },
+  "icon": "icons/bdo/04_pc_skill/01_pc_skill/01_phm_skill/phm_skill_2833.webp",
+  "level": 56,
+  "combat": true
+ },
+ {
+  "id": 2845,
+  "name": {
+   "esES": "Definitiva: Lanza perforante",
+   "es419": "Suprema : Lanza Penetrante",
+   "en": "Absolute: Piercing Spear"
+  },
+  "icon": "icons/bdo/04_pc_skill/01_pc_skill/01_phm_skill/phm_skill_2845.webp",
+  "level": 59,
+  "combat": true
+ },
+ {
+  "id": 2848,
+  "name": {
+   "esES": "Definitiva: Matanza crepuscular",
+   "es419": "Suprema : Cicatriz de Anochecer",
+   "en": "Absolute: Scars of Dusk"
+  },
+  "icon": "icons/bdo/04_pc_skill/01_pc_skill/01_phm_skill/phm_skill_2848.webp",
+  "level": 60,
+  "combat": true
+ },
+ {
+  "id": 2852,
+  "name": {
+   "esES": "Definitiva: Muerdepolvos",
+   "es419": "Suprema : Derribo",
+   "en": "Absolute: Take Down"
+  },
+  "icon": "icons/bdo/04_pc_skill/01_pc_skill/01_phm_skill/phm_skill_2852.webp",
+  "level": 57,
+  "combat": true
+ },
+ {
+  "id": 2851,
+  "name": {
+   "esES": "Definitiva: Onda sísmica",
+   "es419": "Suprema : Rugido del Suelo",
+   "en": "Absolute: Ground Roar"
+  },
+  "icon": "icons/bdo/04_pc_skill/01_pc_skill/01_phm_skill/phm_skill_2851.webp",
+  "level": 56,
+  "combat": true
+ },
+ {
+  "id": 2841,
+  "name": {
+   "esES": "Definitiva: Patada",
+   "es419": "Suprema: Patada",
+   "en": "Absolute: Kick"
+  },
+  "icon": "icons/bdo/04_pc_skill/01_pc_skill/01_phm_skill/phm_skill_2841.webp",
+  "level": 56,
+  "combat": true
+ },
+ {
+  "id": 2842,
+  "name": {
+   "esES": "Definitiva: Patada demoledora",
+   "es419": "Suprema : Patada Cortante",
+   "en": "Absolute: Chopping Kick"
+  },
+  "icon": "icons/bdo/04_pc_skill/01_pc_skill/01_phm_skill/phm_skill_2842.webp",
+  "level": 56,
+  "combat": true
+ },
+ {
+  "id": 2831,
+  "name": {
+   "esES": "Definitiva: Tajo",
+   "es419": "Suprema : Maestría de Espada",
+   "en": "Absolute: Slash"
+  },
+  "icon": "icons/bdo/04_pc_skill/01_pc_skill/01_phm_skill/phm_skill_2831.webp",
+  "level": 56,
+  "combat": true
+ },
+ {
+  "id": 2849,
+  "name": {
+   "esES": "Definitiva: Tajo diagonal",
+   "es419": "Suprema : Corte al Suelo",
+   "en": "Absolute: Ground Slash"
+  },
+  "icon": "icons/bdo/04_pc_skill/01_pc_skill/01_phm_skill/phm_skill_2849.webp",
+  "level": 57,
+  "combat": true
+ },
+ {
+  "id": 2850,
+  "name": {
+   "esES": "Definitiva: Tajo diagonal con saña",
+   "es419": "Suprema : Corte Profundo al Suelo",
+   "en": "Absolute: Deep Ground Slash"
+  },
+  "icon": "icons/bdo/04_pc_skill/01_pc_skill/01_phm_skill/phm_skill_2850.webp",
+  "level": 58,
+  "combat": true
+ },
+ {
+  "id": 2847,
+  "name": {
+   "esES": "Definitiva: Tajo frontal",
+   "es419": "Suprema : Corte Avanzado",
+   "en": "Absolute: Forward Slash"
+  },
+  "icon": "icons/bdo/04_pc_skill/01_pc_skill/01_phm_skill/phm_skill_2847.webp",
+  "level": 56,
+  "combat": true
+ },
+ {
+  "id": 2834,
+  "name": {
+   "esES": "Definitiva: Tajo giratorio",
+   "es419": "Suprema : Corte Giratorio",
+   "en": "Absolute: Spinning Slash"
+  },
+  "icon": "icons/bdo/04_pc_skill/01_pc_skill/01_phm_skill/phm_skill_2834.webp",
+  "level": 56,
+  "combat": true
+ },
+ {
+  "id": 306,
+  "name": {
+   "esES": "Embate con escudo",
+   "es419": "Carga de Escudo",
+   "en": "Shield Charge"
+  },
+  "icon": "icons/bdo/04_pc_skill/01_pc_skill/01_phm_skill/phm_skill_0305.webp",
+  "level": 23,
+  "combat": true
+ },
+ {
+  "id": 2827,
+  "name": {
+   "esES": "Embate poderoso",
+   "es419": "Gancho de Escudo Cargado",
+   "en": "Shield Tide"
+  },
+  "icon": "icons/bdo/04_pc_skill/01_pc_skill/01_phm_skill/phm_skill_2827.webp",
+  "level": 57,
+  "combat": true
+ },
+ {
+  "id": 1132,
+  "name": {
+   "esES": "Embestida con patada",
+   "es419": "Estocada Cargada",
+   "en": "Charging Thrust"
+  },
+  "icon": "icons/bdo/04_pc_skill/01_pc_skill/01_phm_skill/phm_skill_1022.webp",
+  "level": 41,
+  "combat": true
+ },
+ {
+  "id": 589,
+  "name": {
+   "esES": "Embestida exterminadora",
+   "es419": "Embestida Frenética",
+   "en": "Frenzied Dash"
+  },
+  "icon": "icons/bdo/04_pc_skill/01_pc_skill/01_phm_skill/phm_skill_0589.webp",
+  "level": 45,
+  "combat": true
+ },
+ {
+  "id": 198,
+  "name": {
+   "esES": "Empujón con escudo",
+   "es419": "Empuje con Escudo",
+   "en": "Shield Push"
+  },
+  "icon": "icons/bdo/04_pc_skill/01_pc_skill/01_phm_skill/phm_skill_0198.webp",
+  "level": 13,
+  "combat": true
+ },
+ {
+  "id": 1722,
+  "name": {
+   "esES": "Entrenamiento con espadón",
+   "es419": "Maestría de la Espada Gigante",
+   "en": "Greatsword Training"
+  },
+  "icon": "icons/bdo/04_pc_skill/01_pc_skill/01_phm_skill/phm_skill_1713.webp",
+  "level": 60,
+  "combat": true
+ },
+ {
+  "id": 2828,
+  "name": {
+   "esES": "Escudo y espada",
+   "es419": "Caída de Escudo",
+   "en": "Shield Assault"
+  },
+  "icon": "icons/bdo/04_pc_skill/01_pc_skill/01_phm_skill/phm_skill_2828.webp",
+  "level": 57,
+  "combat": true
+ },
+ {
+  "id": 1143,
+  "name": {
+   "esES": "Espadazo en carrera",
+   "es419": "Corte de Embestida",
+   "en": "Charging Slash"
+  },
+  "icon": "icons/bdo/04_pc_skill/01_pc_skill/01_phm_skill/phm_skill_1026.webp",
+  "level": 22,
+  "combat": true
+ },
+ {
+  "id": 388,
+  "name": {
+   "esES": "Estocada fatal",
+   "es419": "Tajada Penetrante",
+   "en": "Severing Thrust"
+  },
+  "icon": "icons/bdo/04_pc_skill/01_pc_skill/01_phm_skill/phm_skill_388.webp",
+  "level": 60,
+  "combat": true
+ },
+ {
+  "id": 1079,
+  "name": {
+   "esES": "Estocada penetrante",
+   "es419": "Estocada Profunda",
+   "en": "Deep Thrust"
+  },
+  "icon": "icons/bdo/04_pc_skill/01_pc_skill/01_phm_skill/phm_skill_1078.webp",
+  "level": 35,
+  "combat": true
+ },
+ {
+  "id": 1017,
+  "name": {
+   "esES": "Evasión",
+   "es419": "Evasión",
+   "en": "Evasion"
+  },
+  "icon": "icons/bdo/04_pc_skill/01_pc_skill/01_phm_skill/phm_skill_1017.webp",
+  "level": 1,
+  "combat": true
+ },
+ {
+  "id": 1762,
+  "name": {
+   "esES": "Exhumación",
+   "es419": "Cava Tumbas",
+   "en": "Grave Digging"
+  },
+  "icon": "icons/bdo/04_pc_skill/01_pc_skill/01_phm_skill/phm_skill_1759.webp",
+  "level": 59,
+  "combat": true
+ },
+ {
+  "id": 1736,
+  "name": {
+   "esES": "Fogonazo",
+   "es419": "Bengala Solar",
+   "en": "Solar Flare"
+  },
+  "icon": "icons/bdo/04_pc_skill/01_pc_skill/01_phm_skill/phm_skill_1733.webp",
+  "level": 60,
+  "combat": true
+ },
+ {
+  "id": 1135,
+  "name": {
+   "esES": "Golpe aplastante",
+   "es419": "Golpe al Suelo",
+   "en": "Ground Smash"
+  },
+  "icon": "icons/bdo/04_pc_skill/01_pc_skill/01_phm_skill/phm_skill_1023.webp",
+  "level": 50,
+  "combat": true
+ },
+ {
+  "id": 1137,
+  "name": {
+   "esES": "Golpe de escudo",
+   "es419": "Golpe de Escudo",
+   "en": "Shield Strike"
+  },
+  "icon": "icons/bdo/04_pc_skill/01_pc_skill/01_phm_skill/phm_skill_1027.webp",
+  "level": 24,
+  "combat": true
+ },
+ {
+  "id": 1138,
+  "name": {
+   "esES": "Golpe de escudo superior",
+   "es419": "Gancho de Escudo",
+   "en": "Upper Shield Strike"
+  },
+  "icon": "icons/bdo/04_pc_skill/01_pc_skill/01_phm_skill/phm_skill_0709.webp",
+  "level": 36,
+  "combat": true
+ },
+ {
+  "id": 1728,
+  "name": {
+   "esES": "Golpe equilibrado",
+   "es419": "Golpe de Balance",
+   "en": "Balance Strike"
+  },
+  "icon": "icons/bdo/04_pc_skill/01_pc_skill/01_phm_skill/phm_skill_1726.webp",
+  "level": 60,
+  "combat": true
+ },
+ {
+  "id": 1000,
+  "name": {
+   "esES": "Golpe furioso",
+   "es419": "Golpe Furioso",
+   "en": "Furious Blow"
+  },
+  "icon": "icons/bdo/04_pc_skill/01_pc_skill/01_phm_skill/phm_skill_1000.webp",
+  "level": 38,
+  "combat": true
+ },
+ {
+  "id": 1085,
+  "name": {
+   "esES": "Golpe poderoso",
+   "es419": "Golpe Pesado",
+   "en": "Heavy Strike"
+  },
+  "icon": "icons/bdo/04_pc_skill/01_pc_skill/01_phm_skill/phm_skill_1020.webp",
+  "level": 40,
+  "combat": true
+ },
+ {
+  "id": 2733,
+  "name": {
+   "esES": "Golpe sísmico",
+   "es419": "Impacto del Rugido",
+   "en": "Seismic Strike"
+  },
+  "icon": "icons/bdo/04_pc_skill/01_pc_skill/01_phm_skill/phm_skill_2733.webp",
+  "level": 56,
+  "combat": true
+ },
+ {
+  "id": 995,
+  "name": {
+   "esES": "Grito de guerra",
+   "es419": "Grito de Guerra",
+   "en": "War Cry"
+  },
+  "icon": "icons/bdo/04_pc_skill/01_pc_skill/01_phm_skill/phm_skill_0993.webp",
+  "level": 45,
+  "combat": true
+ },
+ {
+  "id": 1019,
+  "name": {
+   "esES": "Guardia",
+   "es419": "Defensa",
+   "en": "Guard"
+  },
+  "icon": "icons/bdo/04_pc_skill/01_pc_skill/01_phm_skill/phm_skill_1019.webp",
+  "level": 1,
+  "combat": true
+ },
+ {
+  "id": 1330,
+  "name": {
+   "esES": "Impacto torbellino",
+   "es419": "Golpe Torbellino",
+   "en": "Whirl Smash"
+  },
+  "icon": "icons/bdo/04_pc_skill/01_pc_skill/01_phm_skill/phm_skill_1330.webp",
+  "level": 7,
+  "combat": true
+ },
+ {
+  "id": 4839,
+  "name": {
+   "esES": "Inmisericorde",
+   "es419": "Destrucción Insana",
+   "en": "Frenzied Strikes"
+  },
+  "icon": "icons/bdo/04_pc_skill/01_pc_skill/01_phm_skill/phm_skill_4837.webp",
+  "level": 60,
+  "combat": true
+ },
+ {
+  "id": 2734,
+  "name": {
+   "esES": "Lanza de sombras",
+   "es419": "Lanza de Demencia",
+   "en": "Frenzied Spear"
+  },
+  "icon": "icons/bdo/04_pc_skill/01_pc_skill/01_phm_skill/phm_skill_2734.webp",
+  "level": 56,
+  "combat": true
+ },
+ {
+  "id": 590,
+  "name": {
+   "esES": "Lanza perforante",
+   "es419": "Lanza Penetrante",
+   "en": "Piercing Spear"
+  },
+  "icon": "icons/bdo/04_pc_skill/01_pc_skill/01_phm_skill/phm_skill_0590.webp",
+  "level": 35,
+  "combat": true
+ },
+ {
+  "id": 385,
+  "name": {
+   "esES": "Matanza crepuscular",
+   "es419": "Cicatriz de Anochecer",
+   "en": "Scars of Dusk"
+  },
+  "icon": "icons/bdo/04_pc_skill/01_pc_skill/01_phm_skill/phm_skill_0385.webp",
+  "level": 30,
+  "combat": true
+ },
+ {
+  "id": 174,
+  "name": {
+   "esES": "Meditación",
+   "es419": "Meditación",
+   "en": "Meditation"
+  },
+  "icon": "icons/bdo/04_pc_skill/01_pc_skill/01_phm_skill/phm_skill_0175.webp",
+  "level": 39,
+  "combat": true
+ },
+ {
+  "id": 1737,
+  "name": {
+   "esES": "Movimiento: Abrumar",
+   "es419": "Flujo: Abrumado",
+   "en": "Flow: Overwhelm"
+  },
+  "icon": "icons/bdo/04_pc_skill/01_pc_skill/01_phm_skill/phm_skill_1737.webp",
+  "level": 57,
+  "combat": true
+ },
+ {
+  "id": 1755,
+  "name": {
+   "esES": "Movimiento: Amputación",
+   "es419": "Flujo: Destruir Tobillo",
+   "en": "Flow: Ankle Break"
+  },
+  "icon": "icons/bdo/04_pc_skill/01_pc_skill/01_phm_skill/phm_skill_1755.webp",
+  "level": 56,
+  "combat": true
+ },
+ {
+  "id": 1729,
+  "name": {
+   "esES": "Movimiento: Golpe de empuñadura",
+   "es419": "Flujo: Arrastre de Empuñadura",
+   "en": "Flow: Hilt Strike"
+  },
+  "icon": "icons/bdo/04_pc_skill/01_pc_skill/01_phm_skill/phm_skill_1729.webp",
+  "level": 57,
+  "combat": true
+ },
+ {
+  "id": 1758,
+  "name": {
+   "esES": "Movimiento: Golpe temerario",
+   "es419": "Flujo: Golpe Peligroso",
+   "en": "Flow: Reckless Blow"
+  },
+  "icon": "icons/bdo/04_pc_skill/01_pc_skill/01_phm_skill/phm_skill_1758.webp",
+  "level": 59,
+  "combat": true
+ },
+ {
+  "id": 1738,
+  "name": {
+   "esES": "Movimiento: Profanación",
+   "es419": "Flujo: Deceso",
+   "en": "Flow: Slashing the Dead"
+  },
+  "icon": "icons/bdo/04_pc_skill/01_pc_skill/01_phm_skill/phm_skill_1738.webp",
+  "level": 56,
+  "combat": true
+ },
+ {
+  "id": 1730,
+  "name": {
+   "esES": "Movimiento: Rodillazo",
+   "es419": "Flujo: Rodillazo",
+   "en": "Flow: Knee Kick"
+  },
+  "icon": "icons/bdo/04_pc_skill/01_pc_skill/01_phm_skill/phm_skill_1730.webp",
+  "level": 57,
+  "combat": true
+ },
+ {
+  "id": 1748,
+  "name": {
+   "esES": "Movimiento: Rotura de armadura",
+   "es419": "Flujo: Rompe Armaduras",
+   "en": "Flow: Armor Break"
+  },
+  "icon": "icons/bdo/04_pc_skill/01_pc_skill/01_phm_skill/phm_skill_1748.webp",
+  "level": 56,
+  "combat": true
+ },
+ {
+  "id": 1754,
+  "name": {
+   "esES": "Movimiento: Tempestad",
+   "es419": "Flujo: Tempestad",
+   "en": "Flow: Tempest"
+  },
+  "icon": "icons/bdo/04_pc_skill/01_pc_skill/01_phm_skill/phm_skill_1754.webp",
+  "level": 57,
+  "combat": true
+ },
+ {
+  "id": 1082,
+  "name": {
+   "esES": "Muerdepolvos",
+   "es419": "Derribo",
+   "en": "Take Down"
+  },
+  "icon": "icons/bdo/04_pc_skill/01_pc_skill/01_phm_skill/phm_skill_1028.webp",
+  "level": 42,
+  "combat": true
+ },
+ {
+  "id": 219,
+  "name": {
+   "esES": "Onda sísmica",
+   "es419": "Rugido del Suelo",
+   "en": "Ground Roar"
+  },
+  "icon": "icons/bdo/04_pc_skill/01_pc_skill/01_phm_skill/phm_skill_0219.webp",
+  "level": 32,
+  "combat": true
+ },
+ {
+  "id": 1030,
+  "name": {
+   "esES": "Patada",
+   "es419": "Patada",
+   "en": "Kick"
+  },
+  "icon": "icons/bdo/04_pc_skill/01_pc_skill/01_phm_skill/phm_skill_1030.webp",
+  "level": 1,
+  "combat": true
+ },
+ {
+  "id": 1145,
+  "name": {
+   "esES": "Patada demoledora",
+   "es419": "Patada Cortante",
+   "en": "Chopping Kick"
+  },
+  "icon": "icons/bdo/04_pc_skill/01_pc_skill/01_phm_skill/phm_skill_0712.webp",
+  "level": 35,
+  "combat": true
+ },
+ {
+  "id": 1725,
+  "name": {
+   "esES": "Persecución",
+   "es419": "Persecución Delantera",
+   "en": "Head Chase"
+  },
+  "icon": "icons/bdo/04_pc_skill/01_pc_skill/01_phm_skill/phm_skill_1723.webp",
+  "level": 56,
+  "combat": true
+ },
+ {
+  "id": 6098,
+  "name": {
+   "esES": "Primordial: Exhumación",
+   "es419": "BON: Cava Tumbas",
+   "en": "Core: Grave Digging"
+  },
+  "icon": "icons/bdo/04_pc_skill/01_pc_skill/01_phm_skill/phm_skill_1759.webp",
+  "level": 60,
+  "combat": true
+ },
+ {
+  "id": 6097,
+  "name": {
+   "esES": "Primordial: Fogonazo",
+   "es419": "BON: Bengala Solar",
+   "en": "Core: Solar Flare"
+  },
+  "icon": "icons/bdo/04_pc_skill/01_pc_skill/01_phm_skill/phm_skill_1733.webp",
+  "level": 60,
+  "combat": true
+ },
+ {
+  "id": 6101,
+  "name": {
+   "esES": "Primordial: Golpe equilibrado",
+   "es419": "BON: Golpe de Balance",
+   "en": "Core: Balance Strike"
+  },
+  "icon": "icons/bdo/04_pc_skill/01_pc_skill/01_phm_skill/phm_skill_1726.webp",
+  "level": 60,
+  "combat": true
+ },
+ {
+  "id": 6100,
+  "name": {
+   "esES": "Primordial: Inmisericorde",
+   "es419": "BON: Destrucción Insana",
+   "en": "Core: Frenzied Strikes"
+  },
+  "icon": "icons/bdo/04_pc_skill/01_pc_skill/01_phm_skill/phm_skill_4837.webp",
+  "level": 60,
+  "combat": true
+ },
+ {
+  "id": 6102,
+  "name": {
+   "esES": "Primordial: Pulverización",
+   "es419": "BON: Pulverizar",
+   "en": "Core: Pulverize"
+  },
+  "icon": "icons/bdo/04_pc_skill/01_pc_skill/01_phm_skill/phm_skill_1751.webp",
+  "level": 60,
+  "combat": true
+ },
+ {
+  "id": 6099,
+  "name": {
+   "esES": "Primordial: Sin compasión",
+   "es419": "BON: Sin Misericordia",
+   "en": "Core: Merciless"
+  },
+  "icon": "icons/bdo/04_pc_skill/01_pc_skill/01_phm_skill/phm_skill_1765.webp",
+  "level": 60,
+  "combat": true
+ },
+ {
+  "id": 1753,
+  "name": {
+   "esES": "Pulverización",
+   "es419": "Pulverizar",
+   "en": "Pulverize"
+  },
+  "icon": "icons/bdo/04_pc_skill/01_pc_skill/01_phm_skill/phm_skill_1751.webp",
+  "level": 60,
+  "combat": true
+ },
+ {
+  "id": 4831,
+  "name": {
+   "esES": "Renacer: Embestida con patada",
+   "es419": "Sucesión : Estocada Cargada",
+   "en": "Succession: Charging Thrust"
+  },
+  "icon": "icons/bdo/04_pc_skill/01_pc_skill/01_phm_skill/phm_skill_2835.webp",
+  "level": 56,
+  "combat": true
+ },
+ {
+  "id": 4062,
+  "name": {
+   "esES": "Renacer: Espíritu del guerrero",
+   "es419": "Sucesión : Voluntad del Guerrero",
+   "en": "Succession: Warrior's Spirit"
+  },
+  "icon": "icons/bdo/04_pc_skill/01_pc_skill/01_phm_skill/phm_skill_4062.webp",
+  "level": 56,
+  "combat": true
+ },
+ {
+  "id": 6760,
+  "name": {
+   "esES": "Renacer: Grito de guerra",
+   "es419": "Sucesión : Grito de Guerra",
+   "en": "Succession: War Cry"
+  },
+  "icon": "icons/bdo/04_pc_skill/01_pc_skill/01_phm_skill/phm_skill_0993.webp",
+  "level": 56,
+  "combat": true
+ },
+ {
+  "id": 4832,
+  "name": {
+   "esES": "Renacer: Guardia",
+   "es419": "Sucesión : Modo de Defensa",
+   "en": "Succession: Guard"
+  },
+  "icon": "icons/bdo/04_pc_skill/01_pc_skill/01_phm_skill/phm_skill_1019.webp",
+  "level": 56,
+  "combat": true
+ },
+ {
+  "id": 92,
+  "name": {
+   "esES": "Retirada oscura",
+   "es419": "Escape de Emergencia",
+   "en": "Emergency Escape"
+  },
+  "icon": "icons/bdo/04_pc_skill/01_pc_skill/00_common/common_skill_0092.webp",
+  "level": 1,
+  "combat": true
+ },
+ {
+  "id": 1768,
+  "name": {
+   "esES": "Sin compasión",
+   "es419": "Sin Misericordia",
+   "en": "Merciless"
+  },
+  "icon": "icons/bdo/04_pc_skill/01_pc_skill/01_phm_skill/phm_skill_1765.webp",
+  "level": 59,
+  "combat": true
+ },
+ {
+  "id": 577,
+  "name": {
+   "esES": "Sublime: Golpe aplastante",
+   "es419": "Extremo: Golpe al Suelo",
+   "en": "Ultimate: Ground Smash"
+  },
+  "icon": "icons/bdo/04_pc_skill/01_pc_skill/01_phm_skill/phm_skill_0577.webp",
+  "level": 55,
+  "combat": true
+ },
+ {
+  "id": 376,
+  "name": {
+   "esES": "Sublime: Tajo frontal",
+   "es419": "Extremo: Corte Avanzado",
+   "en": "Ultimate: Forward Slash"
+  },
+  "icon": "icons/bdo/04_pc_skill/01_pc_skill/01_phm_skill/phm_skill_0376.webp",
+  "level": 40,
+  "combat": true
+ },
+ {
+  "id": 113,
+  "name": {
+   "esES": "Tajo",
+   "es419": "Maestría de la Espada",
+   "en": "Slash"
+  },
+  "icon": "icons/bdo/04_pc_skill/01_pc_skill/01_phm_skill/phm_skill_1018.webp",
+  "level": 53,
+  "combat": true
+ },
+ {
+  "id": 579,
+  "name": {
+   "esES": "Tajo brutal",
+   "es419": "Energía Liberada",
+   "en": "Force Slash"
+  },
+  "icon": "icons/bdo/04_pc_skill/01_pc_skill/01_phm_skill/phm_skill_0579.webp",
+  "level": 54,
+  "combat": true
+ },
+ {
+  "id": 1442,
+  "name": {
+   "esES": "Tajo diagonal",
+   "es419": "Corte al Suelo",
+   "en": "Ground Slash"
+  },
+  "icon": "icons/bdo/04_pc_skill/01_pc_skill/01_phm_skill/phm_skill_1440.webp",
+  "level": 42,
+  "combat": true
+ },
+ {
+  "id": 1444,
+  "name": {
+   "esES": "Tajo diagonal con saña",
+   "es419": "Corte Profundo al Suelo",
+   "en": "Deep Ground Slash"
+  },
+  "icon": "icons/bdo/04_pc_skill/01_pc_skill/01_phm_skill/phm_skill_1443.webp",
+  "level": 45,
+  "combat": true
+ },
+ {
+  "id": 313,
+  "name": {
+   "esES": "Tajo en salto",
+   "es419": "Corte con Salto",
+   "en": "Jump Slash"
+  },
+  "icon": "icons/bdo/04_pc_skill/01_pc_skill/01_phm_skill/phm_skill_0313.webp",
+  "level": 35,
+  "combat": true
+ },
+ {
+  "id": 705,
+  "name": {
+   "esES": "Tajo frontal",
+   "es419": "Corte Avanzado",
+   "en": "Forward Slash"
+  },
+  "icon": "icons/bdo/04_pc_skill/01_pc_skill/01_phm_skill/phm_skill_0349.webp",
+  "level": 32,
+  "combat": true
+ },
+ {
+  "id": 1129,
+  "name": {
+   "esES": "Tajo giratorio",
+   "es419": "Corte Giratorio",
+   "en": "Spinning Slash"
+  },
+  "icon": "icons/bdo/04_pc_skill/01_pc_skill/01_phm_skill/phm_skill_1021.webp",
+  "level": 46,
+  "combat": true
+ },
+ {
+  "id": 3459,
+  "name": {
+   "esES": "Absorción de furia",
+   "es419": "Absorción de Furia",
+   "en": "Rage Absorption"
+  },
+  "icon": "icons/bdo/04_pc_skill/01_pc_skill/00_common/common_skill_0090.webp",
+  "level": 35,
+  "combat": false
+ },
+ {
+  "id": 89,
+  "name": {
+   "esES": "Absorción de furia (latente)",
+   "es419": "Absorción de Furia (Innato)",
+   "en": "Rage Absorption (Innate)"
+  },
+  "icon": "icons/bdo/04_pc_skill/01_pc_skill/00_common/common_skill_0090.webp",
+  "level": 35,
+  "combat": false
+ },
+ {
+  "id": 716,
+  "name": {
+   "esES": "Alma del guerrero",
+   "es419": "Espíritu del Guerrero",
+   "en": "Soul of Warrior"
+  },
+  "icon": "icons/bdo/04_pc_skill/01_pc_skill/01_phm_skill/phm_skill_0716.webp",
+  "level": 20,
+  "combat": false
+ },
+ {
+  "id": 715,
+  "name": {
+   "esES": "Apresar",
+   "es419": "Derribo Fuerte",
+   "en": "Apprehend"
+  },
+  "icon": "icons/bdo/04_pc_skill/01_pc_skill/01_phm_skill/phm_skill_0715.webp",
+  "level": 35,
+  "combat": false
+ },
+ {
+  "id": 2076,
+  "name": {
+   "esES": "Cazador hábil",
+   "es419": "Cazador Experto",
+   "en": "Skilled Hunter"
+  },
+  "icon": "icons/bdo/04_pc_skill/01_pc_skill/06_pkm_skill/pkm_skill_2072.webp",
+  "level": 60,
+  "combat": false
+ },
+ {
+  "id": 4055,
+  "name": {
+   "esES": "Contratajo",
+   "es419": "Corte de Contraataque",
+   "en": "Counter Slash"
+  },
+  "icon": "icons/bdo/04_pc_skill/01_pc_skill/01_phm_skill/phm_skill_4055.webp",
+  "level": 58,
+  "combat": false
+ },
+ {
+  "id": 6139,
+  "name": {
+   "esES": "Elvia: Voluntad férrea",
+   "es419": "Elvia: Voluntad Dividida",
+   "en": "Elvia: Divided Will"
+  },
+  "icon": "icons/bdo/04_pc_skill/01_pc_skill/01_phm_skill/phm_skill_6139.webp",
+  "level": 60,
+  "combat": false
+ },
+ {
+  "id": 4856,
+  "name": {
+   "esES": "Gran poder",
+   "es419": "Gran Poder",
+   "en": "Unyielding Might"
+  },
+  "icon": "icons/bdo/04_pc_skill/01_pc_skill/00_common/common_skill_18705.webp",
+  "level": 62,
+  "combat": false
+ },
+ {
+  "id": 1707,
+  "name": {
+   "esES": "Maestría infinita",
+   "es419": "Maestría Infinita",
+   "en": "Infinite Mastery"
+  },
+  "icon": "icons/bdo/04_pc_skill/01_pc_skill/00_common/common_skill_1702.webp",
+  "level": 55,
+  "combat": false
+ },
+ {
+  "id": 4054,
+  "name": {
+   "esES": "Tajo crepuscular",
+   "es419": "Corte de Anochecer",
+   "en": "Dusk Slash"
+  },
+  "icon": "icons/bdo/04_pc_skill/01_pc_skill/01_phm_skill/phm_skill_4054.webp",
+  "level": 58,
+  "combat": false
+ },
+ {
+  "id": 91,
+  "name": {
+   "esES": "Transfuria",
+   "es419": "Transferencia de Furia",
+   "en": "Rage Transfer"
+  },
+  "icon": "icons/bdo/04_pc_skill/01_pc_skill/00_common/common_skill_0091.webp",
+  "level": 35,
+  "combat": false
+ }
+]

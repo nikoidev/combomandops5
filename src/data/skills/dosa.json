@@ -1,0 +1,1245 @@
+[
+ {
+  "id": 3459,
+  "name": {
+   "esES": "Absorción de furia",
+   "es419": "Absorción de Furia",
+   "en": "Rage Absorption"
+  },
+  "icon": "icons/bdo/04_pc_skill/01_pc_skill/00_common/common_skill_0090.webp",
+  "level": 35,
+  "combat": true
+ },
+ {
+  "id": 89,
+  "name": {
+   "esES": "Absorción de furia (latente)",
+   "es419": "Absorción de Furia (Innato)",
+   "en": "Rage Absorption (Innate)"
+  },
+  "icon": "icons/bdo/04_pc_skill/01_pc_skill/00_common/common_skill_0090.webp",
+  "level": 35,
+  "combat": true
+ },
+ {
+  "id": 8801,
+  "name": {
+   "esES": "Agua: cumulación",
+   "es419": "Agua: Trenzado",
+   "en": "Water: Weave"
+  },
+  "icon": "icons/bdo/04_pc_skill/01_pc_skill/31_prsa_skill/prsa_skill_8798.webp",
+  "level": 60,
+  "combat": true
+ },
+ {
+  "id": 8803,
+  "name": {
+   "esES": "Agua: dispersión",
+   "es419": "Agua: Apertura",
+   "en": "Water: Flood"
+  },
+  "icon": "icons/bdo/04_pc_skill/01_pc_skill/31_prsa_skill/prsa_skill_8803.webp",
+  "level": 57,
+  "combat": true
+ },
+ {
+  "id": 8810,
+  "name": {
+   "esES": "Agua: flujo",
+   "es419": "Agua: Flujo",
+   "en": "Water: Current"
+  },
+  "icon": "icons/bdo/04_pc_skill/01_pc_skill/31_prsa_skill/prsa_skill_8810.webp",
+  "level": 58,
+  "combat": true
+ },
+ {
+  "id": 8646,
+  "name": {
+   "esES": "Aguacero invernal",
+   "es419": "Aguacero de Invierno",
+   "en": "Winter Squall"
+  },
+  "icon": "icons/bdo/04_pc_skill/01_pc_skill/31_prsa_skill/prsa_skill_8643.webp",
+  "level": 55,
+  "combat": true
+ },
+ {
+  "id": 8766,
+  "name": {
+   "esES": "Alteración: Corte letal",
+   "es419": "Cambio: Corte Hueco",
+   "en": "Loop: Airy Piercer"
+  },
+  "icon": "icons/bdo/04_pc_skill/01_pc_skill/31_prsa_skill/prsa_skill_8766.webp",
+  "level": 58,
+  "combat": true
+ },
+ {
+  "id": 8765,
+  "name": {
+   "esES": "Alteración: Repulsión de hwando",
+   "es419": "Cambio : Cizalladura",
+   "en": "Loop: Wind Shear"
+  },
+  "icon": "icons/bdo/04_pc_skill/01_pc_skill/31_prsa_skill/prsa_skill_8765.webp",
+  "level": 58,
+  "combat": true
+ },
+ {
+  "id": 8827,
+  "name": {
+   "esES": "Área de los cinco elementos",
+   "es419": "Zona de Cinco Elementos",
+   "en": "Elemental Circle"
+  },
+  "icon": "icons/bdo/04_pc_skill/01_pc_skill/31_prsa_skill/prsa_skill_8827.webp",
+  "level": 56,
+  "combat": true
+ },
+ {
+  "id": 8610,
+  "name": {
+   "esES": "Arte del hwando",
+   "es419": "Reglas de Hwando",
+   "en": "Taehak Way of Hwando"
+  },
+  "icon": "icons/bdo/04_pc_skill/01_pc_skill/31_prsa_skill/prsa_skill_8601.webp",
+  "level": 54,
+  "combat": true
+ },
+ {
+  "id": 8775,
+  "name": {
+   "esES": "Arte del sable sublime",
+   "es419": "Esgrima del Taehak",
+   "en": "Enlightened Blade Mastery"
+  },
+  "icon": "icons/bdo/04_pc_skill/01_pc_skill/31_prsa_skill/prsa_skill_8771.webp",
+  "level": 60,
+  "combat": true
+ },
+ {
+  "id": 8614,
+  "name": {
+   "esES": "Blindaje nuboso",
+   "es419": "Capa de Nube",
+   "en": "Cloudveil"
+  },
+  "icon": "icons/bdo/04_pc_skill/01_pc_skill/31_prsa_skill/prsa_skill_8612.webp",
+  "level": 36,
+  "combat": true
+ },
+ {
+  "id": 8630,
+  "name": {
+   "esES": "Cadena: Corte definitivo",
+   "es419": "Cadena: Punto de Filo",
+   "en": "Chain: Final Slash"
+  },
+  "icon": "icons/bdo/04_pc_skill/01_pc_skill/31_prsa_skill/prsa_skill_8630.webp",
+  "level": 5,
+  "combat": true
+ },
+ {
+  "id": 8622,
+  "name": {
+   "esES": "Cadena: Corte sombrío",
+   "es419": "Cadena: Corte umbrío",
+   "en": "Chain: Shade Slash"
+  },
+  "icon": "icons/bdo/04_pc_skill/01_pc_skill/31_prsa_skill/prsa_skill_8622.webp",
+  "level": 1,
+  "combat": true
+ },
+ {
+  "id": 8626,
+  "name": {
+   "esES": "Cadena: Rebote ascendente",
+   "es419": "Cadena: Doble corte hacia arriba",
+   "en": "Chain: Ricochet"
+  },
+  "icon": "icons/bdo/04_pc_skill/01_pc_skill/31_prsa_skill/prsa_skill_8626.webp",
+  "level": 8,
+  "combat": true
+ },
+ {
+  "id": 8637,
+  "name": {
+   "esES": "Calima",
+   "es419": "Dorondón",
+   "en": "Deep Haze"
+  },
+  "icon": "icons/bdo/04_pc_skill/01_pc_skill/31_prsa_skill/prsa_skill_8636.webp",
+  "level": 40,
+  "combat": true
+ },
+ {
+  "id": 8781,
+  "name": {
+   "esES": "Calima sublime",
+   "es419": "Danza de la Espada Divina",
+   "en": "Enlightened Haze"
+  },
+  "icon": "icons/bdo/04_pc_skill/01_pc_skill/31_prsa_skill/prsa_skill_8779.webp",
+  "level": 59,
+  "combat": true
+ },
+ {
+  "id": 2076,
+  "name": {
+   "esES": "Cazador hábil",
+   "es419": "Cazador Experto",
+   "en": "Skilled Hunter"
+  },
+  "icon": "icons/bdo/04_pc_skill/01_pc_skill/06_pkm_skill/pkm_skill_2072.webp",
+  "level": 60,
+  "combat": true
+ },
+ {
+  "id": 8729,
+  "name": {
+   "esES": "Cénit: Aguacero invernal",
+   "es419": "S: Aguacero de Invierno",
+   "en": "Prime: Winter Squall"
+  },
+  "icon": "icons/bdo/04_pc_skill/01_pc_skill/31_prsa_skill/prsa_skill_8726.webp",
+  "level": 60,
+  "combat": true
+ },
+ {
+  "id": 8714,
+  "name": {
+   "esES": "Cénit: Blindaje nuboso",
+   "es419": "S: Capa de Nube",
+   "en": "Prime: Cloudveil"
+  },
+  "icon": "icons/bdo/04_pc_skill/01_pc_skill/31_prsa_skill/prsa_skill_8714.webp",
+  "level": 56,
+  "combat": true
+ },
+ {
+  "id": 8738,
+  "name": {
+   "esES": "Cénit: Centella otoñal",
+   "es419": "S: Rayos de Otoño",
+   "en": "Prime: Autumnal Blitz"
+  },
+  "icon": "icons/bdo/04_pc_skill/01_pc_skill/31_prsa_skill/prsa_skill_8738.webp",
+  "level": 60,
+  "combat": true
+ },
+ {
+  "id": 8767,
+  "name": {
+   "esES": "Cénit: Cuatro estaciones",
+   "es419": "S: Cuatro Estaciones",
+   "en": "Prime: Four Seasons"
+  },
+  "icon": "icons/bdo/04_pc_skill/01_pc_skill/31_prsa_skill/prsa_skill_8767.webp",
+  "level": 60,
+  "combat": true
+ },
+ {
+  "id": 8716,
+  "name": {
+   "esES": "Cénit: Cúmulus",
+   "es419": "S: Cumulus",
+   "en": "Prime: Cloudspire"
+  },
+  "icon": "icons/bdo/04_pc_skill/01_pc_skill/31_prsa_skill/prsa_skill_8716.webp",
+  "level": 58,
+  "combat": true
+ },
+ {
+  "id": 8725,
+  "name": {
+   "esES": "Cénit: Danza en la niebla",
+   "es419": "S: Corta Nieblas",
+   "en": "Prime: Fog Cleave"
+  },
+  "icon": "icons/bdo/04_pc_skill/01_pc_skill/31_prsa_skill/prsa_skill_8723.webp",
+  "level": 58,
+  "combat": true
+ },
+ {
+  "id": 8744,
+  "name": {
+   "esES": "Cénit: Embate en quietud",
+   "es419": "S: Movimiento en Serenidad",
+   "en": "Prime: Motion in Stillness"
+  },
+  "icon": "icons/bdo/04_pc_skill/01_pc_skill/31_prsa_skill/prsa_skill_8740.webp",
+  "level": 60,
+  "combat": true
+ },
+ {
+  "id": 8739,
+  "name": {
+   "esES": "Cénit: Escarcha primaveral",
+   "es419": "S: Escarcha de Primavera",
+   "en": "Prime: Spring Frost"
+  },
+  "icon": "icons/bdo/04_pc_skill/01_pc_skill/31_prsa_skill/prsa_skill_8739.webp",
+  "level": 59,
+  "combat": true
+ },
+ {
+  "id": 8713,
+  "name": {
+   "esES": "Cénit: General de las nubes",
+   "es419": "S: General de Nube",
+   "en": "Prime: Cloud General"
+  },
+  "icon": "icons/bdo/04_pc_skill/01_pc_skill/31_prsa_skill/prsa_skill_8713.webp",
+  "level": 56,
+  "combat": true
+ },
+ {
+  "id": 8711,
+  "name": {
+   "esES": "Cénit: Legión de las nubes",
+   "es419": "S: Soldados de Nube",
+   "en": "Prime: Cloud Legion"
+  },
+  "icon": "icons/bdo/04_pc_skill/01_pc_skill/31_prsa_skill/prsa_skill_8711.webp",
+  "level": 56,
+  "combat": true
+ },
+ {
+  "id": 8719,
+  "name": {
+   "esES": "Cénit: Movimiento: Tajada ascendente",
+   "es419": "S: Flujo: Corte hacia arriba",
+   "en": "Prime: Flow: Rising Slash"
+  },
+  "icon": "icons/bdo/04_pc_skill/01_pc_skill/31_prsa_skill/prsa_skill_8717.webp",
+  "level": 58,
+  "combat": true
+ },
+ {
+  "id": 8715,
+  "name": {
+   "esES": "Cénit: Movimiento: Tajada ciega",
+   "es419": "S: Flujo: Corte Repentino",
+   "en": "Prime: Flow: Blinding Slash"
+  },
+  "icon": "icons/bdo/04_pc_skill/01_pc_skill/31_prsa_skill/prsa_skill_8715.webp",
+  "level": 57,
+  "combat": true
+ },
+ {
+  "id": 8722,
+  "name": {
+   "esES": "Cénit: Movimiento: Tajada doble",
+   "es419": "S: Flujo: Dividir Horizonte",
+   "en": "Prime: Flow: Twin Slash"
+  },
+  "icon": "icons/bdo/04_pc_skill/01_pc_skill/31_prsa_skill/prsa_skill_8720.webp",
+  "level": 59,
+  "combat": true
+ },
+ {
+  "id": 8712,
+  "name": {
+   "esES": "Cénit: Repulsión de hwando",
+   "es419": "S: Cizalladura",
+   "en": "Prime: Wind Shear"
+  },
+  "icon": "icons/bdo/04_pc_skill/01_pc_skill/31_prsa_skill/prsa_skill_8712.webp",
+  "level": 56,
+  "combat": true
+ },
+ {
+  "id": 8745,
+  "name": {
+   "esES": "Cénit: Sucesor de Unsa",
+   "es419": "S: Descendiente de Unsa",
+   "en": "Prime: Unsa's Heir"
+  },
+  "icon": "icons/bdo/04_pc_skill/01_pc_skill/31_prsa_skill/prsa_skill_8745.webp",
+  "level": 56,
+  "combat": true
+ },
+ {
+  "id": 8737,
+  "name": {
+   "esES": "Cénit: Taeguk",
+   "es419": "S: Taeguk",
+   "en": "Prime: Taeguk"
+  },
+  "icon": "icons/bdo/04_pc_skill/01_pc_skill/31_prsa_skill/prsa_skill_8734.webp",
+  "level": 60,
+  "combat": true
+ },
+ {
+  "id": 8733,
+  "name": {
+   "esES": "Cénit: Vendaval estival",
+   "es419": "S: Brisa de Verano",
+   "en": "Prime: Summer Breeze"
+  },
+  "icon": "icons/bdo/04_pc_skill/01_pc_skill/31_prsa_skill/prsa_skill_8730.webp",
+  "level": 60,
+  "combat": true
+ },
+ {
+  "id": 8660,
+  "name": {
+   "esES": "Centella otoñal",
+   "es419": "Rayos de Otoño",
+   "en": "Autumnal Blitz"
+  },
+  "icon": "icons/bdo/04_pc_skill/01_pc_skill/31_prsa_skill/prsa_skill_8657.webp",
+  "level": 54,
+  "combat": true
+ },
+ {
+  "id": 8828,
+  "name": {
+   "esES": "Cinco elementos: ciclo de generación",
+   "es419": "Cinco Elementos: Zona de Sinergia",
+   "en": "Elements: Generative Circle"
+  },
+  "icon": "icons/bdo/04_pc_skill/01_pc_skill/31_prsa_skill/prsa_skill_8828.webp",
+  "level": 56,
+  "combat": true
+ },
+ {
+  "id": 8769,
+  "name": {
+   "esES": "Cinco elementos: generación",
+   "es419": "Cinco Elementos: Sinergia",
+   "en": "Elements: Generate"
+  },
+  "icon": "icons/bdo/04_pc_skill/01_pc_skill/31_prsa_skill/prsa_skill_8769.webp",
+  "level": 56,
+  "combat": true
+ },
+ {
+  "id": 8685,
+  "name": {
+   "esES": "Corte letal",
+   "es419": "Corte Hueco",
+   "en": "Airy Piercer"
+  },
+  "icon": "icons/bdo/04_pc_skill/01_pc_skill/31_prsa_skill/prsa_skill_8684.webp",
+  "level": 39,
+  "combat": true
+ },
+ {
+  "id": 8663,
+  "name": {
+   "esES": "Cúmulus",
+   "es419": "Cumulus",
+   "en": "Cloudspire"
+  },
+  "icon": "icons/bdo/04_pc_skill/01_pc_skill/31_prsa_skill/prsa_skill_8662.webp",
+  "level": 37,
+  "combat": true
+ },
+ {
+  "id": 8641,
+  "name": {
+   "esES": "Danza del sable",
+   "es419": "Danza Inversa",
+   "en": "Blade Waltz"
+  },
+  "icon": "icons/bdo/04_pc_skill/01_pc_skill/31_prsa_skill/prsa_skill_8640.webp",
+  "level": 28,
+  "combat": true
+ },
+ {
+  "id": 8634,
+  "name": {
+   "esES": "Danza en la niebla",
+   "es419": "Corta Nieblas",
+   "en": "Fog Cleave"
+  },
+  "icon": "icons/bdo/04_pc_skill/01_pc_skill/31_prsa_skill/prsa_skill_8632.webp",
+  "level": 45,
+  "combat": true
+ },
+ {
+  "id": 8647,
+  "name": {
+   "esES": "Definitiva: Aguacero invernal",
+   "es419": "Suprema: Aguacero de Invierno",
+   "en": "Absolute: Winter Squall"
+  },
+  "icon": "icons/bdo/04_pc_skill/01_pc_skill/31_prsa_skill/prsa_skill_8647.webp",
+  "level": 59,
+  "combat": true
+ },
+ {
+  "id": 8611,
+  "name": {
+   "esES": "Definitiva: Arte del hwando",
+   "es419": "Suprema: Reglas de Hwando",
+   "en": "Absolute: Taehak Way of Hwando"
+  },
+  "icon": "icons/bdo/04_pc_skill/01_pc_skill/31_prsa_skill/prsa_skill_8611.webp",
+  "level": 56,
+  "combat": true
+ },
+ {
+  "id": 8615,
+  "name": {
+   "esES": "Definitiva: Blindaje nuboso",
+   "es419": "Suprema: Capa de Nube",
+   "en": "Absolute: Cloudveil"
+  },
+  "icon": "icons/bdo/04_pc_skill/01_pc_skill/31_prsa_skill/prsa_skill_8615.webp",
+  "level": 56,
+  "combat": true
+ },
+ {
+  "id": 8638,
+  "name": {
+   "esES": "Definitiva: Calima",
+   "es419": "Suprema: Dorondón",
+   "en": "Absolute: Deep Haze"
+  },
+  "icon": "icons/bdo/04_pc_skill/01_pc_skill/31_prsa_skill/prsa_skill_8638.webp",
+  "level": 57,
+  "combat": true
+ },
+ {
+  "id": 8661,
+  "name": {
+   "esES": "Definitiva: Centella otoñal",
+   "es419": "Suprema: Rayos de Otoño",
+   "en": "Absolute: Autumnal Blitz"
+  },
+  "icon": "icons/bdo/04_pc_skill/01_pc_skill/31_prsa_skill/prsa_skill_8661.webp",
+  "level": 60,
+  "combat": true
+ },
+ {
+  "id": 8686,
+  "name": {
+   "esES": "Definitiva: Corte letal",
+   "es419": "Suprema: Corte Hueco",
+   "en": "Absolute: Airy Piercer"
+  },
+  "icon": "icons/bdo/04_pc_skill/01_pc_skill/31_prsa_skill/prsa_skill_8686.webp",
+  "level": 58,
+  "combat": true
+ },
+ {
+  "id": 8664,
+  "name": {
+   "esES": "Definitiva: Cúmulus",
+   "es419": "Suprema: Cumulus",
+   "en": "Absolute: Cloudspire"
+  },
+  "icon": "icons/bdo/04_pc_skill/01_pc_skill/31_prsa_skill/prsa_skill_8664.webp",
+  "level": 58,
+  "combat": true
+ },
+ {
+  "id": 8642,
+  "name": {
+   "esES": "Definitiva: Danza del sable",
+   "es419": "Suprema: Danza Inversa",
+   "en": "Absolute: Blade Waltz"
+  },
+  "icon": "icons/bdo/04_pc_skill/01_pc_skill/31_prsa_skill/prsa_skill_8642.webp",
+  "level": 56,
+  "combat": true
+ },
+ {
+  "id": 8635,
+  "name": {
+   "esES": "Definitiva: Danza en la niebla",
+   "es419": "Suprema: Corta Nieblas",
+   "en": "Absolute: Fog Cleave"
+  },
+  "icon": "icons/bdo/04_pc_skill/01_pc_skill/31_prsa_skill/prsa_skill_8635.webp",
+  "level": 57,
+  "combat": true
+ },
+ {
+  "id": 8674,
+  "name": {
+   "esES": "Definitiva: Escarcha primaveral",
+   "es419": "Suprema: Escarcha de Primavera",
+   "en": "Absolute: Spring Frost"
+  },
+  "icon": "icons/bdo/04_pc_skill/01_pc_skill/31_prsa_skill/prsa_skill_8674.webp",
+  "level": 58,
+  "combat": true
+ },
+ {
+  "id": 8656,
+  "name": {
+   "esES": "Definitiva: Flor de nube",
+   "es419": "Suprema: Gipsófila",
+   "en": "Absolute: Fogbloom"
+  },
+  "icon": "icons/bdo/04_pc_skill/01_pc_skill/31_prsa_skill/prsa_skill_8656.webp",
+  "level": 57,
+  "combat": true
+ },
+ {
+  "id": 8621,
+  "name": {
+   "esES": "Definitiva: Movimiento: Tajada ciega",
+   "es419": "Suprema: Flujo: Corte Repentino",
+   "en": "Absolute: Flow: Blinding Slash"
+  },
+  "icon": "icons/bdo/04_pc_skill/01_pc_skill/31_prsa_skill/prsa_skill_8621.webp",
+  "level": 56,
+  "combat": true
+ },
+ {
+  "id": 8629,
+  "name": {
+   "esES": "Definitiva: Movimiento: Tajada doble",
+   "es419": "Suprema: Flujo: Dividir Horizonte",
+   "en": "Absolute: Flow: Twin Slash"
+  },
+  "icon": "icons/bdo/04_pc_skill/01_pc_skill/31_prsa_skill/prsa_skill_8629.webp",
+  "level": 56,
+  "combat": true
+ },
+ {
+  "id": 8618,
+  "name": {
+   "esES": "Definitiva: Sablazo",
+   "es419": "Suprema: Corte hacia bajo",
+   "en": "Absolute: Downpour"
+  },
+  "icon": "icons/bdo/04_pc_skill/01_pc_skill/31_prsa_skill/prsa_skill_8618.webp",
+  "level": 56,
+  "combat": true
+ },
+ {
+  "id": 8670,
+  "name": {
+   "esES": "Definitiva: Taeguk",
+   "es419": "Suprema: Taeguk",
+   "en": "Absolute: Taeguk"
+  },
+  "icon": "icons/bdo/04_pc_skill/01_pc_skill/31_prsa_skill/prsa_skill_8670.webp",
+  "level": 60,
+  "combat": true
+ },
+ {
+  "id": 8678,
+  "name": {
+   "esES": "Definitiva: Velo nuboso",
+   "es419": "Suprema: Telón de Nube",
+   "en": "Absolute: Cloud Shield"
+  },
+  "icon": "icons/bdo/04_pc_skill/01_pc_skill/31_prsa_skill/prsa_skill_8678.webp",
+  "level": 57,
+  "combat": true
+ },
+ {
+  "id": 8652,
+  "name": {
+   "esES": "Definitiva: Vendaval estival",
+   "es419": "Suprema: Brisa de Verano",
+   "en": "Absolute: Summer Breeze"
+  },
+  "icon": "icons/bdo/04_pc_skill/01_pc_skill/31_prsa_skill/prsa_skill_8652.webp",
+  "level": 58,
+  "combat": true
+ },
+ {
+  "id": 8625,
+  "name": {
+   "esES": "Definitivo: Movimiento: Tajada ascendente",
+   "es419": "Suprema: Flujo: Corte hacia arriba",
+   "en": "Absolute: Flow: Rising Slash"
+  },
+  "icon": "icons/bdo/04_pc_skill/01_pc_skill/31_prsa_skill/prsa_skill_8625.webp",
+  "level": 58,
+  "combat": true
+ },
+ {
+  "id": 8709,
+  "name": {
+   "esES": "Despertar: Maestro del Taehak",
+   "es419": "Despertar: Maestro del Taehak",
+   "en": "Awakening: Master of Taehak"
+  },
+  "icon": "icons/bdo/04_pc_skill/01_pc_skill/31_prsa_skill/prsa_skill_8709.webp",
+  "level": 56,
+  "combat": true
+ },
+ {
+  "id": 8706,
+  "name": {
+   "esES": "Embate en quietud",
+   "es419": "Movimiento en Serenidad",
+   "en": "Motion in Stillness"
+  },
+  "icon": "icons/bdo/04_pc_skill/01_pc_skill/31_prsa_skill/prsa_skill_8687.webp",
+  "level": 60,
+  "combat": true
+ },
+ {
+  "id": 8673,
+  "name": {
+   "esES": "Escarcha primaveral",
+   "es419": "Escarcha de Primavera",
+   "en": "Spring Frost"
+  },
+  "icon": "icons/bdo/04_pc_skill/01_pc_skill/31_prsa_skill/prsa_skill_8671.webp",
+  "level": 46,
+  "combat": true
+ },
+ {
+  "id": 8600,
+  "name": {
+   "esES": "Evasión",
+   "es419": "Evasión",
+   "en": "Evasion"
+  },
+  "icon": "icons/bdo/04_pc_skill/01_pc_skill/31_prsa_skill/prsa_skill_8600.webp",
+  "level": 1,
+  "combat": true
+ },
+ {
+  "id": 8655,
+  "name": {
+   "esES": "Flor de nube",
+   "es419": "Gipsófila",
+   "en": "Fogbloom"
+  },
+  "icon": "icons/bdo/04_pc_skill/01_pc_skill/31_prsa_skill/prsa_skill_8653.webp",
+  "level": 47,
+  "combat": true
+ },
+ {
+  "id": 8789,
+  "name": {
+   "esES": "Fuego: ascensión",
+   "es419": "Fuego: Ascenso",
+   "en": "Fire: Blaze"
+  },
+  "icon": "icons/bdo/04_pc_skill/01_pc_skill/31_prsa_skill/prsa_skill_8786.webp",
+  "level": 60,
+  "combat": true
+ },
+ {
+  "id": 8802,
+  "name": {
+   "esES": "Fuego: explosión",
+   "es419": "Fuego: Explosión",
+   "en": "Fire: Burst"
+  },
+  "icon": "icons/bdo/04_pc_skill/01_pc_skill/31_prsa_skill/prsa_skill_8802.webp",
+  "level": 56,
+  "combat": true
+ },
+ {
+  "id": 8806,
+  "name": {
+   "esES": "Fuego: propagación",
+   "es419": "Fuego: Propagación",
+   "en": "Fire: Spread"
+  },
+  "icon": "icons/bdo/04_pc_skill/01_pc_skill/31_prsa_skill/prsa_skill_8806.webp",
+  "level": 57,
+  "combat": true
+ },
+ {
+  "id": 8764,
+  "name": {
+   "esES": "Fundamento: Danza del sable",
+   "es419": "Origen: Danza Inversa",
+   "en": "Reverse: Blade Waltz"
+  },
+  "icon": "icons/bdo/04_pc_skill/01_pc_skill/31_prsa_skill/prsa_skill_8764.webp",
+  "level": 57,
+  "combat": true
+ },
+ {
+  "id": 8768,
+  "name": {
+   "esES": "Fusión elemental",
+   "es419": "Elementalista",
+   "en": "Elemental Invocation"
+  },
+  "icon": "icons/bdo/04_pc_skill/01_pc_skill/31_prsa_skill/prsa_skill_8768.webp",
+  "level": 56,
+  "combat": true
+ },
+ {
+  "id": 4856,
+  "name": {
+   "esES": "Gran poder",
+   "es419": "Gran Poder",
+   "en": "Unyielding Might"
+  },
+  "icon": "icons/bdo/04_pc_skill/01_pc_skill/00_common/common_skill_18705.webp",
+  "level": 62,
+  "combat": true
+ },
+ {
+  "id": 8785,
+  "name": {
+   "esES": "Madera: curvatura",
+   "es419": "Árbol: Torsión",
+   "en": "Wood: Bend"
+  },
+  "icon": "icons/bdo/04_pc_skill/01_pc_skill/31_prsa_skill/prsa_skill_8782.webp",
+  "level": 60,
+  "combat": true
+ },
+ {
+  "id": 8805,
+  "name": {
+   "esES": "Madera: rectitud",
+   "es419": "Árbol: Rectitud",
+   "en": "Wood: Stake"
+  },
+  "icon": "icons/bdo/04_pc_skill/01_pc_skill/31_prsa_skill/prsa_skill_8805.webp",
+  "level": 56,
+  "combat": true
+ },
+ {
+  "id": 1707,
+  "name": {
+   "esES": "Maestría infinita",
+   "es419": "Maestría Infinita",
+   "en": "Infinite Mastery"
+  },
+  "icon": "icons/bdo/04_pc_skill/01_pc_skill/00_common/common_skill_1702.webp",
+  "level": 55,
+  "combat": true
+ },
+ {
+  "id": 8807,
+  "name": {
+   "esES": "Mazazo",
+   "es419": "Impacto Descendente",
+   "en": "Nail Down"
+  },
+  "icon": "icons/bdo/04_pc_skill/01_pc_skill/31_prsa_skill/prsa_skill_8807.webp",
+  "level": 56,
+  "combat": true
+ },
+ {
+  "id": 8797,
+  "name": {
+   "esES": "Metal: frialdad",
+   "es419": "Metal: Frescor",
+   "en": "Metal: Temper"
+  },
+  "icon": "icons/bdo/04_pc_skill/01_pc_skill/31_prsa_skill/prsa_skill_8794.webp",
+  "level": 60,
+  "combat": true
+ },
+ {
+  "id": 8804,
+  "name": {
+   "esES": "Metal: fusión",
+   "es419": "Metal: Acumulación",
+   "en": "Metal: Alloy"
+  },
+  "icon": "icons/bdo/04_pc_skill/01_pc_skill/31_prsa_skill/prsa_skill_8804.webp",
+  "level": 58,
+  "combat": true
+ },
+ {
+  "id": 8809,
+  "name": {
+   "esES": "Metal: vertido",
+   "es419": "Metal: Fundición",
+   "en": "Metal: Pour"
+  },
+  "icon": "icons/bdo/04_pc_skill/01_pc_skill/31_prsa_skill/prsa_skill_8809.webp",
+  "level": 59,
+  "combat": true
+ },
+ {
+  "id": 8681,
+  "name": {
+   "esES": "Movimiento: Cascadas de nubes",
+   "es419": "Flujo: Cirrostratus",
+   "en": "Flow: Velum Slash"
+  },
+  "icon": "icons/bdo/04_pc_skill/01_pc_skill/31_prsa_skill/prsa_skill_8681.webp",
+  "level": 15,
+  "combat": true
+ },
+ {
+  "id": 8760,
+  "name": {
+   "esES": "Movimiento: Corte diagonal",
+   "es419": "Flujo: Corte Diagonal",
+   "en": "Flow: Oblique Cleave"
+  },
+  "icon": "icons/bdo/04_pc_skill/01_pc_skill/31_prsa_skill/prsa_skill_8760.webp",
+  "level": 7,
+  "combat": true
+ },
+ {
+  "id": 8639,
+  "name": {
+   "esES": "Movimiento: Niebla disipada",
+   "es419": "Flujo: Efímero",
+   "en": "Flow: Fog Scatter"
+  },
+  "icon": "icons/bdo/04_pc_skill/01_pc_skill/31_prsa_skill/prsa_skill_8639.webp",
+  "level": 11,
+  "combat": true
+ },
+ {
+  "id": 8624,
+  "name": {
+   "esES": "Movimiento: Tajada ascendente",
+   "es419": "Flujo: Corte hacia arriba",
+   "en": "Flow: Rising Slash"
+  },
+  "icon": "icons/bdo/04_pc_skill/01_pc_skill/31_prsa_skill/prsa_skill_8623.webp",
+  "level": 40,
+  "combat": true
+ },
+ {
+  "id": 8620,
+  "name": {
+   "esES": "Movimiento: Tajada ciega",
+   "es419": "Flujo: Corte Repentino",
+   "en": "Flow: Blinding Slash"
+  },
+  "icon": "icons/bdo/04_pc_skill/01_pc_skill/31_prsa_skill/prsa_skill_8619.webp",
+  "level": 28,
+  "combat": true
+ },
+ {
+  "id": 8628,
+  "name": {
+   "esES": "Movimiento: Tajada doble",
+   "es419": "Flujo: Dividir Horizonte",
+   "en": "Flow: Twin Slash"
+  },
+  "icon": "icons/bdo/04_pc_skill/01_pc_skill/31_prsa_skill/prsa_skill_8627.webp",
+  "level": 30,
+  "combat": true
+ },
+ {
+  "id": 8665,
+  "name": {
+   "esES": "Movimiento: Tiranicidio",
+   "es419": "Flujo: Virga",
+   "en": "Flow: Virga Shaft"
+  },
+  "icon": "icons/bdo/04_pc_skill/01_pc_skill/31_prsa_skill/prsa_skill_8665.webp",
+  "level": 21,
+  "combat": true
+ },
+ {
+  "id": 8680,
+  "name": {
+   "esES": "Movimiento: Virga",
+   "es419": "Flujo: Estela de Condensación",
+   "en": "Flow: Cloud Drift"
+  },
+  "icon": "icons/bdo/04_pc_skill/01_pc_skill/31_prsa_skill/prsa_skill_8680.webp",
+  "level": 8,
+  "combat": true
+ },
+ {
+  "id": 8679,
+  "name": {
+   "esES": "Neblina",
+   "es419": "Stratus",
+   "en": "Stratus Shift"
+  },
+  "icon": "icons/bdo/04_pc_skill/01_pc_skill/31_prsa_skill/prsa_skill_8679.webp",
+  "level": 1,
+  "combat": true
+ },
+ {
+  "id": 8763,
+  "name": {
+   "esES": "Niebla de la luna",
+   "es419": "Niebla de Luna",
+   "en": "Moonlit Haze"
+  },
+  "icon": "icons/bdo/04_pc_skill/01_pc_skill/31_prsa_skill/prsa_skill_8763.webp",
+  "level": 57,
+  "combat": true
+ },
+ {
+  "id": 8762,
+  "name": {
+   "esES": "Niebla espesa",
+   "es419": "Niebla Descendente",
+   "en": "Fogfall"
+  },
+  "icon": "icons/bdo/04_pc_skill/01_pc_skill/31_prsa_skill/prsa_skill_8762.webp",
+  "level": 56,
+  "combat": true
+ },
+ {
+  "id": 8631,
+  "name": {
+   "esES": "Niebla matinal",
+   "es419": "Neblina de la Mañana",
+   "en": "Morning Fog"
+  },
+  "icon": "icons/bdo/04_pc_skill/01_pc_skill/31_prsa_skill/prsa_skill_8631.webp",
+  "level": 60,
+  "combat": true
+ },
+ {
+  "id": 8682,
+  "name": {
+   "esES": "Nube sigilosa",
+   "es419": "Cirrus",
+   "en": "Cloud Step"
+  },
+  "icon": "icons/bdo/04_pc_skill/01_pc_skill/31_prsa_skill/prsa_skill_8682.webp",
+  "level": 1,
+  "combat": true
+ },
+ {
+  "id": 8778,
+  "name": {
+   "esES": "Pasos brumosos",
+   "es419": "Paso Nebuloso",
+   "en": "Misty Steps"
+  },
+  "icon": "icons/bdo/04_pc_skill/01_pc_skill/31_prsa_skill/prsa_skill_8778.webp",
+  "level": 56,
+  "combat": true
+ },
+ {
+  "id": 8770,
+  "name": {
+   "esES": "Pisotón etéreo",
+   "es419": "Pisada Celestial",
+   "en": "Skystomp"
+  },
+  "icon": "icons/bdo/04_pc_skill/01_pc_skill/31_prsa_skill/prsa_skill_8770.webp",
+  "level": 56,
+  "combat": true
+ },
+ {
+  "id": 8826,
+  "name": {
+   "esES": "Primordial: agua: cumulación",
+   "es419": "BON: Agua: Trenzado",
+   "en": "Core: Water: Weave"
+  },
+  "icon": "icons/bdo/04_pc_skill/01_pc_skill/31_prsa_skill/prsa_skill_8798.webp",
+  "level": 60,
+  "combat": true
+ },
+ {
+  "id": 8829,
+  "name": {
+   "esES": "Primordial: Calima sublime",
+   "es419": "BON: Danza de la Espada Divina",
+   "en": "Core: Enlightened Haze"
+  },
+  "icon": "icons/bdo/04_pc_skill/01_pc_skill/31_prsa_skill/prsa_skill_8779.webp",
+  "level": 60,
+  "combat": true
+ },
+ {
+  "id": 8823,
+  "name": {
+   "esES": "Primordial: fuego: ascensión",
+   "es419": "BON: Fuego: Ascenso",
+   "en": "Core: Fire: Blaze"
+  },
+  "icon": "icons/bdo/04_pc_skill/01_pc_skill/31_prsa_skill/prsa_skill_8786.webp",
+  "level": 60,
+  "combat": true
+ },
+ {
+  "id": 8822,
+  "name": {
+   "esES": "Primordial: madera: curvatura",
+   "es419": "BON: Árbol: Torsión",
+   "en": "Core: Wood: Bend"
+  },
+  "icon": "icons/bdo/04_pc_skill/01_pc_skill/31_prsa_skill/prsa_skill_8782.webp",
+  "level": 60,
+  "combat": true
+ },
+ {
+  "id": 8825,
+  "name": {
+   "esES": "Primordial: metal: frialdad",
+   "es419": "BON: Metal: Frescor",
+   "en": "Core: Metal: Temper"
+  },
+  "icon": "icons/bdo/04_pc_skill/01_pc_skill/31_prsa_skill/prsa_skill_8794.webp",
+  "level": 60,
+  "combat": true
+ },
+ {
+  "id": 8824,
+  "name": {
+   "esES": "Primordial: tierra: plantación",
+   "es419": "BON: Tierra: Siembra",
+   "en": "Core: Earth: Till"
+  },
+  "icon": "icons/bdo/04_pc_skill/01_pc_skill/31_prsa_skill/prsa_skill_8790.webp",
+  "level": 60,
+  "combat": true
+ },
+ {
+  "id": 8707,
+  "name": {
+   "esES": "Quietud en embate",
+   "es419": "Serenidad en Movimiento",
+   "en": "Stillness in Motion"
+  },
+  "icon": "icons/bdo/04_pc_skill/01_pc_skill/31_prsa_skill/prsa_skill_8707.webp",
+  "level": 20,
+  "combat": true
+ },
+ {
+  "id": 8831,
+  "name": {
+   "esES": "Renacer: Corte letal",
+   "es419": "Sucesión: Corte Hueco",
+   "en": "Succession: Airy Piercer"
+  },
+  "icon": "icons/bdo/04_pc_skill/01_pc_skill/31_prsa_skill/prsa_skill_8686.webp",
+  "level": 56,
+  "combat": true
+ },
+ {
+  "id": 8683,
+  "name": {
+   "esES": "Repulsión de hwando",
+   "es419": "Cizalladura",
+   "en": "Wind Shear"
+  },
+  "icon": "icons/bdo/04_pc_skill/01_pc_skill/31_prsa_skill/prsa_skill_8683.webp",
+  "level": 1,
+  "combat": true
+ },
+ {
+  "id": 92,
+  "name": {
+   "esES": "Retirada oscura",
+   "es419": "Escape de Emergencia",
+   "en": "Emergency Escape"
+  },
+  "icon": "icons/bdo/04_pc_skill/01_pc_skill/00_common/common_skill_0092.webp",
+  "level": 1,
+  "combat": true
+ },
+ {
+  "id": 8617,
+  "name": {
+   "esES": "Sablazo",
+   "es419": "Corte hacia bajo",
+   "en": "Downpour"
+  },
+  "icon": "icons/bdo/04_pc_skill/01_pc_skill/31_prsa_skill/prsa_skill_8616.webp",
+  "level": 35,
+  "combat": true
+ },
+ {
+  "id": 8761,
+  "name": {
+   "esES": "Sablazo doble",
+   "es419": "Corte Doble",
+   "en": "Dual Slash"
+  },
+  "icon": "icons/bdo/04_pc_skill/01_pc_skill/31_prsa_skill/prsa_skill_8761.webp",
+  "level": 56,
+  "combat": true
+ },
+ {
+  "id": 8776,
+  "name": {
+   "esES": "Sablazos devastadores",
+   "es419": "Hacha Desgarrante",
+   "en": "Sundering Sweep"
+  },
+  "icon": "icons/bdo/04_pc_skill/01_pc_skill/31_prsa_skill/prsa_skill_8776.webp",
+  "level": 56,
+  "combat": true
+ },
+ {
+  "id": 8669,
+  "name": {
+   "esES": "Taeguk",
+   "es419": "Taeguk",
+   "en": "Taeguk"
+  },
+  "icon": "icons/bdo/04_pc_skill/01_pc_skill/31_prsa_skill/prsa_skill_8666.webp",
+  "level": 55,
+  "combat": true
+ },
+ {
+  "id": 8808,
+  "name": {
+   "esES": "Tierra: cosecha",
+   "es419": "Tierra: Cosecha",
+   "en": "Earth: Reap"
+  },
+  "icon": "icons/bdo/04_pc_skill/01_pc_skill/31_prsa_skill/prsa_skill_8808.webp",
+  "level": 60,
+  "combat": true
+ },
+ {
+  "id": 8793,
+  "name": {
+   "esES": "Tierra: plantación",
+   "es419": "Tierra: Siembra",
+   "en": "Earth: Till"
+  },
+  "icon": "icons/bdo/04_pc_skill/01_pc_skill/31_prsa_skill/prsa_skill_8790.webp",
+  "level": 60,
+  "combat": true
+ },
+ {
+  "id": 8777,
+  "name": {
+   "esES": "Tijereta",
+   "es419": "Patadas al Cielo",
+   "en": "Winged Kick"
+  },
+  "icon": "icons/bdo/04_pc_skill/01_pc_skill/31_prsa_skill/prsa_skill_8777.webp",
+  "level": 56,
+  "combat": true
+ },
+ {
+  "id": 91,
+  "name": {
+   "esES": "Transfuria",
+   "es419": "Transferencia de Furia",
+   "en": "Rage Transfer"
+  },
+  "icon": "icons/bdo/04_pc_skill/01_pc_skill/00_common/common_skill_0091.webp",
+  "level": 35,
+  "combat": true
+ },
+ {
+  "id": 8677,
+  "name": {
+   "esES": "Velo nuboso",
+   "es419": "Telón de Nube",
+   "en": "Cloud Shield"
+  },
+  "icon": "icons/bdo/04_pc_skill/01_pc_skill/31_prsa_skill/prsa_skill_8675.webp",
+  "level": 40,
+  "combat": true
+ },
+ {
+  "id": 8651,
+  "name": {
+   "esES": "Vendaval estival",
+   "es419": "Brisa de Verano",
+   "en": "Summer Breeze"
+  },
+  "icon": "icons/bdo/04_pc_skill/01_pc_skill/31_prsa_skill/prsa_skill_8648.webp",
+  "level": 52,
+  "combat": true
+ }
+]

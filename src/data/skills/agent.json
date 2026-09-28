@@ -1,0 +1,794 @@
+[
+ {
+  "id": 3459,
+  "name": {
+   "esES": "Absorción de furia",
+   "es419": "Absorción de Furia",
+   "en": "Rage Absorption"
+  },
+  "icon": "icons/bdo/04_pc_skill/01_pc_skill/00_common/common_skill_0090.webp",
+  "level": 35,
+  "combat": true
+ },
+ {
+  "id": 89,
+  "name": {
+   "esES": "Absorción de furia (latente)",
+   "es419": "Absorción de Furia (Innato)",
+   "en": "Rage Absorption (Innate)"
+  },
+  "icon": "icons/bdo/04_pc_skill/01_pc_skill/00_common/common_skill_0090.webp",
+  "level": 35,
+  "combat": true
+ },
+ {
+  "id": 9927,
+  "name": {
+   "esES": "Anillo de muerte",
+   "es419": "Aro de la Muerte",
+   "en": "Death Ring"
+  },
+  "icon": "icons/bdo/04_pc_skill/01_pc_skill/34_pgms_skill/pgms_skill_9925.webp",
+  "level": 48,
+  "combat": true
+ },
+ {
+  "id": 9878,
+  "name": {
+   "esES": "Arma oculta",
+   "es419": "Detrás de la Máscara",
+   "en": "Concealed Weapon"
+  },
+  "icon": "icons/bdo/04_pc_skill/01_pc_skill/34_pgms_skill/pgms_skill_9876.webp",
+  "level": 42,
+  "combat": true
+ },
+ {
+  "id": 9901,
+  "name": {
+   "esES": "Baño de sangre",
+   "es419": "Tempestad Sangrienta",
+   "en": "Bulletstorm"
+  },
+  "icon": "icons/bdo/04_pc_skill/01_pc_skill/34_pgms_skill/pgms_skill_9899.webp",
+  "level": 54,
+  "combat": true
+ },
+ {
+  "id": 2076,
+  "name": {
+   "esES": "Cazador hábil",
+   "es419": "Cazador Experto",
+   "en": "Skilled Hunter"
+  },
+  "icon": "icons/bdo/04_pc_skill/01_pc_skill/06_pkm_skill/pkm_skill_2072.webp",
+  "level": 60,
+  "combat": true
+ },
+ {
+  "id": 7975,
+  "name": {
+   "esES": "Cénit: Anillo de muerte",
+   "es419": "S: Aro de la Muerte",
+   "en": "Prime: Death Ring"
+  },
+  "icon": "icons/bdo/04_pc_skill/01_pc_skill/34_pgms_skill/pgms_skill_7972.webp",
+  "level": 60,
+  "combat": true
+ },
+ {
+  "id": 7986,
+  "name": {
+   "esES": "Cénit: Arma oculta",
+   "es419": "S: Detrás de la Máscara",
+   "en": "Prime: Concealed Weapon"
+  },
+  "icon": "icons/bdo/04_pc_skill/01_pc_skill/34_pgms_skill/pgms_skill_7986.webp",
+  "level": 57,
+  "combat": true
+ },
+ {
+  "id": 9985,
+  "name": {
+   "esES": "Cénit: Bala mágica de la Muerte",
+   "es419": "S: Hexround de la Muerte",
+   "en": "Prime: Hexround Reaper"
+  },
+  "icon": "icons/bdo/04_pc_skill/01_pc_skill/34_pgms_skill/pgms_skill_9985.webp",
+  "level": 56,
+  "combat": true
+ },
+ {
+  "id": 9967,
+  "name": {
+   "esES": "Cénit: Bala mágica: Activar",
+   "es419": "S: Hexround: Orden de Activación",
+   "en": "Prime: Hexround: Engage"
+  },
+  "icon": "icons/bdo/04_pc_skill/01_pc_skill/34_pgms_skill/pgms_skill_9967.webp",
+  "level": 56,
+  "combat": true
+ },
+ {
+  "id": 9984,
+  "name": {
+   "esES": "Cénit: Bala mágica: Sobrecarga",
+   "es419": "S: Hexround: Protocolo de Refuerzo",
+   "en": "Prime: Hexround: Overclock"
+  },
+  "icon": "icons/bdo/04_pc_skill/01_pc_skill/34_pgms_skill/pgms_skill_9984.webp",
+  "level": 60,
+  "combat": true
+ },
+ {
+  "id": 7971,
+  "name": {
+   "esES": "Cénit: Baño de sangre",
+   "es419": "S: Tempestad Sangrienta",
+   "en": "Prime: Bulletstorm"
+  },
+  "icon": "icons/bdo/04_pc_skill/01_pc_skill/34_pgms_skill/pgms_skill_7968.webp",
+  "level": 60,
+  "combat": true
+ },
+ {
+  "id": 7978,
+  "name": {
+   "esES": "Cénit: Detonación infernal",
+   "es419": "S: Muerte Dispersa",
+   "en": "Prime: Scatterin' Hell"
+  },
+  "icon": "icons/bdo/04_pc_skill/01_pc_skill/34_pgms_skill/pgms_skill_7976.webp",
+  "level": 59,
+  "combat": true
+ },
+ {
+  "id": 7985,
+  "name": {
+   "esES": "Cénit: Disparo de supresión",
+   "es419": "S: Fuego de Contención",
+   "en": "Prime: Suppressive Shot"
+  },
+  "icon": "icons/bdo/04_pc_skill/01_pc_skill/34_pgms_skill/pgms_skill_7985.webp",
+  "level": 56,
+  "combat": true
+ },
+ {
+  "id": 7967,
+  "name": {
+   "esES": "Cénit: Hálito de muerte",
+   "es419": "S: Último Suspiro",
+   "en": "Prime: Last Words"
+  },
+  "icon": "icons/bdo/04_pc_skill/01_pc_skill/34_pgms_skill/pgms_skill_7964.webp",
+  "level": 60,
+  "combat": true
+ },
+ {
+  "id": 7991,
+  "name": {
+   "esES": "Cénit: Misericordia de la Muerte",
+   "es419": "S: Misericordia de la Muerte",
+   "en": "Prime: Reaper's Mercy"
+  },
+  "icon": "icons/bdo/04_pc_skill/01_pc_skill/34_pgms_skill/pgms_skill_7991.webp",
+  "level": 59,
+  "combat": true
+ },
+ {
+  "id": 7981,
+  "name": {
+   "esES": "Cénit: Operación de demolición",
+   "es419": "S: Sabotaje Explosivo",
+   "en": "Prime: Demolition Operation"
+  },
+  "icon": "icons/bdo/04_pc_skill/01_pc_skill/34_pgms_skill/pgms_skill_7979.webp",
+  "level": 60,
+  "combat": true
+ },
+ {
+  "id": 7990,
+  "name": {
+   "esES": "Cénit: Polvo de obsidiana",
+   "es419": "S: Polvo de obsidiana",
+   "en": "Prime: Obsidian Powder"
+  },
+  "icon": "icons/bdo/04_pc_skill/01_pc_skill/34_pgms_skill/pgms_skill_7990.webp",
+  "level": 60,
+  "combat": true
+ },
+ {
+  "id": 7988,
+  "name": {
+   "esES": "Cénit: Técnica Mozambique",
+   "es419": "S: Ejercicio Mozambique",
+   "en": "Prime: Mozambique Drill"
+  },
+  "icon": "icons/bdo/04_pc_skill/01_pc_skill/34_pgms_skill/pgms_skill_7988.webp",
+  "level": 58,
+  "combat": true
+ },
+ {
+  "id": 7987,
+  "name": {
+   "esES": "Cénit: Tiro en acción",
+   "es419": "S: Tiro Móvil",
+   "en": "Prime: Run 'N Gun"
+  },
+  "icon": "icons/bdo/04_pc_skill/01_pc_skill/34_pgms_skill/pgms_skill_7987.webp",
+  "level": 56,
+  "combat": true
+ },
+ {
+  "id": 7984,
+  "name": {
+   "esES": "Cénit: Tiroteo de la Muerte",
+   "es419": "S: Bombardeo de la Muerte",
+   "en": "Prime: Reaper's Barrage"
+  },
+  "icon": "icons/bdo/04_pc_skill/01_pc_skill/34_pgms_skill/pgms_skill_7982.webp",
+  "level": 60,
+  "combat": true
+ },
+ {
+  "id": 9968,
+  "name": {
+   "esES": "Cénit: Valentía de Gannicus",
+   "es419": "S: Valor de Gannicus",
+   "en": "Prime: Gannicus's Gambit"
+  },
+  "icon": "icons/bdo/04_pc_skill/01_pc_skill/34_pgms_skill/pgms_skill_9968.webp",
+  "level": 56,
+  "combat": true
+ },
+ {
+  "id": 7989,
+  "name": {
+   "esES": "Cénit: Voltereta mortífera",
+   "es419": "S: Ráfaga Descendente",
+   "en": "Prime: Death Comes Spinnin'"
+  },
+  "icon": "icons/bdo/04_pc_skill/01_pc_skill/34_pgms_skill/pgms_skill_7989.webp",
+  "level": 57,
+  "combat": true
+ },
+ {
+  "id": 9908,
+  "name": {
+   "esES": "Culatazo",
+   "es419": "Culatazo de Pistola",
+   "en": "Pistol Whip"
+  },
+  "icon": "icons/bdo/04_pc_skill/01_pc_skill/34_pgms_skill/pgms_skill_9907.webp",
+  "level": 33,
+  "combat": true
+ },
+ {
+  "id": 9928,
+  "name": {
+   "esES": "Definitiva: Anillo de muerte",
+   "es419": "Supremo: Aro de la Muerte",
+   "en": "Absolute: Death Ring"
+  },
+  "icon": "icons/bdo/04_pc_skill/01_pc_skill/34_pgms_skill/pgms_skill_9928.webp",
+  "level": 56,
+  "combat": true
+ },
+ {
+  "id": 9879,
+  "name": {
+   "esES": "Definitiva: Arma oculta",
+   "es419": "Supremo: Detrás de la Máscara",
+   "en": "Absolute: Concealed Weapon"
+  },
+  "icon": "icons/bdo/04_pc_skill/01_pc_skill/34_pgms_skill/pgms_skill_9879.webp",
+  "level": 58,
+  "combat": true
+ },
+ {
+  "id": 9902,
+  "name": {
+   "esES": "Definitiva: Baño de sangre",
+   "es419": "Suprema: Tempestad Sangrienta",
+   "en": "Absolute: Bulletstorm"
+  },
+  "icon": "icons/bdo/04_pc_skill/01_pc_skill/34_pgms_skill/pgms_skill_9902.webp",
+  "level": 60,
+  "combat": true
+ },
+ {
+  "id": 9909,
+  "name": {
+   "esES": "Definitiva: Culatazo",
+   "es419": "Supremo: Culatazo de Pistola",
+   "en": "Absolute: Pistol Whip"
+  },
+  "icon": "icons/bdo/04_pc_skill/01_pc_skill/34_pgms_skill/pgms_skill_9909.webp",
+  "level": 56,
+  "combat": true
+ },
+ {
+  "id": 9935,
+  "name": {
+   "esES": "Definitiva: Detonación infernal",
+   "es419": "Suprema: Muerte Dispersa",
+   "en": "Absolute: Scatterin' Hell"
+  },
+  "icon": "icons/bdo/04_pc_skill/01_pc_skill/34_pgms_skill/pgms_skill_9935.webp",
+  "level": 56,
+  "combat": true
+ },
+ {
+  "id": 9898,
+  "name": {
+   "esES": "Definitiva: Disparo de supresión",
+   "es419": "Supremo: Fuego de Contención",
+   "en": "Absolute: Suppressive Shot"
+  },
+  "icon": "icons/bdo/04_pc_skill/01_pc_skill/34_pgms_skill/pgms_skill_9898.webp",
+  "level": 58,
+  "combat": true
+ },
+ {
+  "id": 9891,
+  "name": {
+   "esES": "Definitiva: Doble patada giratoria",
+   "es419": "Suprema: Patada de Presión",
+   "en": "Absolute: Spin Kick"
+  },
+  "icon": "icons/bdo/04_pc_skill/01_pc_skill/34_pgms_skill/pgms_skill_9891.webp",
+  "level": 56,
+  "combat": true
+ },
+ {
+  "id": 9871,
+  "name": {
+   "esES": "Definitiva: Dominio de armas de fuego",
+   "es419": "Suprema: Puntería Refinada",
+   "en": "Absolute: Firearms Mastery"
+  },
+  "icon": "icons/bdo/04_pc_skill/01_pc_skill/34_pgms_skill/pgms_skill_9871.webp",
+  "level": 56,
+  "combat": true
+ },
+ {
+  "id": 9931,
+  "name": {
+   "esES": "Definitiva: Evasión explosiva",
+   "es419": "Suprema: Detonación Evasiva",
+   "en": "Absolute: Evasive Detonation"
+  },
+  "icon": "icons/bdo/04_pc_skill/01_pc_skill/34_pgms_skill/pgms_skill_9931.webp",
+  "level": 56,
+  "combat": true
+ },
+ {
+  "id": 9906,
+  "name": {
+   "esES": "Definitiva: Hálito de muerte",
+   "es419": "Supremo: Último Suspiro",
+   "en": "Absolute: Last Words"
+  },
+  "icon": "icons/bdo/04_pc_skill/01_pc_skill/34_pgms_skill/pgms_skill_9906.webp",
+  "level": 60,
+  "combat": true
+ },
+ {
+  "id": 9913,
+  "name": {
+   "esES": "Definitiva: Misericordia de la Muerte",
+   "es419": "Suprema: Misericordia de la Muerte",
+   "en": "Absolute: Reaper's Mercy"
+  },
+  "icon": "icons/bdo/04_pc_skill/01_pc_skill/34_pgms_skill/pgms_skill_9913.webp",
+  "level": 57,
+  "combat": true
+ },
+ {
+  "id": 9942,
+  "name": {
+   "esES": "Definitiva: Operación de demolición",
+   "es419": "Supremo: Sabotaje Explosivo",
+   "en": "Absolute: Demolition Operation"
+  },
+  "icon": "icons/bdo/04_pc_skill/01_pc_skill/34_pgms_skill/pgms_skill_9942.webp",
+  "level": 57,
+  "combat": true
+ },
+ {
+  "id": 9924,
+  "name": {
+   "esES": "Definitiva: Pandemonio",
+   "es419": "Suprema: Caos",
+   "en": "Absolute: Mayhem"
+  },
+  "icon": "icons/bdo/04_pc_skill/01_pc_skill/34_pgms_skill/pgms_skill_9924.webp",
+  "level": 56,
+  "combat": true
+ },
+ {
+  "id": 9875,
+  "name": {
+   "esES": "Definitiva: Técnica Mozambique",
+   "es419": "Supremo: Ejercicio Mozambique",
+   "en": "Absolute: Mozambique Drill"
+  },
+  "icon": "icons/bdo/04_pc_skill/01_pc_skill/34_pgms_skill/pgms_skill_9875.webp",
+  "level": 56,
+  "combat": true
+ },
+ {
+  "id": 9884,
+  "name": {
+   "esES": "Definitiva: Tiro en acción",
+   "es419": "Supremo: Tiro Móvil",
+   "en": "Absolute: Run 'N Gun"
+  },
+  "icon": "icons/bdo/04_pc_skill/01_pc_skill/34_pgms_skill/pgms_skill_9884.webp",
+  "level": 57,
+  "combat": true
+ },
+ {
+  "id": 9888,
+  "name": {
+   "esES": "Definitiva: Tiroteo de la Muerte",
+   "es419": "Supremo: Bombardeo de la Muerte",
+   "en": "Absolute: Reaper's Barrage"
+  },
+  "icon": "icons/bdo/04_pc_skill/01_pc_skill/34_pgms_skill/pgms_skill_9888.webp",
+  "level": 58,
+  "combat": true
+ },
+ {
+  "id": 9920,
+  "name": {
+   "esES": "Definitiva: Voltereta mortífera",
+   "es419": "Suprema: Ráfaga Descendente",
+   "en": "Absolute: Death Comes Spinnin'"
+  },
+  "icon": "icons/bdo/04_pc_skill/01_pc_skill/34_pgms_skill/pgms_skill_9920.webp",
+  "level": 57,
+  "combat": true
+ },
+ {
+  "id": 9934,
+  "name": {
+   "esES": "Detonación infernal",
+   "es419": "Muerte Dispersa",
+   "en": "Scatterin' Hell"
+  },
+  "icon": "icons/bdo/04_pc_skill/01_pc_skill/34_pgms_skill/pgms_skill_9932.webp",
+  "level": 43,
+  "combat": true
+ },
+ {
+  "id": 9897,
+  "name": {
+   "esES": "Disparo de supresión",
+   "es419": "Fuego de Contención",
+   "en": "Suppressive Shot"
+  },
+  "icon": "icons/bdo/04_pc_skill/01_pc_skill/34_pgms_skill/pgms_skill_9895.webp",
+  "level": 44,
+  "combat": true
+ },
+ {
+  "id": 9890,
+  "name": {
+   "esES": "Doble patada giratoria",
+   "es419": "Patada de Presión",
+   "en": "Spin Kick"
+  },
+  "icon": "icons/bdo/04_pc_skill/01_pc_skill/34_pgms_skill/pgms_skill_9889.webp",
+  "level": 32,
+  "combat": true
+ },
+ {
+  "id": 9870,
+  "name": {
+   "esES": "Dominio de armas de fuego",
+   "es419": "Puntería Refinada",
+   "en": "Firearms Mastery"
+  },
+  "icon": "icons/bdo/04_pc_skill/01_pc_skill/34_pgms_skill/pgms_skill_9861.webp",
+  "level": 54,
+  "combat": true
+ },
+ {
+  "id": 9860,
+  "name": {
+   "esES": "Evasión",
+   "es419": "Evasión",
+   "en": "Evasion"
+  },
+  "icon": "icons/bdo/04_pc_skill/01_pc_skill/34_pgms_skill/pgms_skill_9860.webp",
+  "level": 1,
+  "combat": true
+ },
+ {
+  "id": 9965,
+  "name": {
+   "esES": "Evasión deslizante",
+   "es419": "Retirada Táctica",
+   "en": "Tactical Retreat"
+  },
+  "icon": "icons/bdo/04_pc_skill/01_pc_skill/34_pgms_skill/pgms_skill_9964.webp",
+  "level": 35,
+  "combat": true
+ },
+ {
+  "id": 9930,
+  "name": {
+   "esES": "Evasión explosiva",
+   "es419": "Detonación Evasiva",
+   "en": "Evasive Detonation"
+  },
+  "icon": "icons/bdo/04_pc_skill/01_pc_skill/34_pgms_skill/pgms_skill_9929.webp",
+  "level": 39,
+  "combat": true
+ },
+ {
+  "id": 4856,
+  "name": {
+   "esES": "Gran poder",
+   "es419": "Gran Poder",
+   "en": "Unyielding Might"
+  },
+  "icon": "icons/bdo/04_pc_skill/01_pc_skill/00_common/common_skill_18705.webp",
+  "level": 62,
+  "combat": true
+ },
+ {
+  "id": 9905,
+  "name": {
+   "esES": "Hálito de muerte",
+   "es419": "Último Suspiro",
+   "en": "Last Words"
+  },
+  "icon": "icons/bdo/04_pc_skill/01_pc_skill/34_pgms_skill/pgms_skill_9903.webp",
+  "level": 50,
+  "combat": true
+ },
+ {
+  "id": 9992,
+  "name": {
+   "esES": "Letusa",
+   "es419": "Letusa",
+   "en": "Letusa"
+  },
+  "icon": "icons/bdo/04_pc_skill/01_pc_skill/34_pgms_skill/pgms_skill_9992.webp",
+  "level": 57,
+  "combat": true
+ },
+ {
+  "id": 1707,
+  "name": {
+   "esES": "Maestría infinita",
+   "es419": "Maestría Infinita",
+   "en": "Infinite Mastery"
+  },
+  "icon": "icons/bdo/04_pc_skill/01_pc_skill/00_common/common_skill_1702.webp",
+  "level": 55,
+  "combat": true
+ },
+ {
+  "id": 9912,
+  "name": {
+   "esES": "Misericordia de la Muerte",
+   "es419": "Misericordia de la Muerte",
+   "en": "Reaper's Mercy"
+  },
+  "icon": "icons/bdo/04_pc_skill/01_pc_skill/34_pgms_skill/pgms_skill_9910.webp",
+  "level": 40,
+  "combat": true
+ },
+ {
+  "id": 9880,
+  "name": {
+   "esES": "Movimiento: Bala de la verdad",
+   "es419": "Flujo: Verdades Ocultas",
+   "en": "Flow: Bullet of Truth"
+  },
+  "icon": "icons/bdo/04_pc_skill/01_pc_skill/34_pgms_skill/pgms_skill_9880.webp",
+  "level": 8,
+  "combat": true
+ },
+ {
+  "id": 9936,
+  "name": {
+   "esES": "Movimiento: Disparo fugaz",
+   "es419": "Flujo: Fuego en Avance",
+   "en": "Flow: Dash 'N Fire"
+  },
+  "icon": "icons/bdo/04_pc_skill/01_pc_skill/34_pgms_skill/pgms_skill_9936.webp",
+  "level": 6,
+  "combat": true
+ },
+ {
+  "id": 9937,
+  "name": {
+   "esES": "Movimiento: Reposición",
+   "es419": "Flujo: Reposicionamiento Táctico",
+   "en": "Flow: Reposition"
+  },
+  "icon": "icons/bdo/04_pc_skill/01_pc_skill/34_pgms_skill/pgms_skill_9937.webp",
+  "level": 11,
+  "combat": true
+ },
+ {
+  "id": 9991,
+  "name": {
+   "esES": "Nantusa",
+   "es419": "Peleador",
+   "en": "Nantusa"
+  },
+  "icon": "icons/bdo/04_pc_skill/01_pc_skill/34_pgms_skill/pgms_skill_9991.webp",
+  "level": 57,
+  "combat": true
+ },
+ {
+  "id": 9941,
+  "name": {
+   "esES": "Operación de demolición",
+   "es419": "Sabotaje Explosivo",
+   "en": "Demolition Operation"
+  },
+  "icon": "icons/bdo/04_pc_skill/01_pc_skill/34_pgms_skill/pgms_skill_9939.webp",
+  "level": 41,
+  "combat": true
+ },
+ {
+  "id": 9963,
+  "name": {
+   "esES": "Orden tactica",
+   "es419": "Conducta Táctica",
+   "en": "Tactical Directive"
+  },
+  "icon": "icons/bdo/04_pc_skill/01_pc_skill/34_pgms_skill/pgms_skill_9963.webp",
+  "level": 20,
+  "combat": true
+ },
+ {
+  "id": 9923,
+  "name": {
+   "esES": "Pandemonio",
+   "es419": "Caos",
+   "en": "Mayhem"
+  },
+  "icon": "icons/bdo/04_pc_skill/01_pc_skill/34_pgms_skill/pgms_skill_9921.webp",
+  "level": 43,
+  "combat": true
+ },
+ {
+  "id": 9966,
+  "name": {
+   "esES": "Parpadeo",
+   "es419": "Parpadeo",
+   "en": "Blink"
+  },
+  "icon": "icons/bdo/04_pc_skill/01_pc_skill/34_pgms_skill/pgms_skill_9966.webp",
+  "level": 14,
+  "combat": true
+ },
+ {
+  "id": 9970,
+  "name": {
+   "esES": "Pecado",
+   "es419": "Pecado",
+   "en": "Sin"
+  },
+  "icon": "icons/bdo/04_pc_skill/01_pc_skill/34_pgms_skill/pgms_skill_9970.webp",
+  "level": 56,
+  "combat": true
+ },
+ {
+  "id": 9994,
+  "name": {
+   "esES": "Proyectil explosivo",
+   "es419": "Munición especial - Explosivo",
+   "en": "Explosive Round"
+  },
+  "icon": "icons/bdo/04_pc_skill/01_pc_skill/34_pgms_skill/pgms_skill_9994.webp",
+  "level": 58,
+  "combat": true
+ },
+ {
+  "id": 9993,
+  "name": {
+   "esES": "Proyectil perforante",
+   "es419": "Munición especial - Perforante",
+   "en": "Piercing Round"
+  },
+  "icon": "icons/bdo/04_pc_skill/01_pc_skill/34_pgms_skill/pgms_skill_9993.webp",
+  "level": 58,
+  "combat": true
+ },
+ {
+  "id": 9971,
+  "name": {
+   "esES": "Redención",
+   "es419": "Expiación",
+   "en": "Penance"
+  },
+  "icon": "icons/bdo/04_pc_skill/01_pc_skill/34_pgms_skill/pgms_skill_9971.webp",
+  "level": 56,
+  "combat": true
+ },
+ {
+  "id": 9962,
+  "name": {
+   "esES": "Reglas de combate",
+   "es419": "Reglas de Enfrentamiento",
+   "en": "Rules of Engagement"
+  },
+  "icon": "icons/bdo/04_pc_skill/01_pc_skill/34_pgms_skill/pgms_skill_9943.webp",
+  "level": 60,
+  "combat": true
+ },
+ {
+  "id": 92,
+  "name": {
+   "esES": "Retirada oscura",
+   "es419": "Escape de Emergencia",
+   "en": "Emergency Escape"
+  },
+  "icon": "icons/bdo/04_pc_skill/01_pc_skill/00_common/common_skill_0092.webp",
+  "level": 1,
+  "combat": true
+ },
+ {
+  "id": 9874,
+  "name": {
+   "esES": "Técnica Mozambique",
+   "es419": "Ejercicio Mozambique",
+   "en": "Mozambique Drill"
+  },
+  "icon": "icons/bdo/04_pc_skill/01_pc_skill/34_pgms_skill/pgms_skill_9872.webp",
+  "level": 35,
+  "combat": true
+ },
+ {
+  "id": 9883,
+  "name": {
+   "esES": "Tiro en acción",
+   "es419": "Tiro Móvil",
+   "en": "Run 'N Gun"
+  },
+  "icon": "icons/bdo/04_pc_skill/01_pc_skill/34_pgms_skill/pgms_skill_9881.webp",
+  "level": 39,
+  "combat": true
+ },
+ {
+  "id": 9887,
+  "name": {
+   "esES": "Tiroteo de la Muerte",
+   "es419": "Bombardeo de la Muerte",
+   "en": "Reaper's Barrage"
+  },
+  "icon": "icons/bdo/04_pc_skill/01_pc_skill/34_pgms_skill/pgms_skill_9885.webp",
+  "level": 52,
+  "combat": true
+ },
+ {
+  "id": 91,
+  "name": {
+   "esES": "Transfuria",
+   "es419": "Transferencia de Furia",
+   "en": "Rage Transfer"
+  },
+  "icon": "icons/bdo/04_pc_skill/01_pc_skill/00_common/common_skill_0091.webp",
+  "level": 35,
+  "combat": true
+ },
+ {
+  "id": 9919,
+  "name": {
+   "esES": "Voltereta mortífera",
+   "es419": "Ráfaga Descendente",
+   "en": "Death Comes Spinnin'"
+  },
+  "icon": "icons/bdo/04_pc_skill/01_pc_skill/34_pgms_skill/pgms_skill_9917.webp",
+  "level": 45,
+  "combat": true
+ }
+]

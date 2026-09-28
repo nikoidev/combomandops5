@@ -1,0 +1,1454 @@
+[
+ {
+  "id": 867,
+  "name": {
+   "esES": "Absorción de maná",
+   "es419": "Absorción de Mana",
+   "en": "Mana Absorption"
+  },
+  "icon": "icons/bdo/04_pc_skill/01_pc_skill/08_pwm_skill/pwm_skill_0865.webp",
+  "level": 45,
+  "combat": true
+ },
+ {
+  "id": 903,
+  "name": {
+   "esES": "Aura de curación",
+   "es419": "Energía Curativa",
+   "en": "Healing Aura"
+  },
+  "icon": "icons/bdo/04_pc_skill/01_pc_skill/08_pwm_skill/pwm_skill_0899.webp",
+  "level": 45,
+  "combat": true
+ },
+ {
+  "id": 886,
+  "name": {
+   "esES": "Bastonazo",
+   "es419": "Ataque con Vara",
+   "en": "Staff Attack"
+  },
+  "icon": "icons/bdo/04_pc_skill/01_pc_skill/08_pwm_skill/pwm_skill_0877.webp",
+  "level": 54,
+  "combat": true
+ },
+ {
+  "id": 821,
+  "name": {
+   "esES": "Bola de fuego",
+   "es419": "Bola de Fuego",
+   "en": "Fireball"
+  },
+  "icon": "icons/bdo/04_pc_skill/01_pc_skill/08_pwm_skill/pwm_skill_0818.webp",
+  "level": 30,
+  "combat": true
+ },
+ {
+  "id": 830,
+  "name": {
+   "esES": "Cadena de relámpagos",
+   "es419": "Cadena de Relámpagos",
+   "en": "Lightning Chain"
+  },
+  "icon": "icons/bdo/04_pc_skill/01_pc_skill/08_pwm_skill/pwm_skill_0827.webp",
+  "level": 46,
+  "combat": true
+ },
+ {
+  "id": 2212,
+  "name": {
+   "esES": "Campo de lava",
+   "es419": "Zona de Lava",
+   "en": "Lava Field"
+  },
+  "icon": "icons/bdo/04_pc_skill/01_pc_skill/08_pwm_skill/pwm_skill_2212.webp",
+  "level": 56,
+  "combat": true
+ },
+ {
+  "id": 2251,
+  "name": {
+   "esES": "Cañonazo acuático",
+   "es419": "Torrente de Agua",
+   "en": "Torrential Cascade"
+  },
+  "icon": "icons/bdo/04_pc_skill/01_pc_skill/08_pwm_skill/pwm_skill_2251.webp",
+  "level": 56,
+  "combat": true
+ },
+ {
+  "id": 2235,
+  "name": {
+   "esES": "Cataclismo",
+   "es419": "Catástrofe",
+   "en": "Cataclysm"
+  },
+  "icon": "icons/bdo/04_pc_skill/01_pc_skill/08_pwm_skill/pwm_skill_2232.webp",
+  "level": 60,
+  "combat": true
+ },
+ {
+  "id": 4991,
+  "name": {
+   "esES": "Cénit: Bola de fuego",
+   "es419": "S : Bola de Fuego",
+   "en": "Prime: Fireball"
+  },
+  "icon": "icons/bdo/04_pc_skill/01_pc_skill/08_pwm_skill/pwm_skill_4941.webp",
+  "level": 58,
+  "combat": true
+ },
+ {
+  "id": 5310,
+  "name": {
+   "esES": "Cénit: Chispazo (combo)",
+   "es419": "S : Relámpago Residual : Combinación",
+   "en": "Prime: Residual Lightning: Combo"
+  },
+  "icon": "icons/bdo/04_pc_skill/01_pc_skill/08_pwm_skill/pwm_skill_4952.webp",
+  "level": 59,
+  "combat": true
+ },
+ {
+  "id": 5312,
+  "name": {
+   "esES": "Cénit: Chispazo mayor",
+   "es419": "S : Relámpago Residual : Alta Presión",
+   "en": "Prime: Residual Lightning: High Voltage"
+  },
+  "icon": "icons/bdo/04_pc_skill/01_pc_skill/08_pwm_skill/pwm_skill_4953.webp",
+  "level": 59,
+  "combat": true
+ },
+ {
+  "id": 4998,
+  "name": {
+   "esES": "Cénit: Descarga eléctrica: concentración",
+   "es419": "S : Descarga Residual : Concentración",
+   "en": "Prime: Voltaic Discharge: Focus"
+  },
+  "icon": "icons/bdo/04_pc_skill/01_pc_skill/08_pwm_skill/pwm_skill_4998.webp",
+  "level": 60,
+  "combat": true
+ },
+ {
+  "id": 4999,
+  "name": {
+   "esES": "Cénit: Descarga eléctrica: dispersión",
+   "es419": "S : Descarga Residual : Expansión",
+   "en": "Prime: Voltaic Discharge: Diffuse"
+  },
+  "icon": "icons/bdo/04_pc_skill/01_pc_skill/08_pwm_skill/pwm_skill_4999.webp",
+  "level": 60,
+  "combat": true
+ },
+ {
+  "id": 5314,
+  "name": {
+   "esES": "Cénit: Esquirlas pétreas",
+   "es419": "S : Flecha de la Tierra",
+   "en": "Prime: Earth Arrow"
+  },
+  "icon": "icons/bdo/04_pc_skill/01_pc_skill/08_pwm_skill/pwm_skill_4956.webp",
+  "level": 58,
+  "combat": true
+ },
+ {
+  "id": 4993,
+  "name": {
+   "esES": "Cénit: Explosión ardiente (área)",
+   "es419": "S : Explosión de Fuego : Área Amplia",
+   "en": "Prime: Fireball Explosion: Areal"
+  },
+  "icon": "icons/bdo/04_pc_skill/01_pc_skill/08_pwm_skill/pwm_skill_4942.webp",
+  "level": 60,
+  "combat": true
+ },
+ {
+  "id": 4995,
+  "name": {
+   "esES": "Cénit: Explosión ardiente (expansiva)",
+   "es419": "S : Explosión de Fuego : Despliegue",
+   "en": "Prime: Fireball Explosion: Spread"
+  },
+  "icon": "icons/bdo/04_pc_skill/01_pc_skill/08_pwm_skill/pwm_skill_4943.webp",
+  "level": 60,
+  "combat": true
+ },
+ {
+  "id": 4967,
+  "name": {
+   "esES": "Cénit: Fuego cósmico",
+   "es419": "S : Fuego de la Ruina",
+   "en": "Prime: Bolide of Destruction"
+  },
+  "icon": "icons/bdo/04_pc_skill/01_pc_skill/08_pwm_skill/pwm_skill_4967.webp",
+  "level": 59,
+  "combat": true
+ },
+ {
+  "id": 5302,
+  "name": {
+   "esES": "Cénit: Glaciación",
+   "es419": "S : Congelado",
+   "en": "Prime: Freeze"
+  },
+  "icon": "icons/bdo/04_pc_skill/01_pc_skill/08_pwm_skill/pwm_skill_4946.webp",
+  "level": 58,
+  "combat": true
+ },
+ {
+  "id": 4949,
+  "name": {
+   "esES": "Cénit: Gran ventisca",
+   "es419": "S : Tormenta de Nieve : Dominio",
+   "en": "Prime: Blizzard: Domain"
+  },
+  "icon": "icons/bdo/04_pc_skill/01_pc_skill/08_pwm_skill/pwm_skill_4949.webp",
+  "level": 60,
+  "combat": true
+ },
+ {
+  "id": 4944,
+  "name": {
+   "esES": "Cénit: Lluvia de meteoritos (área)",
+   "es419": "S : Lluvia de Meteoros : Área Amplia",
+   "en": "Prime: Meteor Shower: Areal"
+  },
+  "icon": "icons/bdo/04_pc_skill/01_pc_skill/08_pwm_skill/pwm_skill_4944.webp",
+  "level": 60,
+  "combat": true
+ },
+ {
+  "id": 4945,
+  "name": {
+   "esES": "Cénit: Lluvia de meteoritos (dirigida)",
+   "es419": "S : Lluvia de Meteoros : Concentración",
+   "en": "Prime: Meteor Shower: Focus"
+  },
+  "icon": "icons/bdo/04_pc_skill/01_pc_skill/08_pwm_skill/pwm_skill_4945.webp",
+  "level": 60,
+  "combat": true
+ },
+ {
+  "id": 4981,
+  "name": {
+   "esES": "Cénit: Movimiento elemental",
+   "es419": "S : Flujo del Elemento",
+   "en": "Prime: Elemental Flow"
+  },
+  "icon": "icons/bdo/04_pc_skill/01_pc_skill/08_pwm_skill/pwm_skill_4935.webp",
+  "level": 56,
+  "combat": true
+ },
+ {
+  "id": 5306,
+  "name": {
+   "esES": "Cénit: Niebla gélida aprisionadora",
+   "es419": "S : Neblina Fría : Supresión",
+   "en": "Prime: Frigid Fog: Control"
+  },
+  "icon": "icons/bdo/04_pc_skill/01_pc_skill/08_pwm_skill/pwm_skill_4948.webp",
+  "level": 58,
+  "combat": true
+ },
+ {
+  "id": 5304,
+  "name": {
+   "esES": "Cénit: Niebla gélida disruptora",
+   "es419": "S : Neblina Fría : Interrupción",
+   "en": "Prime: Frigid Fog: Disrupt"
+  },
+  "icon": "icons/bdo/04_pc_skill/01_pc_skill/08_pwm_skill/pwm_skill_4947.webp",
+  "level": 58,
+  "combat": true
+ },
+ {
+  "id": 4934,
+  "name": {
+   "esES": "Cénit: Palacio elemental",
+   "es419": "S : Palacio del Elemento",
+   "en": "Prime: Elemental Palace"
+  },
+  "icon": "icons/bdo/04_pc_skill/01_pc_skill/08_pwm_skill/pwm_skill_4934.webp",
+  "level": 56,
+  "combat": true
+ },
+ {
+  "id": 4963,
+  "name": {
+   "esES": "Cénit: Pulso voltaico",
+   "es419": "S : Onda de Luz",
+   "en": "Prime: Voltaic Pulse"
+  },
+  "icon": "icons/bdo/04_pc_skill/01_pc_skill/08_pwm_skill/pwm_skill_4963.webp",
+  "level": 59,
+  "combat": true
+ },
+ {
+  "id": 5308,
+  "name": {
+   "esES": "Cénit: Relámpago",
+   "es419": "S : Relámpago",
+   "en": "Prime: Lightning"
+  },
+  "icon": "icons/bdo/04_pc_skill/01_pc_skill/08_pwm_skill/pwm_skill_4951.webp",
+  "level": 58,
+  "combat": true
+ },
+ {
+  "id": 4965,
+  "name": {
+   "esES": "Cénit: Remolino agónico",
+   "es419": "S : Explosión Acuática",
+   "en": "Prime: Aqua Jail Explosion"
+  },
+  "icon": "icons/bdo/04_pc_skill/01_pc_skill/08_pwm_skill/pwm_skill_4965.webp",
+  "level": 58,
+  "combat": true
+ },
+ {
+  "id": 4961,
+  "name": {
+   "esES": "Cénit: Ruptura de equilibrio",
+   "es419": "S : Destrucción del Equilibrio",
+   "en": "Prime: Equilibrium Break"
+  },
+  "icon": "icons/bdo/04_pc_skill/01_pc_skill/08_pwm_skill/pwm_skill_4961.webp",
+  "level": 58,
+  "combat": true
+ },
+ {
+  "id": 4972,
+  "name": {
+   "esES": "Cénit: Salva de flechas mágicas",
+   "es419": "S : Múltiples Flechas Mágicas",
+   "en": "Prime: Multiple Magic Arrows"
+  },
+  "icon": "icons/bdo/04_pc_skill/01_pc_skill/08_pwm_skill/pwm_skill_4972.webp",
+  "level": 56,
+  "combat": true
+ },
+ {
+  "id": 4960,
+  "name": {
+   "esES": "Cénit: Terremoto (destrucción)",
+   "es419": "S : Terremoto : Destrucción",
+   "en": "Prime: Earthquake: Destruction"
+  },
+  "icon": "icons/bdo/04_pc_skill/01_pc_skill/08_pwm_skill/pwm_skill_4960.webp",
+  "level": 59,
+  "combat": true
+ },
+ {
+  "id": 4959,
+  "name": {
+   "esES": "Cénit: Terremoto (evasión)",
+   "es419": "S : Terremoto : Evasión",
+   "en": "Prime: Earthquake: Evade"
+  },
+  "icon": "icons/bdo/04_pc_skill/01_pc_skill/08_pwm_skill/pwm_skill_4959.webp",
+  "level": 59,
+  "combat": true
+ },
+ {
+  "id": 4955,
+  "name": {
+   "esES": "Cénit: Tormenta eléctrica (golpe)",
+   "es419": "S : Tormenta Eléctrica : Golpe Pesado",
+   "en": "Prime: Lightning Storm: Strike"
+  },
+  "icon": "icons/bdo/04_pc_skill/01_pc_skill/08_pwm_skill/pwm_skill_4955.webp",
+  "level": 58,
+  "combat": true
+ },
+ {
+  "id": 4954,
+  "name": {
+   "esES": "Cénit: Tormenta eléctrica mayor",
+   "es419": "S : Tormenta Eléctrica : Alta Presión",
+   "en": "Prime: Lightning Storm: High Voltage"
+  },
+  "icon": "icons/bdo/04_pc_skill/01_pc_skill/08_pwm_skill/pwm_skill_4954.webp",
+  "level": 58,
+  "combat": true
+ },
+ {
+  "id": 4958,
+  "name": {
+   "esES": "Cénit: Venganza de Gaia: Destrucción",
+   "es419": "S : Respuesta de la Tierra : Destrucción",
+   "en": "Prime: Earth's Response: Destruction"
+  },
+  "icon": "icons/bdo/04_pc_skill/01_pc_skill/08_pwm_skill/pwm_skill_4958.webp",
+  "level": 56,
+  "combat": true
+ },
+ {
+  "id": 4957,
+  "name": {
+   "esES": "Cénit: Venganza de Gaia: Movimiento",
+   "es419": "S : Respuesta de la Tierra : Flujo",
+   "en": "Prime: Earth's Response: Flow"
+  },
+  "icon": "icons/bdo/04_pc_skill/01_pc_skill/08_pwm_skill/pwm_skill_4957.webp",
+  "level": 56,
+  "combat": true
+ },
+ {
+  "id": 4950,
+  "name": {
+   "esES": "Cénit: Ventisca violenta",
+   "es419": "S : Tormenta de Nieve : Tormenta",
+   "en": "Prime: Blizzard: Storm"
+  },
+  "icon": "icons/bdo/04_pc_skill/01_pc_skill/08_pwm_skill/pwm_skill_4950.webp",
+  "level": 60,
+  "combat": true
+ },
+ {
+  "id": 859,
+  "name": {
+   "esES": "Chispazo",
+   "es419": "Relámpago Residual",
+   "en": "Residual Lightning"
+  },
+  "icon": "icons/bdo/04_pc_skill/01_pc_skill/08_pwm_skill/pwm_skill_0856.webp",
+  "level": 40,
+  "combat": true
+ },
+ {
+  "id": 3232,
+  "name": {
+   "esES": "Definitiva: Bastonazo",
+   "es419": "Suprema : Ataque con Vara",
+   "en": "Absolute: Staff Attack"
+  },
+  "icon": "icons/bdo/04_pc_skill/01_pc_skill/08_pwm_skill/pwm_skill_3232.webp",
+  "level": 56,
+  "combat": true
+ },
+ {
+  "id": 3132,
+  "name": {
+   "esES": "Definitiva: Bola de fuego",
+   "es419": "Suprema : Bola de Fuego",
+   "en": "Absolute: Fireball"
+  },
+  "icon": "icons/bdo/04_pc_skill/01_pc_skill/08_pwm_skill/pwm_skill_3132.webp",
+  "level": 56,
+  "combat": true
+ },
+ {
+  "id": 3135,
+  "name": {
+   "esES": "Definitiva: Cadena de relámpagos",
+   "es419": "Suprema : Cadena de Relámpagos",
+   "en": "Absolute: Lightning Chain"
+  },
+  "icon": "icons/bdo/04_pc_skill/01_pc_skill/08_pwm_skill/pwm_skill_3135.webp",
+  "level": 57,
+  "combat": true
+ },
+ {
+  "id": 3134,
+  "name": {
+   "esES": "Definitiva: Chispazo",
+   "es419": "Suprema : Relámpago Residual",
+   "en": "Absolute: Residual Lightning"
+  },
+  "icon": "icons/bdo/04_pc_skill/01_pc_skill/08_pwm_skill/pwm_skill_3134.webp",
+  "level": 56,
+  "combat": true
+ },
+ {
+  "id": 3143,
+  "name": {
+   "esES": "Definitiva: Explosión ardiente",
+   "es419": "Suprema : Explosión Bola de Fuego",
+   "en": "Absolute: Fireball Explosion"
+  },
+  "icon": "icons/bdo/04_pc_skill/01_pc_skill/08_pwm_skill/pwm_skill_3143.webp",
+  "level": 56,
+  "combat": true
+ },
+ {
+  "id": 3141,
+  "name": {
+   "esES": "Definitiva: Flecha mágica concentrada",
+   "es419": "Suprema : Flecha de Magia Concentrada",
+   "en": "Absolute: Concentrated Magic Arrow"
+  },
+  "icon": "icons/bdo/04_pc_skill/01_pc_skill/08_pwm_skill/pwm_skill_3141.webp",
+  "level": 56,
+  "combat": true
+ },
+ {
+  "id": 3137,
+  "name": {
+   "esES": "Definitiva: Glaciación",
+   "es419": "Suprema : Congelado",
+   "en": "Absolute: Freeze"
+  },
+  "icon": "icons/bdo/04_pc_skill/01_pc_skill/08_pwm_skill/pwm_skill_3137.webp",
+  "level": 58,
+  "combat": true
+ },
+ {
+  "id": 3131,
+  "name": {
+   "esES": "Definitiva: Lluvia de meteoritos",
+   "es419": "Suprema : Lluvia de Meteoritos",
+   "en": "Absolute: Meteor Shower"
+  },
+  "icon": "icons/bdo/04_pc_skill/01_pc_skill/08_pwm_skill/pwm_skill_3131.webp",
+  "level": 60,
+  "combat": true
+ },
+ {
+  "id": 3138,
+  "name": {
+   "esES": "Definitiva: Niebla helada",
+   "es419": "Suprema : Niebla Fría",
+   "en": "Absolute: Frigid Fog"
+  },
+  "icon": "icons/bdo/04_pc_skill/01_pc_skill/08_pwm_skill/pwm_skill_3138.webp",
+  "level": 56,
+  "combat": true
+ },
+ {
+  "id": 3144,
+  "name": {
+   "esES": "Definitiva: Puñalada",
+   "es419": "Suprema : Puñalada de Daga",
+   "en": "Absolute: Dagger Stab"
+  },
+  "icon": "icons/bdo/04_pc_skill/01_pc_skill/08_pwm_skill/pwm_skill_3144.webp",
+  "level": 58,
+  "combat": true
+ },
+ {
+  "id": 3133,
+  "name": {
+   "esES": "Definitiva: Relámpago",
+   "es419": "Suprema : Relámpago",
+   "en": "Absolute: Lightning"
+  },
+  "icon": "icons/bdo/04_pc_skill/01_pc_skill/08_pwm_skill/pwm_skill_3133.webp",
+  "level": 56,
+  "combat": true
+ },
+ {
+  "id": 3140,
+  "name": {
+   "esES": "Definitiva: Salva de flechas mágicas",
+   "es419": "Suprema : Múltiples Flechas Mágicas",
+   "en": "Absolute: Multiple Magic Arrows"
+  },
+  "icon": "icons/bdo/04_pc_skill/01_pc_skill/08_pwm_skill/pwm_skill_3140.webp",
+  "level": 57,
+  "combat": true
+ },
+ {
+  "id": 3130,
+  "name": {
+   "esES": "Definitiva: Terremoto",
+   "es419": "Suprema : Terremoto",
+   "en": "Absolute: Earthquake"
+  },
+  "icon": "icons/bdo/04_pc_skill/01_pc_skill/08_pwm_skill/pwm_skill_3130.webp",
+  "level": 56,
+  "combat": true
+ },
+ {
+  "id": 3136,
+  "name": {
+   "esES": "Definitiva: Tormenta eléctrica",
+   "es419": "Suprema : Tormenta Eléctrica",
+   "en": "Absolute: Lightning Storm"
+  },
+  "icon": "icons/bdo/04_pc_skill/01_pc_skill/08_pwm_skill/pwm_skill_3136.webp",
+  "level": 58,
+  "combat": true
+ },
+ {
+  "id": 3146,
+  "name": {
+   "esES": "Definitiva: Venganza de Gaia",
+   "es419": "Suprema : Respuesta de la Tierra",
+   "en": "Absolute: Earth's Response"
+  },
+  "icon": "icons/bdo/04_pc_skill/01_pc_skill/08_pwm_skill/pwm_skill_3146.webp",
+  "level": 56,
+  "combat": true
+ },
+ {
+  "id": 3139,
+  "name": {
+   "esES": "Definitiva: Ventisca",
+   "es419": "Suprema : Tormenta de Nieve",
+   "en": "Absolute: Blizzard"
+  },
+  "icon": "icons/bdo/04_pc_skill/01_pc_skill/08_pwm_skill/pwm_skill_3139.webp",
+  "level": 59,
+  "combat": true
+ },
+ {
+  "id": 2224,
+  "name": {
+   "esES": "Entrenamiento con godrsferas",
+   "es419": "Maestría de Godhon",
+   "en": "Godr Sphera Training"
+  },
+  "icon": "icons/bdo/04_pc_skill/01_pc_skill/08_pwm_skill/pwm_skill_2215.webp",
+  "level": 60,
+  "combat": true
+ },
+ {
+  "id": 871,
+  "name": {
+   "esES": "Escudo mágico",
+   "es419": "Escudo Mágico",
+   "en": "Magical Shield"
+  },
+  "icon": "icons/bdo/04_pc_skill/01_pc_skill/08_pwm_skill/pwm_skill_0868.webp",
+  "level": 40,
+  "combat": true
+ },
+ {
+  "id": 2238,
+  "name": {
+   "esES": "Esfera de agua",
+   "es419": "Gema de Agua",
+   "en": "Water Sphere"
+  },
+  "icon": "icons/bdo/04_pc_skill/01_pc_skill/08_pwm_skill/pwm_skill_2236.webp",
+  "level": 60,
+  "combat": true
+ },
+ {
+  "id": 876,
+  "name": {
+   "esES": "Evasión mágica",
+   "es419": "Evasión Mágica",
+   "en": "Magical Evasion"
+  },
+  "icon": "icons/bdo/04_pc_skill/01_pc_skill/08_pwm_skill/pwm_skill_0872.webp",
+  "level": 40,
+  "combat": true
+ },
+ {
+  "id": 849,
+  "name": {
+   "esES": "Explosión ardiente",
+   "es419": "Explosión de Bola de Fuego",
+   "en": "Fireball Explosion"
+  },
+  "icon": "icons/bdo/04_pc_skill/01_pc_skill/08_pwm_skill/pwm_skill_0847.webp",
+  "level": 46,
+  "combat": true
+ },
+ {
+  "id": 854,
+  "name": {
+   "esES": "Flecha mágica",
+   "es419": "Flecha Mágica",
+   "en": "Magic Arrow"
+  },
+  "icon": "icons/bdo/04_pc_skill/01_pc_skill/08_pwm_skill/pwm_skill_0850.webp",
+  "level": 43,
+  "combat": true
+ },
+ {
+  "id": 889,
+  "name": {
+   "esES": "Flecha mágica concentrada",
+   "es419": "Flecha de Magia Concentrada",
+   "en": "Concentrated Magic Arrow"
+  },
+  "icon": "icons/bdo/04_pc_skill/01_pc_skill/08_pwm_skill/pwm_skill_0887.webp",
+  "level": 38,
+  "combat": true
+ },
+ {
+  "id": 2245,
+  "name": {
+   "esES": "Fuego cósmico",
+   "es419": "Fuego de la Ruina",
+   "en": "Bolide of Destruction"
+  },
+  "icon": "icons/bdo/04_pc_skill/01_pc_skill/08_pwm_skill/pwm_skill_2243.webp",
+  "level": 60,
+  "combat": true
+ },
+ {
+  "id": 2242,
+  "name": {
+   "esES": "Fuego infernal",
+   "es419": "Fuego Infernal",
+   "en": "Hellfire"
+  },
+  "icon": "icons/bdo/04_pc_skill/01_pc_skill/08_pwm_skill/pwm_skill_2239.webp",
+  "level": 59,
+  "combat": true
+ },
+ {
+  "id": 2750,
+  "name": {
+   "esES": "Furia de la razón",
+   "es419": "Corazón del Sabio",
+   "en": "Sage's Rage"
+  },
+  "icon": "icons/bdo/04_pc_skill/01_pc_skill/08_pwm_skill/pwm_skill_2750.webp",
+  "level": 56,
+  "combat": true
+ },
+ {
+  "id": 838,
+  "name": {
+   "esES": "Glaciación",
+   "es419": "Congelado",
+   "en": "Freeze"
+  },
+  "icon": "icons/bdo/04_pc_skill/01_pc_skill/08_pwm_skill/pwm_skill_0834.webp",
+  "level": 40,
+  "combat": true
+ },
+ {
+  "id": 2246,
+  "name": {
+   "esES": "Invocación: Guardián Arne",
+   "es419": "Invocar : Guardián Anne",
+   "en": "Summon: Keeper Arne"
+  },
+  "icon": "icons/bdo/04_pc_skill/01_pc_skill/08_pwm_skill/pwm_skill_2246.webp",
+  "level": 56,
+  "combat": true
+ },
+ {
+  "id": 2250,
+  "name": {
+   "esES": "Invocación: Guardián Marg",
+   "es419": "Invocar : Guardián Magg",
+   "en": "Summon: Keeper Marg"
+  },
+  "icon": "icons/bdo/04_pc_skill/01_pc_skill/08_pwm_skill/pwm_skill_2250.webp",
+  "level": 56,
+  "combat": true
+ },
+ {
+  "id": 792,
+  "name": {
+   "esES": "Lluvia de meteoritos",
+   "es419": "Lluvia de Meteoros",
+   "en": "Meteor Shower"
+  },
+  "icon": "icons/bdo/04_pc_skill/01_pc_skill/08_pwm_skill/pwm_skill_0790.webp",
+  "level": 50,
+  "combat": true
+ },
+ {
+  "id": 2749,
+  "name": {
+   "esES": "Luz de la razón",
+   "es419": "Faro del Sabio",
+   "en": "Sage's Light"
+  },
+  "icon": "icons/bdo/04_pc_skill/01_pc_skill/08_pwm_skill/pwm_skill_2749.webp",
+  "level": 56,
+  "combat": true
+ },
+ {
+  "id": 2253,
+  "name": {
+   "esES": "Movimiento: Aliento ardiente de Marg",
+   "es419": "Flujo : Aliento de Fuego de Magg",
+   "en": "Flow: Fire Breath Marg"
+  },
+  "icon": "icons/bdo/04_pc_skill/01_pc_skill/08_pwm_skill/pwm_skill_2253.webp",
+  "level": 60,
+  "combat": true
+ },
+ {
+  "id": 2249,
+  "name": {
+   "esES": "Movimiento: Arroyo de Arne",
+   "es419": "Flujo : Corriente de Agua de Anne",
+   "en": "Flow: Arne's Stream"
+  },
+  "icon": "icons/bdo/04_pc_skill/01_pc_skill/08_pwm_skill/pwm_skill_2249.webp",
+  "level": 57,
+  "combat": true
+ },
+ {
+  "id": 2247,
+  "name": {
+   "esES": "Movimiento: Bomba acuática",
+   "es419": "Flujo: Bomba de Agua",
+   "en": "Flow: Aqua Bomb"
+  },
+  "icon": "icons/bdo/04_pc_skill/01_pc_skill/08_pwm_skill/pwm_skill_2247.webp",
+  "level": 56,
+  "combat": true
+ },
+ {
+  "id": 5708,
+  "name": {
+   "esES": "Movimiento: Evasión mágica",
+   "es419": "Flujo: Evasión Mágica",
+   "en": "Flow: Magical Evasion"
+  },
+  "icon": "icons/bdo/04_pc_skill/01_pc_skill/08_pwm_skill/pwm_skill_5707.webp",
+  "level": 56,
+  "combat": true
+ },
+ {
+  "id": 2248,
+  "name": {
+   "esES": "Movimiento: Orientación de Arne",
+   "es419": "Flujo: Guía de Anne",
+   "en": "Flow: Arne's Guidance"
+  },
+  "icon": "icons/bdo/04_pc_skill/01_pc_skill/08_pwm_skill/pwm_skill_2248.webp",
+  "level": 59,
+  "combat": true
+ },
+ {
+  "id": 1622,
+  "name": {
+   "esES": "Movimiento: Potenciador de maná",
+   "es419": "Flujo: Incremento Mágico",
+   "en": "Flow: Mana Augmentation"
+  },
+  "icon": "icons/bdo/04_pc_skill/01_pc_skill/08_pwm_skill/pwm_skill_1620.webp",
+  "level": 49,
+  "combat": true
+ },
+ {
+  "id": 2252,
+  "name": {
+   "esES": "Movimiento: Puño ardiente de Marg",
+   "es419": "Flujo: Puño de Fuego de Magg",
+   "en": "Flow: Fire Fist Marg"
+  },
+  "icon": "icons/bdo/04_pc_skill/01_pc_skill/08_pwm_skill/pwm_skill_2252.webp",
+  "level": 58,
+  "combat": true
+ },
+ {
+  "id": 842,
+  "name": {
+   "esES": "Niebla helada",
+   "es419": "Niebla Fría",
+   "en": "Frigid Fog"
+  },
+  "icon": "icons/bdo/04_pc_skill/01_pc_skill/08_pwm_skill/pwm_skill_0839.webp",
+  "level": 42,
+  "combat": true
+ },
+ {
+  "id": 796,
+  "name": {
+   "esES": "Nova curativa",
+   "es419": "Faro de Curación",
+   "en": "Healing Lighthouse"
+  },
+  "icon": "icons/bdo/04_pc_skill/01_pc_skill/08_pwm_skill/pwm_skill_0793.webp",
+  "level": 48,
+  "combat": true
+ },
+ {
+  "id": 2210,
+  "name": {
+   "esES": "Nudo flamígero",
+   "es419": "Nudo de Fuegos",
+   "en": "Flame Knot"
+  },
+  "icon": "icons/bdo/04_pc_skill/01_pc_skill/08_pwm_skill/pwm_skill_2210.webp",
+  "level": 56,
+  "combat": true
+ },
+ {
+  "id": 2231,
+  "name": {
+   "esES": "Onda gélida",
+   "es419": "Ola Fría",
+   "en": "Chilling Wave"
+  },
+  "icon": "icons/bdo/04_pc_skill/01_pc_skill/08_pwm_skill/pwm_skill_2229.webp",
+  "level": 60,
+  "combat": true
+ },
+ {
+  "id": 908,
+  "name": {
+   "esES": "Orbe de maná",
+   "es419": "Corazón de la Fuerza Mágica",
+   "en": "Spellbound Heart"
+  },
+  "icon": "icons/bdo/04_pc_skill/01_pc_skill/08_pwm_skill/pwm_skill_0904.webp",
+  "level": 55,
+  "combat": true
+ },
+ {
+  "id": 2214,
+  "name": {
+   "esES": "Orden: Atacar",
+   "es419": "Comunión : Atacar",
+   "en": "Commune: Attack"
+  },
+  "icon": "icons/bdo/04_pc_skill/01_pc_skill/08_pwm_skill/pwm_skill_2214.webp",
+  "level": 56,
+  "combat": true
+ },
+ {
+  "id": 2213,
+  "name": {
+   "esES": "Orden: Seguir",
+   "es419": "Comunión : Llamar",
+   "en": "Commune: Calling"
+  },
+  "icon": "icons/bdo/04_pc_skill/01_pc_skill/08_pwm_skill/pwm_skill_2213.webp",
+  "level": 56,
+  "combat": true
+ },
+ {
+  "id": 1122,
+  "name": {
+   "esES": "Presto",
+   "es419": "Hechizo de Velocidad",
+   "en": "Speed Spell"
+  },
+  "icon": "icons/bdo/04_pc_skill/01_pc_skill/08_pwm_skill/pwm_skill_1120.webp",
+  "level": 48,
+  "combat": true
+ },
+ {
+  "id": 6104,
+  "name": {
+   "esES": "Primordial: Cataclismo",
+   "es419": "BON: Catástrofe",
+   "en": "Core: Cataclysm"
+  },
+  "icon": "icons/bdo/04_pc_skill/01_pc_skill/08_pwm_skill/pwm_skill_2232.webp",
+  "level": 60,
+  "combat": true
+ },
+ {
+  "id": 6107,
+  "name": {
+   "esES": "Primordial: Esfera de agua",
+   "es419": "BON: Gema de Agua",
+   "en": "Core: Water Sphere"
+  },
+  "icon": "icons/bdo/04_pc_skill/01_pc_skill/08_pwm_skill/pwm_skill_2236.webp",
+  "level": 60,
+  "combat": true
+ },
+ {
+  "id": 6108,
+  "name": {
+   "esES": "Primordial: Fuego cósmico",
+   "es419": "BON: Fuego de la Ruina",
+   "en": "Core: Bolide of Destruction"
+  },
+  "icon": "icons/bdo/04_pc_skill/01_pc_skill/08_pwm_skill/pwm_skill_2243.webp",
+  "level": 60,
+  "combat": true
+ },
+ {
+  "id": 6105,
+  "name": {
+   "esES": "Primordial: Fuego infernal",
+   "es419": "BON: Fuego Infernal",
+   "en": "Core: Hellfire"
+  },
+  "icon": "icons/bdo/04_pc_skill/01_pc_skill/08_pwm_skill/pwm_skill_2239.webp",
+  "level": 60,
+  "combat": true
+ },
+ {
+  "id": 6106,
+  "name": {
+   "esES": "Primordial: Onda gélida",
+   "es419": "BON: Ola Fría",
+   "en": "Core: Chilling Wave"
+  },
+  "icon": "icons/bdo/04_pc_skill/01_pc_skill/08_pwm_skill/pwm_skill_2229.webp",
+  "level": 60,
+  "combat": true
+ },
+ {
+  "id": 6103,
+  "name": {
+   "esES": "Primordial: Remolino agónico",
+   "es419": "BON: Explosión Acuática",
+   "en": "Core: Aqua Jail Explosion"
+  },
+  "icon": "icons/bdo/04_pc_skill/01_pc_skill/08_pwm_skill/pwm_skill_2225.webp",
+  "level": 60,
+  "combat": true
+ },
+ {
+  "id": 897,
+  "name": {
+   "esES": "Puñalada",
+   "es419": "Puñalada de Daga",
+   "en": "Dagger Stab"
+  },
+  "icon": "icons/bdo/04_pc_skill/01_pc_skill/08_pwm_skill/pwm_skill_0893.webp",
+  "level": 49,
+  "combat": true
+ },
+ {
+  "id": 826,
+  "name": {
+   "esES": "Relámpago",
+   "es419": "Relámpago",
+   "en": "Lightning"
+  },
+  "icon": "icons/bdo/04_pc_skill/01_pc_skill/08_pwm_skill/pwm_skill_0822.webp",
+  "level": 46,
+  "combat": true
+ },
+ {
+  "id": 2228,
+  "name": {
+   "esES": "Remolino agónico",
+   "es419": "Explosión Acuática",
+   "en": "Aqua Jail Explosion"
+  },
+  "icon": "icons/bdo/04_pc_skill/01_pc_skill/08_pwm_skill/pwm_skill_2225.webp",
+  "level": 59,
+  "combat": true
+ },
+ {
+  "id": 4933,
+  "name": {
+   "esES": "Renacer: Epifanía elemental",
+   "es419": "Sucesión : Manifestación del Elemento",
+   "en": "Succession: Elemental Revelation"
+  },
+  "icon": "icons/bdo/04_pc_skill/01_pc_skill/08_pwm_skill/pwm_skill_4933.webp",
+  "level": 56,
+  "combat": true
+ },
+ {
+  "id": 4980,
+  "name": {
+   "esES": "Renacer: Evasión mágica",
+   "es419": "Sucesión : Evasión Mágica",
+   "en": "Succession: Magical Evasion"
+  },
+  "icon": "icons/bdo/04_pc_skill/01_pc_skill/08_pwm_skill/pwm_skill_0872.webp",
+  "level": 56,
+  "combat": true
+ },
+ {
+  "id": 4940,
+  "name": {
+   "esES": "Renacer: Flecha mágica",
+   "es419": "Sucesión : Flecha Mágica",
+   "en": "Succession: Magic Arrow"
+  },
+  "icon": "icons/bdo/04_pc_skill/01_pc_skill/08_pwm_skill/pwm_skill_0850.webp",
+  "level": 56,
+  "combat": true
+ },
+ {
+  "id": 892,
+  "name": {
+   "esES": "Resurrección",
+   "es419": "Resurrección",
+   "en": "Resurrection"
+  },
+  "icon": "icons/bdo/04_pc_skill/01_pc_skill/08_pwm_skill/pwm_skill_0890.webp",
+  "level": 54,
+  "combat": true
+ },
+ {
+  "id": 92,
+  "name": {
+   "esES": "Retirada oscura",
+   "es419": "Escape de Emergencia",
+   "en": "Emergency Escape"
+  },
+  "icon": "icons/bdo/04_pc_skill/01_pc_skill/00_common/common_skill_0092.webp",
+  "level": 1,
+  "combat": true
+ },
+ {
+  "id": 898,
+  "name": {
+   "esES": "Sabiduría",
+   "es419": "Recuerdos del Sabio",
+   "en": "Sage's Memory"
+  },
+  "icon": "icons/bdo/04_pc_skill/01_pc_skill/08_pwm_skill/pwm_skill_0898.webp",
+  "level": 20,
+  "combat": true
+ },
+ {
+  "id": 855,
+  "name": {
+   "esES": "Salva de flechas mágicas",
+   "es419": "Múltiples Flechas Mágicas",
+   "en": "Multiple Magic Arrows"
+  },
+  "icon": "icons/bdo/04_pc_skill/01_pc_skill/08_pwm_skill/pwm_skill_0855.webp",
+  "level": 49,
+  "combat": true
+ },
+ {
+  "id": 2823,
+  "name": {
+   "esES": "Seísmo devastador",
+   "es419": "Terremoto Veloz",
+   "en": "Swift Earthquake"
+  },
+  "icon": "icons/bdo/04_pc_skill/01_pc_skill/08_pwm_skill/pwm_skill_2823.webp",
+  "level": 57,
+  "combat": true
+ },
+ {
+  "id": 2208,
+  "name": {
+   "esES": "Sublime: Teletransporte",
+   "es419": "Extremo: Teletransportación",
+   "en": "Ultimate: Teleport"
+  },
+  "icon": "icons/bdo/04_pc_skill/01_pc_skill/08_pwm_skill/pwm_skill_2208.webp",
+  "level": 56,
+  "combat": true
+ },
+ {
+  "id": 846,
+  "name": {
+   "esES": "Sublime: Ventisca",
+   "es419": "Extremo: Tormenta de Nieve",
+   "en": "Ultimate: Blizzard"
+  },
+  "icon": "icons/bdo/04_pc_skill/01_pc_skill/08_pwm_skill/pwm_skill_0846.webp",
+  "level": 52,
+  "combat": true
+ },
+ {
+  "id": 911,
+  "name": {
+   "esES": "Teletransporte",
+   "es419": "Teletransportación",
+   "en": "Teleport"
+  },
+  "icon": "icons/bdo/04_pc_skill/01_pc_skill/08_pwm_skill/pwm_skill_0909.webp",
+  "level": 51,
+  "combat": true
+ },
+ {
+  "id": 789,
+  "name": {
+   "esES": "Terremoto",
+   "es419": "Terremoto",
+   "en": "Earthquake"
+  },
+  "icon": "icons/bdo/04_pc_skill/01_pc_skill/08_pwm_skill/pwm_skill_0786.webp",
+  "level": 52,
+  "combat": true
+ },
+ {
+  "id": 2824,
+  "name": {
+   "esES": "Terremoto eléctrico",
+   "es419": "Temblor del Relámpago",
+   "en": "Trembling Thunder"
+  },
+  "icon": "icons/bdo/04_pc_skill/01_pc_skill/08_pwm_skill/pwm_skill_2824.webp",
+  "level": 57,
+  "combat": true
+ },
+ {
+  "id": 833,
+  "name": {
+   "esES": "Tormenta eléctrica",
+   "es419": "Tormenta Eléctrica",
+   "en": "Lightning Storm"
+  },
+  "icon": "icons/bdo/04_pc_skill/01_pc_skill/08_pwm_skill/pwm_skill_0831.webp",
+  "level": 49,
+  "combat": true
+ },
+ {
+  "id": 2170,
+  "name": {
+   "esES": "Tormenta ígnea",
+   "es419": "Lluvia de Fuego",
+   "en": "Rain of Fire"
+  },
+  "icon": "icons/bdo/04_pc_skill/01_pc_skill/08_pwm_skill/pwm_skill_2170.webp",
+  "level": 60,
+  "combat": true
+ },
+ {
+  "id": 914,
+  "name": {
+   "esES": "Venganza de Gaia",
+   "es419": "Respuesta de la Tierra",
+   "en": "Earth's Response"
+  },
+  "icon": "icons/bdo/04_pc_skill/01_pc_skill/08_pwm_skill/pwm_skill_0912.webp",
+  "level": 38,
+  "combat": true
+ },
+ {
+  "id": 845,
+  "name": {
+   "esES": "Ventisca",
+   "es419": "Tormenta de Nieve",
+   "en": "Blizzard"
+  },
+  "icon": "icons/bdo/04_pc_skill/01_pc_skill/08_pwm_skill/pwm_skill_0843.webp",
+  "level": 45,
+  "combat": true
+ },
+ {
+  "id": 2219,
+  "name": {
+   "esES": "Zona protegida",
+   "es419": "Área Protegida",
+   "en": "Protected Area"
+  },
+  "icon": "icons/bdo/04_pc_skill/01_pc_skill/08_pwm_skill/pwm_skill_0860.webp",
+  "level": 54,
+  "combat": true
+ },
+ {
+  "id": 3459,
+  "name": {
+   "esES": "Absorción de furia",
+   "es419": "Absorción de Furia",
+   "en": "Rage Absorption"
+  },
+  "icon": "icons/bdo/04_pc_skill/01_pc_skill/00_common/common_skill_0090.webp",
+  "level": 35,
+  "combat": false
+ },
+ {
+  "id": 89,
+  "name": {
+   "esES": "Absorción de furia (latente)",
+   "es419": "Absorción de Furia (Innato)",
+   "en": "Rage Absorption (Innate)"
+  },
+  "icon": "icons/bdo/04_pc_skill/01_pc_skill/00_common/common_skill_0090.webp",
+  "level": 35,
+  "combat": false
+ },
+ {
+  "id": 816,
+  "name": {
+   "esES": "Acondicionamiento mental",
+   "es419": "Entrenamiento de la Mente",
+   "en": "Mind Training"
+  },
+  "icon": "icons/bdo/04_pc_skill/01_pc_skill/08_pwm_skill/pwm_skill_0797.webp",
+  "level": 60,
+  "combat": false
+ },
+ {
+  "id": 2076,
+  "name": {
+   "esES": "Cazador hábil",
+   "es419": "Cazador Experto",
+   "en": "Skilled Hunter"
+  },
+  "icon": "icons/bdo/04_pc_skill/01_pc_skill/06_pkm_skill/pkm_skill_2072.webp",
+  "level": 60,
+  "combat": false
+ },
+ {
+  "id": 6772,
+  "name": {
+   "esES": "Elementum",
+   "es419": "Elementalización",
+   "en": "Elementalization"
+  },
+  "icon": "icons/bdo/04_pc_skill/01_pc_skill/08_pwm_skill/pwm_skill_6772.webp",
+  "level": 58,
+  "combat": false
+ },
+ {
+  "id": 6141,
+  "name": {
+   "esES": "Elvia: Ojo del desequilibrio",
+   "es419": "Elvia: Ojo del Desequilibrio",
+   "en": "Elvia: Unbalanced Eye"
+  },
+  "icon": "icons/bdo/04_pc_skill/01_pc_skill/08_pwm_skill/pwm_skill_6141.webp",
+  "level": 60,
+  "combat": false
+ },
+ {
+  "id": 4847,
+  "name": {
+   "esES": "Entrenamiento mental XXI",
+   "es419": "Entrenamiento de Mente XXI",
+   "en": "Mind Training XXI"
+  },
+  "icon": "icons/bdo/04_pc_skill/01_pc_skill/08_pwm_skill/pwm_skill_4847.webp",
+  "level": 60,
+  "combat": false
+ },
+ {
+  "id": 6464,
+  "name": {
+   "esES": "Erupción volcánica",
+   "es419": "Explosión de Lava",
+   "en": "Magma Bomb"
+  },
+  "icon": "icons/bdo/04_pc_skill/01_pc_skill/08_pwm_skill/pwm_skill_6464.webp",
+  "level": 58,
+  "combat": false
+ },
+ {
+  "id": 4046,
+  "name": {
+   "esES": "Flechas de maná",
+   "es419": "Flecha de Mana",
+   "en": "Mana Arrows"
+  },
+  "icon": "icons/bdo/04_pc_skill/01_pc_skill/08_pwm_skill/pwm_skill_4046.webp",
+  "level": 58,
+  "combat": false
+ },
+ {
+  "id": 4856,
+  "name": {
+   "esES": "Gran poder",
+   "es419": "Gran Poder",
+   "en": "Unyielding Might"
+  },
+  "icon": "icons/bdo/04_pc_skill/01_pc_skill/00_common/common_skill_18705.webp",
+  "level": 62,
+  "combat": false
+ },
+ {
+  "id": 4047,
+  "name": {
+   "esES": "Lanza relámpago",
+   "es419": "Lanza de Relámpago",
+   "en": "Lightning Spear"
+  },
+  "icon": "icons/bdo/04_pc_skill/01_pc_skill/08_pwm_skill/pwm_skill_4047.webp",
+  "level": 58,
+  "combat": false
+ },
+ {
+  "id": 6770,
+  "name": {
+   "esES": "Lluvia torrencial",
+   "es419": "Bautismo de Agua",
+   "en": "Barrage of Water"
+  },
+  "icon": "icons/bdo/04_pc_skill/01_pc_skill/08_pwm_skill/pwm_skill_6770.webp",
+  "level": 60,
+  "combat": false
+ },
+ {
+  "id": 1707,
+  "name": {
+   "esES": "Maestría infinita",
+   "es419": "Maestría Infinita",
+   "en": "Infinite Mastery"
+  },
+  "icon": "icons/bdo/04_pc_skill/01_pc_skill/00_common/common_skill_1702.webp",
+  "level": 55,
+  "combat": false
+ },
+ {
+  "id": 4983,
+  "name": {
+   "esES": "Mirada congelante",
+   "es419": "Mirada Helada",
+   "en": "Freezing Gaze"
+  },
+  "icon": "icons/bdo/04_pc_skill/01_pc_skill/08_pwm_skill/pwm_skill_4937.webp",
+  "level": 57,
+  "combat": false
+ },
+ {
+  "id": 4985,
+  "name": {
+   "esES": "Paso glorioso",
+   "es419": "Paso Magnífico",
+   "en": "Magnificent Steps"
+  },
+  "icon": "icons/bdo/04_pc_skill/01_pc_skill/08_pwm_skill/pwm_skill_4939.webp",
+  "level": 59,
+  "combat": false
+ },
+ {
+  "id": 4982,
+  "name": {
+   "esES": "Pulso urente",
+   "es419": "Latido Furioso",
+   "en": "Burning Pulse"
+  },
+  "icon": "icons/bdo/04_pc_skill/01_pc_skill/08_pwm_skill/pwm_skill_4936.webp",
+  "level": 56,
+  "combat": false
+ },
+ {
+  "id": 817,
+  "name": {
+   "esES": "Refuerzo de Poder mágico",
+   "es419": "Aumento de Poder Mágico",
+   "en": "Magic Power Boost"
+  },
+  "icon": "icons/bdo/04_pc_skill/01_pc_skill/08_pwm_skill/pwm_skill_0817.webp",
+  "level": 20,
+  "combat": false
+ },
+ {
+  "id": 6799,
+  "name": {
+   "esES": "Teletransporte: archimago",
+   "es419": "Teletransportación: Gran Mago",
+   "en": "Archwizardry: Mass Teleport"
+  },
+  "icon": "icons/bdo/04_pc_skill/01_pc_skill/08_pwm_skill/pwm_skill_6799.webp",
+  "level": 56,
+  "combat": false
+ },
+ {
+  "id": 4984,
+  "name": {
+   "esES": "Toque luminoso",
+   "es419": "Movimiento Reluciente",
+   "en": "Luminous Touch"
+  },
+  "icon": "icons/bdo/04_pc_skill/01_pc_skill/08_pwm_skill/pwm_skill_4938.webp",
+  "level": 58,
+  "combat": false
+ },
+ {
+  "id": 91,
+  "name": {
+   "esES": "Transfuria",
+   "es419": "Transferencia de Furia",
+   "en": "Rage Transfer"
+  },
+  "icon": "icons/bdo/04_pc_skill/01_pc_skill/00_common/common_skill_0091.webp",
+  "level": 35,
+  "combat": false
+ },
+ {
+  "id": 6771,
+  "name": {
+   "esES": "Voz del fuego",
+   "es419": "Llamado del Fuego",
+   "en": "Flame's Calling"
+  },
+  "icon": "icons/bdo/04_pc_skill/01_pc_skill/08_pwm_skill/pwm_skill_6771.webp",
+  "level": 58,
+  "combat": false
+ }
+]

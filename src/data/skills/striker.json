@@ -1,0 +1,1487 @@
+[
+ {
+  "id": 2477,
+  "name": {
+   "esES": "Al tobillo",
+   "es419": "Gancho de Tobillo",
+   "en": "Ankle Hook"
+  },
+  "icon": "icons/bdo/04_pc_skill/01_pc_skill/16_pcm_skill/pcm_skill_2475.webp",
+  "level": 36,
+  "combat": true
+ },
+ {
+  "id": 2645,
+  "name": {
+   "esES": "Asalto feroz",
+   "es419": "Asalto Bestial",
+   "en": "Ferocious Assault"
+  },
+  "icon": "icons/bdo/04_pc_skill/01_pc_skill/16_pcm_skill/pcm_skill_2645.webp",
+  "level": 57,
+  "combat": true
+ },
+ {
+  "id": 2480,
+  "name": {
+   "esES": "Avatar de la lucha",
+   "es419": "Colisión",
+   "en": "Martial Deva"
+  },
+  "icon": "icons/bdo/04_pc_skill/01_pc_skill/16_pcm_skill/pcm_skill_2478.webp",
+  "level": 36,
+  "combat": true
+ },
+ {
+  "id": 2647,
+  "name": {
+   "esES": "Bramido de furia",
+   "es419": "Rugido de Guerra",
+   "en": "Battle Cry"
+  },
+  "icon": "icons/bdo/04_pc_skill/01_pc_skill/16_pcm_skill/pcm_skill_2647_re.webp",
+  "level": 58,
+  "combat": true
+ },
+ {
+  "id": 2576,
+  "name": {
+   "esES": "Cañón espiral",
+   "es419": "Cañón Espiral",
+   "en": "Spiral Cannon"
+  },
+  "icon": "icons/bdo/04_pc_skill/01_pc_skill/16_pcm_skill/pcm_skill_2574.webp",
+  "level": 60,
+  "combat": true
+ },
+ {
+  "id": 2646,
+  "name": {
+   "esES": "Carrera tempestuosa",
+   "es419": "Doble Destello",
+   "en": "Double Flash"
+  },
+  "icon": "icons/bdo/04_pc_skill/01_pc_skill/16_pcm_skill/pcm_skill_2646.webp",
+  "level": 56,
+  "combat": true
+ },
+ {
+  "id": 5348,
+  "name": {
+   "esES": "Cénit: Colmillo carmesí",
+   "es419": "S: Colmillo Rojo",
+   "en": "Prime: Crimson Fang"
+  },
+  "icon": "icons/bdo/04_pc_skill/01_pc_skill/16_pcm_skill/pcm_skill_5345.webp",
+  "level": 60,
+  "combat": true
+ },
+ {
+  "id": 5358,
+  "name": {
+   "esES": "Cénit: Colmillo de lobo",
+   "es419": "S: Colmillo de Lobo",
+   "en": "Prime: Wolf's Fang"
+  },
+  "icon": "icons/bdo/04_pc_skill/01_pc_skill/16_pcm_skill/pcm_skill_5358.webp",
+  "level": 57,
+  "combat": true
+ },
+ {
+  "id": 5335,
+  "name": {
+   "esES": "Cénit: Depredador oculto",
+   "es419": "S: Bestia Capturada",
+   "en": "Prime: Hidden Predator"
+  },
+  "icon": "icons/bdo/04_pc_skill/01_pc_skill/16_pcm_skill/pcm_skill_5331.webp",
+  "level": 60,
+  "combat": true
+ },
+ {
+  "id": 5361,
+  "name": {
+   "esES": "Cénit: Depredador violento",
+   "es419": "S: Depredador Hambriento",
+   "en": "Prime: Rampaging Predator"
+  },
+  "icon": "icons/bdo/04_pc_skill/01_pc_skill/16_pcm_skill/pcm_skill_5361.webp",
+  "level": 56,
+  "combat": true
+ },
+ {
+  "id": 5359,
+  "name": {
+   "esES": "Cénit: Furia aplastante",
+   "es419": "S: Martillo Furioso",
+   "en": "Prime: Rage Hammer"
+  },
+  "icon": "icons/bdo/04_pc_skill/01_pc_skill/16_pcm_skill/pcm_skill_5359.webp",
+  "level": 58,
+  "combat": true
+ },
+ {
+  "id": 5344,
+  "name": {
+   "esES": "Cénit: Garra oculta",
+   "es419": "S: Garras Reveladas",
+   "en": "Prime: Hidden Claw"
+  },
+  "icon": "icons/bdo/04_pc_skill/01_pc_skill/16_pcm_skill/pcm_skill_5342.webp",
+  "level": 60,
+  "combat": true
+ },
+ {
+  "id": 5360,
+  "name": {
+   "esES": "Cénit: Hambre feroz",
+   "es419": "S: Caza de Lobos",
+   "en": "Prime: Wolf's Hunger"
+  },
+  "icon": "icons/bdo/04_pc_skill/01_pc_skill/16_pcm_skill/pcm_skill_5360.webp",
+  "level": 59,
+  "combat": true
+ },
+ {
+  "id": 5356,
+  "name": {
+   "esES": "Cénit: Inquebrantable",
+   "es419": "S: Adamantino",
+   "en": "Prime: Adamantine"
+  },
+  "icon": "icons/bdo/04_pc_skill/01_pc_skill/16_pcm_skill/pcm_skill_5353.webp",
+  "level": 60,
+  "combat": true
+ },
+ {
+  "id": 5330,
+  "name": {
+   "esES": "Cénit: Liberación de energía",
+   "es419": "S: Liberar Ki",
+   "en": "Prime: Discharge Energy"
+  },
+  "icon": "icons/bdo/04_pc_skill/01_pc_skill/16_pcm_skill/pcm_skill_5330.webp",
+  "level": 56,
+  "combat": true
+ },
+ {
+  "id": 5329,
+  "name": {
+   "esES": "Cénit: Liberar potencial",
+   "es419": "S: Liberar Potencial",
+   "en": "Prime: Unleashing Potential"
+  },
+  "icon": "icons/bdo/04_pc_skill/01_pc_skill/16_pcm_skill/pcm_skill_5329.webp",
+  "level": 56,
+  "combat": true
+ },
+ {
+  "id": 5352,
+  "name": {
+   "esES": "Cénit: Puño furioso",
+   "es419": "S: Furia del Puño",
+   "en": "Prime: Fist Fury"
+  },
+  "icon": "icons/bdo/04_pc_skill/01_pc_skill/16_pcm_skill/pcm_skill_5349.webp",
+  "level": 60,
+  "combat": true
+ },
+ {
+  "id": 5338,
+  "name": {
+   "esES": "Cénit: Rodillazo",
+   "es419": "S: Rodilla de Martillo",
+   "en": "Prime: Knee Hammer"
+  },
+  "icon": "icons/bdo/04_pc_skill/01_pc_skill/16_pcm_skill/pcm_skill_5336.webp",
+  "level": 60,
+  "combat": true
+ },
+ {
+  "id": 5362,
+  "name": {
+   "esES": "Cénit: Rompecráneos",
+   "es419": "S: Fractura de Cráneo",
+   "en": "Prime: Skull Crusher"
+  },
+  "icon": "icons/bdo/04_pc_skill/01_pc_skill/16_pcm_skill/pcm_skill_5362.webp",
+  "level": 56,
+  "combat": true
+ },
+ {
+  "id": 5357,
+  "name": {
+   "esES": "Cénit: Rugido del tigre",
+   "es419": "S: Rugido de Tigre",
+   "en": "Prime: Roaring Tiger"
+  },
+  "icon": "icons/bdo/04_pc_skill/01_pc_skill/16_pcm_skill/pcm_skill_5357.webp",
+  "level": 56,
+  "combat": true
+ },
+ {
+  "id": 5341,
+  "name": {
+   "esES": "Cénit: Voltereta",
+   "es419": "S: Voltereta",
+   "en": "Prime: Somersault"
+  },
+  "icon": "icons/bdo/04_pc_skill/01_pc_skill/16_pcm_skill/pcm_skill_5339.webp",
+  "level": 60,
+  "combat": true
+ },
+ {
+  "id": 2565,
+  "name": {
+   "esES": "Colisión definitiva",
+   "es419": "Final Extremo",
+   "en": "Ultimate Crush"
+  },
+  "icon": "icons/bdo/04_pc_skill/01_pc_skill/16_pcm_skill/pcm_skill_2562.webp",
+  "level": 59,
+  "combat": true
+ },
+ {
+  "id": 2511,
+  "name": {
+   "esES": "Colisión violenta",
+   "es419": "Colisión Torcida",
+   "en": "Twisted Collision"
+  },
+  "icon": "icons/bdo/04_pc_skill/01_pc_skill/16_pcm_skill/pcm_skill_2508.webp",
+  "level": 41,
+  "combat": true
+ },
+ {
+  "id": 2545,
+  "name": {
+   "esES": "Colmillo carmesí",
+   "es419": "Colmillo Rojo",
+   "en": "Crimson Fang"
+  },
+  "icon": "icons/bdo/04_pc_skill/01_pc_skill/16_pcm_skill/pcm_skill_2543.webp",
+  "level": 45,
+  "combat": true
+ },
+ {
+  "id": 2500,
+  "name": {
+   "esES": "Colmillo de lobo",
+   "es419": "Colmillo de Lobo",
+   "en": "Wolf's Fang"
+  },
+  "icon": "icons/bdo/04_pc_skill/01_pc_skill/16_pcm_skill/pcm_skill_2496.webp",
+  "level": 53,
+  "combat": true
+ },
+ {
+  "id": 2546,
+  "name": {
+   "esES": "Colmillo sangriento",
+   "es419": "Colmillo Sangriento",
+   "en": "Bloody Fang"
+  },
+  "icon": "icons/bdo/04_pc_skill/01_pc_skill/16_pcm_skill/pcm_skill_2546.webp",
+  "level": 25,
+  "combat": true
+ },
+ {
+  "id": 5369,
+  "name": {
+   "esES": "Combo del Renacer: Golpe final",
+   "es419": "Sucesión: Combo: Golpe Final",
+   "en": "Succession: Combo: Final Blow"
+  },
+  "icon": "icons/bdo/04_pc_skill/01_pc_skill/16_pcm_skill/pcm_skill_2550.webp",
+  "level": 56,
+  "combat": true
+ },
+ {
+  "id": 2586,
+  "name": {
+   "esES": "Combo del Renacer: Huracán",
+   "es419": "Sucesión: Combo: Torbellino",
+   "en": "Succession: Combo: Hurricane"
+  },
+  "icon": "icons/bdo/04_pc_skill/01_pc_skill/16_pcm_skill/pcm_skill_2551.webp",
+  "level": 56,
+  "combat": true
+ },
+ {
+  "id": 2549,
+  "name": {
+   "esES": "Combo: Colmillo venenoso",
+   "es419": "Combo : Colmillo Venenoso",
+   "en": "Combo: Venom Fang"
+  },
+  "icon": "icons/bdo/04_pc_skill/01_pc_skill/16_pcm_skill/pcm_skill_2549.webp",
+  "level": 11,
+  "combat": true
+ },
+ {
+  "id": 2550,
+  "name": {
+   "esES": "Combo: Golpe final",
+   "es419": "Combo : Golpe Final",
+   "en": "Combo: Final Blow"
+  },
+  "icon": "icons/bdo/04_pc_skill/01_pc_skill/16_pcm_skill/pcm_skill_2550.webp",
+  "level": 16,
+  "combat": true
+ },
+ {
+  "id": 2551,
+  "name": {
+   "esES": "Combo: Huracán",
+   "es419": "Combo : Torbellino",
+   "en": "Combo: Hurricane"
+  },
+  "icon": "icons/bdo/04_pc_skill/01_pc_skill/16_pcm_skill/pcm_skill_2551.webp",
+  "level": 16,
+  "combat": true
+ },
+ {
+  "id": 2643,
+  "name": {
+   "esES": "Daños colaterales",
+   "es419": "Lluvia Radioactiva",
+   "en": "Fallout"
+  },
+  "icon": "icons/bdo/04_pc_skill/01_pc_skill/16_pcm_skill/pcm_skill_2643.webp",
+  "level": 56,
+  "combat": true
+ },
+ {
+  "id": 3035,
+  "name": {
+   "esES": "Definitiva: Al tobillo",
+   "es419": "Suprema : Gancho de Tobillo",
+   "en": "Absolute: Ankle Hook"
+  },
+  "icon": "icons/bdo/04_pc_skill/01_pc_skill/16_pcm_skill/pcm_skill_3035.webp",
+  "level": 56,
+  "combat": true
+ },
+ {
+  "id": 3036,
+  "name": {
+   "esES": "Definitiva: Avatar de la lucha",
+   "es419": "Suprema: Colisión",
+   "en": "Absolute: Martial Deva"
+  },
+  "icon": "icons/bdo/04_pc_skill/01_pc_skill/16_pcm_skill/pcm_skill_3036.webp",
+  "level": 56,
+  "combat": true
+ },
+ {
+  "id": 3043,
+  "name": {
+   "esES": "Definitiva: Colisión violenta",
+   "es419": "Suprema : Colisión Torcida",
+   "en": "Absolute: Twisted Collision"
+  },
+  "icon": "icons/bdo/04_pc_skill/01_pc_skill/16_pcm_skill/pcm_skill_3043.webp",
+  "level": 57,
+  "combat": true
+ },
+ {
+  "id": 3051,
+  "name": {
+   "esES": "Definitiva: Colmillo carmesí",
+   "es419": "Suprema : Colmillo Rojo",
+   "en": "Absolute: Crimson Fang"
+  },
+  "icon": "icons/bdo/04_pc_skill/01_pc_skill/16_pcm_skill/pcm_skill_3051.webp",
+  "level": 59,
+  "combat": true
+ },
+ {
+  "id": 3040,
+  "name": {
+   "esES": "Definitiva: Colmillo de lobo",
+   "es419": "Suprema : Colmillo de Lobo",
+   "en": "Absolute: Wolf's Fang"
+  },
+  "icon": "icons/bdo/04_pc_skill/01_pc_skill/16_pcm_skill/pcm_skill_3040.webp",
+  "level": 59,
+  "combat": true
+ },
+ {
+  "id": 3037,
+  "name": {
+   "esES": "Definitiva: Derribamontañas",
+   "es419": "Suprema : Patada Taebaek",
+   "en": "Absolute: Taebaek Kick"
+  },
+  "icon": "icons/bdo/04_pc_skill/01_pc_skill/16_pcm_skill/pcm_skill_3037.webp",
+  "level": 57,
+  "combat": true
+ },
+ {
+  "id": 3031,
+  "name": {
+   "esES": "Definitiva: Fuerza verdadera",
+   "es419": "Suprema : Golpe al Vacío",
+   "en": "Absolute: Fist of True Strength"
+  },
+  "icon": "icons/bdo/04_pc_skill/01_pc_skill/16_pcm_skill/pcm_skill_3031.webp",
+  "level": 56,
+  "combat": true
+ },
+ {
+  "id": 3039,
+  "name": {
+   "esES": "Definitiva: Furia aplastante",
+   "es419": "Suprema : Martillo Furioso",
+   "en": "Absolute: Rage Hammer"
+  },
+  "icon": "icons/bdo/04_pc_skill/01_pc_skill/16_pcm_skill/pcm_skill_3039.webp",
+  "level": 60,
+  "combat": true
+ },
+ {
+  "id": 3038,
+  "name": {
+   "esES": "Definitiva: Garra oculta",
+   "es419": "Suprema : Garras Reveladas",
+   "en": "Absolute: Hidden Claw"
+  },
+  "icon": "icons/bdo/04_pc_skill/01_pc_skill/16_pcm_skill/pcm_skill_3038.webp",
+  "level": 57,
+  "combat": true
+ },
+ {
+  "id": 3052,
+  "name": {
+   "esES": "Definitiva: Golpe explosivo",
+   "es419": "Suprema : Explosión",
+   "en": "Absolute: Explosive Blow"
+  },
+  "icon": "icons/bdo/04_pc_skill/01_pc_skill/16_pcm_skill/pcm_skill_3052.webp",
+  "level": 59,
+  "combat": true
+ },
+ {
+  "id": 3050,
+  "name": {
+   "esES": "Definitiva: Hambre feroz",
+   "es419": "Suprema : Caza de Lobos",
+   "en": "Absolute: Wolf's Hunger"
+  },
+  "icon": "icons/bdo/04_pc_skill/01_pc_skill/16_pcm_skill/pcm_skill_3050.webp",
+  "level": 59,
+  "combat": true
+ },
+ {
+  "id": 3034,
+  "name": {
+   "esES": "Definitiva: Hecatombe",
+   "es419": "Suprema : Destrucción Masiva",
+   "en": "Absolute: Mass Destruction"
+  },
+  "icon": "icons/bdo/04_pc_skill/01_pc_skill/16_pcm_skill/pcm_skill_3034.webp",
+  "level": 56,
+  "combat": true
+ },
+ {
+  "id": 3033,
+  "name": {
+   "esES": "Definitiva: Inquebrantable",
+   "es419": "Suprema : Adamantino",
+   "en": "Absolute: Adamantine"
+  },
+  "icon": "icons/bdo/04_pc_skill/01_pc_skill/16_pcm_skill/pcm_skill_3033.webp",
+  "level": 57,
+  "combat": true
+ },
+ {
+  "id": 3094,
+  "name": {
+   "esES": "Definitiva: Lobo acechante",
+   "es419": "Suprema : Lobo Acechador",
+   "en": "Absolute: Stalking Wolf"
+  },
+  "icon": "icons/bdo/04_pc_skill/01_pc_skill/16_pcm_skill/pcm_skill_3094.webp",
+  "level": 57,
+  "combat": true
+ },
+ {
+  "id": 3042,
+  "name": {
+   "esES": "Definitiva: Paliza despiadada",
+   "es419": "Suprema : Presión Imponente",
+   "en": "Absolute: Massive Suppression"
+  },
+  "icon": "icons/bdo/04_pc_skill/01_pc_skill/16_pcm_skill/pcm_skill_3042.webp",
+  "level": 56,
+  "combat": true
+ },
+ {
+  "id": 3032,
+  "name": {
+   "esES": "Definitiva: Patada alta triple",
+   "es419": "Suprema : Triple Golpe",
+   "en": "Absolute: Triple Flying Kick"
+  },
+  "icon": "icons/bdo/04_pc_skill/01_pc_skill/16_pcm_skill/pcm_skill_3032.webp",
+  "level": 56,
+  "combat": true
+ },
+ {
+  "id": 3046,
+  "name": {
+   "esES": "Definitiva: Patada tornado",
+   "es419": "Suprema : Patada de Torbellino",
+   "en": "Absolute: Tornado Kick"
+  },
+  "icon": "icons/bdo/04_pc_skill/01_pc_skill/16_pcm_skill/pcm_skill_3046.webp",
+  "level": 57,
+  "combat": true
+ },
+ {
+  "id": 3049,
+  "name": {
+   "esES": "Definitiva: Puño furioso",
+   "es419": "Suprema : Furia del Puño",
+   "en": "Absolute: Fist Fury"
+  },
+  "icon": "icons/bdo/04_pc_skill/01_pc_skill/16_pcm_skill/pcm_skill_3049.webp",
+  "level": 58,
+  "combat": true
+ },
+ {
+  "id": 3044,
+  "name": {
+   "esES": "Definitiva: Rodillazo",
+   "es419": "Suprema : Rodilla de Martillo",
+   "en": "Absolute: Knee Hammer"
+  },
+  "icon": "icons/bdo/04_pc_skill/01_pc_skill/16_pcm_skill/pcm_skill_3044.webp",
+  "level": 56,
+  "combat": true
+ },
+ {
+  "id": 3030,
+  "name": {
+   "esES": "Definitiva: Rompecostillas",
+   "es419": "Suprema : Puño Pesado",
+   "en": "Absolute: Heavy Fist"
+  },
+  "icon": "icons/bdo/04_pc_skill/01_pc_skill/16_pcm_skill/pcm_skill_3030.webp",
+  "level": 56,
+  "combat": true
+ },
+ {
+  "id": 3045,
+  "name": {
+   "esES": "Definitiva: Romperrocas",
+   "es419": "Suprema : Partir Rocas",
+   "en": "Absolute: Rock Smash"
+  },
+  "icon": "icons/bdo/04_pc_skill/01_pc_skill/16_pcm_skill/pcm_skill_3045.webp",
+  "level": 57,
+  "combat": true
+ },
+ {
+  "id": 3048,
+  "name": {
+   "esES": "Definitiva: Rugido del tigre",
+   "es419": "Suprema : Rugido de Tigre",
+   "en": "Absolute: Roaring Tiger"
+  },
+  "icon": "icons/bdo/04_pc_skill/01_pc_skill/16_pcm_skill/pcm_skill_3048.webp",
+  "level": 59,
+  "combat": true
+ },
+ {
+  "id": 3047,
+  "name": {
+   "esES": "Definitiva: Trascabo",
+   "es419": "Suprema : Caída Infernal",
+   "en": "Absolute: Sweeping Kick"
+  },
+  "icon": "icons/bdo/04_pc_skill/01_pc_skill/16_pcm_skill/pcm_skill_3047.webp",
+  "level": 58,
+  "combat": true
+ },
+ {
+  "id": 3041,
+  "name": {
+   "esES": "Definitiva: Voltereta",
+   "es419": "Suprema : Voltereta",
+   "en": "Absolute: Somersault"
+  },
+  "icon": "icons/bdo/04_pc_skill/01_pc_skill/16_pcm_skill/pcm_skill_3041.webp",
+  "level": 58,
+  "combat": true
+ },
+ {
+  "id": 2582,
+  "name": {
+   "esES": "Depredador violento",
+   "es419": "Depredador Hambriento",
+   "en": "Rampaging Predator"
+  },
+  "icon": "icons/bdo/04_pc_skill/01_pc_skill/16_pcm_skill/pcm_skill_2580.webp",
+  "level": 60,
+  "combat": true
+ },
+ {
+  "id": 2485,
+  "name": {
+   "esES": "Derribamontañas",
+   "es419": "Patada Taebaek",
+   "en": "Taebaek Kick"
+  },
+  "icon": "icons/bdo/04_pc_skill/01_pc_skill/16_pcm_skill/pcm_skill_2483.webp",
+  "level": 35,
+  "combat": true
+ },
+ {
+  "id": 2569,
+  "name": {
+   "esES": "Destrucción infernal",
+   "es419": "Destrucción Infernal",
+   "en": "Infernal Destruction"
+  },
+  "icon": "icons/bdo/04_pc_skill/01_pc_skill/16_pcm_skill/pcm_skill_2566.webp",
+  "level": 60,
+  "combat": true
+ },
+ {
+  "id": 2642,
+  "name": {
+   "esES": "Entrenamiento de guardabrazos",
+   "es419": "Maestría de Avambrazos",
+   "en": "Gardbrace Training"
+  },
+  "icon": "icons/bdo/04_pc_skill/01_pc_skill/16_pcm_skill/pcm_skill_2583.webp",
+  "level": 60,
+  "combat": true
+ },
+ {
+  "id": 2648,
+  "name": {
+   "esES": "Espíritu del eco",
+   "es419": "Encarnación del Espíritu",
+   "en": "Echo Spirit"
+  },
+  "icon": "icons/bdo/04_pc_skill/01_pc_skill/16_pcm_skill/pcm_skill_2648.webp",
+  "level": 56,
+  "combat": true
+ },
+ {
+  "id": 2557,
+  "name": {
+   "esES": "Estallido ascendente",
+   "es419": "Combo Explosivo",
+   "en": "Rising Blast Combo"
+  },
+  "icon": "icons/bdo/04_pc_skill/01_pc_skill/16_pcm_skill/pcm_skill_2557.webp",
+  "level": 45,
+  "combat": true
+ },
+ {
+  "id": 2423,
+  "name": {
+   "esES": "Evasión",
+   "es419": "Evasión",
+   "en": "Evasion"
+  },
+  "icon": "icons/bdo/04_pc_skill/01_pc_skill/16_pcm_skill/pcm_skill_2423.webp",
+  "level": 1,
+  "combat": true
+ },
+ {
+  "id": 2579,
+  "name": {
+   "esES": "Explosión sin fin",
+   "es419": "Explosión Interminable",
+   "en": "Endless Explosion"
+  },
+  "icon": "icons/bdo/04_pc_skill/01_pc_skill/16_pcm_skill/pcm_skill_2577.webp",
+  "level": 60,
+  "combat": true
+ },
+ {
+  "id": 2437,
+  "name": {
+   "esES": "Fuerza verdadera",
+   "es419": "Golpe al Vacío",
+   "en": "Fist of True Strength"
+  },
+  "icon": "icons/bdo/04_pc_skill/01_pc_skill/16_pcm_skill/pcm_skill_2435.webp",
+  "level": 32,
+  "combat": true
+ },
+ {
+  "id": 2495,
+  "name": {
+   "esES": "Furia aplastante",
+   "es419": "Martillo Furioso",
+   "en": "Rage Hammer"
+  },
+  "icon": "icons/bdo/04_pc_skill/01_pc_skill/16_pcm_skill/pcm_skill_2491.webp",
+  "level": 51,
+  "combat": true
+ },
+ {
+  "id": 2489,
+  "name": {
+   "esES": "Garra oculta",
+   "es419": "Garras Reveladas",
+   "en": "Hidden Claw"
+  },
+  "icon": "icons/bdo/04_pc_skill/01_pc_skill/16_pcm_skill/pcm_skill_2486.webp",
+  "level": 31,
+  "combat": true
+ },
+ {
+  "id": 2561,
+  "name": {
+   "esES": "Golpe infernal",
+   "es419": "Caída al Purgatorio",
+   "en": "Hell Break"
+  },
+  "icon": "icons/bdo/04_pc_skill/01_pc_skill/16_pcm_skill/pcm_skill_2561.webp",
+  "level": 56,
+  "combat": true
+ },
+ {
+  "id": 2910,
+  "name": {
+   "esES": "Golpe perfecto",
+   "es419": "Puño de Vacío",
+   "en": "Perfect Blow"
+  },
+  "icon": "icons/bdo/04_pc_skill/01_pc_skill/16_pcm_skill/pcm_skill_2910.webp",
+  "level": 57,
+  "combat": true
+ },
+ {
+  "id": 2541,
+  "name": {
+   "esES": "Hambre feroz",
+   "es419": "Caza de Lobos",
+   "en": "Wolf's Hunger"
+  },
+  "icon": "icons/bdo/04_pc_skill/01_pc_skill/16_pcm_skill/pcm_skill_2541.webp",
+  "level": 34,
+  "combat": true
+ },
+ {
+  "id": 2451,
+  "name": {
+   "esES": "Inquebrantable",
+   "es419": "Adamantino",
+   "en": "Adamantine"
+  },
+  "icon": "icons/bdo/04_pc_skill/01_pc_skill/16_pcm_skill/pcm_skill_2449.webp",
+  "level": 30,
+  "combat": true
+ },
+ {
+  "id": 2556,
+  "name": {
+   "esES": "Lobo acechante",
+   "es419": "Lobo Acechador",
+   "en": "Stalking Wolf"
+  },
+  "icon": "icons/bdo/04_pc_skill/01_pc_skill/16_pcm_skill/pcm_skill_2556.webp",
+  "level": 24,
+  "combat": true
+ },
+ {
+  "id": 2481,
+  "name": {
+   "esES": "Lobo agazapado",
+   "es419": "Lobo Agachado",
+   "en": "Crouching Wolf"
+  },
+  "icon": "icons/bdo/04_pc_skill/01_pc_skill/16_pcm_skill/pcm_skill_2481.webp",
+  "level": 1,
+  "combat": true
+ },
+ {
+  "id": 2560,
+  "name": {
+   "esES": "Lucha sin fin",
+   "es419": "Pelea Interminable",
+   "en": "Endless Fight"
+  },
+  "icon": "icons/bdo/04_pc_skill/01_pc_skill/16_pcm_skill/pcm_skill_2560.webp",
+  "level": 56,
+  "combat": true
+ },
+ {
+  "id": 5368,
+  "name": {
+   "esES": "Movimiento del Renacer: Colmillo salvaje",
+   "es419": "Sucesión: Flujo : Colmillo Filoso",
+   "en": "Succession: Flow: Savage Fang"
+  },
+  "icon": "icons/bdo/04_pc_skill/01_pc_skill/16_pcm_skill/pcm_skill_2490.webp",
+  "level": 56,
+  "combat": true
+ },
+ {
+  "id": 5367,
+  "name": {
+   "esES": "Movimiento del Renacer: Derrumbe masivo",
+   "es419": "Sucesión : Flujo : Derrumbe masivo",
+   "en": "Succession: Flow: Bombardment"
+  },
+  "icon": "icons/bdo/04_pc_skill/01_pc_skill/16_pcm_skill/pcm_skill_2554.webp",
+  "level": 56,
+  "combat": true
+ },
+ {
+  "id": 2514,
+  "name": {
+   "esES": "Movimiento: Choque fatal",
+   "es419": "Flujo : Impacto Fatal",
+   "en": "Flow: Fatal Smash"
+  },
+  "icon": "icons/bdo/04_pc_skill/01_pc_skill/16_pcm_skill/pcm_skill_2512.webp",
+  "level": 40,
+  "combat": true
+ },
+ {
+  "id": 2490,
+  "name": {
+   "esES": "Movimiento: Colmillo salvaje",
+   "es419": "Flujo : Colmillo Filoso",
+   "en": "Flow: Savage Fang"
+  },
+  "icon": "icons/bdo/04_pc_skill/01_pc_skill/16_pcm_skill/pcm_skill_2490.webp",
+  "level": 14,
+  "combat": true
+ },
+ {
+  "id": 2518,
+  "name": {
+   "esES": "Movimiento: Derrumbe",
+   "es419": "Flujo : Derrumbe",
+   "en": "Flow: Landslide"
+  },
+  "icon": "icons/bdo/04_pc_skill/01_pc_skill/16_pcm_skill/pcm_skill_2516.webp",
+  "level": 42,
+  "combat": true
+ },
+ {
+  "id": 2554,
+  "name": {
+   "esES": "Movimiento: Derrumbe masivo",
+   "es419": "Flujo : Derrumbe masivo",
+   "en": "Flow: Bombardment"
+  },
+  "icon": "icons/bdo/04_pc_skill/01_pc_skill/16_pcm_skill/pcm_skill_2554.webp",
+  "level": 17,
+  "combat": true
+ },
+ {
+  "id": 2542,
+  "name": {
+   "esES": "Movimiento: Golpe de nimbo",
+   "es419": "Flujo : Nube de Pluma",
+   "en": "Flow: Nimbus Strike"
+  },
+  "icon": "icons/bdo/04_pc_skill/01_pc_skill/16_pcm_skill/pcm_skill_2542.webp",
+  "level": 17,
+  "combat": true
+ },
+ {
+  "id": 2548,
+  "name": {
+   "esES": "Movimiento: Golpe explosivo",
+   "es419": "Flujo : Explosión",
+   "en": "Flow: Explosive Blow"
+  },
+  "icon": "icons/bdo/04_pc_skill/01_pc_skill/16_pcm_skill/pcm_skill_2547.webp",
+  "level": 21,
+  "combat": true
+ },
+ {
+  "id": 2553,
+  "name": {
+   "esES": "Movimiento: Golpe mortal",
+   "es419": "Flujo: Exterminio",
+   "en": "Flow: Deathstrike"
+  },
+  "icon": "icons/bdo/04_pc_skill/01_pc_skill/16_pcm_skill/pcm_skill_2553.webp",
+  "level": 12,
+  "combat": true
+ },
+ {
+  "id": 2515,
+  "name": {
+   "esES": "Movimiento: Golpe penetrante",
+   "es419": "Flujo : Demolición",
+   "en": "Flow: Strikethrough"
+  },
+  "icon": "icons/bdo/04_pc_skill/01_pc_skill/16_pcm_skill/pcm_skill_2515.webp",
+  "level": 18,
+  "combat": true
+ },
+ {
+  "id": 2452,
+  "name": {
+   "esES": "Movimiento: Hecatombe",
+   "es419": "Flujo : Destrucción Masiva",
+   "en": "Flow: Mass Destruction"
+  },
+  "icon": "icons/bdo/04_pc_skill/01_pc_skill/16_pcm_skill/pcm_skill_2452.webp",
+  "level": 1,
+  "combat": true
+ },
+ {
+  "id": 2482,
+  "name": {
+   "esES": "Movimiento: Instinto depredador",
+   "es419": "Flujo : Cacería",
+   "en": "Flow: Prey Hunt"
+  },
+  "icon": "icons/bdo/04_pc_skill/01_pc_skill/16_pcm_skill/pcm_skill_2482.webp",
+  "level": 15,
+  "combat": true
+ },
+ {
+  "id": 2650,
+  "name": {
+   "esES": "Movimiento: Mordisco",
+   "es419": "Flujo : Presa Devorada",
+   "en": "Flow: Bite Off"
+  },
+  "icon": "icons/bdo/04_pc_skill/01_pc_skill/16_pcm_skill/pcm_skill_2650.webp",
+  "level": 59,
+  "combat": true
+ },
+ {
+  "id": 2527,
+  "name": {
+   "esES": "Movimiento: Patada tornado",
+   "es419": "Flujo : Patada de Torbellino",
+   "en": "Flow: Tornado Kick"
+  },
+  "icon": "icons/bdo/04_pc_skill/01_pc_skill/16_pcm_skill/pcm_skill_2525.webp",
+  "level": 48,
+  "combat": true
+ },
+ {
+  "id": 2760,
+  "name": {
+   "esES": "Movimiento: Pies ligeros",
+   "es419": "Flujo : Destello",
+   "en": "Flow: Back Step"
+  },
+  "icon": "icons/bdo/04_pc_skill/01_pc_skill/16_pcm_skill/pcm_skill_2760.webp",
+  "level": 56,
+  "combat": true
+ },
+ {
+  "id": 2524,
+  "name": {
+   "esES": "Movimiento: Romperrocas",
+   "es419": "Flujo : Partir Rocas",
+   "en": "Flow: Rock Smash"
+  },
+  "icon": "icons/bdo/04_pc_skill/01_pc_skill/16_pcm_skill/pcm_skill_2522.webp",
+  "level": 48,
+  "combat": true
+ },
+ {
+  "id": 2644,
+  "name": {
+   "esES": "Movimiento: Viento cruzado",
+   "es419": "Flujo : Viento Cruzado",
+   "en": "Flow: Crosswind"
+  },
+  "icon": "icons/bdo/04_pc_skill/01_pc_skill/16_pcm_skill/pcm_skill_2644.webp",
+  "level": 58,
+  "combat": true
+ },
+ {
+  "id": 2507,
+  "name": {
+   "esES": "Paliza despiadada",
+   "es419": "Presión Imponente",
+   "en": "Massive Suppression"
+  },
+  "icon": "icons/bdo/04_pc_skill/01_pc_skill/16_pcm_skill/pcm_skill_2505.webp",
+  "level": 39,
+  "combat": true
+ },
+ {
+  "id": 2448,
+  "name": {
+   "esES": "Paso silencioso",
+   "es419": "Paso Silencioso",
+   "en": "Silent Step"
+  },
+  "icon": "icons/bdo/04_pc_skill/01_pc_skill/16_pcm_skill/pcm_skill_2446.webp",
+  "level": 36,
+  "combat": true
+ },
+ {
+  "id": 2442,
+  "name": {
+   "esES": "Patada alta triple",
+   "es419": "Triple Golpe",
+   "en": "Triple Flying Kick"
+  },
+  "icon": "icons/bdo/04_pc_skill/01_pc_skill/16_pcm_skill/pcm_skill_2438.webp",
+  "level": 41,
+  "combat": true
+ },
+ {
+  "id": 6028,
+  "name": {
+   "esES": "Primordial: Cañón espiral",
+   "es419": "BON: Cañón Espiral",
+   "en": "Core: Spiral Cannon"
+  },
+  "icon": "icons/bdo/04_pc_skill/01_pc_skill/16_pcm_skill/pcm_skill_2574.webp",
+  "level": 60,
+  "combat": true
+ },
+ {
+  "id": 6025,
+  "name": {
+   "esES": "Primordial: Colisión definitiva",
+   "es419": "BON: Final Extremo",
+   "en": "Core: Ultimate Crush"
+  },
+  "icon": "icons/bdo/04_pc_skill/01_pc_skill/16_pcm_skill/pcm_skill_2562.webp",
+  "level": 60,
+  "combat": true
+ },
+ {
+  "id": 6030,
+  "name": {
+   "esES": "Primordial: Depredador violento",
+   "es419": "BON: Depredador Hambriento",
+   "en": "Core: Rampaging Predator"
+  },
+  "icon": "icons/bdo/04_pc_skill/01_pc_skill/16_pcm_skill/pcm_skill_2580.webp",
+  "level": 60,
+  "combat": true
+ },
+ {
+  "id": 6026,
+  "name": {
+   "esES": "Primordial: Destrucción infernal",
+   "es419": "BON: Destrucción Infernal",
+   "en": "Core: Infernal Destruction"
+  },
+  "icon": "icons/bdo/04_pc_skill/01_pc_skill/16_pcm_skill/pcm_skill_2566.webp",
+  "level": 60,
+  "combat": true
+ },
+ {
+  "id": 6029,
+  "name": {
+   "esES": "Primordial: Explosión sin fin",
+   "es419": "BON: Explosión Interminable",
+   "en": "Core: Endless Explosion"
+  },
+  "icon": "icons/bdo/04_pc_skill/01_pc_skill/16_pcm_skill/pcm_skill_2577.webp",
+  "level": 60,
+  "combat": true
+ },
+ {
+  "id": 6027,
+  "name": {
+   "esES": "Primordial: Rompecráneos",
+   "es419": "BON: Fractura de Cráneo",
+   "en": "Core: Skull Crusher"
+  },
+  "icon": "icons/bdo/04_pc_skill/01_pc_skill/16_pcm_skill/pcm_skill_2570.webp",
+  "level": 60,
+  "combat": true
+ },
+ {
+  "id": 2911,
+  "name": {
+   "esES": "Puño férreo",
+   "es419": "Furia del Puño Fuerte",
+   "en": "Iron Fist Fury"
+  },
+  "icon": "icons/bdo/04_pc_skill/01_pc_skill/16_pcm_skill/pcm_skill_2911.webp",
+  "level": 57,
+  "combat": true
+ },
+ {
+  "id": 2540,
+  "name": {
+   "esES": "Puño furioso",
+   "es419": "Furia del Puño",
+   "en": "Fist Fury"
+  },
+  "icon": "icons/bdo/04_pc_skill/01_pc_skill/16_pcm_skill/pcm_skill_2537.webp",
+  "level": 33,
+  "combat": true
+ },
+ {
+  "id": 5365,
+  "name": {
+   "esES": "Renacer: Al tobillo",
+   "es419": "Sucesión: Gancho de Tobillo",
+   "en": "Succession: Ankle Hook"
+  },
+  "icon": "icons/bdo/04_pc_skill/01_pc_skill/16_pcm_skill/pcm_skill_3035.webp",
+  "level": 56,
+  "combat": true
+ },
+ {
+  "id": 5366,
+  "name": {
+   "esES": "Renacer: Avatar de la lucha",
+   "es419": "Sucesión: Colisión",
+   "en": "Succession: Martial Deva"
+  },
+  "icon": "icons/bdo/04_pc_skill/01_pc_skill/16_pcm_skill/pcm_skill_3036.webp",
+  "level": 56,
+  "combat": true
+ },
+ {
+  "id": 2587,
+  "name": {
+   "esES": "Renacer: Estallido ascendente",
+   "es419": "Sucesión: Combo Explosivo",
+   "en": "Succession: Rising Blast Combo"
+  },
+  "icon": "icons/bdo/04_pc_skill/01_pc_skill/16_pcm_skill/pcm_skill_2557.webp",
+  "level": 56,
+  "combat": true
+ },
+ {
+  "id": 5370,
+  "name": {
+   "esES": "Renacer: Lobo agazapado",
+   "es419": "Sucesión: Lobo Agachado",
+   "en": "Succession: Crouching Wolf"
+  },
+  "icon": "icons/bdo/04_pc_skill/01_pc_skill/16_pcm_skill/pcm_skill_2481.webp",
+  "level": 56,
+  "combat": true
+ },
+ {
+  "id": 5328,
+  "name": {
+   "esES": "Renacer: Vigor de luchador",
+   "es419": "Sucesión: Ki del Striker",
+   "en": "Succession: Striker's Vigor"
+  },
+  "icon": "icons/bdo/04_pc_skill/01_pc_skill/16_pcm_skill/pcm_skill_5328.webp",
+  "level": 56,
+  "combat": true
+ },
+ {
+  "id": 5371,
+  "name": {
+   "esES": "Renacer: Zancada tempestuosa",
+   "es419": "Sucesión: Paso de Relámpago",
+   "en": "Succession: Flash Step"
+  },
+  "icon": "icons/bdo/04_pc_skill/01_pc_skill/16_pcm_skill/pcm_skill_2443.webp",
+  "level": 56,
+  "combat": true
+ },
+ {
+  "id": 92,
+  "name": {
+   "esES": "Retirada oscura",
+   "es419": "Escape de Emergencia",
+   "en": "Emergency Escape"
+  },
+  "icon": "icons/bdo/04_pc_skill/01_pc_skill/00_common/common_skill_0092.webp",
+  "level": 1,
+  "combat": true
+ },
+ {
+  "id": 2521,
+  "name": {
+   "esES": "Rodillazo",
+   "es419": "Rodilla de Martillo",
+   "en": "Knee Hammer"
+  },
+  "icon": "icons/bdo/04_pc_skill/01_pc_skill/16_pcm_skill/pcm_skill_2519.webp",
+  "level": 39,
+  "combat": true
+ },
+ {
+  "id": 2434,
+  "name": {
+   "esES": "Rompecostillas",
+   "es419": "Puño Pesado",
+   "en": "Heavy Fist"
+  },
+  "icon": "icons/bdo/04_pc_skill/01_pc_skill/16_pcm_skill/pcm_skill_2425.webp",
+  "level": 54,
+  "combat": true
+ },
+ {
+  "id": 2573,
+  "name": {
+   "esES": "Rompecráneos",
+   "es419": "Fractura de Cráneo",
+   "en": "Skull Crusher"
+  },
+  "icon": "icons/bdo/04_pc_skill/01_pc_skill/16_pcm_skill/pcm_skill_2570.webp",
+  "level": 60,
+  "combat": true
+ },
+ {
+  "id": 2536,
+  "name": {
+   "esES": "Rugido del tigre",
+   "es419": "Rugido de Tigre",
+   "en": "Roaring Tiger"
+  },
+  "icon": "icons/bdo/04_pc_skill/01_pc_skill/16_pcm_skill/pcm_skill_2532.webp",
+  "level": 46,
+  "combat": true
+ },
+ {
+  "id": 2759,
+  "name": {
+   "esES": "Sed de sangre",
+   "es419": "Ascenso de Lobo",
+   "en": "Rising Wolf Fang"
+  },
+  "icon": "icons/bdo/04_pc_skill/01_pc_skill/16_pcm_skill/pcm_skill_2759.webp",
+  "level": 56,
+  "combat": true
+ },
+ {
+  "id": 2531,
+  "name": {
+   "esES": "Trascabo",
+   "es419": "Caída Infernal",
+   "en": "Sweeping Kick"
+  },
+  "icon": "icons/bdo/04_pc_skill/01_pc_skill/16_pcm_skill/pcm_skill_2528.webp",
+  "level": 45,
+  "combat": true
+ },
+ {
+  "id": 2504,
+  "name": {
+   "esES": "Voltereta",
+   "es419": "Voltereta",
+   "en": "Somersault"
+  },
+  "icon": "icons/bdo/04_pc_skill/01_pc_skill/16_pcm_skill/pcm_skill_2501.webp",
+  "level": 52,
+  "combat": true
+ },
+ {
+  "id": 2649,
+  "name": {
+   "esES": "Voltereta salvaje",
+   "es419": "Voltereta del Dragón",
+   "en": "Savage Somersault"
+  },
+  "icon": "icons/bdo/04_pc_skill/01_pc_skill/16_pcm_skill/pcm_skill_2649_re.webp",
+  "level": 57,
+  "combat": true
+ },
+ {
+  "id": 2445,
+  "name": {
+   "esES": "Zancada tempestuosa",
+   "es419": "Paso de Relámpago",
+   "en": "Flash Step"
+  },
+  "icon": "icons/bdo/04_pc_skill/01_pc_skill/16_pcm_skill/pcm_skill_2443.webp",
+  "level": 36,
+  "combat": true
+ },
+ {
+  "id": 3459,
+  "name": {
+   "esES": "Absorción de furia",
+   "es419": "Absorción de Furia",
+   "en": "Rage Absorption"
+  },
+  "icon": "icons/bdo/04_pc_skill/01_pc_skill/00_common/common_skill_0090.webp",
+  "level": 35,
+  "combat": false
+ },
+ {
+  "id": 89,
+  "name": {
+   "esES": "Absorción de furia (latente)",
+   "es419": "Absorción de Furia (Innato)",
+   "en": "Rage Absorption (Innate)"
+  },
+  "icon": "icons/bdo/04_pc_skill/01_pc_skill/00_common/common_skill_0090.webp",
+  "level": 35,
+  "combat": false
+ },
+ {
+  "id": 5372,
+  "name": {
+   "esES": "Alma oscura",
+   "es419": "Corazón y Alma",
+   "en": "Heart and Soul"
+  },
+  "icon": "icons/bdo/04_pc_skill/01_pc_skill/16_pcm_skill/pcm_skill_5372.webp",
+  "level": 60,
+  "combat": false
+ },
+ {
+  "id": 2076,
+  "name": {
+   "esES": "Cazador hábil",
+   "es419": "Cazador Experto",
+   "en": "Skilled Hunter"
+  },
+  "icon": "icons/bdo/04_pc_skill/01_pc_skill/06_pkm_skill/pkm_skill_2072.webp",
+  "level": 60,
+  "combat": false
+ },
+ {
+  "id": 4042,
+  "name": {
+   "esES": "Colmillo de lobo explosivo",
+   "es419": "Colmillo Explosivo",
+   "en": "Wolf's Explosive Fangs"
+  },
+  "icon": "icons/bdo/04_pc_skill/01_pc_skill/16_pcm_skill/pcm_skill_4042.webp",
+  "level": 58,
+  "combat": false
+ },
+ {
+  "id": 6126,
+  "name": {
+   "esES": "Elvia: Instinto depredador",
+   "es419": "Elvia: Depredación Primitiva",
+   "en": "Elvia: Predatory Instincts"
+  },
+  "icon": "icons/bdo/04_pc_skill/01_pc_skill/16_pcm_skill/pcm_skill_6126.webp",
+  "level": 60,
+  "combat": false
+ },
+ {
+  "id": 2424,
+  "name": {
+   "esES": "Espíritu marcial",
+   "es419": "Espíritu Marcial",
+   "en": "Martial Spirit"
+  },
+  "icon": "icons/bdo/04_pc_skill/01_pc_skill/16_pcm_skill/pcm_skill_2424.webp",
+  "level": 1,
+  "combat": false
+ },
+ {
+  "id": 4856,
+  "name": {
+   "esES": "Gran poder",
+   "es419": "Gran Poder",
+   "en": "Unyielding Might"
+  },
+  "icon": "icons/bdo/04_pc_skill/01_pc_skill/00_common/common_skill_18705.webp",
+  "level": 62,
+  "combat": false
+ },
+ {
+  "id": 2473,
+  "name": {
+   "esES": "Lobo aullador",
+   "es419": "Aullido de Lobo",
+   "en": "Howling Wolf"
+  },
+  "icon": "icons/bdo/04_pc_skill/01_pc_skill/16_pcm_skill/pcm_skill_2473.webp",
+  "level": 20,
+  "combat": false
+ },
+ {
+  "id": 1707,
+  "name": {
+   "esES": "Maestría infinita",
+   "es419": "Maestría Infinita",
+   "en": "Infinite Mastery"
+  },
+  "icon": "icons/bdo/04_pc_skill/01_pc_skill/00_common/common_skill_1702.webp",
+  "level": 55,
+  "combat": false
+ },
+ {
+  "id": 2552,
+  "name": {
+   "esES": "Mejora: Hecatombe",
+   "es419": "Mejorado: Destrucción Masiva",
+   "en": "Enhanced: Mass Destruction"
+  },
+  "icon": "icons/bdo/04_pc_skill/01_pc_skill/16_pcm_skill/pcm_skill_2452.webp",
+  "level": 56,
+  "combat": false
+ },
+ {
+  "id": 2472,
+  "name": {
+   "esES": "Músculos de acero",
+   "es419": "Aura de la Montaña",
+   "en": "Mountain Aura"
+  },
+  "icon": "icons/bdo/04_pc_skill/01_pc_skill/16_pcm_skill/pcm_skill_2453.webp",
+  "level": 60,
+  "combat": false
+ },
+ {
+  "id": 4849,
+  "name": {
+   "esES": "Músculos de acero XXI",
+   "es419": "Aura de la Montaña XXI",
+   "en": "Mountain Aura XXI"
+  },
+  "icon": "icons/bdo/04_pc_skill/01_pc_skill/16_pcm_skill/pcm_skill_4849.webp",
+  "level": 1,
+  "combat": false
+ },
+ {
+  "id": 2474,
+  "name": {
+   "esES": "Retroceso",
+   "es419": "Retroceso",
+   "en": "Recoil"
+  },
+  "icon": "icons/bdo/04_pc_skill/01_pc_skill/16_pcm_skill/pcm_skill_2473.webp",
+  "level": 1,
+  "combat": false
+ },
+ {
+  "id": 91,
+  "name": {
+   "esES": "Transfuria",
+   "es419": "Transferencia de Furia",
+   "en": "Rage Transfer"
+  },
+  "icon": "icons/bdo/04_pc_skill/01_pc_skill/00_common/common_skill_0091.webp",
+  "level": 35,
+  "combat": false
+ },
+ {
+  "id": 6458,
+  "name": {
+   "esES": "Ventisca otoñal",
+   "es419": "Puño del Destino",
+   "en": "Autumn Blaze"
+  },
+  "icon": "icons/bdo/04_pc_skill/01_pc_skill/16_pcm_skill/pcm_skill_6458.webp",
+  "level": 59,
+  "combat": false
+ },
+ {
+  "id": 4043,
+  "name": {
+   "esES": "Zancadilla explosiva",
+   "es419": "Onda Explosiva",
+   "en": "Explosive Jolt"
+  },
+  "icon": "icons/bdo/04_pc_skill/01_pc_skill/16_pcm_skill/pcm_skill_4043.webp",
+  "level": 58,
+  "combat": false
+ }
+]

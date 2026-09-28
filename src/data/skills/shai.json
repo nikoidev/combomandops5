@@ -1,0 +1,596 @@
+[
+ {
+  "id": 3885,
+  "name": {
+   "esES": "¡Ánimo!",
+   "es419": "¡Fuerza!",
+   "en": "Cheer Up!"
+  },
+  "icon": "icons/bdo/04_pc_skill/01_pc_skill/14_plw_skill/plw_skill_3885.webp",
+  "level": 7,
+  "combat": true
+ },
+ {
+  "id": 3884,
+  "name": {
+   "esES": "¡Chúpate esa!",
+   "es419": "¡Toma esto!",
+   "en": "Eat This!"
+  },
+  "icon": "icons/bdo/04_pc_skill/01_pc_skill/14_plw_skill/plw_skill_3879.webp",
+  "level": 53,
+  "combat": true
+ },
+ {
+  "id": 4096,
+  "name": {
+   "esES": "¡Fuera de mi camino!",
+   "es419": "¡Fuera de mi Vista!",
+   "en": "Outta My Way!"
+  },
+  "icon": "icons/bdo/04_pc_skill/01_pc_skill/14_plw_skill/plw_skill_4096.webp",
+  "level": 1,
+  "combat": true
+ },
+ {
+  "id": 3860,
+  "name": {
+   "esES": "¡Hazte la muerta!",
+   "es419": "Estoy Muerta",
+   "en": "Play Dead"
+  },
+  "icon": "icons/bdo/04_pc_skill/01_pc_skill/14_plw_skill/plw_skill_3860.webp",
+  "level": 50,
+  "combat": true
+ },
+ {
+  "id": 4628,
+  "name": {
+   "esES": "¡Juntaos!",
+   "es419": "¡Reúnanse!",
+   "en": "Gather Around!"
+  },
+  "icon": "icons/bdo/04_pc_skill/01_pc_skill/14_plw_skill/plw_skill_4628.webp",
+  "level": 40,
+  "combat": true
+ },
+ {
+  "id": 3889,
+  "name": {
+   "esES": "¡Pírate!",
+   "es419": "Quítense",
+   "en": "Go Away"
+  },
+  "icon": "icons/bdo/04_pc_skill/01_pc_skill/14_plw_skill/plw_skill_3887.webp",
+  "level": 32,
+  "combat": true
+ },
+ {
+  "id": 4613,
+  "name": {
+   "esES": "¡Por allí!",
+   "es419": "¡Justo Ahí!",
+   "en": "Over There!"
+  },
+  "icon": "icons/bdo/04_pc_skill/01_pc_skill/14_plw_skill/plw_skill_4613.webp",
+  "level": 56,
+  "combat": true
+ },
+ {
+  "id": 3861,
+  "name": {
+   "esES": "¡Por aquí!",
+   "es419": "Por Aquí",
+   "en": "Over Here!"
+  },
+  "icon": "icons/bdo/04_pc_skill/01_pc_skill/14_plw_skill/plw_skill_3861.webp",
+  "level": 55,
+  "combat": true
+ },
+ {
+  "id": 3850,
+  "name": {
+   "esES": "¡Pues toma!",
+   "es419": "Esto Duele",
+   "en": "Swing Swing"
+  },
+  "icon": "icons/bdo/04_pc_skill/01_pc_skill/14_plw_skill/plw_skill_3841.webp",
+  "level": 43,
+  "combat": true
+ },
+ {
+  "id": 4097,
+  "name": {
+   "esES": "¡Siempre arriba!",
+   "es419": "¡Brioso!",
+   "en": "Do it Better!"
+  },
+  "icon": "icons/bdo/04_pc_skill/01_pc_skill/14_plw_skill/plw_skill_4097.webp",
+  "level": 56,
+  "combat": true
+ },
+ {
+  "id": 3878,
+  "name": {
+   "esES": "¡Tachán!",
+   "es419": "Pirueta-Tres",
+   "en": "Twirl-Three"
+  },
+  "icon": "icons/bdo/04_pc_skill/01_pc_skill/14_plw_skill/plw_skill_3875.webp",
+  "level": 48,
+  "combat": true
+ },
+ {
+  "id": 3886,
+  "name": {
+   "esES": "¡Te pillé!",
+   "es419": "¡Ya te encontré!",
+   "en": "Come Out, Come Out"
+  },
+  "icon": "icons/bdo/04_pc_skill/01_pc_skill/14_plw_skill/plw_skill_3886.webp",
+  "level": 40,
+  "combat": true
+ },
+ {
+  "id": 3866,
+  "name": {
+   "esES": "¡Un, dos, tres!",
+   "es419": "Uno Dos Tres",
+   "en": "One-Two-Three"
+  },
+  "icon": "icons/bdo/04_pc_skill/01_pc_skill/14_plw_skill/plw_skill_3894.webp",
+  "level": 35,
+  "combat": true
+ },
+ {
+  "id": 4204,
+  "name": {
+   "esES": "¡Vete!",
+   "es419": "¡Es tu turno!",
+   "en": "Go!"
+  },
+  "icon": "icons/bdo/04_pc_skill/01_pc_skill/14_plw_skill/plw_skill_4204.webp",
+  "level": 58,
+  "combat": true
+ },
+ {
+  "id": 4242,
+  "name": {
+   "esES": "Afinar",
+   "es419": "Melodía",
+   "en": "Tuning"
+  },
+  "icon": "icons/bdo/04_pc_skill/01_pc_skill/14_plw_skill/plw_skill_4242.webp",
+  "level": 56,
+  "combat": true
+ },
+ {
+  "id": 3890,
+  "name": {
+   "esES": "Aliento de vida",
+   "es419": "Sana Sana Colita de Rana",
+   "en": "Get Well"
+  },
+  "icon": "icons/bdo/04_pc_skill/01_pc_skill/14_plw_skill/plw_skill_3899.webp",
+  "level": 36,
+  "combat": true
+ },
+ {
+  "id": 4101,
+  "name": {
+   "esES": "Bosque encantado",
+   "es419": "Temblor del Bosque",
+   "en": "Forest's Echo"
+  },
+  "icon": "icons/bdo/04_pc_skill/01_pc_skill/14_plw_skill/plw_skill_4101.webp",
+  "level": 57,
+  "combat": true
+ },
+ {
+  "id": 3869,
+  "name": {
+   "esES": "Brinco",
+   "es419": "Saltito-Tres",
+   "en": "Hop-Three"
+  },
+  "icon": "icons/bdo/04_pc_skill/01_pc_skill/14_plw_skill/plw_skill_3867.webp",
+  "level": 32,
+  "combat": true
+ },
+ {
+  "id": 4614,
+  "name": {
+   "esES": "Cooperación",
+   "es419": "Toma mi Luz",
+   "en": "Sharing is Caring"
+  },
+  "icon": "icons/bdo/04_pc_skill/01_pc_skill/14_plw_skill/plw_skill_4614.webp",
+  "level": 56,
+  "combat": true
+ },
+ {
+  "id": 4612,
+  "name": {
+   "esES": "Engaños de la luz",
+   "es419": "Pantano del Secreto",
+   "en": "Delusive Light"
+  },
+  "icon": "icons/bdo/04_pc_skill/01_pc_skill/14_plw_skill/plw_skill_4099.webp",
+  "level": 59,
+  "combat": true
+ },
+ {
+  "id": 4100,
+  "name": {
+   "esES": "Estampida musical",
+   "es419": "Eco de la Tierra",
+   "en": "Earth's Tremble"
+  },
+  "icon": "icons/bdo/04_pc_skill/01_pc_skill/14_plw_skill/plw_skill_4100.webp",
+  "level": 59,
+  "combat": true
+ },
+ {
+  "id": 3840,
+  "name": {
+   "esES": "Evasión",
+   "es419": "Evasión",
+   "en": "Evasion"
+  },
+  "icon": "icons/bdo/04_pc_skill/01_pc_skill/01_phm_skill/phm_skill_1017.webp",
+  "level": 1,
+  "combat": true
+ },
+ {
+  "id": 4229,
+  "name": {
+   "esES": "Furia solar",
+   "es419": "Furia del Sol",
+   "en": "Sun's Fury"
+  },
+  "icon": "icons/bdo/04_pc_skill/01_pc_skill/14_plw_skill/plw_skill_4229.webp",
+  "level": 58,
+  "combat": true
+ },
+ {
+  "id": 4616,
+  "name": {
+   "esES": "Giro y ¡pum!",
+   "es419": "¡Pirueta Bang!",
+   "en": "Twirl-Boom!"
+  },
+  "icon": "icons/bdo/04_pc_skill/01_pc_skill/14_plw_skill/plw_skill_4616.webp",
+  "level": 57,
+  "combat": true
+ },
+ {
+  "id": 4624,
+  "name": {
+   "esES": "Grita al cielo",
+   "es419": "Grita al Cielo",
+   "en": "Shout to the Sky"
+  },
+  "icon": "icons/bdo/04_pc_skill/01_pc_skill/14_plw_skill/plw_skill_4231.webp",
+  "level": 60,
+  "combat": true
+ },
+ {
+  "id": 4626,
+  "name": {
+   "esES": "Hora del estrellato",
+   "es419": "Hora del Espectáculo",
+   "en": "Time to Shine!"
+  },
+  "icon": "icons/bdo/04_pc_skill/01_pc_skill/14_plw_skill/plw_skill_4232.webp",
+  "level": 60,
+  "combat": true
+ },
+ {
+  "id": 4622,
+  "name": {
+   "esES": "Lluvia de estrellas",
+   "es419": "Sol, Luna y Estrella",
+   "en": "Sun, Moon, Stars"
+  },
+  "icon": "icons/bdo/04_pc_skill/01_pc_skill/14_plw_skill/plw_skill_4230.webp",
+  "level": 60,
+  "combat": true
+ },
+ {
+  "id": 4610,
+  "name": {
+   "esES": "Niebla mental",
+   "es419": "Muro de Nubes",
+   "en": "Misty Haze"
+  },
+  "icon": "icons/bdo/04_pc_skill/01_pc_skill/14_plw_skill/plw_skill_4098.webp",
+  "level": 58,
+  "combat": true
+ },
+ {
+  "id": 3854,
+  "name": {
+   "esES": "Pirueta",
+   "es419": "Pirueta",
+   "en": "Twirl"
+  },
+  "icon": "icons/bdo/04_pc_skill/01_pc_skill/14_plw_skill/plw_skill_3851.webp",
+  "level": 38,
+  "combat": true
+ },
+ {
+  "id": 3858,
+  "name": {
+   "esES": "Polvitos mágicos",
+   "es419": "Chispitas",
+   "en": "Sprinkle-Sparkle"
+  },
+  "icon": "icons/bdo/04_pc_skill/01_pc_skill/14_plw_skill/plw_skill_3855.webp",
+  "level": 35,
+  "combat": true
+ },
+ {
+  "id": 3874,
+  "name": {
+   "esES": "Retirada",
+   "es419": "Rapidi-Dos",
+   "en": "Kwik-Two"
+  },
+  "icon": "icons/bdo/04_pc_skill/01_pc_skill/14_plw_skill/plw_skill_3870.webp",
+  "level": 51,
+  "combat": true
+ },
+ {
+  "id": 92,
+  "name": {
+   "esES": "Retirada oscura",
+   "es419": "Escape de Emergencia",
+   "en": "Emergency Escape"
+  },
+  "icon": "icons/bdo/04_pc_skill/01_pc_skill/00_common/common_skill_0092.webp",
+  "level": 1,
+  "combat": true
+ },
+ {
+  "id": 4618,
+  "name": {
+   "esES": "Saga heroica",
+   "es419": "Lluvia del Verano",
+   "en": "Summer Rain"
+  },
+  "icon": "icons/bdo/04_pc_skill/01_pc_skill/14_plw_skill/plw_skill_4102.webp",
+  "level": 60,
+  "combat": true
+ },
+ {
+  "id": 3893,
+  "name": {
+   "esES": "Salto",
+   "es419": "Saltito",
+   "en": "Hop"
+  },
+  "icon": "icons/bdo/04_pc_skill/01_pc_skill/14_plw_skill/plw_skill_3891.webp",
+  "level": 34,
+  "combat": true
+ },
+ {
+  "id": 3859,
+  "name": {
+   "esES": "Voltereta",
+   "es419": "Ruedita",
+   "en": "Tuck-and-Roll"
+  },
+  "icon": "icons/bdo/04_pc_skill/01_pc_skill/14_plw_skill/plw_skill_3859.webp",
+  "level": 1,
+  "combat": true
+ },
+ {
+  "id": 4615,
+  "name": {
+   "esES": "Zancarang",
+   "es419": "¡Tropiézate!",
+   "en": "Tumble Wumble!"
+  },
+  "icon": "icons/bdo/04_pc_skill/01_pc_skill/14_plw_skill/plw_skill_4615.webp",
+  "level": 57,
+  "combat": true
+ },
+ {
+  "id": 6120,
+  "name": {
+   "esES": "¡Cuidado!",
+   "es419": "¡Ahora!",
+   "en": "Now!"
+  },
+  "icon": "icons/bdo/04_pc_skill/01_pc_skill/14_plw_skill/plw_skill_6120.webp",
+  "level": 58,
+  "combat": false
+ },
+ {
+  "id": 6471,
+  "name": {
+   "esES": "¡La victoria es nuestra!",
+   "es419": "¡Vamos a Ganar!",
+   "en": "We're Gonna Win!"
+  },
+  "icon": "icons/bdo/04_pc_skill/01_pc_skill/14_plw_skill/plw_skill_6471.webp",
+  "level": 59,
+  "combat": false
+ },
+ {
+  "id": 6767,
+  "name": {
+   "esES": "¡Muerde el polvo!",
+   "es419": "Toma esto",
+   "en": "Try This!"
+  },
+  "icon": "icons/bdo/04_pc_skill/01_pc_skill/14_plw_skill/plw_skill_6767.webp",
+  "level": 58,
+  "combat": false
+ },
+ {
+  "id": 4619,
+  "name": {
+   "esES": "¡Remolino!",
+   "es419": "¡Vengan todos aquí!",
+   "en": "Stick to Me!"
+  },
+  "icon": "icons/bdo/04_pc_skill/01_pc_skill/14_plw_skill/plw_skill_4619.webp",
+  "level": 60,
+  "combat": false
+ },
+ {
+  "id": 6766,
+  "name": {
+   "esES": "¡Yuju!",
+   "es419": "¡Yuuuhu!",
+   "en": "Yippee!"
+  },
+  "icon": "icons/bdo/04_pc_skill/01_pc_skill/14_plw_skill/plw_skill_6766.webp",
+  "level": 30,
+  "combat": false
+ },
+ {
+  "id": 3459,
+  "name": {
+   "esES": "Absorción de furia",
+   "es419": "Absorción de Furia",
+   "en": "Rage Absorption"
+  },
+  "icon": "icons/bdo/04_pc_skill/01_pc_skill/00_common/common_skill_0090.webp",
+  "level": 35,
+  "combat": false
+ },
+ {
+  "id": 4095,
+  "name": {
+   "esES": "Absorción de furia (latente)",
+   "es419": "Absorción de Furia (Innato)",
+   "en": "Rage Absorption (Innate)"
+  },
+  "icon": "icons/bdo/04_pc_skill/01_pc_skill/00_common/common_skill_0090.webp",
+  "level": 35,
+  "combat": false
+ },
+ {
+  "id": 4163,
+  "name": {
+   "esES": "As de la Alquimia",
+   "es419": "Maestro de la Alquimia",
+   "en": "Alchemy Whiz"
+  },
+  "icon": "icons/bdo/04_pc_skill/01_pc_skill/14_plw_skill/plw_skill_4159.webp",
+  "level": 60,
+  "combat": false
+ },
+ {
+  "id": 4158,
+  "name": {
+   "esES": "As de la Recolección",
+   "es419": "Maestro de la Recolección",
+   "en": "Gathering Whiz"
+  },
+  "icon": "icons/bdo/04_pc_skill/01_pc_skill/14_plw_skill/plw_skill_4154.webp",
+  "level": 60,
+  "combat": false
+ },
+ {
+  "id": 2076,
+  "name": {
+   "esES": "Cazador hábil",
+   "es419": "Cazador Experto",
+   "en": "Skilled Hunter"
+  },
+  "icon": "icons/bdo/04_pc_skill/01_pc_skill/06_pkm_skill/pkm_skill_2072.webp",
+  "level": 60,
+  "combat": false
+ },
+ {
+  "id": 6135,
+  "name": {
+   "esES": "Elvia: Granujilla",
+   "es419": "Elvia: Niño Malcriado",
+   "en": "Elvia: Rascal"
+  },
+  "icon": "icons/bdo/04_pc_skill/01_pc_skill/14_plw_skill/plw_skill_6135.webp",
+  "level": 60,
+  "combat": false
+ },
+ {
+  "id": 4856,
+  "name": {
+   "esES": "Gran poder",
+   "es419": "Gran Poder",
+   "en": "Unyielding Might"
+  },
+  "icon": "icons/bdo/04_pc_skill/01_pc_skill/00_common/common_skill_18705.webp",
+  "level": 62,
+  "combat": false
+ },
+ {
+  "id": 4608,
+  "name": {
+   "esES": "La alegría de la alquimia",
+   "es419": "Diversión de Alquimia",
+   "en": "Joy of Alchemy"
+  },
+  "icon": "icons/bdo/04_pc_skill/01_pc_skill/14_plw_skill/plw_skill_4608.webp",
+  "level": 15,
+  "combat": false
+ },
+ {
+  "id": 4607,
+  "name": {
+   "esES": "La alegría de recolectar",
+   "es419": "Diversión de Recolección",
+   "en": "Joy of Gathering"
+  },
+  "icon": "icons/bdo/04_pc_skill/01_pc_skill/14_plw_skill/plw_skill_4607.webp",
+  "level": 15,
+  "combat": false
+ },
+ {
+  "id": 1707,
+  "name": {
+   "esES": "Maestría infinita",
+   "es419": "Maestría Infinita",
+   "en": "Infinite Mastery"
+  },
+  "icon": "icons/bdo/04_pc_skill/01_pc_skill/00_common/common_skill_1702.webp",
+  "level": 55,
+  "combat": false
+ },
+ {
+  "id": 4164,
+  "name": {
+   "esES": "Mochila ligera",
+   "es419": "Mochila Ligera",
+   "en": "Light Bag"
+  },
+  "icon": "icons/bdo/04_pc_skill/01_pc_skill/14_plw_skill/plw_skill_4164.webp",
+  "level": 1,
+  "combat": false
+ },
+ {
+  "id": 6119,
+  "name": {
+   "esES": "Polvitos vitales",
+   "es419": "¡Cuidado!",
+   "en": "Careful!"
+  },
+  "icon": "icons/bdo/04_pc_skill/01_pc_skill/14_plw_skill/plw_skill_6119.webp",
+  "level": 58,
+  "combat": false
+ },
+ {
+  "id": 91,
+  "name": {
+   "esES": "Transfuria",
+   "es419": "Transferencia de Furia",
+   "en": "Rage Transfer"
+  },
+  "icon": "icons/bdo/04_pc_skill/01_pc_skill/00_common/common_skill_0091.webp",
+  "level": 35,
+  "combat": false
+ }
+]

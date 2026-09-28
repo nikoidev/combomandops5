@@ -1,0 +1,1366 @@
+[
+ {
+  "id": 3459,
+  "name": {
+   "esES": "Absorción de furia",
+   "es419": "Absorción de Furia",
+   "en": "Rage Absorption"
+  },
+  "icon": "icons/bdo/04_pc_skill/01_pc_skill/00_common/common_skill_0090.webp",
+  "level": 35,
+  "combat": true
+ },
+ {
+  "id": 89,
+  "name": {
+   "esES": "Absorción de furia (latente)",
+   "es419": "Absorción de Furia (Innato)",
+   "en": "Rage Absorption (Innate)"
+  },
+  "icon": "icons/bdo/04_pc_skill/01_pc_skill/00_common/common_skill_0090.webp",
+  "level": 35,
+  "combat": true
+ },
+ {
+  "id": 5912,
+  "name": {
+   "esES": "Aceleración: Anillo fiero",
+   "es419": "Acelerado: Anillo Emboscador",
+   "en": "Accel: Swooping Ring"
+  },
+  "icon": "icons/bdo/04_pc_skill/01_pc_skill/21_ppw_skill/ppw_skill_5912.webp",
+  "level": 58,
+  "combat": true
+ },
+ {
+  "id": 7401,
+  "name": {
+   "esES": "Aceleración: Anillo glacial",
+   "es419": "Aceleración : Anillo Congelante",
+   "en": "Accel: Frozen Ring"
+  },
+  "icon": "icons/bdo/04_pc_skill/01_pc_skill/21_ppw_skill/ppw_skill_7401.webp",
+  "level": 59,
+  "combat": true
+ },
+ {
+  "id": 5914,
+  "name": {
+   "esES": "Aceleración: Condena de la estrella",
+   "es419": "Acelerado: Tumba de Estrella",
+   "en": "Accel: Star's Call"
+  },
+  "icon": "icons/bdo/04_pc_skill/01_pc_skill/21_ppw_skill/ppw_skill_5914.webp",
+  "level": 60,
+  "combat": true
+ },
+ {
+  "id": 5879,
+  "name": {
+   "esES": "Aceleración: Órbita cruzada",
+   "es419": "Acelerado: Órbita Alterada",
+   "en": "Accel: Twisted Orbit"
+  },
+  "icon": "icons/bdo/04_pc_skill/01_pc_skill/21_ppw_skill/ppw_skill_5879.webp",
+  "level": 56,
+  "combat": true
+ },
+ {
+  "id": 5917,
+  "name": {
+   "esES": "Aceleración: Prisión estelar",
+   "es419": "Acelerado: Anillo de la Estrella",
+   "en": "Accel: Star's Ring"
+  },
+  "icon": "icons/bdo/04_pc_skill/01_pc_skill/21_ppw_skill/ppw_skill_5917.webp",
+  "level": 58,
+  "combat": true
+ },
+ {
+  "id": 5915,
+  "name": {
+   "esES": "Aceleración: Propulsión",
+   "es419": "Acelerado: Fuera de Órbita",
+   "en": "Accel: Break Orbit"
+  },
+  "icon": "icons/bdo/04_pc_skill/01_pc_skill/21_ppw_skill/ppw_skill_5915.webp",
+  "level": 56,
+  "combat": true
+ },
+ {
+  "id": 6469,
+  "name": {
+   "esES": "Anillo cruento",
+   "es419": "Anillo Violento",
+   "en": "Brutal Ring"
+  },
+  "icon": "icons/bdo/04_pc_skill/01_pc_skill/21_ppw_skill/ppw_skill_6469.webp",
+  "level": 59,
+  "combat": true
+ },
+ {
+  "id": 5890,
+  "name": {
+   "esES": "Anillo fiero",
+   "es419": "Anillo Emboscador",
+   "en": "Swooping Ring"
+  },
+  "icon": "icons/bdo/04_pc_skill/01_pc_skill/21_ppw_skill/ppw_skill_5887.webp",
+  "level": 59,
+  "combat": true
+ },
+ {
+  "id": 5898,
+  "name": {
+   "esES": "Anillo glacial",
+   "es419": "Anillo Congelante",
+   "en": "Frozen Ring"
+  },
+  "icon": "icons/bdo/04_pc_skill/01_pc_skill/21_ppw_skill/ppw_skill_5919.webp",
+  "level": 59,
+  "combat": true
+ },
+ {
+  "id": 5881,
+  "name": {
+   "esES": "Anillo lacerador",
+   "es419": "Filo del Anillo",
+   "en": "Slicing Ring"
+  },
+  "icon": "icons/bdo/04_pc_skill/01_pc_skill/21_ppw_skill/ppw_skill_5881.webp",
+  "level": 60,
+  "combat": true
+ },
+ {
+  "id": 5730,
+  "name": {
+   "esES": "Baluarte invernal",
+   "es419": "Escudo del Invierno",
+   "en": "Winter's Bulwark"
+  },
+  "icon": "icons/bdo/04_pc_skill/01_pc_skill/21_ppw_skill/ppw_skill_5730.webp",
+  "level": 15,
+  "combat": true
+ },
+ {
+  "id": 5934,
+  "name": {
+   "esES": "Cadena de escarcha",
+   "es419": "Vid de Hielo",
+   "en": "Frozen Chain"
+  },
+  "icon": "icons/bdo/04_pc_skill/01_pc_skill/21_ppw_skill/ppw_skill_5934.webp",
+  "level": 56,
+  "combat": true
+ },
+ {
+  "id": 2076,
+  "name": {
+   "esES": "Cazador hábil",
+   "es419": "Cazador Experto",
+   "en": "Skilled Hunter"
+  },
+  "icon": "icons/bdo/04_pc_skill/01_pc_skill/06_pkm_skill/pkm_skill_2072.webp",
+  "level": 60,
+  "combat": true
+ },
+ {
+  "id": 5975,
+  "name": {
+   "esES": "Cénit: Anillo fiero",
+   "es419": "S: Anillo Emboscador",
+   "en": "Prime: Swooping Ring"
+  },
+  "icon": "icons/bdo/04_pc_skill/01_pc_skill/21_ppw_skill/ppw_skill_5974.webp",
+  "level": 60,
+  "combat": true
+ },
+ {
+  "id": 5958,
+  "name": {
+   "esES": "Cénit: Árbol gélido",
+   "es419": "S: Carga de Jinetes",
+   "en": "Prime: Stamma's Mate"
+  },
+  "icon": "icons/bdo/04_pc_skill/01_pc_skill/21_ppw_skill/ppw_skill_5955.webp",
+  "level": 60,
+  "combat": true
+ },
+ {
+  "id": 5967,
+  "name": {
+   "esES": "Cénit: Cepo de púas glaciales",
+   "es419": "S: Enredadera de Espinas del Hielo",
+   "en": "Prime: Entangling Icy Thorns"
+  },
+  "icon": "icons/bdo/04_pc_skill/01_pc_skill/21_ppw_skill/ppw_skill_5965.webp",
+  "level": 60,
+  "combat": true
+ },
+ {
+  "id": 5974,
+  "name": {
+   "esES": "Cénit: Condena de la estrella",
+   "es419": "S: Tumba de Estrella",
+   "en": "Prime: Star's Call"
+  },
+  "icon": "icons/bdo/04_pc_skill/01_pc_skill/21_ppw_skill/ppw_skill_5975.webp",
+  "level": 60,
+  "combat": true
+ },
+ {
+  "id": 5964,
+  "name": {
+   "esES": "Cénit: Fianchetto",
+   "es419": "S: Fianchetto",
+   "en": "Prime: Fianchetto"
+  },
+  "icon": "icons/bdo/04_pc_skill/01_pc_skill/21_ppw_skill/ppw_skill_5962.webp",
+  "level": 60,
+  "combat": true
+ },
+ {
+  "id": 5950,
+  "name": {
+   "esES": "Cénit: Golpes aviesos",
+   "es419": "S: Decreto Furioso",
+   "en": "Prime: Bitter Reign"
+  },
+  "icon": "icons/bdo/04_pc_skill/01_pc_skill/21_ppw_skill/ppw_skill_5947.webp",
+  "level": 59,
+  "combat": true
+ },
+ {
+  "id": 5971,
+  "name": {
+   "esES": "Cénit: Jaque",
+   "es419": "S: Prisión de Hielo",
+   "en": "Prime: Icy Prison"
+  },
+  "icon": "icons/bdo/04_pc_skill/01_pc_skill/21_ppw_skill/ppw_skill_5971.webp",
+  "level": 59,
+  "combat": true
+ },
+ {
+  "id": 5999,
+  "name": {
+   "esES": "Cénit: Lucero de la tormenta",
+   "es419": "S: Tormenta de la Estrella",
+   "en": "Prime: Storming Star"
+  },
+  "icon": "icons/bdo/04_pc_skill/01_pc_skill/21_ppw_skill/ppw_skill_5999.webp",
+  "level": 58,
+  "combat": true
+ },
+ {
+  "id": 5946,
+  "name": {
+   "esES": "Cénit: Lucero oscuro",
+   "es419": "S: Estrella Negra",
+   "en": "Prime: Black Morning Star"
+  },
+  "icon": "icons/bdo/04_pc_skill/01_pc_skill/21_ppw_skill/ppw_skill_5942.webp",
+  "level": 60,
+  "combat": true
+ },
+ {
+  "id": 5988,
+  "name": {
+   "esES": "Cénit: Peón espectral",
+   "es419": "S: Peón Espectral",
+   "en": "Prime: Passed Pawn"
+  },
+  "icon": "icons/bdo/04_pc_skill/01_pc_skill/21_ppw_skill/ppw_skill_5941.webp",
+  "level": 60,
+  "combat": true
+ },
+ {
+  "id": 5970,
+  "name": {
+   "esES": "Cénit: Permafrost",
+   "es419": "S: Tierra Congelada",
+   "en": "Prime: Frozen Earth"
+  },
+  "icon": "icons/bdo/04_pc_skill/01_pc_skill/21_ppw_skill/ppw_skill_5970.webp",
+  "level": 58,
+  "combat": true
+ },
+ {
+  "id": 5940,
+  "name": {
+   "esES": "Cénit: Protección distorsionada",
+   "es419": "S: Protección Distorsionada",
+   "en": "Prime: Distorted Guard"
+  },
+  "icon": "icons/bdo/04_pc_skill/01_pc_skill/21_ppw_skill/ppw_skill_5940.webp",
+  "level": 56,
+  "combat": true
+ },
+ {
+  "id": 5954,
+  "name": {
+   "esES": "Cénit: Púas de escarcha",
+   "es419": "S: Espina Helada",
+   "en": "Prime: Icy Thorns"
+  },
+  "icon": "icons/bdo/04_pc_skill/01_pc_skill/21_ppw_skill/ppw_skill_5951.webp",
+  "level": 59,
+  "combat": true
+ },
+ {
+  "id": 5961,
+  "name": {
+   "esES": "Cénit: Quoratum ascendente",
+   "es419": "S: Ascensión de Quoratum",
+   "en": "Prime: Quoratum's Ascension"
+  },
+  "icon": "icons/bdo/04_pc_skill/01_pc_skill/21_ppw_skill/ppw_skill_5959.webp",
+  "level": 58,
+  "combat": true
+ },
+ {
+  "id": 5996,
+  "name": {
+   "esES": "Cénit: Rey de los muertos",
+   "es419": "S: Rey de los Muertos",
+   "en": "Prime: King of the Dead"
+  },
+  "icon": "icons/bdo/04_pc_skill/01_pc_skill/21_ppw_skill/ppw_skill_5941.webp",
+  "level": 56,
+  "combat": true
+ },
+ {
+  "id": 5969,
+  "name": {
+   "esES": "Cénit: Tinieblas árticas",
+   "es419": "S: Oscuridad de la Tempestad",
+   "en": "Prime: Frozen Darkness"
+  },
+  "icon": "icons/bdo/04_pc_skill/01_pc_skill/21_ppw_skill/ppw_skill_5969.webp",
+  "level": 60,
+  "combat": true
+ },
+ {
+  "id": 5909,
+  "name": {
+   "esES": "Combustión vital",
+   "es419": "Combustión de Vida",
+   "en": "Combust Life"
+  },
+  "icon": "icons/bdo/04_pc_skill/01_pc_skill/21_ppw_skill/ppw_skill_5909.webp",
+  "level": 56,
+  "combat": true
+ },
+ {
+  "id": 5894,
+  "name": {
+   "esES": "Cometa",
+   "es419": "Cometa",
+   "en": "Comet"
+  },
+  "icon": "icons/bdo/04_pc_skill/01_pc_skill/21_ppw_skill/ppw_skill_5891.webp",
+  "level": 59,
+  "combat": true
+ },
+ {
+  "id": 5918,
+  "name": {
+   "esES": "Condena de la estrella",
+   "es419": "Tumba de Estrella",
+   "en": "Star's Call"
+  },
+  "icon": "icons/bdo/04_pc_skill/01_pc_skill/21_ppw_skill/ppw_skill_5918.webp",
+  "level": 60,
+  "combat": true
+ },
+ {
+  "id": 5812,
+  "name": {
+   "esES": "Contragambito",
+   "es419": "Contragambito",
+   "en": "Countergambit"
+  },
+  "icon": "icons/bdo/04_pc_skill/01_pc_skill/21_ppw_skill/ppw_skill_5810.webp",
+  "level": 48,
+  "combat": true
+ },
+ {
+  "id": 5832,
+  "name": {
+   "esES": "Coz helada",
+   "es419": "Beso Helado",
+   "en": "Icy Kiss"
+  },
+  "icon": "icons/bdo/04_pc_skill/01_pc_skill/21_ppw_skill/ppw_skill_5814.webp",
+  "level": 35,
+  "combat": true
+ },
+ {
+  "id": 5813,
+  "name": {
+   "esES": "Definitiva: Contragambito",
+   "es419": "Suprema: Contragambito",
+   "en": "Absolute: Countergambit"
+  },
+  "icon": "icons/bdo/04_pc_skill/01_pc_skill/21_ppw_skill/ppw_skill_5813.webp",
+  "level": 57,
+  "combat": true
+ },
+ {
+  "id": 5833,
+  "name": {
+   "esES": "Definitiva: Coz helada",
+   "es419": "Suprema: Beso Helado",
+   "en": "Absolute: Icy Kiss"
+  },
+  "icon": "icons/bdo/04_pc_skill/01_pc_skill/21_ppw_skill/ppw_skill_5833.webp",
+  "level": 56,
+  "combat": true
+ },
+ {
+  "id": 5742,
+  "name": {
+   "esES": "Definitiva: Golpes aviesos",
+   "es419": "Suprema: Decreto Furioso",
+   "en": "Absolute: Bitter Reign"
+  },
+  "icon": "icons/bdo/04_pc_skill/01_pc_skill/21_ppw_skill/ppw_skill_5742.webp",
+  "level": 56,
+  "combat": true
+ },
+ {
+  "id": 5877,
+  "name": {
+   "esES": "Definitiva: Huida frustrada",
+   "es419": "Suprema: Lazo del Castigo",
+   "en": "Absolute: Punishing Trap"
+  },
+  "icon": "icons/bdo/04_pc_skill/01_pc_skill/21_ppw_skill/ppw_skill_5877.webp",
+  "level": 56,
+  "combat": true
+ },
+ {
+  "id": 5865,
+  "name": {
+   "esES": "Definitiva: Jaque",
+   "es419": "Suprema: Prisión de Hielo",
+   "en": "Absolute: Icy Prison"
+  },
+  "icon": "icons/bdo/04_pc_skill/01_pc_skill/21_ppw_skill/ppw_skill_5865.webp",
+  "level": 59,
+  "combat": true
+ },
+ {
+  "id": 5790,
+  "name": {
+   "esES": "Definitiva: Lucero de la aflicción",
+   "es419": "Suprema: Excomunión",
+   "en": "Absolute: Affliction"
+  },
+  "icon": "icons/bdo/04_pc_skill/01_pc_skill/21_ppw_skill/ppw_skill_5790.webp",
+  "level": 56,
+  "combat": true
+ },
+ {
+  "id": 5809,
+  "name": {
+   "esES": "Definitiva: Lucero de la tormenta",
+   "es419": "Suprema: Tormenta de la Estrella",
+   "en": "Absolute: Storming Star"
+  },
+  "icon": "icons/bdo/04_pc_skill/01_pc_skill/21_ppw_skill/ppw_skill_5809.webp",
+  "level": 58,
+  "combat": true
+ },
+ {
+  "id": 5829,
+  "name": {
+   "esES": "Definitiva: Lucero en flor",
+   "es419": "Suprema: Flujo de Estrella",
+   "en": "Absolute: Flowing Star"
+  },
+  "icon": "icons/bdo/04_pc_skill/01_pc_skill/21_ppw_skill/ppw_skill_5829.webp",
+  "level": 56,
+  "combat": true
+ },
+ {
+  "id": 5764,
+  "name": {
+   "esES": "Definitiva: Lucero vengativo",
+   "es419": "Suprema: Estrella Vengadora",
+   "en": "Absolute: Vengeful Star"
+  },
+  "icon": "icons/bdo/04_pc_skill/01_pc_skill/21_ppw_skill/ppw_skill_5764.webp",
+  "level": 57,
+  "combat": true
+ },
+ {
+  "id": 5747,
+  "name": {
+   "esES": "Definitiva: Mazazos en cadena",
+   "es419": "Suprema: Golpe de Cadena",
+   "en": "Absolute: Chain Strike"
+  },
+  "icon": "icons/bdo/04_pc_skill/01_pc_skill/21_ppw_skill/ppw_skill_5747.webp",
+  "level": 56,
+  "combat": true
+ },
+ {
+  "id": 5758,
+  "name": {
+   "esES": "Definitiva: Muralla quebrantatinieblas",
+   "es419": "Suprema: Frente a la Oscuridad",
+   "en": "Absolute: Face the Darkness"
+  },
+  "icon": "icons/bdo/04_pc_skill/01_pc_skill/21_ppw_skill/ppw_skill_5758.webp",
+  "level": 56,
+  "combat": true
+ },
+ {
+  "id": 5769,
+  "name": {
+   "esES": "Definitiva: Púas de escarcha",
+   "es419": "Suprema: Espina Helada",
+   "en": "Absolute: Icy Thorns"
+  },
+  "icon": "icons/bdo/04_pc_skill/01_pc_skill/21_ppw_skill/ppw_skill_5769.webp",
+  "level": 58,
+  "combat": true
+ },
+ {
+  "id": 5836,
+  "name": {
+   "esES": "Definitiva: Quoratum ascendente",
+   "es419": "Suprema: Ascensión de Quoratum",
+   "en": "Absolute: Quoratum's Ascension"
+  },
+  "icon": "icons/bdo/04_pc_skill/01_pc_skill/21_ppw_skill/ppw_skill_5836.webp",
+  "level": 57,
+  "combat": true
+ },
+ {
+  "id": 5838,
+  "name": {
+   "esES": "Definitiva: Quoratum impenetrable",
+   "es419": "Suprema: Protección de Quoratum",
+   "en": "Absolute: Quoratum's Protection"
+  },
+  "icon": "icons/bdo/04_pc_skill/01_pc_skill/21_ppw_skill/ppw_skill_5838.webp",
+  "level": 56,
+  "combat": true
+ },
+ {
+  "id": 5818,
+  "name": {
+   "esES": "Definitiva: Quoratum inexpugnable",
+   "es419": "Suprema: Atadura de Quoratum",
+   "en": "Absolute: Quoratum's Binding"
+  },
+  "icon": "icons/bdo/04_pc_skill/01_pc_skill/21_ppw_skill/ppw_skill_5818.webp",
+  "level": 60,
+  "combat": true
+ },
+ {
+  "id": 5998,
+  "name": {
+   "esES": "Elvia: Eternidad distorsionada",
+   "es419": "Elvia: Eternidad Distorsionada",
+   "en": "Elvia: Distorted Eternity"
+  },
+  "icon": "icons/bdo/04_pc_skill/01_pc_skill/21_ppw_skill/ppw_skill_5998.webp",
+  "level": 60,
+  "combat": true
+ },
+ {
+  "id": 5933,
+  "name": {
+   "esES": "Escarcha de Quoratum",
+   "es419": "Espina de Quoratum",
+   "en": "Quoratum's Closing"
+  },
+  "icon": "icons/bdo/04_pc_skill/01_pc_skill/21_ppw_skill/ppw_skill_5933.webp",
+  "level": 56,
+  "combat": true
+ },
+ {
+  "id": 5911,
+  "name": {
+   "esES": "Esgrima real acelerada: Cadena",
+   "es419": "Acelerado: Esgrima Real: Punto Débil",
+   "en": "Accel: Royal Fencing: Remise"
+  },
+  "icon": "icons/bdo/04_pc_skill/01_pc_skill/21_ppw_skill/ppw_skill_5911.webp",
+  "level": 56,
+  "combat": true
+ },
+ {
+  "id": 5910,
+  "name": {
+   "esES": "Esgrima real acelerada: Celeridad",
+   "es419": "Acelerado: Esgrima Real: Fondo",
+   "en": "Accel: Royal Fencing: Fleche"
+  },
+  "icon": "icons/bdo/04_pc_skill/01_pc_skill/21_ppw_skill/ppw_skill_5910.webp",
+  "level": 56,
+  "combat": true
+ },
+ {
+  "id": 5913,
+  "name": {
+   "esES": "Esgrima real: Asalto",
+   "es419": "Esgrima Real: Estocada",
+   "en": "Royal Fencing: Lunge"
+  },
+  "icon": "icons/bdo/04_pc_skill/01_pc_skill/21_ppw_skill/ppw_skill_5913.webp",
+  "level": 59,
+  "combat": true
+ },
+ {
+  "id": 5886,
+  "name": {
+   "esES": "Esgrima real: Base",
+   "es419": "Esgrima Real: Allez",
+   "en": "Royal Fencing: Attack"
+  },
+  "icon": "icons/bdo/04_pc_skill/01_pc_skill/21_ppw_skill/ppw_skill_5882.webp",
+  "level": 60,
+  "combat": true
+ },
+ {
+  "id": 5901,
+  "name": {
+   "esES": "Esgrima real: Cadena",
+   "es419": "Esgrima Real: Punto Débil",
+   "en": "Royal Fencing: Remise"
+  },
+  "icon": "icons/bdo/04_pc_skill/01_pc_skill/21_ppw_skill/ppw_skill_5899.webp",
+  "level": 58,
+  "combat": true
+ },
+ {
+  "id": 5904,
+  "name": {
+   "esES": "Esgrima real: Celeridad",
+   "es419": "Esgrima Real: Fondo",
+   "en": "Royal Fencing: Fleche"
+  },
+  "icon": "icons/bdo/04_pc_skill/01_pc_skill/21_ppw_skill/ppw_skill_5902.webp",
+  "level": 58,
+  "combat": true
+ },
+ {
+  "id": 5921,
+  "name": {
+   "esES": "Esgrima real: Contraataque",
+   "es419": "Esgrima Real: Riposte",
+   "en": "Royal Fencing: Riposte"
+  },
+  "icon": "icons/bdo/04_pc_skill/01_pc_skill/21_ppw_skill/ppw_skill_5921.webp",
+  "level": 59,
+  "combat": true
+ },
+ {
+  "id": 5728,
+  "name": {
+   "esES": "Evasión",
+   "es419": "Evasión",
+   "en": "Evasion"
+  },
+  "icon": "icons/bdo/04_pc_skill/01_pc_skill/21_ppw_skill/ppw_skill_5728.webp",
+  "level": 1,
+  "combat": true
+ },
+ {
+  "id": 5923,
+  "name": {
+   "esES": "Fusión gravitatoria",
+   "es419": "Fusión de Gravedad",
+   "en": "Fuse Gravity"
+  },
+  "icon": "icons/bdo/04_pc_skill/01_pc_skill/21_ppw_skill/ppw_skill_5923.webp",
+  "level": 58,
+  "combat": true
+ },
+ {
+  "id": 5859,
+  "name": {
+   "esES": "Gambito de dama",
+   "es419": "Castigo de la Emperatriz",
+   "en": "Queen's Gambit"
+  },
+  "icon": "icons/bdo/04_pc_skill/01_pc_skill/21_ppw_skill/ppw_skill_5859.webp",
+  "level": 60,
+  "combat": true
+ },
+ {
+  "id": 5741,
+  "name": {
+   "esES": "Golpes aviesos",
+   "es419": "Decreto Furioso",
+   "en": "Bitter Reign"
+  },
+  "icon": "icons/bdo/04_pc_skill/01_pc_skill/21_ppw_skill/ppw_skill_5737.webp",
+  "level": 50,
+  "combat": true
+ },
+ {
+  "id": 4856,
+  "name": {
+   "esES": "Gran poder",
+   "es419": "Gran Poder",
+   "en": "Unyielding Might"
+  },
+  "icon": "icons/bdo/04_pc_skill/01_pc_skill/00_common/common_skill_18705.webp",
+  "level": 62,
+  "combat": true
+ },
+ {
+  "id": 5876,
+  "name": {
+   "esES": "Huida frustrada",
+   "es419": "Lazo del Castigo",
+   "en": "Punishing Trap"
+  },
+  "icon": "icons/bdo/04_pc_skill/01_pc_skill/21_ppw_skill/ppw_skill_5876.webp",
+  "level": 1,
+  "combat": true
+ },
+ {
+  "id": 5864,
+  "name": {
+   "esES": "Jaque",
+   "es419": "Prisión de Hielo",
+   "en": "Icy Prison"
+  },
+  "icon": "icons/bdo/04_pc_skill/01_pc_skill/21_ppw_skill/ppw_skill_5862.webp",
+  "level": 52,
+  "combat": true
+ },
+ {
+  "id": 5907,
+  "name": {
+   "esES": "Lluvia de estrellas",
+   "es419": "Lluvia de Estrellas",
+   "en": "Starfall"
+  },
+  "icon": "icons/bdo/04_pc_skill/01_pc_skill/21_ppw_skill/ppw_skill_5920.webp",
+  "level": 58,
+  "combat": true
+ },
+ {
+  "id": 5935,
+  "name": {
+   "esES": "Lucero avieso",
+   "es419": "Estrella Furiosa",
+   "en": "Bitter Star"
+  },
+  "icon": "icons/bdo/04_pc_skill/01_pc_skill/21_ppw_skill/ppw_skill_5935.webp",
+  "level": 57,
+  "combat": true
+ },
+ {
+  "id": 5789,
+  "name": {
+   "esES": "Lucero de la aflicción",
+   "es419": "Excomunión",
+   "en": "Affliction"
+  },
+  "icon": "icons/bdo/04_pc_skill/01_pc_skill/21_ppw_skill/ppw_skill_5784.webp",
+  "level": 52,
+  "combat": true
+ },
+ {
+  "id": 5808,
+  "name": {
+   "esES": "Lucero de la tormenta",
+   "es419": "Tormenta de la Estrella",
+   "en": "Storming Star"
+  },
+  "icon": "icons/bdo/04_pc_skill/01_pc_skill/21_ppw_skill/ppw_skill_5709.webp",
+  "level": 48,
+  "combat": true
+ },
+ {
+  "id": 5937,
+  "name": {
+   "esES": "Lucero de oscuridad",
+   "es419": "Oscuridad Congelada",
+   "en": "Enter the Darkness"
+  },
+  "icon": "icons/bdo/04_pc_skill/01_pc_skill/21_ppw_skill/ppw_skill_5937.webp",
+  "level": 58,
+  "combat": true
+ },
+ {
+  "id": 5860,
+  "name": {
+   "esES": "Lucero devastador",
+   "es419": "Estrella Oscura y Fría",
+   "en": "Cold, Dark Star"
+  },
+  "icon": "icons/bdo/04_pc_skill/01_pc_skill/21_ppw_skill/ppw_skill_5860.webp",
+  "level": 1,
+  "combat": true
+ },
+ {
+  "id": 5828,
+  "name": {
+   "esES": "Lucero en flor",
+   "es419": "Flujo de Estrella",
+   "en": "Flowing Star"
+  },
+  "icon": "icons/bdo/04_pc_skill/01_pc_skill/21_ppw_skill/ppw_skill_5819.webp",
+  "level": 55,
+  "combat": true
+ },
+ {
+  "id": 5936,
+  "name": {
+   "esES": "Lucero glacial",
+   "es419": "Atadura de Estrella",
+   "en": "Binding Star"
+  },
+  "icon": "icons/bdo/04_pc_skill/01_pc_skill/21_ppw_skill/ppw_skill_5936.webp",
+  "level": 57,
+  "combat": true
+ },
+ {
+  "id": 5806,
+  "name": {
+   "esES": "Lucero lacerador",
+   "es419": "Estrella Moledora",
+   "en": "Mauling Star"
+  },
+  "icon": "icons/bdo/04_pc_skill/01_pc_skill/21_ppw_skill/ppw_skill_5803.webp",
+  "level": 52,
+  "combat": true
+ },
+ {
+  "id": 5763,
+  "name": {
+   "esES": "Lucero vengativo",
+   "es419": "Estrella Vengadora",
+   "en": "Vengeful Star"
+  },
+  "icon": "icons/bdo/04_pc_skill/01_pc_skill/21_ppw_skill/ppw_skill_5759.webp",
+  "level": 47,
+  "combat": true
+ },
+ {
+  "id": 1707,
+  "name": {
+   "esES": "Maestría infinita",
+   "es419": "Maestría Infinita",
+   "en": "Infinite Mastery"
+  },
+  "icon": "icons/bdo/04_pc_skill/01_pc_skill/00_common/common_skill_1702.webp",
+  "level": 55,
+  "combat": true
+ },
+ {
+  "id": 5746,
+  "name": {
+   "esES": "Mazazos en cadena",
+   "es419": "Golpe de Cadena",
+   "en": "Chain Strike"
+  },
+  "icon": "icons/bdo/04_pc_skill/01_pc_skill/21_ppw_skill/ppw_skill_5743.webp",
+  "level": 49,
+  "combat": true
+ },
+ {
+  "id": 5757,
+  "name": {
+   "esES": "Muralla quebrantatinieblas",
+   "es419": "Frente a la Oscuridad",
+   "en": "Face the Darkness"
+  },
+  "icon": "icons/bdo/04_pc_skill/01_pc_skill/21_ppw_skill/ppw_skill_5752.webp",
+  "level": 48,
+  "combat": true
+ },
+ {
+  "id": 5729,
+  "name": {
+   "esES": "Niebla helada",
+   "es419": "Neblina de Hielo",
+   "en": "Icy Fog"
+  },
+  "icon": "icons/bdo/04_pc_skill/01_pc_skill/21_ppw_skill/ppw_skill_5729.webp",
+  "level": 1,
+  "combat": true
+ },
+ {
+  "id": 5922,
+  "name": {
+   "esES": "Órbita cruzada",
+   "es419": "Órbita Alterada",
+   "en": "Twisted Orbit"
+  },
+  "icon": "icons/bdo/04_pc_skill/01_pc_skill/21_ppw_skill/ppw_skill_5922.webp",
+  "level": 56,
+  "combat": true
+ },
+ {
+  "id": 5736,
+  "name": {
+   "esES": "Orden definitiva: Árbol gélido",
+   "es419": "Suprema: Mandato: Carga de Jinetes",
+   "en": "Absolute: Command: Stamma's Mate"
+  },
+  "icon": "icons/bdo/04_pc_skill/01_pc_skill/21_ppw_skill/ppw_skill_5736.webp",
+  "level": 59,
+  "combat": true
+ },
+ {
+  "id": 5780,
+  "name": {
+   "esES": "Orden definitiva: Aura de púas gélidas",
+   "es419": "Suprema: Mandato: Flor de Espina de Hielo",
+   "en": "Absolute: Command: Blooming Icy Thorns"
+  },
+  "icon": "icons/bdo/04_pc_skill/01_pc_skill/21_ppw_skill/ppw_skill_5780.webp",
+  "level": 59,
+  "combat": true
+ },
+ {
+  "id": 5830,
+  "name": {
+   "esES": "Orden definitiva: Cencellada",
+   "es419": "Suprema: Mandato: Escarcha de Nieve",
+   "en": "Absolute: Command: Rime Ice"
+  },
+  "icon": "icons/bdo/04_pc_skill/01_pc_skill/21_ppw_skill/ppw_skill_5830.webp",
+  "level": 56,
+  "combat": true
+ },
+ {
+  "id": 5796,
+  "name": {
+   "esES": "Orden definitiva: Fianchetto",
+   "es419": "Suprema: Mandato: Fianchetto",
+   "en": "Absolute: Command: Fianchetto"
+  },
+  "icon": "icons/bdo/04_pc_skill/01_pc_skill/21_ppw_skill/ppw_skill_5796.webp",
+  "level": 59,
+  "combat": true
+ },
+ {
+  "id": 5727,
+  "name": {
+   "esES": "Orden definitiva: Peón espectral",
+   "es419": "Suprema: Mandato: Peón Espectral",
+   "en": "Absolute: Command: Passed Pawn"
+  },
+  "icon": "icons/bdo/04_pc_skill/01_pc_skill/21_ppw_skill/ppw_skill_5727.webp",
+  "level": 57,
+  "combat": true
+ },
+ {
+  "id": 5775,
+  "name": {
+   "esES": "Orden definitiva: Permafrost",
+   "es419": "Suprema: Mandato: Tierra Congelada",
+   "en": "Absolute: Command: Frozen Earth"
+  },
+  "icon": "icons/bdo/04_pc_skill/01_pc_skill/21_ppw_skill/ppw_skill_5775.webp",
+  "level": 58,
+  "combat": true
+ },
+ {
+  "id": 5802,
+  "name": {
+   "esES": "Orden definitiva: Tinieblas árticas",
+   "es419": "Suprema: Mandato: Oscuridad de la Tempestad",
+   "en": "Absolute: Command: Frozen Darkness"
+  },
+  "icon": "icons/bdo/04_pc_skill/01_pc_skill/21_ppw_skill/ppw_skill_5802.webp",
+  "level": 60,
+  "combat": true
+ },
+ {
+  "id": 5990,
+  "name": {
+   "esES": "Orden: Apertura",
+   "es419": "Mandato: Carga",
+   "en": "Command: Opening"
+  },
+  "icon": "icons/bdo/04_pc_skill/01_pc_skill/21_ppw_skill/ppw_skill_5990.webp",
+  "level": 15,
+  "combat": true
+ },
+ {
+  "id": 5735,
+  "name": {
+   "esES": "Orden: Árbol gélido",
+   "es419": "Mandato: Carga de Jinetes",
+   "en": "Command: Stamma's Mate"
+  },
+  "icon": "icons/bdo/04_pc_skill/01_pc_skill/21_ppw_skill/ppw_skill_5731.webp",
+  "level": 53,
+  "combat": true
+ },
+ {
+  "id": 5779,
+  "name": {
+   "esES": "Orden: Aura de púas gélidas",
+   "es419": "Mandato: Flor de Espina de Hielo",
+   "en": "Command: Blooming Icy Thorns"
+  },
+  "icon": "icons/bdo/04_pc_skill/01_pc_skill/21_ppw_skill/ppw_skill_5776.webp",
+  "level": 55,
+  "combat": true
+ },
+ {
+  "id": 5750,
+  "name": {
+   "esES": "Orden: Cencellada",
+   "es419": "Mandato: Escarcha de Nieve",
+   "en": "Command: Rime Ice"
+  },
+  "icon": "icons/bdo/04_pc_skill/01_pc_skill/21_ppw_skill/ppw_skill_5748.webp",
+  "level": 52,
+  "combat": true
+ },
+ {
+  "id": 5795,
+  "name": {
+   "esES": "Orden: Fianchetto",
+   "es419": "Mandato: Fianchetto",
+   "en": "Command: Fianchetto"
+  },
+  "icon": "icons/bdo/04_pc_skill/01_pc_skill/21_ppw_skill/ppw_skill_5791.webp",
+  "level": 51,
+  "combat": true
+ },
+ {
+  "id": 5726,
+  "name": {
+   "esES": "Orden: Peón espectral",
+   "es419": "Mandato: Peón Espectral",
+   "en": "Command: Passed Pawn"
+  },
+  "icon": "icons/bdo/04_pc_skill/01_pc_skill/21_ppw_skill/ppw_skill_5721.webp",
+  "level": 55,
+  "combat": true
+ },
+ {
+  "id": 5774,
+  "name": {
+   "esES": "Orden: Permafrost",
+   "es419": "Mandato: Tierra Congelada",
+   "en": "Command: Frozen Earth"
+  },
+  "icon": "icons/bdo/04_pc_skill/01_pc_skill/21_ppw_skill/ppw_skill_5770.webp",
+  "level": 54,
+  "combat": true
+ },
+ {
+  "id": 5801,
+  "name": {
+   "esES": "Orden: Tinieblas árticas",
+   "es419": "Mandato: Oscuridad de la Tempestad",
+   "en": "Command: Frozen Darkness"
+  },
+  "icon": "icons/bdo/04_pc_skill/01_pc_skill/21_ppw_skill/ppw_skill_5797.webp",
+  "level": 55,
+  "combat": true
+ },
+ {
+  "id": 5985,
+  "name": {
+   "esES": "Primordial - Esgrima real: Cadena",
+   "es419": "BON: Esgrima Real: Punto Débil",
+   "en": "Core: Royal Fencing: Remise"
+  },
+  "icon": "icons/bdo/04_pc_skill/01_pc_skill/21_ppw_skill/ppw_skill_5899.webp",
+  "level": 60,
+  "combat": true
+ },
+ {
+  "id": 5984,
+  "name": {
+   "esES": "Primordial - Esgrima real: Celeridad",
+   "es419": "BON: Esgrima Real: Fondo",
+   "en": "Core: Royal Fencing: Fleche"
+  },
+  "icon": "icons/bdo/04_pc_skill/01_pc_skill/21_ppw_skill/ppw_skill_5902.webp",
+  "level": 60,
+  "combat": true
+ },
+ {
+  "id": 5980,
+  "name": {
+   "esES": "Primordial: Anillo fiero",
+   "es419": "BON: Anillo Emboscador",
+   "en": "Core: Swooping Ring"
+  },
+  "icon": "icons/bdo/04_pc_skill/01_pc_skill/21_ppw_skill/ppw_skill_5887.webp",
+  "level": 60,
+  "combat": true
+ },
+ {
+  "id": 5982,
+  "name": {
+   "esES": "Primordial: Anillo glacial",
+   "es419": "BON: Anillo Congelante",
+   "en": "Core: Frozen Ring"
+  },
+  "icon": "icons/bdo/04_pc_skill/01_pc_skill/21_ppw_skill/ppw_skill_5919.webp",
+  "level": 60,
+  "combat": true
+ },
+ {
+  "id": 5981,
+  "name": {
+   "esES": "Primordial: Cometa",
+   "es419": "BON: Cometa",
+   "en": "Core: Comet"
+  },
+  "icon": "icons/bdo/04_pc_skill/01_pc_skill/21_ppw_skill/ppw_skill_5891.webp",
+  "level": 60,
+  "combat": true
+ },
+ {
+  "id": 5983,
+  "name": {
+   "esES": "Primordial: Lluvia de estrellas",
+   "es419": "BON: Lluvia de Estrellas",
+   "en": "Core: Starfall"
+  },
+  "icon": "icons/bdo/04_pc_skill/01_pc_skill/21_ppw_skill/ppw_skill_5920.webp",
+  "level": 60,
+  "combat": true
+ },
+ {
+  "id": 5916,
+  "name": {
+   "esES": "Prisión estelar",
+   "es419": "Anillo de la Estrella",
+   "en": "Star's Ring"
+  },
+  "icon": "icons/bdo/04_pc_skill/01_pc_skill/21_ppw_skill/ppw_skill_5916.webp",
+  "level": 58,
+  "combat": true
+ },
+ {
+  "id": 5880,
+  "name": {
+   "esES": "Propulsión",
+   "es419": "Fuera de Órbita",
+   "en": "Break Orbit"
+  },
+  "icon": "icons/bdo/04_pc_skill/01_pc_skill/21_ppw_skill/ppw_skill_5880.webp",
+  "level": 56,
+  "combat": true
+ },
+ {
+  "id": 5768,
+  "name": {
+   "esES": "Púas de escarcha",
+   "es419": "Espina Helada",
+   "en": "Icy Thorns"
+  },
+  "icon": "icons/bdo/04_pc_skill/01_pc_skill/21_ppw_skill/ppw_skill_5765.webp",
+  "level": 55,
+  "combat": true
+ },
+ {
+  "id": 5835,
+  "name": {
+   "esES": "Quoratum ascendente",
+   "es419": "Ascensión de Quoratum",
+   "en": "Quoratum's Ascension"
+  },
+  "icon": "icons/bdo/04_pc_skill/01_pc_skill/21_ppw_skill/ppw_skill_5781.webp",
+  "level": 51,
+  "combat": true
+ },
+ {
+  "id": 5858,
+  "name": {
+   "esES": "Quoratum fortificado",
+   "es419": "Energía de Quoratum",
+   "en": "Quoratum's Aura"
+  },
+  "icon": "icons/bdo/04_pc_skill/01_pc_skill/21_ppw_skill/ppw_skill_5839.webp",
+  "level": 60,
+  "combat": true
+ },
+ {
+  "id": 5831,
+  "name": {
+   "esES": "Quoratum imparable",
+   "es419": "Carga de Quoratum",
+   "en": "Quoratum's Opening"
+  },
+  "icon": "icons/bdo/04_pc_skill/01_pc_skill/21_ppw_skill/ppw_skill_5831.webp",
+  "level": 6,
+  "combat": true
+ },
+ {
+  "id": 5837,
+  "name": {
+   "esES": "Quoratum impenetrable",
+   "es419": "Protección de Quoratum",
+   "en": "Quoratum's Protection"
+  },
+  "icon": "icons/bdo/04_pc_skill/01_pc_skill/21_ppw_skill/ppw_skill_5751.webp",
+  "level": 12,
+  "combat": true
+ },
+ {
+  "id": 5834,
+  "name": {
+   "esES": "Quoratum indestructible",
+   "es419": "Refugio de Quoratum",
+   "en": "Quoratum's Guard"
+  },
+  "icon": "icons/bdo/04_pc_skill/01_pc_skill/21_ppw_skill/ppw_skill_5834.webp",
+  "level": 40,
+  "combat": true
+ },
+ {
+  "id": 5817,
+  "name": {
+   "esES": "Quoratum inexpugnable",
+   "es419": "Atadura de Quoratum",
+   "en": "Quoratum's Binding"
+  },
+  "icon": "icons/bdo/04_pc_skill/01_pc_skill/21_ppw_skill/ppw_skill_5815.webp",
+  "level": 55,
+  "combat": true
+ },
+ {
+  "id": 5938,
+  "name": {
+   "esES": "Quoratum terrestre",
+   "es419": "Tierra de Quoratum",
+   "en": "Quoratum's Earth"
+  },
+  "icon": "icons/bdo/04_pc_skill/01_pc_skill/21_ppw_skill/ppw_skill_5938.webp",
+  "level": 58,
+  "combat": true
+ },
+ {
+  "id": 5861,
+  "name": {
+   "esES": "Quoratum vigoroso",
+   "es419": "Vigor de Quoratum",
+   "en": "Quoratum's Vigor"
+  },
+  "icon": "icons/bdo/04_pc_skill/01_pc_skill/21_ppw_skill/ppw_skill_5861.webp",
+  "level": 20,
+  "combat": true
+ },
+ {
+  "id": 5932,
+  "name": {
+   "esES": "Renacer: Cencellada",
+   "es419": "Sucesión : Escarcha de Nieve",
+   "en": "Succession: Rime Ice"
+  },
+  "icon": "icons/bdo/04_pc_skill/01_pc_skill/21_ppw_skill/ppw_skill_5830.webp",
+  "level": 56,
+  "combat": true
+ },
+ {
+  "id": 5972,
+  "name": {
+   "esES": "Renacer: Lucero de la aflicción",
+   "es419": "Sucesión: Excomunión",
+   "en": "Succession: Affliction"
+  },
+  "icon": "icons/bdo/04_pc_skill/01_pc_skill/21_ppw_skill/ppw_skill_5790.webp",
+  "level": 56,
+  "combat": true
+ },
+ {
+  "id": 5973,
+  "name": {
+   "esES": "Renacer: Lucero vengativo",
+   "es419": "Sucesión: Estrella Vengadora",
+   "en": "Succession: Vengeful Star"
+  },
+  "icon": "icons/bdo/04_pc_skill/01_pc_skill/21_ppw_skill/ppw_skill_5764.webp",
+  "level": 56,
+  "combat": true
+ },
+ {
+  "id": 5968,
+  "name": {
+   "esES": "Renacer: Muralla quebrantatinieblas",
+   "es419": "Sucesión: Frente a la Oscuridad",
+   "en": "Succession: Face the Darkness"
+  },
+  "icon": "icons/bdo/04_pc_skill/01_pc_skill/21_ppw_skill/ppw_skill_5968.webp",
+  "level": 56,
+  "combat": true
+ },
+ {
+  "id": 5939,
+  "name": {
+   "esES": "Renacer: Pacto antiguo",
+   "es419": "Sucesión: Contrato Ancestral",
+   "en": "Succession: Ancient Pact"
+  },
+  "icon": "icons/bdo/04_pc_skill/01_pc_skill/21_ppw_skill/ppw_skill_5939.webp",
+  "level": 56,
+  "combat": true
+ },
+ {
+  "id": 5997,
+  "name": {
+   "esES": "Renacer: Quoratum imparable",
+   "es419": "Sucesión: Carga de Quoratum",
+   "en": "Succession: Quoratum's Opening"
+  },
+  "icon": "icons/bdo/04_pc_skill/01_pc_skill/21_ppw_skill/ppw_skill_5831.webp",
+  "level": 56,
+  "combat": true
+ },
+ {
+  "id": 5976,
+  "name": {
+   "esES": "Renacer: Quoratum impenetrable",
+   "es419": "Sucesión: Protección de Quoratum",
+   "en": "Succession: Quoratum's Protection"
+  },
+  "icon": "icons/bdo/04_pc_skill/01_pc_skill/21_ppw_skill/ppw_skill_5838.webp",
+  "level": 56,
+  "combat": true
+ },
+ {
+  "id": 92,
+  "name": {
+   "esES": "Retirada oscura",
+   "es419": "Escape de Emergencia",
+   "en": "Emergency Escape"
+  },
+  "icon": "icons/bdo/04_pc_skill/01_pc_skill/00_common/common_skill_0092.webp",
+  "level": 1,
+  "combat": true
+ },
+ {
+  "id": 91,
+  "name": {
+   "esES": "Transfuria",
+   "es419": "Transferencia de Furia",
+   "en": "Rage Transfer"
+  },
+  "icon": "icons/bdo/04_pc_skill/01_pc_skill/00_common/common_skill_0091.webp",
+  "level": 35,
+  "combat": true
+ },
+ {
+  "id": 5986,
+  "name": {
+   "esES": "크라툼의 신성",
+   "es419": "크라툼의 신성",
+   "en": "크라툼의 신성"
+  },
+  "icon": "icons/bdo/04_pc_skill/01_pc_skill/21_ppw_skill/ppw_skill_5986.webp",
+  "level": 60,
+  "combat": true
+ }
+]
