@@ -23,6 +23,14 @@ Sin mando puedes probar con el teclado: `J` □ · `I` △ · `L` ○ · `K` ✕
 
 > La Gamepad API funciona en Chrome, Edge y Firefox. El navegador solo detecta el mando después de pulsar un botón.
 
+## Acceso directo en el escritorio (Windows)
+
+```bash
+npm run shortcut
+```
+
+Crea **Combo Mando PS5** en el escritorio. Al abrirlo compila si hace falta, levanta un servidor local (puerto 4173) y abre la app en su propia ventana de Edge (o Chrome). Tus combos se guardan en ese perfil y **Exportar** los descarga en tu carpeta de Descargas. Al cerrar la ventana se apaga el servidor y se cierra la terminal.
+
 ## Datos e iconos
 
 Los datos ya vienen incluidos en `src/data/` y los iconos en `public/icons/bdo/`. Para actualizarlos (nueva clase, cambios de nombres):
