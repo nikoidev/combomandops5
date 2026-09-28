@@ -10,7 +10,8 @@
     "preview": "vite preview",
     "fetch:data": "tsx scripts/fetch-bdo-data.ts",
     "test": "vitest run",
-    "test:watch": "vitest"
+    "test:watch": "vitest",
+    "shortcut": "powershell -NoProfile -ExecutionPolicy Bypass -File scripts/create-shortcut.ps1"
   },
   "dependencies": {
     "@dnd-kit/core": "^6.3.1",

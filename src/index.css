@@ -28,11 +28,16 @@
 :root {
   color-scheme: dark;
   /* Colores del mando SVG */
-  --ds-body: #1a1e29;
-  --ds-body-stroke: #343a4b;
-  --ds-well: #0f1218;
-  --ds-key: #252a37;
-  --ds-key-stroke: #3d4456;
+  --ds-shell: #eef0f4;
+  --ds-shell-shade: #d5d9e1;
+  --ds-shell-stroke: #aeb4c0;
+  --ds-plate: #111318;
+  --ds-plate-stroke: #2a2e38;
+  --ds-lightbar: #3b82f6;
+  --ds-lightbar-core: #b9d4ff;
+  --ds-well: #07080b;
+  --ds-key: #23262e;
+  --ds-key-stroke: #3b404c;
   --ds-on: #1d4f6b;
   --ds-on-stroke: #5cc8ff;
   --ds-live: #3b3420;
